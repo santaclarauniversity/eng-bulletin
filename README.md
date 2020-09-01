@@ -1,2 +1,4 @@
-# eng-bulletin
-SCU Engineering Graduate Bulletin
+# 2020-2021 Engineering Graduate Bulletin
+
+![](.gitbook/assets/graduate-bulletin-cover.jpg)
+
