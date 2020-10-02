@@ -52,17 +52,13 @@ This course explores the ethical implications of energy production, distribution
 
 #### ENGR 288. Co-op Education
 
-The primary purpose of Co-op education is to give students an opportunity to gain practical knowledge in their field of study. This course is designed to prepare them for such an experience. It consists of a series of lectures on topics that will familiarize them with the Silicon Valley working environment and will enable them to relate their experience in the industry to their academic program. This course is required for all international students who wish to do Curricular Practical Training \(CPT\). ENGR 288 is not offered in the summer quarter. Attendance is mandatory. P/NP grading.   
+The primary purpose of Co-op education is to give students an opportunity to gain practical knowledge in their field of study. This course is designed to prepare them for such an experience, by providing the appropriate academic background that is required for an internship. It consists of a series of lectures on topics that will familiarize them with the Silicon Valley working environment and will enable them to relate their experience in the industry to their academic program. This course is required for all students who wish to enroll in ENGR 289 \(Extended Co-op Education\). Attendance is mandatory.   
 \(1 unit\)
 
 #### ENGR 289. Extended Co-op Education
 
-Students who extend their co-op experience beyond one quarter must be enrolled in this class. The course may be taken for credit up to four times, and students are required to submit a final report in each quarter in which they are enrolled. The final report should focus on skills, experiences, and insights that they acquired in the current term. In order to get a passing grade, students must also submit a new supervisor report, which evaluates their performance during the most recent ten week period. P/NP grading. Prerequisite: ENGR 288.   
+Students who wish to do an academic internship must be enrolled in this class. The course may be taken for credit up to three times, and students are required to submit a final report in each quarter in which they are enrolled. The final report should focus on skills, experiences, and insights that they acquired in the current term. In order to get a passing grade, students must also submit a supervisor report, which evaluates their performance during the most recent ten week period. Prerequisite: ENGR 288.   
 \(1 unit\)
-
-{% hint style="info" %}
-Note: ENGR 288 can be taken during the first quarter of CPT, or before the training begins. ENGR 288 is not offered in the summer quarter. For ENGR 289 you must have an internship. The units associated with ENGR 288 and ENGR 289 are additional to the 46 units that are required by the department.
-{% endhint %}
 
 #### ENGR 293. Directed Research
 
