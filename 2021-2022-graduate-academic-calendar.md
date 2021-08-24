@@ -190,67 +190,182 @@
 
 ### WINTER QUARTER 2022
 
-|  |  |
-| :--- | :--- |
-|  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Nov 1-5</td>
+      <td style="text-align:left">M-F</td>
+      <td style="text-align:left">Winter 2022 registration period</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Nov 8</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Open enrollment period begins</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Dec 21</b>
+      </td>
+      <td style="text-align:left"><b>T</b>
+      </td>
+      <td style="text-align:left"><b>Payment deadline for Winter 2022</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Dec 27</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Late registration; $100 fee if no previous enrollment and Drop/Swap $50 fee</b>
+        </p>
+        <p><b>begins</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jan 3</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left"><b>Winter Classes begin</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jan 5</td>
+      <td style="text-align:left">W</td>
+      <td style="text-align:left">New Student Orientation** (subject to change)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jan 9</b>
+      </td>
+      <td style="text-align:left"><b>Su</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Last day to change registration or withdraw from classes with a 100%</b>
+        </p>
+        <p><b>tuition refund (less fees) (Clear registration holds by Friday 1/7 by 4 p.m.)</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jan 14</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">
+        <p>Last day to petition for graduate degrees to be conferred in March (Winter</p>
+        <p>quarter) 2022</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jan 16</b>
+      </td>
+      <td style="text-align:left"><b>Su</b>
+      </td>
+      <td style="text-align:left"><b>Last day to withdraw from classes with a 50% tuition refund (less fees)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jan 17</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Martin Luther King Day; administrative holiday <b>(Consult instructor)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jan 21</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">Last day to submit incomplete Fall 2021 work to faculty</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jan 23</b>
+      </td>
+      <td style="text-align:left"><b>Su</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Last day to withdraw from classes with a 25% tuition refund (less fees)</b>
+        </p>
+        <p> <b>No tuition refund after this date</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jan 28</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">Last day for faculty to remove Fall 2021 incompletes</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jan 28</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Last day to drop classes without a W</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Feb 7-11</td>
+      <td style="text-align:left">M-F</td>
+      <td style="text-align:left">Spring 2022 registration period</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Feb 14</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Spring 2022 Open enrollment appointment begins</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Feb 18</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Last day to drop classes with a W</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Feb 18</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">Last day to petition for graduate degrees to be conferred in June (Spring
+        quarter) 2022</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Feb 21</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Presidents&#x2019; Day; administrative holiday <b>(Consult instructor)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Mar 11</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Classes end</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Mar 14-18</td>
+      <td style="text-align:left">M-F</td>
+      <td style="text-align:left">Winter final examinations</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Mar 21</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left"><b>Payment deadline for Spring 2022</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Mar 23</td>
+      <td style="text-align:left">W</td>
+      <td style="text-align:left">Winter quarter grades due</td>
+    </tr>
+  </tbody>
+</table>
 
-Nov 1-5 M-F Winter 2022 registration period
-
-Nov 8 M Open enrollment period begins
-
-**Dec 21 T Payment deadline for Winter 2022**
-
-**Dec 27 M Late registration; $100 fee if no previous enrollment and Drop/Swap $50 fee**
-
-**begins**
-
-**Jan 3 M Winter Classes begin**
-
-Jan 5 W New Student Orientation\*\* \(subject to change\)
-
-**Jan 9 Su Last day to change registration or withdraw from classes with a 100%**
-
-**tuition refund \(less fees\) \(Clear registration holds by Friday 1/7 by 4 p.m.\)**
-
-Jan 14 F Last day to petition for graduate degrees to be conferred in March \(Winter
-
-quarter\) 2022
-
-**Jan 16 Su Last day to withdraw from classes with a 50% tuition refund \(less fees\)**
-
-Jan 17 M Martin Luther King Day; administrative holiday **\(Consult instructor\)**
-
-Jan 21 F Last day to submit incomplete Fall 2021 work to faculty
-
-**Jan 23 Su Last day to withdraw from classes with a 25% tuition refund \(less fees\)**
-
- **No tuition refund after this date**
-
-Jan 28 F Last day for faculty to remove Fall 2021 incompletes
-
-**Jan 28 F Last day to drop classes without a W**
-
-Feb 7-11 M-F Spring 2022 registration period
-
-Feb 14 M Spring 2022 Open enrollment appointment begins
-
-**Feb 18 F Last day to drop classes with a W**
-
-Feb 18 F Last day to petition for graduate degrees to be conferred in June \(Spring quarter\)
-
-2022
-
-Feb 21 M Presidents’ Day; administrative holiday **\(Consult instructor\)**
-
-**Mar 11 F Classes end**
-
-Mar 14-18 M-F Winter final examinations
-
-**Mar 21 M Payment deadline for Spring 2022**
-
-Mar 23 W Winter quarter grades due
-
-### SPRING QUARTER 2022
+###  SPRING QUARTER 2022
 
 |  |  |
 | :--- | :--- |
