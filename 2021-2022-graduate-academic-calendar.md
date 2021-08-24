@@ -2,82 +2,197 @@
 
 ### FALL QUARTER 2021
 
-|  |  |  |
-| :--- | :--- | :--- |
-| Jul 12-16 | M-F | Fall 2021 registration period |
-| Jul 19 | M | Open enrollment period begins |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Jul 12-16</td>
+      <td style="text-align:left">M-F</td>
+      <td style="text-align:left">Fall 2021 registration period</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jul 19</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Open enrollment period begins</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Aug 21</b>
+      </td>
+      <td style="text-align:left"><b>Sa</b>
+      </td>
+      <td style="text-align:left"><b>Payment deadline for Fall 2021</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sep 6</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Labor Day; administrative holiday</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sep 13</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left"><b>Late registration; $100 fee if no previous enrollment and Drop/Swap $50 fee begins</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sep 16</b>
+      </td>
+      <td style="text-align:left"><b>Th</b>
+      </td>
+      <td style="text-align:left"><b>New student orientation (subject to change)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sep 20</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left"><b>Fall Classes begin</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sept 24</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">Last day to petition for graduate degrees to be conferred in December
+        (Fall Quarter) 2021</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sep 26</b>
+      </td>
+      <td style="text-align:left"><b>Su</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Last day to change registration or withdraw from classes with a 100%</b>
+        </p>
+        <p> <b>tuition refund (less fees) (Clear registration holds by Friday, 9/24 by 4 p.m.)</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sep 29</td>
+      <td style="text-align:left">W</td>
+      <td style="text-align:left">Mass of the Holy Spirit, 12 p.m. at the Mission Church. Classes will not
+        meet from 11:45-1:15 p.m. Classes scheduled to begin at 1 p.m. will begin
+        instead at 1:15 p.m. <b>(some classes may meet, consult instructor)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Oct 3</b>
+      </td>
+      <td style="text-align:left"><b>Su</b>
+      </td>
+      <td style="text-align:left"><b>Last day to withdraw from classes with a 50% tuition refund (less fees)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Oct 8</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">
+        <p>Last day to submit incomplete Spring 2021 and Summer Session 2021 work
+          to</p>
+        <p>faculty</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Oct 10</b>
+      </td>
+      <td style="text-align:left"><b>Su</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Last day to withdraw from classes with a 25% tuition refund (less fees)</b>
+        </p>
+        <p><b>No tuition refund after this date</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Oct 15</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Last day to drop classes without a W</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Oct 15</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">Last day for faculty to remove Spring 2021 and Summer Session 2021 incompletes</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Nov 1-5</td>
+      <td style="text-align:left">M-F</td>
+      <td style="text-align:left">Winter 2022 registration period</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Nov 5</b>
+      </td>
+      <td style="text-align:left"><b> F</b>
+      </td>
+      <td style="text-align:left"><b>Last day to drop classes with a W</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Nov 8</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Winter 2022 Open enrollment period begins</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Nov 25-26</td>
+      <td style="text-align:left">Th-F</td>
+      <td style="text-align:left">Thanksgiving recess; administrative holiday</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Dec 3</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Classes end</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Dec 6-10</td>
+      <td style="text-align:left">M-F</td>
+      <td style="text-align:left">Fall final examinations</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Dec 15</td>
+      <td style="text-align:left">W</td>
+      <td style="text-align:left">Fall quarter grades due</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Dec 21</b>
+      </td>
+      <td style="text-align:left"><b>T</b>
+      </td>
+      <td style="text-align:left"><b>Payment deadline for Winter 2022</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Dec 23-24</td>
+      <td style="text-align:left">Th-F</td>
+      <td style="text-align:left">Christmas recess; administrative holiday</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Dec 30-31</td>
+      <td style="text-align:left">Th-F</td>
+      <td style="text-align:left">New Year&#x2019;s recess; administrative holiday</td>
+    </tr>
+  </tbody>
+</table>
 
-  
+### WINTER QUARTER 2022
 
-  
-
-**Aug 21 Sa Payment deadline for Fall 2021**
-
-Sep 6 M Labor Day; administrative holiday
-
-**Sep 13** M **Late registration; $100 fee if no previous enrollment and Drop/Swap $50 fee**
-
-**begins**
-
-**Sep 16** **Th New student orientation \(subject to change\)**
-
-**Sep 20 M Fall Classes begin**
-
-Sept 24 F Last day to petition for graduate degrees to be conferred in December \(Fall
-
-Quarter\) 2021
-
-**Sep 26 Su Last day to change registration or withdraw from classes with a 100%**
-
- **tuition refund \(less fees\) \(Clear registration holds by Friday, 9/24 by 4 p.m.\)**
-
-Sep 29 W Mass of the Holy Spirit, 12 p.m. at the Mission Church. Classes
-
- will not meet from 11:45-1:15 p.m. Classes scheduled to begin at 1 p.m.
-
- will begin instead at 1:15 p.m. **\(some classes may meet, consult instructor\)**
-
-**Oct 3** **Su** **Last day to withdraw from classes with a 50% tuition refund \(less fees\)**
-
-Oct 8 F Last day to submit incomplete Spring 2021 and Summer Session 2021 work to
-
-faculty
-
-**Oct 10 Su Last day to withdraw from classes with a 25% tuition refund \(less fees\)**
-
-**No tuition refund after this date**
-
-**Oct 15 F Last day to drop classes without a W**
-
-Oct 15 F Last day for faculty to remove Spring 2021 and Summer Session 2021 incompletes
-
-Nov 1-5 M-F Winter 2022 registration period
-
-**Nov 5 F Last day to drop classes with a W**
-
-Nov 8 M Winter 2022 Open enrollment period begins
-
-Nov 25-26 Th-F Thanksgiving recess; administrative holiday
-
-**Dec 3 F Classes end**
-
-Dec 6-10 M-F Fall final examinations
-
-Dec 15 W Fall quarter grades due
-
-**Dec 21 T Payment deadline for Winter 2022**
-
-Dec 23-24 Th-F Christmas recess; administrative holiday
-
-Dec 30-Dec 31 Th-F New Year’s recess; administrative holiday
-
-## WINTER QUARTER 2022
+|  |  |
+| :--- | :--- |
+|  |  |
 
 Nov 1-5 M-F Winter 2022 registration period
 
@@ -135,7 +250,11 @@ Mar 14-18 M-F Winter final examinations
 
 Mar 23 W Winter quarter grades due
 
-## SPRING QUARTER 2022
+### SPRING QUARTER 2022
+
+|  |  |
+| :--- | :--- |
+|  |  |
 
 Feb 7-11 M-F Spring 2022 registration period
 
@@ -191,7 +310,11 @@ Jun 10 F Graduate Commencement
 
 Jun 14 T Spring quarter grades due
 
-## SUMMER SESSIONS 2022
+### SUMMER SESSIONS 2022
+
+|  |  |
+| :--- | :--- |
+|  |  |
 
 Apr 4-8 M-F Registration period for all three summer sessions
 
