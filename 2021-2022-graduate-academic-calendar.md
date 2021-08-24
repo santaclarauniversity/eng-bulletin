@@ -1,10 +1,21 @@
 # 2021-2022 Graduate Academic Calendar
 
-## FALL QUARTER 2021
+### FALL QUARTER 2021
 
-Jul 12-16 M-F Fall 2021 registration period
+|  |  |  |
+| :--- | :--- | :--- |
+| Jul 12-16 | M-F | Fall 2021 registration period |
+| Jul 19 | M | Open enrollment period begins |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
-Jul 19 M Open enrollment period begins
+  
+
+  
 
 **Aug 21 Sa Payment deadline for Fall 2021**
 
