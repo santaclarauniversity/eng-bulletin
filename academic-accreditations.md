@@ -2,14 +2,10 @@
 
 **University Accreditation**
 
-Western Association of Schools and Colleges \(WASC\)
-
-Senior College and University Commission
-
-985 Atlantic Avenue, Suite 100
-
-Alameda, CA 94501
-
+Western Association of Schools and Colleges \(WASC\)  
+Senior College and University Commission  
+985 Atlantic Avenue, Suite 100  
+Alameda, CA 94501  
 510-748-9001
 
 **Specialized Academic Accreditations**
