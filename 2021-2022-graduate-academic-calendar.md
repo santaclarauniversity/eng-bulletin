@@ -69,11 +69,7 @@
       </td>
       <td style="text-align:left"><b>Su</b>
       </td>
-      <td style="text-align:left">
-        <p><b>Last day to change registration or withdraw from classes with a 100%</b>
-        </p>
-        <p> <b>tuition refund (less fees) (Clear registration holds by Friday, 9/24 by 4 p.m.)</b>
-        </p>
+      <td style="text-align:left"><b>Last day to change registration or withdraw from classes with a 100% tuition refund (less fees) (Clear registration holds by Friday, 9/24 by 4 p.m.)</b>
       </td>
     </tr>
     <tr>
@@ -286,11 +282,7 @@
       </td>
       <td style="text-align:left"><b>Su</b>
       </td>
-      <td style="text-align:left">
-        <p><b>Last day to withdraw from classes with a 25% tuition refund (less fees)</b>
-        </p>
-        <p> <b>No tuition refund after this date</b>
-        </p>
+      <td style="text-align:left"><b>Last day to withdraw from classes with a 25% tuition refund (less fees) No tuition refund after this date</b>
       </td>
     </tr>
     <tr>
@@ -367,115 +359,322 @@
 
 ###  SPRING QUARTER 2022
 
-|  |  |
-| :--- | :--- |
-|  |  |
-
-Feb 7-11 M-F Spring 2022 registration period
-
-Feb 14 M Open enrollment period begins
-
-Feb 18 F Last day to petition for graduate degrees to be conferred in June \(Spring quarter\)
-
-2022
-
-**Mar 21 M Payment deadline for Spring 2022**
-
-**Mar 21 M Late registration; $100 fee if no previous enrollment and Drop/Swap $50 fee**
-
-**begins**
-
-**Mar 28 M Spring Classes begin**
-
-Mar 30 W New Student Orientation\*\* \(subject to change\)
-
-**Apr 3 Su Last day to withdraw from classes with a 100% tuition refund \(less fees\) or**
-
-**add classes \(Clear registration hold by Friday, 4/1 by 4 p.m.\)**
-
-Apr 4-8 M-F Summer 2022 registration period for all three summer sessions.
-
-**Apr 10 Su Last day to withdraw from classes with a 50% tuition refund \(less fees\)**
-
-Apr 11 M Summer 2022 Open enrollment period begins
-
-Apr 15 F Good Friday; academic and administrative holiday
-
-**Apr 17 Su Last day to withdraw from classes with a 25% tuition refund \(less fees\)**
-
- **No tuition refund after this date**
-
-Apr 18 M Last day to submit incomplete work to faculty for Winter 2022 to faculty
-
-Apr 22 F Last day for faculty to remove Winter 2022 incompletes
-
-**Apr 22 F Last day to drop classes without a W**
-
-**May 13 F Last day to drop classes with a W**
-
-**May 21 Sa Payment deadline for Summer 2022**
-
-May 30 M Memorial Day; academic and administrative holiday **\(Consult instructor\)**
-
-**Jun 3 F Classes end**
-
-Jun 6-9 M-Th Spring final examinations
-
-Jun 10 F Graduate Commencement
-
-Jun 14 T Spring quarter grades due
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Feb 7-11</td>
+      <td style="text-align:left">M-F</td>
+      <td style="text-align:left">Spring 2022 registration period</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Feb 14</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Open enrollment period begins</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Feb 18</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">
+        <p>Last day to petition for graduate degrees to be conferred in June (Spring
+          quarter)</p>
+        <p>2022</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Mar 21</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left"><b>Payment deadline for Spring 2022</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Mar 21</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Late registration; $100 fee if no previous enrollment and Drop/Swap $50 fee</b>
+        </p>
+        <p><b>begins</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Mar 28</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left"><b>Spring Classes begin</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Mar 30</td>
+      <td style="text-align:left">W</td>
+      <td style="text-align:left">New Student Orientation** (subject to change)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Apr 3</b>
+      </td>
+      <td style="text-align:left"><b>Su</b>
+      </td>
+      <td style="text-align:left"><b>Last day to withdraw from classes with a 100% tuition refund (less fees) or add classes (Clear registration hold by Friday, 4/1 by 4 p.m.)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Apr 4-8</td>
+      <td style="text-align:left">M-F</td>
+      <td style="text-align:left">Summer 2022 registration period for all three summer sessions</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Apr 10</b>
+      </td>
+      <td style="text-align:left"><b>Su</b>
+      </td>
+      <td style="text-align:left"><b>Last day to withdraw from classes with a 50% tuition refund (less fees)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Apr 11</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Summer 2022 Open enrollment period begins</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Apr 15</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">Good Friday; academic and administrative holiday</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Apr 17</b>
+      </td>
+      <td style="text-align:left"><b>Su</b>
+      </td>
+      <td style="text-align:left"><b>Last day to withdraw from classes with a 25% tuition refund (less fees) No tuition refund after this date</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Apr 18</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Last day to submit incomplete work to faculty for Winter 2022 to faculty</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Apr 22</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">Last day for faculty to remove Winter 2022 incompletes</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Apr 22</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Last day to drop classes without a W</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>May 13</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Last day to drop classes with a W</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>May 21</b>
+      </td>
+      <td style="text-align:left"><b>Sa</b>
+      </td>
+      <td style="text-align:left"><b>Payment deadline for Summer 2022</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">May 30</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Memorial Day; academic and administrative holiday <b>(Consult instructor)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jun 3</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Classes end</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jun 6-9</td>
+      <td style="text-align:left">M-Th</td>
+      <td style="text-align:left">Spring final examinations</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jun 10</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">Graduate Commencement</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jun 14</td>
+      <td style="text-align:left">T</td>
+      <td style="text-align:left">Spring quarter grades due</td>
+    </tr>
+  </tbody>
+</table>
 
 ### SUMMER SESSIONS 2022
 
-|  |  |
-| :--- | :--- |
-|  |  |
-
-Apr 4-8 M-F Registration period for all three summer sessions
-
-Apr 11 M Open enrollment period begins
-
-**May 21 Sa Payment deadline for Summer 2022**
-
-**Jun 13 M Late registration; $100 fee if no previous enrollment and Drop/Swap $50 fee**
-
-**begins**
-
-**Jun 20 M Classes begin for summer sessions I and II**
-
-**Jun 24 F Last day to register for all three summer sessions**
-
-Jul 1 F Last day to petition for graduate degrees to be conferred in September \(Summer
-
-Quarter\) 2022
-
-Jul 4 M Independence Day \(Observed\); administrative holiday; **classes will meet**
-
-**Jul 22 F Last day to withdraw from classes for Session II only \(no tuition refund\)**
-
-**Jul 22 F Classes end for Session II only**
-
-July 25-26 M-Tu Summer Session II final examinations
-
-**Aug 1 M Classes begin for Summer Session III**
-
-**Aug 26 F Last day to withdraw from classes for Session I only \(no tuition refund\)**
-
-**Aug 26 F Classes end for Session I only**
-
-Aug 29-Sep 2 M-F Summer Session I final examinations
-
-**Sep 2 F Last day to withdraw from classes for Session III only \(no tuition refund\)**
-
-**Sep 2 F Classes end for Session III only**
-
-Sep 5 M Labor Day observed; administrative holiday; classes will meet
-
-Sep 5-6 M-Tu Summer Session III final examinations
-
-_**All dates are inclusive and subject to change**_
-
-**Registration holds must be cleared with the appropriate office by 4 p.m. on Friday.**
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">Apr 4-8</td>
+      <td style="text-align:left">M-F</td>
+      <td style="text-align:left">Registration period for all three summer sessions</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Apr 11</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Open enrollment period begins</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>May 21</b>
+      </td>
+      <td style="text-align:left"><b>Sa</b>
+      </td>
+      <td style="text-align:left"><b>Payment deadline for Summer 2022</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jun 13</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>Late registration; $100 fee if no previous enrollment and Drop/Swap $50 fee</b>
+        </p>
+        <p><b>begins</b>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jun 20</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left"><b>Classes begin for summer sessions I and II</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jun 24</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Last day to register for all three summer sessions</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jul 1</td>
+      <td style="text-align:left">F</td>
+      <td style="text-align:left">Last day to petition for graduate degrees to be conferred in September
+        (Summer Quarter) 2022</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Jul 4</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Independence Day (Observed); administrative holiday; <b>classes will meet</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jul 22</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Last day to withdraw from classes for Session II only (no tuition refund)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Jul 22</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Classes end for Session II only</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">July 25-26</td>
+      <td style="text-align:left">M-Tu</td>
+      <td style="text-align:left">Summer Session II final examinations</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Aug 1</b>
+      </td>
+      <td style="text-align:left"><b>M</b>
+      </td>
+      <td style="text-align:left"><b>Classes begin for Summer Session III</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Aug 26</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Last day to withdraw from classes for Session I only (no tuition refund)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Aug 26</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Classes end for Session I only</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>Aug 29-</p>
+        <p>Sep 2</p>
+      </td>
+      <td style="text-align:left">M-F</td>
+      <td style="text-align:left">Summer Session I final examinations</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sep 2</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Last day to withdraw from classes for Session III only (no tuition refund)</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Sep 2</b>
+      </td>
+      <td style="text-align:left"><b>F</b>
+      </td>
+      <td style="text-align:left"><b>Classes end for Session III only</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sep 5</td>
+      <td style="text-align:left">M</td>
+      <td style="text-align:left">Labor Day observed; administrative holiday; classes will meet</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Sep 5-6</td>
+      <td style="text-align:left">M-Tu</td>
+      <td style="text-align:left">Summer Session III final examinations</td>
+    </tr>
+  </tbody>
+</table>
 
 **IMPORTANT SUMMER DEADLINES:** [**https://www.scu.edu/bursar/refunds/**](https://www.scu.edu/bursar/refunds/)
 
@@ -483,7 +682,23 @@ Last day to withdraw from classes with 100% tuition refund \(less fees\) – End
 
 Last day to withdraw from classes with 50% tuition refund \(less fees\) – End of 3rd scheduled class meeting
 
+{% hint style="info" %}
+_All dates are inclusive and subject to change_
+{% endhint %}
+
+{% hint style="info" %}
+**Registration holds must be cleared with the appropriate office by 4 p.m. on Friday.**
+{% endhint %}
+
+{% hint style="info" %}
 **No tuition refunds after the third class meeting**
 
-For more information regarding Tuition Refund Policies, please see the Financial Information chapter located in the Graduate School of Engineering Bulletin. For additional information, you may contact onestop@scu.edu
+For more information regarding Tuition Refund Policies, please see the [Financial Information](chapter-4-financial-information.md) chapter. For additional information, you may contact [onestop@scu.edu](mailto:onestop@scu.edu)
+{% endhint %}
+
+\*\*\*\*
+
+\*\*\*\*
+
+\*\*\*\*
 
