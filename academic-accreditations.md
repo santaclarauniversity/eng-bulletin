@@ -1,6 +1,6 @@
 # Academic Accreditations
 
-## University Accreditation
+**University Accreditation**
 
 Western Association of Schools and Colleges \(WASC\)
 
@@ -10,9 +10,9 @@ Senior College and University Commission
 
 Alameda, CA 94501
 
-\(510\) 748-9001
+510-748-9001
 
-## Specialized Academic Accreditations
+**Specialized Academic Accreditations**
 
 American Association of Museums
 
@@ -34,6 +34,5 @@ California Board of Behavioral Sciences Accredited Marriage and Family Therapist
 
 California State Commission on Teacher Credentialing
 
-State Bar of California  
-
+State Bar of California
 

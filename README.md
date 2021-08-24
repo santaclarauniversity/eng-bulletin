@@ -1,4 +1,4 @@
-# 2020-2021 Engineering Graduate Bulletin
+# 2021-2021 Engineering Graduate Bulletin
 
 ![](.gitbook/assets/graduate-bulletin-cover.jpg)
 

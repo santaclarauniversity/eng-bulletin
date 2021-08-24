@@ -1,1605 +1,1630 @@
 # Engineering Faculty
 
-### **TRACY ABBOTT \(2012\)**
+**SAMANEH ABBASI \(2020\)**
 
-Lecturer in Civil, Environmental and Sustainable Engineering
+_Lecturer in Mechanical Engineering_
 
-B.S. 1996, University of California, Berkeley 
+_B.Sc. 2003, M.Sc. 2005, Amirkabir University of Technology_
 
-M.S. 1997, University of California, San Diego 
+_Ph.D. 2010, Polytechnic of Montreal_
 
-Registered Professional Engineer in Civil Engineering and Structural Engineering
+**TRACY ABBOTT \(2012\)**
 
-### **DAVOOD ABDOLLAHIAN \(2014\)**
+_Lecturer in Civil, Environmental and Sustainable Engineering_
+
+_B.S. 1996, University of California, Berkeley_
+
+_M.S. 1997, University of California, San Diego_
+
+_Registered Professional Engineer in Civil Engineering and Structural Engineering_
+
+**DAVOOD ABDOLLAHIAN \(2014\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S. 1973, University of Michigan_
+
+_M.S. 1975, Ph.D. 1979, University of California, Berkeley_
+
+**MARGARETA ACKERMAN \(2017\)**
+
+_Assistant Professor of Computer and Engineering_
+
+_B. Math 2006, M. Math 2007, Ph.D. 2012, University of Waterloo, Canada_
+
+**KOOROSH AFLATOONI \(2014\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.Sc. 1989, Amirkabir University, Theran_
+
+_M.A.Sc 1994; Ph.D. 1998, University of Waterloo, Waterloo, Canada_
+
+**ELLIE AHI \(2008\)**
+
+_Lecturer in Engineering Management and Leadership_
+
+_B.S. 1983, San Jose State University_
+
+_M.S. 2007, Santa Clara University_
+
+**SALEM AL-AGTASH \(2018\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B. Sc. 1988, Bogazici University, Turkey_
+
+_M. Sc. 1995, University of Colorado at Denver_
+
+_Ph.D. 1998, University of Colorado at Boulder_
+
+**AHMED AMER \(2009\)**
+
+_Associate Professor of Computer Science and Engineering_
+
+_B.S. 1994, M.S. 1997, American University in Cairo_
+
+_Ph.D. 2002, University of California, Santa Cruz_
+
+**ARIA AMIRBAHMAN \(2020\)**
+
+_Professor Civil, Environmental and Sustainable Engineering_
+
+_B.S. 1984, M.S. 1989, San Jose State University_
+
+_Ph.D. 1994, University of California, Irvine_
+
+_Registered Professional Engineering in Civil Engineering_
+
+**MOE AMOUZGAR \(2014\)**
+
+_Renewable Term Lecturer in Computer Science and Engineering_
+
+_B.E. 1989, McGill University, Canada_
+
+_M.S. 2000, Southern Methodist University_
+
+_Ph.D. 2013, Concordia University, Canada_
+
+**DAVID ANASTASIU \(2019\)**
+
+_Assistant Professor of Computer Science and Engineering_
+
+_B.A. 2001, Moody Bible Institute_
+
+_M.S. 2011, Texas State University_
+
+_Ph.D. 2016, University of Minnesota-Twin Cities_
+
+**ISMAIL EMRE ARACI \(2015\)**
+
+_Assistant Professor of Bioengineering_
+
+_B.S. 1999, M.Sc. 2002, Ege University_
+
+_Ph.D. 2010, University of Arizona_
+
+**ZEYNEP ARACI \(2017\)**
+
+_Lecturer in Bioengineering_
+
+_B.S. 2001, Ege University_
+
+_M.Sc. 2003, Izmir Dokuz Eylul University_
+
+_M.Sc. 2007; Ph.D. 2010, University of Arizona_
+
+**SHAHAB ARDALAN**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.Sc. 1999, Amirkabir University of Technology, Tehran, Iran_
+
+_M.A.Sc. 2003, Reyerson University, Toronto, Canada_
+
+_Ph.D. 2007 University of Waterloo, Waterloo, Canada_
+
+**PRASHANTH ASURI \(2011\)**
+
+_Associate Professor of Bioengineering_
+
+_B.E. 2003, National Institute of Technology_
+
+_Ph.D. 2007, Rensselaer Polytechnic Institute_
+
+**DARREN ATKINSON \(1999\)**
+
+_Associate Professor of Computer Science and Engineering_
+
+_B.S. 1991, M.S. 1994, Ph.D. 1999, University of California, San Diego_
+
+**MOHAMMAD AYOUBI \(2008\)**
+
+_Associate Professor of Mechanical Engineering_
+
+_B.S. 1991, Amirkabir University_
+
+_M.S. 1998, Sharif University of Technology_
+
+_Ph.D. 2007, Purdue University_
+
+**HEE MAN BAE \(2015\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S. 1970, Texas Tech University_
+
+_M.S. 1972, Iowa State University_
+
+_Ph.D. 1975, University of Oklahoma_
+
+**OCTAVE BAKER \(1985\)**
+
+_Lecturer in Engineering Management and Leadership and Graduate Engineering_
+
+_B.S. 1966, Drake University_
+
+_M.S. 1973, California State University, San Francisco_
+
+_Ph.D. 1977, University of Michigan_
+
+**BONITA BANDUCCI \(2000\)**
+
+_Lecturer in Graduate Engineering_
+
+_B.A. 1969, University of California, Santa Cruz_
+
+**MONEM H. BEITELMAL \(2003\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S. 1989, University of Portland_
+
+_M.S. 1995, University of California, Davis_
+
+_Ph.D. 2000, Santa Clara University_
+
+**NIRDOSH BHATNAGAR \(2002\)**
+
+_Lecturer in Applied Mathematics and Computer Science and Engineering_
+
+_M.S., Ph.D., Stanford University_
+
+**RAFAE BHATTI \(2010\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1999, GIK Institute, Pakistan_
+
+_M.S. 2003, Ph.D. 2006, Purdue University_
+
+**LEO CASEY \(2017\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.Sc. 1980, University of Auckland, New Zealand_
+
+_M.Sc. 1984, Ph.D. 1988, Massachusetts Institute of Technology_
+
+**ERIC CHAN \(2020\)**
+
+_Lecturer in Bioengineering_
+
+_B.S. 1982, Purdue University_
+
+_M.S. 1894; Ph.D. 1991, University of Texas at Austin_
+
+**AJAY CHATTERJEE \(2015\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B. Tech. 1980, Indian Institute of Technology Delhi_
+
+_Ph.D. 1986, Pennsylvania State University_
+
+**STEPHEN A. CHIAPPARI \(1990\)**
+
+_Senior Lecturer in Applied Mathematics_
+
+_Chair, Department of Applied Mathematics_
+
+_B.S. 1984, Santa Clara University_
+
+_Ph.D. 1990, University of Illinois, Urbana-Champaign_
+
+**LARRY CHIEN \(2015\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S., National Taiwan University_
+
+_M.S., Stanford University_
+
+_Ph.D., Purdue University_
+
+**STEVEN C. CHIESA \(1987\)**
+
+_Associate Professor Emeritus of Civil, Environmental and Sustainable Engineering_
+
+_B.S. 1975, Santa Clara University_
+
+_M.S. 1976, Stanford University_
+
+_Ph.D. 1982, University of Notre Dame_
+
+_Registered Professional Engineer in Civil Engineering_
+
+**SEAN CHOI \(2021\)**
+
+_Assistant Professor of Computer Science and Engineering_
+
+_B.S. 2011, California Institute of Technology_
+
+_M.S. 2013, Ph.D. 2019, Stanford University_
+
+**HUMZA CHOWDHRY \(2012\)**
+
+_Lecturer in Civil, Environmental and Sustainable Engineering_
+
+_B.S. 2006, California Polytechnic State University, San Luis Obispo_
+
+_M.S. 2008, San Jose State University_
+
+_Registered Professional Engineer in Civil Engineering and Structural Engineering_
+
+**ALEXANDER CLEMM \(2008\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_M.S. 1990, Stanford University_
+
+_Ph.D. 1994, University of Munich_
+
+**CLAUDIONER COELHO \(2019\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.S.E.E. \(summa cum laude\), UFMG, Brazil_
+
+_M.B.A. IBMEC Business School_
+
+_Ph.D., Stanford University_
+
+**MARLENE COLE \(2019\)**
+
+_Lecturer in Engineering Management and Leadership_
+
+_B.A. 1970, Ed.M. 1974, BSME 1982, State University of New York, Buffalo_
+
+**THERESA CONEFREY \(2001\)**
+
+_Lecturer in Engineering Management and Leadership_
+
+_B.A. 1994, University of East Anglia, United Kingdom_
+
+_M.A. 1991, Ph.D. 1997, University of Illinois_
+
+**ROBBIE CULKIN \(2020\)**
+
+_Lecturer in Computer Science in Engineering_
+
+_B.S. 2019, M.S. 2020, Santa Clara University_
+
+**VIN D’AGOSTINO \(2020\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.E.E.E., Stevens Institute of Technology_
+
+_M.S.C.S., Polytechnic Institute of Technology_
+
+_Certified Scrum Master from Big Visible_
+
+_Lean Six Sigma Black Belt form Villanova University_
+
+**DON DANIELSON \(2004\)**
+
+_Lecturer in Engineering Management and Leadership_
+
+_B.S. 1977, California Polytechnic University, Pomona_
+
+_M.S. 2008, Santa Clara University_
+
+**RONALD L. DANIELSON \(1976\)**
+
+_Professor Emeritus of Computer Science and Engineering_
+
+_B.S. 1967, University of Minnesota_
+
+_M.S. 1968, Northwestern University_
+
+_Ph.D. 1975, University of Illinois, Urbana_
+
+**RUTH E. DAVIS \(1979\)**
+
+_Professor of Computer Science and Engineering_
+
+_Associate Dean, Undergraduate Studies_
+
+_B.S. 1973, Santa Clara University_
+
+_M.S. 1976, San Jose State University_
+
+_Ph.D. 1979, University of California, Santa Cruz_
+
+**BEHNAM DEZFOULI \(2016\)**
+
+_Assistant Professor of Computer Science and Engineering_
+
+_B.S. 2006, M.S. 2009, University of Najafabad_
+
+_Ph.D. 2014, Universiti Teknologi Malaysia_
+
+**ALBERTO DIAZ-TOSTADO \(2017\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 2016, M.S. 2017, Santa Clara University_
+
+**CHRISTOPHER DICK \(2019\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_Ph.D. 1994, La Trobe University_
+
+**NIK DJORDJEVIC \(2010\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S. 1976, M.S. 1978, University of California, Los Angeles_
+
+**LAURA DOYLE \(2012\)**
+
+_Lecturer in Civil, Environmental and Sustainable Engineering_
+
+_B.S. 2003, Loyola Marymount University_
+
+_M.S. 2007, Ph.D. 2011, University of California, Davis_
+
+**MICHAEL DREW \(2005\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S. 1994, University of Virginia_
+
+_M.S. 2002, Ph.D. 2005, University of California, Berkeley_
+
+**SANTANU DUTTA \(2001\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B. Tech. 1987, Indian Institute of Technology_
+
+_M.S. 1990, University of Texas, Austin_
+
+_M.A. 1994, Ph.D. 1996, Princeton University_
+
+**ARMAN ELAHI \(2020\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 2016, M.S. 2017, Santa Clara University_
+
+**AMR ELKADY \(2014\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1994, American University in Cairo_
+
+_M.S. 2005, Carleton University_
+
+**FAROKH H. ESKAFI \(2017\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1991, M.S. 1992, Ph.D. 1996, University of California, Berkeley_
+
+**AHMED K. EZZAT \(1988\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1971, M.S. 1976, Cairo University_
+
+_Ph.D. 1982, University of New Hampshire_
+
+**DRAZEN FABRIS \(1999\)**
+
+_Associate Professor of Mechanical Engineering_
+
+_B.S. 1990, California Institute of Technology_
+
+_M.S. 1993, Ph.D. 1996, University of California, Berkeley_
+
+**YI FANG \(2012\)**
+
+_Associate Professor of Computer Science and Engineering_
+
+_B.E. 2002, M.S. 2005, Wuhan University of Technology_
+
+_M.S. 2006, University of Tennessee_
+
+_Ph.D. 2012, Purdue University_
+
+**SILVIA M. B. FIGUEIRA \(1998\)**
+
+_Professor of Computer Science and Engineering_
+
+_Dianne McKenna Professor_
+
+_B.S. 1988, M.S. 1991, Federal University of Rio de Janeiro_
+
+_Ph.D. 1996, University of California, San Diego_
+
+**E. JOHN FINNEMORE \(1979\)**
+
+_Professor Emeritus of Civil, Environmental and Sustainable Engineering_
+
+_B.Sc. 1960, University of London_
+
+_M.S. 1966, Ph.D. 1970, Stanford University_
+
+_Registered Professional Engineer in Civil Engineering_
+
+**CARL FUSSELL \(1977\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1971, Santa Clara University_
+
+_M.S. 1973, Loyola University_
+
+**WILLIAM T. GALLAGHER \(2000\)**
+
+_Lecturer in Graduate Engineering_
+
+_B.A. 1982, Ph.D. 1994, University of California, Berkeley_
+
+_M.A. 1984, University of Chicago_
+
+_J.D. 1993, University of California, Los Angeles_
+
+**MAJID GHARGHI \(2015\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.Sc. 2000, M.Sc. 2002, Sharif University of Technology_
+
+_Ph.D. 2008, University of Waterloo_
+
+**AMIN GHAFOORIPOUR \(2018\)**
+
+_Lecturer in Civil, Environmental and Sustainable Engineering_
+
+_B.S. 1991, Toosi University of Technology_
+
+_M.S. 1994, Tabriz University_
+
+_Ph.D. 2002, Azad University_
+
+_Registered Professional Engineer in Civil Engineering_
+
+**INDRADEEP GHOSH**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.Tech. 1993, Indian Institute of Technology, Kharagpur_
+
+_M.A. 1995, Ph.D. 1998, Princeton University_
+
+**JOHN GIDDINGS \(2011\)**
+
+_Lecturer in Engineering Management and Leadership_
+
+_M.S.E.E. 1991, M.B.A. 1997, Santa Clara University_
+
+**BRIAN GREEN \(2011\)**
+
+_Lecturer in Graduate Engineering_
+
+_B.S. 2000, University of California, Davis_
+
+_M.A. 2006, Ph.D. 2013, Graduate Theological Union, Berkeley_
+
+**BRUCE S. GREENE \(2003\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.S. 1987, Boston University_
+
+_M.S. 1989, University of Illinois_
+
+_Ph.D. 2003, Santa Clara University_
+
+**RADHIKA S. GROVER \(2004\)**
+
+_Lecturer Electrical and Computer Engineering_
+
+_B.S. 1991, Indian Institute of Technology-Roorkee, India_
+
+_M.S. 1992, Birla Institute of Technology, India_
+
+_Ph.D. 2003, Santa Clara University_
+
+**ABHISHEK GUPTA \(2016\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.Tech. 2008, Indian Institute of Technology at Roorkee, India_
+
+_M.S. 2011, Ph.D. 2014, University of Illinois, Urbana-Champaign_
+
+**RACHEL HE \(2003\)**
+
+_Associate Professor of Civil, Environmental and Sustainable Engineering_
+
+_B.E. 1993, M.E. 1996, Chongqing University, People’s Republic of China_
+
+_Ph.D. 2000, University of Wisconsin, Madison_
+
+**TIMOTHY J. HEALY \(1966\)**
+
+_Professor of Electrical and Computer Engineering_
+
+_B.S.E.E. 1958, Seattle University_
+
+_M.S.E.E. 1959, Stanford University_
+
+_Ph.D. 1966, University of Colorado, Boulder_
+
+**NEYRAM HEMATI \(2010\)**
+
+_Lecturer in Mechanical Engineering_
+
+_M.S. 1984, Ph.D. 1988, Cornell University_
+
+**TIMOTHY K. HIGHT \(1984\)**
+
+_Associate Professor Emeritus of Mechanical Engineering_
+
+_B.S. 1972, California Institute of Technology_
+
+_M.S. 1973, Ph.D. 1977, Stanford University_
+
+_Registered Professional Engineer in Mechanical Engineering_
+
+**PARSA HOSSEINI \(2008\)**
+
+_Lecturer in Bioengineering_
+
+_B.Sc. 2006, Shahid Beheshti University_
+
+_M.Sc. 2008, University of Tehran_
+
+_M.Sc. 2014, Wayne State University_
+
+_Ph.D. 2018, Rutgers University_
+
+**I-HAN HSIAO \(2021\)**
+
+_Assistant Professor in Computer Science and Engineering_
+
+_B.A. 2003, National Central University, Taiwan_
+
+_M.S. 2004, Royal Holloway, University of London, United Kingdom_
+
+_Ph.D. 2012, University of Pittsburgh_
+
+**STEPHEN HUDGENS \(2009\)**
+
+_Lecturer in Electrical and Computer Engineering and Graduate Engineering  
+Ph.D. 1976, University of Chicago_
+
+**CLIFFORD HWANG \(1999\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.S. 1992, University of California, San Diego_
+
+_M.S. 1994, Engineer’s Degree 1999, Ph.D. 1999, University of California, Los Angeles_
+
+**EMI ISHIDA \(2017\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S. 1988, Massachusetts Institute of Technology;_
+
+_M.S., Ph.D. 1994, Stanford University_
+
+**VLAD IVASHYN \(2020\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S. 1996, M.S. 1999, Belarusian National Technical University_
+
+_Ph.D. 2015, University of Limerick_
+
+**DAVID JACOBSON \(2011\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S. 1980, University of Michigan_
+
+_M.S. 1985, University of Southern California_
+
+**PRAVIN JAIN \(2011\)**
+
+_Lecturer in Engineering Management and Leadership and Graduate Engineering_
+
+_B.S. 1974, University of Poona, India_
+
+_M.S. 1976, Oregon State University_
+
+_M.B.A. 1980, University of Portland_
+
+**ALKA JARVIS \(1993\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_M.B.A. 1996, British Tutorial University_
+
+**HUSSAMEDDINE KABBANI \(2015\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B. in ME 2003, M. in ME 2005, Beirut Arab University;_
+
+_Ph.D. 2008, University of Nevada, Las Vegas_
+
+**MARYAM KHANBAGHI \(2013\)**
+
+_Assistant Professor of Electrical and Computer Engineering_
+
+_B.S. 1990 Universite De Nice-Sophia Antipolis_
+
+_M.S. 1993, Ph. D. 1998, Ecole Polytechnique_
+
+**UNYOUNG \(ASHLEY\) KIM \(2009\)**
+
+_Associate Professor of Bioengineering_
+
+_B.S. 1999, M.S. 2001, Korea Advanced Institute of Science and Technology \(KAIST\)_
+
+_Ph.D. 2009, University of California, Santa Barbara_
+
+**CHRISTOPHER A. KITTS \(1999\)**
+
+_Professor of Mechanical Engineering_
+
+_B.S.E. 1987, Princeton University_
+
+_M.P.A. 1996, University of Colorado_
+
+_M.S. 1992, Ph.D. 2006, Stanford University_
+
+**ROBERT J. KLEINHENZ \(2009\)**
+
+_Lecturer in Applied Mathematics_
+
+_B.S. 1971, University of Santa Clara_
+
+_M.A. 1973, Ph.D. 1977, University of Illinois_
+
+**WALTER KOZACKY \(2013\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.S. 1977, University of Illinois_
+
+_M.S. 2004, Ph.D. 2012, Santa Clara University_
+
+**SHOBA KRISHNAN \(1999\)**
+
+_Professor of Electrical and Computer Engineering_
+
+_Chair, Department of Electrical and Computer Engineering_
+
+_B.TECH 1987, Jawaharlal Nehru Technological University_
+
+_M.S. 1990, Ph.D. 1993, Michigan State University_
+
+**ZOLTAN KURCZVEIL \(2011\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.A. 1998, U. C. Berkeley_
+
+_M.S. 2004, Santa Clara University_
+
+_M.B.A. 2008, University of California, Berkeley Haas School of Business_
+
+**HOHYUN LEE \(2009\)**
+
+_Associate Professor of Mechanical Engineering_
+
+_Chair, Department of Mechanical Engineering_
+
+_B.S. 2003, Seoul National University_
+
+_M.S. 2005, Ph.D. 2009, Massachusetts Institute of Technology_
+
+**BROOKS LEMAN \(2004\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.S. 1979, M.S. 1985, Santa Clara University_
+
+**RONALD LESNIAK \(2013\)**
+
+_Lecturer in Engineering Management and Leadership_
+
+_B.S.E.E. 1970, Marquette University_
+
+_M.B.A. 1977, Loyola University of Chicago_
+
+_Doctor of Management in Organizational Leadership 2006, University of Phoenix_
+
+**DANIEL W. LEWIS \(1975\)**
+
+_Professor Emeritus of Computer Science and Engineering_
+
+_B.S.E.E. 1968, Georgia Institute of Technology_
+
+_M.S.E.E. 1972, E.E. 1975, Ph.D. 1975, Syracuse University_
+
+**JAMES LEWIS \(2020\)**
+
+_Academic Year Lecturer in Electrical and Computer Engineering_
+
+_B.S. 1991, University of California, Davis_
+
+**XIANG LI \(2018\)**
+
+_Assistant Professor of Computer Science and Engineering_
+
+_B.S. 2009, Heilongjiang University, China_
+
+_M.S. 2012, Chinese Academy of Sciences, China_
+
+_M.S. 2014, Ph.D. 2018, University of Florida, Gainesville_
+
+**NIGEL H. LIN \(2016\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B. Eng. 2000, M. Eng. 2002, Ph.D. 2005, Tamkang University, Taiwan_
+
+**NAM LING \(1989\)**
+
+_Professor of Computer Science and Engineering_
+
+_Chair, Department of Computer Science and Engineering_
+
+_Wilmot J. Nicholson Family Professor_
+
+_B.Eng. 1981, National University of Singapore_
+
+_M.S. 1985, Ph.D. 1989, University of Louisiana at Lafayette_
+
+**KAN LIU \(2015\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1982, Xiamen University, China_
+
+_M.S. 1984, Peking University, China_
+
+_M.A. 1989, University of South Florida_
+
+_Ph.D. 1988, Ohio State University_
+
+**LEO LIU \(2014\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1978, Northern Jiaotong University, China_
+
+_M.S. 1981, Peking University, China_
+
+_Ph.D. 1988, Yale University_
+
+**YING LIU \(2018\)**
+
+_Assistant Professor of Computer Science and Engineering_
+
+_B.S. 2006, Beijing University of Posts and Telecommunications, China_
+
+_M.S. 2008, Ph.D. 2012, State University of New York, Buffalo_
+
+**YUHONG LIU \(2015\)**
+
+_Associate Professor of Computer Science and Engineering_
+
+_B.S. 2004, M.S. 2007, Beijing University of Posts and Telecommunications, China_
+
+_Ph.D. 2012, University of Rhode Island_
+
+**MARK J. S. LOPEZ \(2019\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S. 2011, University of California, Irvine_
+
+_M.S. 2014, Ph.D. 2016, Georgia Institute of Technology_
+
+_U.S. Army Aviation Development Directorate_
+
+**BIAO LU \(2015\)**
+
+_Associate Professor of Bioengineering_
+
+_M.D. 1988, M.Sc. 1991 Shanghai Medical University, China_
+
+_BSC, 2001, Ph.D. 2004, University of Manitoba, Canada_
+
+**CRIST LU \(2019\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.S. 1992, University of California, Los Angeles_
+
+_M.S. 1994, University of California, Berkeley_
+
+**WEN-PAI LU \(2020\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1978, M.S. 1981, University of Tennessee_
+
+_Ph.D. 1986, University of Arizona_
+
+**SATHISH MANICKAM \(2014\)**
+
+_Lecturer in Bioengineering_
+
+_Ph.D. 2009, University of California, Los Angeles_
+
+**ROBERT MARKS \(2011\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.S. 1996, M.S. 2000, Ph.D. 2003, University of California, Berkeley_
+
+**MANISH MARWAH \(2015\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1993, Indian Institute of Technology at Delhi_
+
+_M.S. 1996, Ph.D. 2007, University of Colorado at Boulder_
+
+**EDWIN MAURER \(2003\)**
+
+_Professor of Civil, Environmental and Sustainable Engineering_
+
+_Robert W. Peters Professor_
+
+_Chair, Department of Civil, Environmental and Sustainable Engineering_
+
+_B.S. 1985, University of Rhode Island_
+
+_M.S. 1989, University of California, Berkeley_
+
+_Ph.D. 2002, University of Washington;  
+Registered Professional Engineer in Civil Engineering_
+
+**MICHAEL McELFRESH \(2011\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.S. 1979, University of California, Davis_
+
+_M.A. 1981, Washington University_
+
+_Ph.D. 1988, University of California, San Diego_
+
+**AARON MELMAN \(2005\)**
+
+_Renewable Term Lecturer in Applied Mathematics_
+
+_B.Sc. 1983, University of Louvain; M.Sc. 1986, Technion - Israel Institute of Technology_
+
+_Ph.D. 1992, California Institute of Technology_
+
+**MAGDA METWALLY \(1986\)**
+
+_Lecturer in Applied Mathematics_
+
+_B.S. 1967, Ain-Shams University Egypt_
+
+_M.S. 1972, University of British Columbia_
+
+_Ph.D. 1982, Santa Clara University_
+
+**RANI MIKKILINENI \(1996\)**
+
+_Renewable Term Lecturer in Computer Science and Engineering_
+
+_B.S. 1971, Maris Stella College_
+
+_M.S. 1973, Andhra University_
+
+_M.S. 1989, University of Denver_
+
+_Ph.D. 1998, Santa Clara University_
+
+**KEYVAN MOATAGHED \(2003\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1975, M.S. 1979, Ph.D. 1982, Technical University of Graz, Austria_
+
+**RAMIN MOAZENI \(2014\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1999, Isfahan University of Technology, Iran_
+
+_M.S. 2003, California State University, East Bay_
+
+_M.S. 2008, University of Southern California_
+
+**MARYAM MOBED-MIREMADI \(2013\)**
+
+_Lecturer in Bioengineering_
+
+_B.S. 1988, M.S. 1991, Ph.D. 1996, McGill University_
+
+**BRADEN MOLHOEK \(2018\)**
+
+_Lecturer in Computer Science and Engineering and Bioengineering_
+
+_B.A. 2003, Ohio Wesleyan University_
+
+_M.T.S. 2005, Boston University_
+
+_Ph.D. 2016, Graduate Theological Union, Berkeley_
+
+**ERIC MONSEF \(2004\)**
+
+_Lecturer in Engineering Management and Leadership_
+
+_B.S. 1990, M.S. 1996, Santa Clara University_
+
+**RALPH E. MORGANSTERN \(1992\)**
+
+_Lecturer in Applied Mathematics_
+
+_B.S. 1962, Rensselaer Polytechnic Institute_
+
+_M.A. 1965, Ph.D. 1968, State University of New York, Stony Brook_
+
+**GODFREY MUNGAL \(2007\)**
+
+_Professor of Mechanical Engineering_
+
+_B.A.Sc. 1975, University of Toronto_
+
+_M.Sc. 1977, Ph.D. 1983, California Institute of Technology_
+
+**MOHAMMAD MUSA \(2019\)**
+
+_Lecturer in Engineering Management and Leadership_
+
+_B.S. 2003, M.S. 2006, Santa Clara University_
+
+**GHULAM MUSTAFA \(2013\)**
+
+_Lecturer in Mechanical Engineering_
+
+_B.E. 1980, NED University of Engineering and Technology_
+
+_M.S. 1987, Ph.D. 1992, Texas Tech University_
+
+**ANGELA MUSURLIAN \(2014\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1989, Rio de Janeiro State University, Brazil_
+
+_M.S. 1993, Madrid Polytechnic University, Madrid, Spain_
+
+**AYHAN MUTLU \(2004\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.S. 1996, Middle East Technical University_
+
+_Ph.D. 2004, Santa Clara University_
+
+**MADIHALLY J. \(SIM\) NARASIMHA \(2002\)**
+
+_Lecturer in Electrical and Computer Engineering_
+
+_B.E. 1971, Bangalore University_
+
+_M.S. 1976, Ph.D. 1976, Stanford University_
+
+**PETER NGHIEM \(2018\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_B.S. 1983, California State University Sacramento_
+
+_M.S. 1987, 2014, Ph.D. 2017, Santa Clara University_
+
+**NHAN NGUYEN \(2006\)**
+
+_Lecturer in Mechanical Engineering_
+
+_M.S. 1991, Stanford University_
+
+_Ph.D. 2005, Santa Clara University_
+
+**TONYA NILSSON \(2010\)**
+
+_Senior Lecturer in Civil, Environmental and Sustainable Engineering_
+
+_B.S. 1991, California Polytechnic State University, San Luis Obispo_
+
+_M.S. 1993, Stanford University_
+
+_Ph.D. 2002, University of California, Davis_
+
+_Registered Professional Engineer in Civil Engineering_
+
+**TOKUNBO OGUNFUNMI \(1990\)**
+
+_Professor of Electrical and Computer Engineering_
+
+_B.S. 1980, University of Ife, Nigeria_
+
+_M.S. 1984, Ph.D. 1990, Stanford University_
+
+**KOUROSH PAHLAVAN \(2021\)**
+
+_Lecturer in Computer Science and Engineering_
+
+_M.S. 1989, Ph.D. 1994, Royal Institute of Technology, Sweden_
+
+**ON SHUN PAK \(2013\)**
+
+_Associate Professor of Mechanical Engineering_
+
+_B.Eng. 2008, University of Hong Kong_
+
+_M.S. 2010, Ph.D. 2013, University of California, San Diego_
+
+**DEVANAYAGAM PALANIAPPAN \(2021\)**
 
 Lecturer in Mechanical Engineering
 
-B.S. 1973, University of Michigan
+B.S. 1984, University of Madras
 
-M.S. 1975, Ph.D. 1979, University of California, Berkeley
+M.S. 1986, Bharathidasan University
 
-### MARGARETA ACKERMAN \(2017\)
+Ph.D. 1991, University of Hyderabad
 
-Assistant Professor of Computer and Engineering
+**USHA NITI PARIMI \(2012\)**
 
-B. Math 2006, M. Math 2007, Ph.D. 2012, University of Waterloo, Canada
+_Lecturer in Engineering Management and Leadership_
 
-### KOOROSH AFLATOONI \(2014\)
+_B. Tech. 1994, Pune Institute of Computer Technology, India_
 
-Lecturer in Mechanical Engineering
+_M.S. 2012, Santa Clara University_
 
-B.Sc. 1989, Amirkabir University, Theran 
+**T. KIM PARNELL \(2011\)**
 
-M.A.Sc 1994; Ph.D. 1998, University of Waterloo, Waterloo, Canada
+_Lecturer in Mechanical Engineering_
 
-### ELLIE AHI \(2008\)
+_B.S. 1978, Georgia Tech_
 
-Lecturer in Engineering Management and Leadership
+_M.S. 1979, Ph.D. 1984, Stanford University_
 
-B.S. 1983, San Jose State University
+**VLADIMIR PATRYSHEV \(2014\)**
 
-M.S. 2007, Santa Clara University
+_Lecturer in Computer Science and Engineering_
 
-### SALEM AL-AGTASH \(2018\)
+_M.S. 1973, St. Petersburg State University, Russia_
 
-Lecturer in Computer Science and Engineering
+**KERN PENG \(2001\)**
 
-B. Sc. 1988, Bogazici University, Turkey 
+_Lecturer in Engineering Management and Leadership_
 
-M. Sc. 1995, University of Colorado at Denver 
+_B.S. 1992, San Jose State University_
 
-Ph.D. 1998, University of Colorado at Boulder
+_M.B.A. 1996, Ph.D. 2000, San Francisco State University_
 
-### AHMED AMER \(2009\)
+**NICHOLAS PERA \(2006\)**
 
-Associate Professor of Computer Science and Engineering
+_Lecturer in Civil, Environmental and Sustainable Engineering_
 
-B.S. 1994, M.S. 1997, American University in Cairo
+_B.S. 1995, Santa Clara University_
 
-Ph.D. 2002, University of California, Santa Cruz
+**BRUCE PITTMAN \(2002\)**
 
-### ARIA AMIRBAHMAN \(2020\)
+_Lecturer in Engineering Management and Leadership_
 
-Professor Civil, Environmental and Sustainable Engineering
+_B.S. 1976, University of California, Davis_
 
-B.S. 1984, M.S. 1989, San Jose State University
+_M.S. 1984, Santa Clara University_
 
-Ph.D. 1994, University of California, Irvine
+**KISHORE PUSUKURI \(2017\)**
 
-Registered Professional Engineering in Civil Engineering
+_Lecturer in Computer Science and Engineering_
 
-### MOE AMOUZGAR \(2014\)
+_B. Tech. 2002, Kakatiya University of India_
 
-Renewable Term Lecturer in Computer Science and Engineering
+_Ph.D. 2012, University of California, Riverside_
 
-B.E. 1989, McGill University, Canada 
+**XIAOSHU QIAN \(2003\)**
 
-M.S. 2000, Southern Methodist University
+_Lecturer in Electrical and Computer Engineering_
 
-Ph.D. 2013, Concordia University, Canada
+_B.S. 1982, Zhejiang University \(China\)_
 
-### DAVID ANASTASIU \(2019\)
+_M.S. 1990, 1994, Ph.D. 1996, University of Rhode Island_
 
-Assistant Professor of Computer Science and Engineering
+**MAHMUD RAHMAN \(1986\)**
 
-B.A. 2001, Moody Bible Institute
+_Associate Professor of Electrical and Computer Engineering_
 
-M.S. 2011, Texas State University
+_B.S.E.E. 1969, University of Engineering and Technology, Dhaka, Bangladesh_
 
-Ph.D. 2016, University of Minnesota-Twin Cities
+_M.Eng. 1981, Dr. Eng. 1984, Tokyo Institute of Technology_
 
-### ISMAIL EMRE ARACI \(2015\)
+**GAETANO \(TONY\) RESTIVO \(2016\)**
 
-Assistant Professor of Bioengineering
+_Lecturer in Mechanical Engineering_
 
-B.S. 1999, M.Sc. 2002, Ege University
+_B.S. 2001, Ph.D. 2005, University of Palermo, Italy_
 
-Ph.D. 2010, University of Arizona
+_M.S. 2004, University of California, San Diego_
 
-### ZEYNEP ARACI \(2017\)
+**DAVID RICH \(2008\)**
 
-Lecturer in Bioengineering
+_Lecturer in Mechanical Engineering_
 
-B.S. 2001, Ege University 
+_Ph.D. 2006, University of California, Berkeley_
 
-M.Sc. 2003, Izmir Dokuz Eylul University
+**VERNA RODRIGUEZ \(2019\)**
 
-M.Sc. 2007; Ph.D. 2010, University of Arizona
+_Lecturer in Bioengineering and Engineering Management and Leadership_
 
-### SHAB ARDALAN
+_B.S. 1982, University of California, Berkeley_
 
-Lecturer in Electrical and Computer Engineering
+**ERIC SABELMAN \(2000\)**
 
-B.Sc. 1999, Amirkabir University of Technology, Tehran, Iran
+_Lecturer in Mechanical Engineering_
 
-M.A.Sc. 2003, Reyerson University, Toronto, Canada
+_B.S. 1968, M.S. 1969, Ph.D. 1976, Stanford University_
 
-Ph.D. 2007 University of Waterloo, Waterloo, Canada
+**SAMAR SAHA \(2003\)**
 
-### PRASHANTH ASURI \(2011\)
+_Lecturer in Electrical and Computer Engineering_
 
-Associate Professor of Bioengineering
+_B.S. 1971, Cotton College, India_
 
-B.E. 2003, National Institute of Technology 
+_M.Sc. 1973, Ph.D. 1981, Gauhati University, India_
 
-Ph.D. 2007, Rensselaer Polytechnic Institute
+_M.S. 1992, Stanford University_
 
-### DARREN ATKINSON \(1999\) 
+**SWATI SAXENA \(2018\)**
 
-Associate Professor of Computer Science and Engineering
+_Lecturer in Mechanical Engineering_
 
-B.S. 1991, 
+_B.Tech.2006, IIT Kanpur, India_
 
-M.S. 1994, Ph.D. 1999, University of California, San Diego
+_M.S. 2008, Ph.D. 2012, Penn State University_
 
-### MOHAMMAD AYOUBI \(2008\)
+**HISHAM SAID \(2011\)**
 
-Associate Professor of Mechanical Engineering
+_Associate Professor in Civil, Environmental and Sustainable Engineering_
 
-B.S. 1991, Amirkabir University 
+_B.S. 2003, M.S. 2006, Cairo University, Egypt_
 
-M.S. 1998, Sharif University of Technology 
+_Ph.D. 2010, University of Illinois_
 
-Ph.D. 2007, Purdue University
+**KURT SCHAB \(2018\)**
 
-### HEE MAN BAE \(2015\)
+_Assistant Professor of Electrical and Computer Engineering_
 
-Lecturer in Mechanical Engineering
+_B.S. 2011, Portland State University_
 
-B.S. 1970, Texas Tech University 
+_M.S. 2013, Ph.D. 2016, University of Illinois at Urbana-Champaign_
 
-M.S. 1972, Iowa State University
+**ROBERT SCHAFFER \(2020\)**
 
-Ph.D. 1975, University of Oklahoma 
+_Lecturer in Electrical and Computer Engineering_
 
-### OCTAVE BAKER \(1985\) 
+_B.S. 1995, George Mason University_
 
-Lecturer in Engineering Management and Leadership and Graduate Engineering
+_M.S. 1998, Stanford University_
 
-B.S. 1966, Drake University 
+**DENNIS SEGERS \(2016\)**
 
-M.S. 1973, California State University, San Francisco
+_Lecturer in Engineering Management and Leadership_
 
-Ph.D. 1977, University of Michigan
+_B.S. 1975, Texas A&M University_
 
-### BONITA BANDUCCI \(2000\) 
+_AEA Stanford Executive Institute 1995_
 
-Lecturer in Graduate Engineering
+**PAUL SEMENZA \(2016\)**
 
-B.A. 1969, University of California, Santa Cruz
+_Dean’s Executive Professor_
 
-### MONEM H. BEITELMAL \(2003\) 
+_Chair, Department of Engineering Management and Leadership_
 
-Lecturer in Mechanical Engineering
+_B.S. 1985, M.S. 1990, Tufts University_
 
-B.S. 1989, University of Portland 
+_Master in Public Policy 1994, Harvard University_
 
-M.S. 1995, University of California, Davis 
+**GIOVANNI SENI \(2003\)**
 
-Ph.D. 2000, Santa Clara University
+_Lecturer in Computer Science and Engineering_
 
-### NIRDOSH BHATNAGAR \(2002\) 
+_B.S. 1988, Los Andes University, Bogotá, Colombia_
 
-Lecturer in Applied Mathematics and Computer Science and Engineering 
+_M.S. 1992, Ph.D. 1995, State University of New York, Buffalo_
 
-M.S., Ph.D., Stanford University
+**PANTHEA SEPEHRBAND \(2012\)**
 
-### RAFAE BHATTI \(2010\)
+_Associate Professor of Mechanical Engineering_
 
-Lecturer in Computer Science and Engineering 
+_B.Sc. 2000, University of Tehran_
 
-B.S. 1999, GIK Institute, Pakistan 
+_M.Sc. 2004, Sharif University of Technology_
 
-M.S. 2003, Ph.D. 2006, Purdue University
+_Ph.D. 2010, University of Waterloo_
 
-### LEO CASEY \(2017\)
+**REYNAUD L. SERRETTE \(1991\)**
 
-Lecturer in Electrical and Computer Engineering
+_Professor of Civil, Environmental and Sustainable Engineering_
 
-B.Sc. 1980, University of Auckland, New Zealand 
+_B.Sc. 1987, M.Sc. 1988, University of Manitoba_
 
-M.Sc. 1984, Ph.D. 1988, Massachusetts Institute of Technology
+_Ph.D. 1992, Cornell University_
 
-### ERIC CHAN \(2020\)
+**WEIJIA SHANG \(1994\)**
 
-Lecturer in Bioengineering
+_Associate Professor of Computer Science and Engineering_
 
-B.S. 1982, Purdue University
+_B.S. 1982, Changsha Institute of Technology, China_
 
-M.S. 1894; Ph.D. 1991, University of Texas at Austin
+_M.S. 1984, Ph.D. 1990, Purdue University_
 
-### AJAY CHATTERJEE \(2015\)
+**RATNESH SHARMA**
 
-Lecturer in Mechanical Engineering
+_Lecturer in Mechanical Engineering_
 
-B. Tech. 1980, Indian Institute of Technology Delhi 
+_B. Tech 1992, IIT Kharagpur, India_
 
-Ph.D. 1986, Pennsylvania State University
+_M.S. 1998, Ph.D. 2001, University of Colorado at Boulder_
 
-### STEPHEN A. CHIAPPARI \(1990\) 
+**NADYA SHIROKOVA \(2009\)**
 
-Senior Lecturer in Applied Mathematics
+_Lecturer in Applied Mathematics_
 
-Chair, Department of Applied Mathematics
+_Ph.D. 1998, University of Chicago_
 
-B.S. 1984, Santa Clara University
+**TERRY E. SHOUP \(1989\)**
 
-Ph.D. 1990, University of Illinois, Urbana-Champaign
+_Professor Emeritus of Mechanical Engineering_
 
-### LARRY CHIEN \(2015\)
+_BME 1966, M.S. 1967, Ph.D. 1969, Ohio State University_
 
-Lecturer in Mechanical Engineering
+_Registered Professional Engineer in Mechanical Engineering_
 
-B.S., National Taiwan University
+**DRAGOSLAV D. SILJAK \(1964\)**
 
-M.S., Stanford University
+_Professor Emeritus of Electrical and Computer Engineering_
 
-Ph.D., Purdue University
+_B.S.E.E. 1958, MSEE 1961, Dr. Sci. 1963, University of Belgrade_
 
-### STEVEN C. CHIESA \(1987\) 
+**SUKHMANDER SINGH \(1986\)**
 
-Associate Professor Emeritus of Civil, Environmental and Sustainable Engineering
+_Professor of Civil, Environmental and Sustainable Engineering_
 
-B.S. 1975, Santa Clara University 
+_Nicholson Family Professor_
 
-M.S. 1976, Stanford University
+_B.S. 1964, Punjabi University_
 
-Ph.D. 1982, University of Notre Dame
+_M.S. 1966, Indian Institute of Technology, Delhi_
 
-Registered Professional Engineer in Civil Engineering
+_Ph.D. 1979, University of California, Berkeley_
 
-### HUMZA CHOWDHRY \(2012\)
+_Registered Professional Engineer in Civil Engineering and Geotechnical Engineering_
 
-Lecturer in Civil, Environmental and Sustainable Engineering
+**JAMES SOWERS \(2005\)**
 
-B.S. 2006, California Polytechnic State University, San Luis Obispo
+_Lecturer in Electrical and Computer Engineering_
 
-M.S. 2008, San Jose State University
+_B.S. 1978, Cornell University_
 
-Registered Professional Engineer in Civil Engineering and Structural Engineering
+_M.S. 1982, Stanford University_
 
-### ALEXANDER CLEMM \(2008\)
+**NATALIYA STAROSTINA \(2018\)**
 
-Lecturer in Computer Science and Engineering
+_Lecturer in Mechanical Engineering and Engineering Management and Leadership_
 
-M.S. 1990, Stanford University
+_B.S., M.S. 1994, Peter the Great St-Petersburg State Technical University, Russia_
 
-Ph.D. 1994, University of Munich
+_Ph.D. 2009, Russian Academy of Science, Russia_
 
-### CLAUDIONER COELHO \(2019\)
+**CRAIG L. STEVENS \(2006\)**
 
-Lecturer in Electrical and Computer Engineering
+_Lecturer in Mechanical Engineering_
 
-B.S.E.E. \(summa cum laude\), UFMG, Brazil
+_B.S. 1982, California Polytechnic State University, San Luis Obispo_
 
-M.B.A. IBMEC Business School
+_M.S. 1985, Stanford University_
 
-Ph.D., Stanford University
+**ALEX SUMARSONO \(2017\)**
 
-### MARLENE COLE \(2019\)
+_Lecturer in Computer Science and Engineering_
 
-Lecturer in Engineering Management and Leadership
+_B.S. 1982, M.S. 1985, Iowa State University_
 
-B.A. 1970, Ed.M. 1974, BSME 1982, State University of New York, Buffalo
+_Ph.D. 2015, Mississippi State University_
 
-### THERESA CONEFREY \(2001\) 
+**ABDIE TABRIZI \(1990\)**
 
-Lecturer in Engineering Management and Leadership
+_Lecturer in Mechanical Engineering_
 
-B.A. 1994, University of East Anglia, United Kingdom
+_B.S. 1977, University of Tulsa_
 
-M.A. 1991, Ph.D. 1997, University of Illinois
+_M.S. 1979, Oklahoma State University_
 
-### ROBBIE CULKIN \(2020\)
+_Ph.D. 1986, University of Tennessee_
 
-Lecturer in Computer Science in Engineering
+**JAMES TAGUCHI \(2016\)**
 
-B.S. 2019, M.S. 2020, Santa Clara University
+_Lecturer in Computer Science and Engineering_
 
-### VIN D’AGOSTINO \(2020\)
+_B.S. 2011, Santa Clara University_
 
-Lecturer in Electrical and Computer Engineering
+_M.S. 2013, Naval Postgraduate School_
 
-B.E.E.E., Stevens Institute of Technology
+**ZHIQIANG TAO \(2020\)**
 
-M.S.C.S., Polytechnic Institute of Technology
+_Assistant Professor of Computer Science and Engineering_
 
-Certified Scrum Master from Big Visible
+_B.S. 2012, M.S. 2015 Tianjin University, China_
 
-Lean Six Sigma Black Belt form Villanova University
+_Ph.D. 2020, Northeastern University_
 
-### DON DANIELSON \(2004\)
+**STEPHEN TARANTINO \(2011\)**
 
-Lecturer in Engineering Management and Leadership
+_Lecturer in Civil, Environmental and Sustainable Engineering_
 
-B.S. 1977, California Polytechnic University, Pomona
+_B.S. 1970, Santa Clara University_
 
-M.S. 2008, Santa Clara University
+_Registered Professional Engineer in Civil Engineering_
 
-### RONALD L. DANIELSON \(1976\) 
+**MICHAEL TAYLOR \(2015\)**
 
-Professor Emeritus of Computer Science and Engineering
+_Associate Professor of Mechanical Engineering_
 
-B.S. 1967, University of Minnesota 
+_B.S. 2003, Johns Hopkins University_
 
-M.S. 1968, Northwestern University
+_M.S. 2005, Ph.D. 2008, University of California, Berkeley_
 
-Ph.D. 1975, University of Illinois, Urbana
+**SARA TEHRANIPOOR \(2019\)**
 
-### RUTH E. DAVIS \(1979\) 
+_Assistant Professor of Electrical and Computer Engineering_
 
-Professor of Computer Science and Engineering
+_B.S. 2011, Mazandaran University, Iran_
 
-Associate Dean, Undergraduate Studies 
+_M.S. 2013, Shahid Beheshti University, Tehran, Iran_
 
-B.S. 1973, Santa Clara University
+_Ph.D., 2017, University of Connecticut_
 
-M.S. 1976, San Jose State University 
+**NICHOLAS TRAN \(2007\)**
 
-Ph.D. 1979, University of California, Santa Cruz
+_Lecturer in Computer Science and Engineering_
 
-### BEHNAM DEZFOULI \(2016\)
+_B.S. 1987, University of Minnesota_
 
-Assistant Professor of Computer Science and Engineering
+_Ph.D. 1992, University of California, Santa Barbara_
 
-B.S. 2006, M.S. 2009, University of Najafabad 
+**DAVID TRINDADE \(1986\)**
 
-Ph.D. 2014, Universiti Teknologi Malaysia
+_Lecturer in Engineering Management and Leadership_
 
-### ALBERTO DIAZ-TOSTADO \(2017\)
+_B.S. 1965, Brown University_
 
-Lecturer in Computer Science and Engineering
+_M.S. 1968, University of Rochester_
 
-B.S. 2016, M.S. 2017, Santa Clara University
+_M.S. 1976, Ph.D. 1980, University of Vermont_
 
-### CHRISTOPHER DICK \(2019\)
+**CALVIN TSZENG \(2013\)**
 
-Lecturer in Electrical and Computer Engineering
+_Lecturer in Mechanical Engineering_
 
-Ph.D. 1994, La Trobe University
+_B.S. 1979, M.S. 1981, National Tsinghua University_
 
-### NIK DJORDJEVIC \(2010\)
+_Ph.D. 1987, University of California, Berkeley_
 
-Lecturer in Mechanical Engineering
+**LANNY VINCENT \(2017\)**
 
-B.S. 1976, M.S. 1978, University of California, Los Angeles 
+_Lecturer in General Engineering and Graduate Engineering_
 
-### LAURA DOYLE \(2012\)
+_B.A. 1975, Davidson College_
 
-Lecturer in Civil, Environmental and Sustainable Engineering 
+_M.Div. 1978, Yale Divinity School_
 
-B.S. 2003, Loyola Marymount University
+**HIEN VU \(2013\)**
 
-M.S. 2007, Ph.D. 2011, University of California, Davis 
+_Lecturer in Computer Science and Engineering_
 
-### MICHAEL DREW \(2005\)
+_B.S. 1997, M.S. 2005, Santa Clara University_
 
-Lecturer in Mechanical Engineering
+_M.S. 2008, San Jose State University_
 
-B.S. 1994, University of Virginia
+**ERHENG WANG \(2015\)**
 
-M.S. 2002, Ph.D. 2005, University of California, Berkeley
+_Lecturer in Mechanical Engineering_
 
-### SANTANU DUTTA \(2001\) 
+_B.S. 2000, Ph.D. 2005, University of Science and Technology, China  
+Ph.D. 2010, University of Rhode Island_
 
-Lecturer in Electrical and Computer Engineering
+**MING-HWA WANG \(1996\)**
 
-B. Tech. 1987, Indian Institute of Technology
+_Lecturer in Computer Science and Engineering_
 
-M.S. 1990, University of Texas, Austin
+_B.Ed. 1977, National Taiwan Normal University_
 
-M.A. 1994, Ph.D. 1996, Princeton University
+_M.S. 1982, Rochester Institute of Technology_
 
-### ARMAN ELAHI \(2020\)
+_Ph.D. 1991, Illinois Institute of Technology_
 
-Lecturer in Computer Science and Engineering
+**YUAN WANG \(2014\)**
 
-B.S. 2016, M.S. 2017, Santa Clara University
+_Lecturer in Computer Science and Engineering_
 
-### AMR ELKADY \(2014\)
+_B.Eng. 1987, M. Eng. 1990, Beijing University of Technology \(Beijing Polytechnic University\), China  
+Ph.D. 1995, University of Western Ontario, Canada_
 
-Lecturer in Computer Science and Engineering
+**KATHLEEN WATSON**
 
-B.S. 1994, American University in Cairo
+_Lecturer in Computer Science and Engineering_
 
-M.S. 2005, Carleton University
+_B.A. State University of New York College at Buffalo_
 
-### FAROKH H. ESKAFI \(2017\)
+_M.A. San Jose State University_
 
-Lecturer in Computer Science and Engineering
+_M.B.A. California College of the Arts, San Francisco_
 
-B.S. 1991, M.S. 1992, Ph.D. 1996, University of California, Berkeley
+**JOE WEBER**
 
-### AHMED K. EZZAT \(1988\) 
+_Lecturer in Electrical and Computer Engineering_
 
-Lecturer in Computer Science and Engineering
+_B.A. 1988 Notre Dame University_
 
-B.S. 1971, M.S. 1976, Cairo University 
+_M.S. 1995, Ph.D. 1993, University of California, Berkeley_
 
-Ph.D. 1982, University of New Hampshire
+_M.B.A. 2004, University of Colorado at Boulder_
 
-### DRAZEN FABRIS \(1999\) 
+**GLENN A. WILLIAMS \(2009\)**
 
-Associate Professor of Mechanical Engineering
+_Lecturer in Applied Mathematics_
 
-Chair, Department of Mechanical Engineering
+_B.S. 1984, Northwestern University_
 
-B.S. 1990, California Institute of Technology
+_M.S. 1992, Ph.D. 1998, University of North Carolina_
 
-M.S. 1993, Ph.D. 1996, University of California, Berkeley
+**SARAH KATE WILSON \(2006\)**
 
-### YI FANG \(2012\)
+_Associate Professor of Electrical and Computer Engineering_
 
-Associate Professor of Computer Science and Engineering
+_B.A. Bryn Mawr College_
 
-B.E. 2002, M.S. 2005, Wuhan University of Technology 
+_M.S. 1987, Ph.D. 1994, Stanford University_
 
-M.S. 2006, University of Tennessee
+**ANDREW WOLFE \(2013\)**
 
-Ph.D. 2012, Purdue University
+_Academic Year Lecturer in Electrical and Computer Engineering_
 
-### SILVIA M. B. FIGUEIRA \(1998\) 
+_B.S.E.E 1985, Johns Hopkins_
 
-Professor of Computer Science and Engineering
+_M.S. 1987, Ph.D., 1992 Carnegie Mellon_
 
-Dianne McKenna Professor
+**SALLY L. WOOD \(1985\)**
 
-B.S. 1988, M.S. 1991, Federal University of Rio de Janeiro 
+_Professor of Electrical and Computer Engineering_
 
-Ph.D. 1996, University of California, San Diego
+_Associate Dean for Graduate Programs_
 
-### E. JOHN FINNEMORE \(1979\) 
+_B.S. 1969, Columbia University_
 
-Professor Emeritus of Civil, Environmental and Sustainable Engineering
+_M.S. 1975, Ph.D. 1978, Stanford University_
 
-B.Sc. 1960, University of London 
+**PETER J. WOYTOWITZ \(1994\)**
 
-M.S. 1966, Ph.D. 1970, Stanford University 
+_Lecturer in Civil Engineering and Mechanical Engineering_
 
-Registered Professional Engineer in Civil Engineering
+_B.S. 1976, University of Maryland_
 
-### CARL FUSSELL \(1977\)
+_M.S. 1980, Santa Clara University_
 
-Lecturer in Computer Science and Engineering
+_ENGR 1985, Stanford University_
 
-B.S. 1971, Santa Clara University 
+_Ph.D. 1993, Santa Clara University_
 
-M.S. 1973, Loyola University
+**SIYUAN XIN \(2018\)**
 
-### WILLIAM T. GALLAGHER \(2000\) 
+_Lecturer in Electrical and Computer Engineering_
 
-Lecturer in Engineering
+_B.S. 2011, Shanghai Jiaotong University_
 
-B.A. 1982, Ph.D. 1994, University of California, Berkeley
+_B.S. 2011, University of Michigan, Ann Arbor_
 
-M.A. 1984, University of Chicago
+_Ph.D. 2015, University of California, Berkeley_
 
-J.D. 1993, University of California, Los Angeles
+**TOSHISHIGE YAMADA \(2006\)**
 
-### MAJID GHARGHI \(2015\)
+_Lecturer in Electrical and Computer Engineering_
 
-Lecturer in Mechanical Engineering
+_B.S. 1981, M.S. 1983, University of Tokyo_
 
-B.Sc. 2000, M.Sc. 2002, Sharif University of Technology 
+_Ph.D. 1992, Arizona State University_
 
-Ph.D. 2008, University of Waterloo
+**YULING YAN \(2008\)**
 
-### AMIN GHAFOORIPOUR \(2018\)
+_Professor of Bioengineering_
 
-Lecturer in Civil, Environmental and Sustainable Engineering
+_Department of Bioengineering David Packard Fellow_
 
-B.S. 1991, Toosi University of Technology
+_B.S. 1983, M.S. 1986, Nanjing Institute of Technology_
 
-M.S. 1994, Tabriz University 
+_Ph.D. 1991, Keio University_
 
-Ph.D. 2002, Azad University 
+**CARY Y. YANG \(1983\)**
 
-Registered Professional Engineer in Civil Engineering
+_Professor of Electrical and Computer Engineering_
 
-### INDRADEEP GHOSH
+_Director, Center for Nanostructures_
 
-Lecturer in Electrical and Computer Engineering
+_B.S.E.E. 1970, M.S.E.E. 1971, Ph.D. 1975, University of Pennsylvania_
 
-B.Tech. 1993, Indian Institute of Technology, Kharagpur
+**ERHAN YENILMEZ \(2020\)**
 
-M.A. 1995, Ph.D. 1998, Princeton University
+_Lecturer in Bioengineering_
 
-### JOHN GIDDINGS \(2011\)
+_B.S. 1999, Bilkent University_
 
-Lecturer in Engineering Management and Leadership 
+_Ph.D. 2006 Stanford University_
 
-M.S.E.E. 1991, M.B.A. 1997, Santa Clara University
+**AMR ZAKY \(1998\)**
 
-### BRIAN GREEN \(2011\)
+_Lecturer in Computer Science and Engineering_
 
-Lecturer in Graduate Engineering
+_M.S. 1982, Alexandria University_
 
-B.S. 2000, University of California, Davis
+_Ph.D. 1989, Ohio State University_
 
-M.A. 2006, Ph.D. 2013, Graduate Theological Union, Berkeley
+**SERGIO ZARANTONELLO \(1990\)**
 
-### BRUCE S. GREENE \(2003\) 
+_Lecturer in Applied Mathematics_
 
-Lecturer in Electrical and Computer Engineering
+_B.S. 1968, M.S. 1968, Ph.D. 1972. University of Wisconsin, Madison_
 
-B.S. 1987, Boston University
+**ALEKSANDAR ZECEVIC \(1993\)**
 
-M.S. 1989, University of Illinois 
+_Professor of Electrical and Computer Engineering_
 
-Ph.D. 2003, Santa Clara University
+_B.S. 1984, University of Belgrade, Belgrade, Yugoslavia_
 
-### RADHIKA S. GROVER \(2004\)
+_M.S. 1990, Ph.D. 1993, Santa Clara University_
 
-Lecturer Electrical and Computer Engineering
+**ZHIWEN \(JONATHAN\) ZHANG \(2011\)**
 
-B.S. 1991, Indian Institute of Technology-Roorkee, India 
+_Associate Professor of Bioengineering_
 
-M.S. 1992, Birla Institute of Technology, India 
+_Chair, Department of Bioengineering_
 
-Ph.D. 2003, Santa Clara University
+_B.S. 1989, Nanjing University_
 
-### ABHISHEK GUPTA \(2016\)
+_M.S. 1995, University of Toronto_
 
-Lecturer in Computer Science and Engineering
-
-B.Tech. 2008, Indian Institute of Technology at Roorkee, India
-
-M.S. 2011, Ph.D. 2014, University of Illinois, Urbana-Champaign
-
-### YING HAO \(2014\)
-
-Lecturer in Bioengineering
-
-M.D., Ph.D. 1995, Tongji Medical College, Huazhong University of Science and Technology 
-
-M.S. 2008, Stanford University
-
-### RACHEL HE \(2003\) 
-
-Associate Professor of Civil, Environmental and Sustainable Engineering
-
-B.E. 1993, M.E. 1996, Chongqing University, People’s Republic of China 
-
-Ph.D. 2000, University of Wisconsin, Madison
-
-### TIMOTHY J. HEALY \(1966\) 
-
-Professor of Electrical and Computer Engineering
-
-B.S.E.E. 1958, Seattle University
-
-M.S.E.E. 1959, Stanford University 
-
-Ph.D. 1966, University of Colorado, Boulder
-
-### NEYRAM HEMATI \(2010\)
-
-Lecturer in Mechanical Engineering
-
-M.S. 1984, Ph.D. 1988, Cornell University
-
-### TIMOTHY K. HIGHT \(1984\) 
-
-Associate Professor of Mechanical Engineering
-
-B.S. 1972, California Institute of Technology 
-
-M.S. 1973, Ph.D. 1977, Stanford University
-
-Registered Professional Engineer in Mechanical Engineering
-
-### PARSA HOSSEINI \(2008\)
-
-Lecturer in Bioengineering
-
-B.Sc. 2006, Shahid Beheshti University
-
-M.Sc. 2008, University of Tehran
-
-M.Sc. 2014, Wayne State University
-
-Ph.D. 2018, Rutgers University
-
-### STEPHEN HUDGENS \(2009\)
-
-Lecturer in Electrical and Computer Engineering and Graduate Engineering  
-Ph.D. 1976, University of Chicago
-
-### CLIFFORD HWANG \(1999\) 
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 1992, University of California, San Diego
-
-M.S. 1994, Engineer’s Degree 1999, Ph.D. 1999, University of California, Los Angeles
-
-### EMI ISHIDA \(2017\)
-
-Lecturer in Mechanical Engineering
-
-B.S. 1988, Massachusetts Institute of Technology;
-
-M.S., Ph.D. 1994, Stanford University
-
-### DAVID JACOBSON \(2011\)
-
-Lecturer in Mechanical Engineering
-
-B.S. 1980, University of Michigan
-
-M.S. 1985, University of Southern California
-
-### PRAVIN JAIN \(2011\)
-
-Lecturer in Engineering Management and Leadership and Graduate Engineering
-
-B.S. 1974, University of Poona, India 
-
-M.S. 1976, Oregon State University
-
-M.B.A. 1980, University of Portland
-
-### ALKA JARVIS \(1993\)
-
-Lecturer in Computer Science and Engineering
-
-M.B.A. 1996, British Tutorial University
-
-### HUSSAMEDDINE KABBANI \(2015\)
-
-Lecturer in Mechanical Engineering
-
-B. in ME 2003, M. in ME 2005, Beirut Arab University;
-
-Ph.D. 2008, University of Nevada, Las Vegas
-
-### MARYAM KHANBAGHI \(2013\)
-
-Assistant Professor of Electrical and Computer Engineering
-
-B.S. 1990 Universite De Nice-Sophia Antipolis
-
-M.S. 1993, Ph. D. 1998, Ecole Polytechnique
-
-### UNYOUNG \(ASHLEY\) KIM \(2009\)
-
-Associate Professor of Bioengineering
-
-B.S. 1999, M.S. 2001, Korea Advanced Institute of Science and Technology \(KAIST\) 
-
-Ph.D. 2009, University of California, Santa Barbara
-
-### CHRISTOPHER A. KITTS \(1997\) 
-
-Associate Professor of Mechanical Engineering
-
-B.S.E. 1987, Princeton University 
-
-M.P.A. 1991, University of Colorado 
-
-M.S. 1992, Ph.D. 2006, Stanford University
-
-### ROBERT J. KLEINHENZ \(2009\)
-
-Lecturer in Applied Mathematics
-
-B.S. 1971, University of Santa Clara 
-
-M.A. 1973, Ph.D. 1977, University of Illinois
-
-### WALTER KOZACKY \(2013\)
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 1977, University of Illinois
-
-M.S. 2004, Ph.D. 2012, Santa Clara University
-
-### SHOBA KRISHNAN \(1999\) 
-
-Professor of Electrical and Computer Engineering
-
-Chair, Department of Electrical and Computer Engineering
-
-B.TECH 1987, Jawaharlal Nehru Technological University
-
-M.S. 1990, Ph.D. 1993, Michigan State University
-
-### ZOLTAN KURCZVEIL \(2011\)
-
-Lecturer in Computer Science and Engineering
-
-B.A. 1998, U. C. Berkeley 
-
-M.S. 2004, Santa Clara University
-
-M.B.A. 2008, University of California, Berkeley Haas School of Business
-
-### HOHYUN LEE \(2009\)
-
-Assistant Professor of Mechanical Engineering
-
-B.S. 2003, Seoul National University
-
-S.M. 2005, Ph.D. 2009, Massachusetts Institute of Technology
-
-### BROOKS LEMAN \(2004\)
-
-Lecturer in Electrical and Computer Engineering 
-
-B.S. 1979, M.S. 1985, Santa Clara University
-
-### RONALD LESNIAK \(2013\)
-
-Lecturer in Engineering Management and Leadership
-
-B.S.E.E. 1970, Marquette University
-
-M.B.A. 1977, Loyola University of Chicago 
-
-Doctor of Management in Organizational Leadership 2006, University of Phoenix
-
-### DANIEL W. LEWIS \(1975\) 
-
-Associate Professor of Computer Science and Engineering
-
-B.S.E.E. 1968, Georgia Institute of Technology
-
-M.S.E.E. 1972, E.E. 1975, Ph.D. 1975, Syracuse University
-
-### JAMES LEWIS \(2020\)
-
-Academic Year Lecturer in Electrical and Computer Engineering
-
-B.S. 1991, University of California, Davis
-
-### GARY LI \(2013\)
-
-Lecturer in Bioengineering
-
-Ph.D. 2000, Nanjing University, China
-
-### XIANG LI \(2018\)
-
-Assistant Professor of Computer Science and Engineering
-
-B.S. 2009, Heilongjiang University, China 
-
-M.S. 2012, Chinese Academy of Sciences, China
-
-M.S. 2014, Ph.D. 2018, University of Florida, Gainesville 
-
-### NIGEL H. LIN \(2016\)
-
-Lecturer in Computer Science and Engineering
-
-B. Eng. 2000, M. Eng. 2002, Ph.D. 2005, Tamkang University, Taiwan
-
-### NAM LING \(1989\) 
-
-Professor of Computer Science and Engineering
-
-Chair, Department of Computer Science and Engineering
-
-Wilmot J. Nicholson Family Professor
-
-B.Eng. 1981, National University of Singapore
-
-M.S. 1985, Ph.D. 1989, University of Louisiana at Lafayette
-
-### KAN LIU \(2015\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1982, Xiamen University, China
-
-M.S. 1984, Peking University, China
-
-M.A. 1989, University of South Florida
-
-Ph.D. 1988, Ohio State University
-
-### LEO LIU \(2014\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1978, Northern Jiaotong University, China
-
-M.S. 1981, Peking University, China
-
-Ph.D. 1988, Yale University
-
-### YING LIU \(2018\)
-
-Assistant Professor of Computer Science and Engineering
-
-B.S. 2006, Beijing University of Posts and Telecommunications, China
-
-M.S. 2008, Ph.D. 2012, State University of New York, Buffalo
-
-### YUHONG LIU \(2015\)
-
-Associate Professor of Computer Science and Engineering
-
-B.S. 2004, M.S. 2007, Beijing University of Posts and Telecommunications, China 
-
-Ph.D. 2012, University of Rhode Island
-
-### MARK J. S. LOPEZ \(2019\)
-
-Lecturer in Mechanical Engineering
-
-B.S. 2011, University of California, Irvine
-
-M.S. 2014, Ph.D. 2016, Georgia Institute of Technology
-
-U.S. Army Aviation Development Directorate
-
-### BIAO LU \(2015\)
-
-Associate Professor of Bioengineering
-
-M.D. 1988, M.Sc. 1991 Shanghai Medical University, China
-
-BSC, 2001, Ph.D. 2004, University of Manitoba, Canada
-
-### CRIST LU \(2019\)
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 1992, University of California, Los Angeles
-
-M.S. 1994, University of California, Berkeley
-
-### WEN-PAI LU \(2020\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1978, M.S. 1981, University of Tennessee
-
-Ph.D. 1986, University of Arizona
-
-### SATHISH MANICKAM \(2014\)
-
-Lecturer in Bioengineering
-
-Ph.D. 2009, University of California, Los Angeles
-
-### ROBERT MARKS \(2011\)
-
-Lecturer in Mechanical Engineering
-
-B.S. 1996, M.S. 2000, Ph.D. 2003, University of California, Berkeley
-
-### MANISH MARWAH
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1993, Indian Institute of Technology at Delhi
-
-M.S. 1996, Ph.D. 2007, University of Colorado at Boulder
-
-### EDWIN MAURER \(2003\) 
-
-Professor of Civil, Environmental and Sustainable Engineering
-
-Robert W. Peters Professor
-
-Chair, Department of Civil, Environmental and Sustainable Engineering
-
-B.S. 1985, University of Rhode Island 
-
-M.S. 1989, University of California, Berkeley
-
-Ph.D. 2002, University of Washington;  
-Registered Professional Engineer in Civil Engineering
-
-### MICHAEL McELFRESH \(2011\)
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 1979, University of California, Davis
-
-M.A. 1981, Washington University 
-
-Ph.D. 1988, University of California, San Diego
-
-### AARON MELMAN \(2005\) 
-
-Renewable Term Lecturer in Applied Mathematics
-
-B.Sc. 1983, University of Louvain; M.Sc. 1986, Technion - Israel Institute of Technology 
-
-Ph.D. 1992, California Institute of Technology 
-
-### MAGDA METWALLY \(1986\) 
-
-Lecturer in Applied Mathematics
-
-B.S. 1967, Ain-Shams University Egypt 
-
-M.S. 1972, University of British Columbia 
-
-Ph.D. 1982, Santa Clara University
-
-### RANI MIKKILINENI \(1996\) 
-
-Renewable Term Lecturer in Computer Science and Engineering
-
-B.S. 1971, Maris Stella College
-
-M.S. 1973, Andhra University 
-
-M.S. 1989, University of Denver 
-
-Ph.D. 1998, Santa Clara University
-
-### KEYVAN MOATAGHED \(2003\) 
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1975, M.S. 1979, Ph.D. 1982, Technical University of Graz, Austria
-
-### RAMIN MOAZENI \(2014\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1999, Isfahan University of Technology, Iran 
-
-M.S. 2003, California State University, East Bay
-
-M.S. 2008, University of Southern California
-
-### MARYAM MOBED-MIREMADI \(2013\)
-
-Lecturer in Bioengineering
-
-B.S. 1988, M.S. 1991, Ph.D. 1996, McGill University
-
-### BRADEN MOLHOEK \(2018\)
-
-Lecturer in Computer Science and Engineering
-
-B.A. 2003, Ohio Wesleyan University
-
-M.T.S. 2005, Boston University
-
-Ph.D. 2016, Graduate Theological Union, Berkeley
-
-### ERIC MONSEF \(2004\)
-
-Lecturer in Engineering Management and Leadership
-
-B.S. 1990, M.S. 1996, Santa Clara University
-
-### RALPH E. MORGANSTERN \(1992\) 
-
-Lecturer in Applied Mathematics
-
-B.S. 1962, Rensselaer Polytechnic Institute
-
-M.A. 1965, Ph.D. 1968, State University of New York, Stony Brook
-
-### GODFREY MUNGAL \(2007\) 
-
-Professor of Mechanical Engineering
-
-B.A.Sc. 1975, University of Toronto 
-
-M.Sc. 1977, Ph.D. 1983, California Institute of Technology
-
-### MOHAMMAD MUSA \(2019\)
-
-Lecturer in Engineering Management and Leadership
-
-B.S. 2003, M.S. 2006, Santa Clara University
-
-### GHULAM MUSTAFA \(2013\)
-
-Lecturer in Mechanical Engineering
-
-B.E. 1980, NED University of Engineering and Technology 
-
-M.S. 1987, Ph.D. 1992, Texas Tech University
-
-### ANGELA MUSURLIAN \(2014\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1989, Rio de Janeiro State University, Brazil 
-
-M.S. 1993, Madrid Polytechnic University, Madrid, Spain
-
-### AYHAN MUTLU \(2004\)
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 1996, Middle East Technical University 
-
-Ph.D. 2004, Santa Clara University
-
-### MADIHALLY J. \(SIM\) NARASIMHA \(2002\)
-
-Lecturer in Electrical and Computer Engineering
-
-B.E. 1971, Bangalore University
-
-M.S. 1976, Ph.D. 1976, Stanford University
-
-### PETER NGHIEM \(2018\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1983, California State University Sacramento
-
-M.S. 1987, 2014, Ph.D. 2017, Santa Clara University
-
-### NHAN NGUYEN \(2006\)
-
-Lecturer in Mechanical Engineering
-
-M.S. 1991, Stanford University
-
-Ph.D. 2005, Santa Clara University
-
-### TONYA NILSSON \(2010\)
-
-Senior Lecturer in Civil, Environmental and Sustainable Engineering
-
-B.S. 1991, California Polytechnic State University, San Luis Obispo
-
-M.S. 1993, Stanford University
-
-Ph.D. 2002, University of California, Davis
-
-Registered Professional Engineer in Civil Engineering
-
-### GERARDO NORIEGA \(2012\)
-
-Lecturer in Bioengineering
-
-B.S. 1985, San Jose State University
-
-### TOKUNBO OGUNFUNMI \(1990\) 
-
-Professor of Electrical and Computer Engineering 
-
-B.S. 1980, University of Ife, Nigeria
-
-M.S. 1984, Ph.D. 1990, Stanford University
-
-### ON SHUN PAK \(2013\)
-
-Assistant Professor of Mechanical Engineering
-
-B.Eng. 2008, University of Hong Kong 
-
-M.S. 2010, Ph.D. 2013, University of California, San Diego
-
-### USHA NITI PARIMI \(2012\)
-
-Lecturer in Engineering Management and Leadership
-
-B. Tech. 1994, Pune Institute of Computer Technology, India
-
-M.S. 2012, Santa Clara University
-
-### T. KIM PARNELL \(2011\)
-
-Lecturer in Mechanical Engineering
-
-B.S. 1978, Georgia Tech 
-
-M.S. 1979, Ph.D. 1984, Stanford University
-
-### VLADIMIR PATRYSHEV \(2014\)
-
-Lecturer in Computer Science and Engineering
-
-M.S. 1973, St. Petersburg State University, Russia
-
-### KERN PENG \(2001\) 
-
-Lecturer in Engineering Management and Leadership
-
-B.S. 1992, San Jose State University
-
-M.B.A. 1996, Ph.D. 2000, San Francisco State University
-
-### NICHOLAS PERA \(2006\) 
-
-Lecturer in Civil, Environmental and Sustainable Engineering
-
-B.S. 1995, Santa Clara University
-
-### BRUCE PITTMAN \(2002\)
-
-Lecturer in Engineering Management and Leadership 
-
-B.S. 1976, University of California, Davis 
-
-M.S. 1984, Santa Clara University
-
-### KISHORE PUSUKURI \(2017\)
-
-Lecturer in Computer Science and Engineering
-
-B. Tech. 2002, Kakatiya University of India 
-
-Ph.D. 2012, University of California, Riverside
-
-### XIAOSHU QIAN \(2003\) 
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 1982, Zhejiang University \(China\)
-
-M.S. 1990, 1994, Ph.D. 1996, University of Rhode Island
-
-### MAHMUD RAHMAN \(1986\) 
-
-Associate Professor of Electrical and Computer Engineering
-
-B.S.E.E. 1969, University of Engineering and Technology, Dhaka, Bangladesh 
-
-M.Eng. 1981, Dr. Eng. 1984, Tokyo Institute of Technology
-
-### DAVID RICH \(2008\)
-
-Lecturer in Mechanical Engineering
-
-Ph.D. 2006, University of California, Berkeley
-
-### VERNA RODRIGUEZ \(2019\)
-
-Lecturer in Bioengineering and Engineering Management and Leadership
-
-B.S. 1982, University of California, Berkeley
-
-### ERIC SABELMAN \(2000\) 
-
-Lecturer in Mechanical Engineering
-
-B.S. 1968, M.S. 1969, Ph.D. 1976, Stanford University
-
-### SAMAR SAHA \(2003\)
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 1971, Cotton College, India 
-
-M.Sc. 1973, Ph.D. 1981, Gauhati University, India
-
-M.S. 1992, Stanford University
-
-### PEDRO SANCHEZ \(2020\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 2019, M.S. 2020, Santa Clara University
-
-### SWATI SAXENA \(2018\)
-
-Lecturer in Mechanical Engineering
-
-B.Tech.2006, IIT Kanpur, India
-
-M.S. 2008, Ph.D. 2012, Penn State University
-
-### HISHAM SAID \(2011\)
-
-Associate Professor in Civil, Environmental and Sustainable Engineering
-
-B.S. 2003, M.S. 2006, Cairo University, Egypt 
-
-Ph.D. 2010, University of Illinois
-
-### KURT SCHAB \(2018\)
-
-Assistant Professor of Electrical and Computer Engineering
-
-B.S. 2011, Portland State University
-
-M.S. 2013, Ph.D. 2016, University of Illinois at Urbana-Champaign
-
-### ROBERT SCHAFFER \(2020\)
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 1995, George Mason University
-
-M.S. 1998, Stanford University
-
-### DENNIS SEGERS \(2016\)
-
-Lecturer in Engineering Management and Leadership
-
-B.S. 1975, Texas A&M University 
-
-AEA Stanford Executive Institute 1995
-
-### PAUL SEMENZA \(2016\)
-
-Dean’s Executive Professor 
-
-Chair, Department of Engineering Management and Leadership
-
-B.S. 1985, M.S. 1990, Tufts University
-
-Master in Public Policy 1994, Harvard University
-
-### GIOVANNI SENI \(2003\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1988, Los Andes University, Bogotá, Colombia
-
-M.S. 1992, Ph.D. 1995, State University of New York, Buffalo
-
-### PANTHEA SEPEHRBAND \(2012\)
-
-Assistant Professor of Mechanical Engineering 
-
-B.Sc. 2000, University of Tehran
-
-M.Sc. 2004, Sharif University of Technology
-
-Ph.D. 2010, University of Waterloo
-
-### REYNAUD L. SERRETTE \(1991\) 
-
-Professor of Civil, Environmental and Sustainable Engineering 
-
-B.Sc. 1987, M.Sc. 1988, University of Manitoba 
-
-Ph.D. 1992, Cornell University
-
-### WEIJIA SHANG \(1994\) 
-
-Associate Professor of Computer Science and Engineering
-
-B.S. 1982, Changsha Institute of Technology, China
-
-M.S. 1984, Ph.D. 1990, Purdue University
-
-### RATNESH SHARMA
-
-Lecturer in Mechanical Engineering
-
-B. Tech 1992, IIT Kharagpur, India
-
-M.S. 1998, Ph.D. 2001, University of Colorado at Boulder
-
-### NADYA SHIROKOVA \(2009\)
-
-Lecturer in Applied Mathematics
-
-Ph.D. 1998, University of Chicago
-
-### TERRY E. SHOUP \(1989\) 
-
-Professor of Mechanical Engineering
-
-BME 1966, M.S. 1967, Ph.D. 1969, Ohio State University
-
-Registered Professional Engineer in Mechanical Engineering
-
-### DRAGOSLAV D. SILJAK \(1964\) 
-
-Professor Emeritus of Electrical and Computer Engineering
-
-B.S.E.E. 1958, MSEE 1961, Dr. Sci. 1963, University of Belgrade
-
-### SUKHMANDER SINGH \(1986\) 
-
-Professor of Civil, Environmental and Sustainable Engineering
-
-Nicholson Family Professor
-
-B.S. 1964, Punjabi University 
-
-M.S. 1966, Indian Institute of Technology, Delhi 
-
-Ph.D. 1979, University of California, Berkeley
-
-Registered Professional Engineer in Civil Engineering and Geotechnical Engineering
-
-### JAMES SOWERS \(2005\)
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 1978, Cornell University 
-
-M.S. 1982, Stanford University
-
-### NATALIYA STAROSTINA \(2018\)
-
-Lecturer in Mechanical Engineering
-
-B.S., M.S. 1994, Peter the Great St-Petersburg State Technical University, Russia
-
-Ph.D. 2009, Russian Academy of Science, Russia
-
-### MARIAN STETSON-RODRIGUEZ \(2001\) 
-
-Lecturer in Graduate Engineering
-
-B.A. 1976, University of California, Berkeley
-
-M.S. 1997, Pepperdine University
-
-### CRAIG L. STEVENS \(2006\)
-
-Lecturer in Mechanical Engineering
-
-B.S. 1982, California Polytechnic State University, San Luis Obispo
-
-M.S. 1985, Stanford University
-
-### ALEX SUMARSONO \(2017\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1982, M.S. 1985, Iowa State University
-
-Ph.D. 2015, Mississippi State University
-
-### ABDIE TABRIZI \(1990\) 
-
-Lecturer in Mechanical Engineering
-
-B.S. 1977, University of Tulsa
-
-M.S. 1979, Oklahoma State University 
-
-Ph.D. 1986, University of Tennessee
-
-### JAMES TAGUCHI \(2016\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 2011, Santa Clara University
-
-M.S. 2013, Naval Postgraduate School
-
-### ZHIQIANG TAO \(2020\)
-
-Assistant Professor of Computer Science and Engineering
-
-B.S. 2012, M.S. 2015 Tianjini University, China
-
-Ph.D. 2020, Northeastern University
-
-### STEPHEN TARANTINO \(2011\)
-
-Lecturer in Civil, Environmental and Sustainable Engineering
-
-B.S. 1970, Santa Clara University
-
-Registered Professional Engineer in Civil Engineering
-
-### MICHAEL TAYLOR \(2015\)
-
-Assistant Professor of Mechanical Engineering
-
-B.S. 2003, John Hopkins University
-
-M.S. 2005, Ph.D. 2008, University of California, Berkeley
-
-### NICHOLAS TRAN \(2007\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1987, University of Minnesota 
-
-Ph.D. 1992, University of California, Santa Barbara
-
-### DAVID TRINDADE \(1986\)
-
-Lecturer in Engineering Management and Leadership
-
-B.S. 1965, Brown University
-
-M.S. 1968, University of Rochester
-
-M.S. 1976, Ph.D. 1980, University of Vermont
-
-### CALVIN TSZENG \(2013\)
-
-Lecturer in Mechanical Engineering
-
-B.S. 1979, M.S. 1981, National Tsinghua University
-
-Ph.D. 1987, University of California, Berkeley
-
-### LANNY VINCENT \(2017\)
-
-Lecturer in Engineering
-
-B.A. 1975, Davidson College
-
-M.Div. 1978, Yale Divinity School
-
-### HIEN VU \(2013\)
-
-Lecturer in Computer Science and Engineering
-
-B.S. 1997, M.S. 2005, Santa Clara University 
-
-M.S. 2008, San Jose State University
-
-### GARY WALZ \(2008\)
-
-Lecturer in Civil. Environmental and Sustainable Engineering
-
-B.S. 1978, Santa Clara University
-
-### ERHENG WANG \(2015\)
-
-Lecturer in Mechanical Engineering
-
-B.S. 2000, Ph.D. 2005, University of Science and Technology, China  
-Ph.D. 2010, University of Rhode Island
-
-### MING-HWA WANG \(1996\)
-
-Lecturer in Computer Science and Engineering
-
-B.Ed. 1977, National Taiwan Normal University
-
-M.S. 1982, Rochester Institute of Technology
-
-Ph.D. 1991, Illinois Institute of Technology
-
-### YUAN WANG \(2014\)
-
-Lecturer in Computer Science and Engineering
-
-B.Eng. 1987, M. Eng. 1990, Beijing University of Technology \(Beijing Polytechnic University\), China  
-Ph.D. 1995, University of Western Ontario, Canada
-
-### KATHLEEN WATSON
-
-Lecturer in Computer Science and Engineering
-
-B.A. State University of New York College at Buffalo
-
-M.A. San Jose State University
-
-M.B.A. California College of the Arts, San Francisco
-
-### JOE WEBER 
-
-Lecturer in Electrical and Computer Engineering
-
-B.A. 1988 Notre Dame University
-
-M.S. 1995, Ph.D. 1993, University of California, Berkeley
-
-M.B.A. 2004, University of Colorado at Boulder
-
-### GLENN A. WILLIAMS \(2009\)
-
-Lecturer in Applied Mathematics
-
-B.S. 1984, Northwestern University 
-
-M.S. 1992, Ph.D. 1998, University of North Carolina
-
-### SARAH KATE WILSON \(2006\)
-
-Associate Professor of Electrical and Computer Engineering 
-
-B.A. Bryn Mawr College 
-
-M.S. 1987, Ph.D. 1994, Stanford University
-
-### Andrew Wolfe \(2020\)
-
-Academic Year Lecturer in Electrical and Computer Engineering
-
-B.S.E.E 1985, John Hopkins
-
-M.S. 1987, Ph.D., Carnegie Mellon
-
-### SALLY L. WOOD \(1985\) 
-
-Professor of Electrical and Computer Engineering
-
-B.S. 1969, Columbia University 
-
-M.S. 1975, Ph.D. 1978, Stanford University
-
-### PETER J. WOYTOWITZ \(1994\) 
-
-Lecturer in Civil Engineering and Mechanical Engineering
-
-B.S. 1976, University of Maryland
-
-M.S. 1980, Santa Clara University 
-
-ENGR 1985, Stanford University
-
-Ph.D. 1993, Santa Clara University
-
-### SIYUAN XIN \(2018\)
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 2011, Shanghai Jiaotong University
-
-B.S. 2011, University of Michigan, Ann Arbor
-
-Ph.D. 2015, University of California, Berkeley
-
-### TOSHISHIGE YAMADA \(2006\)
-
-Lecturer in Electrical and Computer Engineering
-
-B.S. 1981, M.S. 1983, University of Tokyo
-
-Ph.D. 1992, Arizona State University
-
-### YULING YAN \(2008\)
-
-Professor of Bioengineering
-
-Department of Bioengineering David Packard Fellow 
-
-B.S. 1983, M.S. 1986, Nanjing Institute of Technology
-
-Ph.D. 1991, Keio University
-
-### CARY Y. YANG \(1983\) 
-
-Professor of Electrical and Computer Engineering 
-
-Director, Center for Nanostructures
-
-B.S.E.E. 1970, M.S.E.E. 1971, Ph.D. 1975, University of Pennsylvania
-
-### ERHAN YENILMEZ \(2020\)
-
-Lecturer in Bioengineering
-
-B.S. 1999, Bilkent University
-
-Ph.D. 2006 Stanford University
-
-### AMR ZAKY \(1998\)
-
-Lecturer in Computer Science and Engineering
-
-M.S. 1982, Alexandria University
-
-Ph.D. 1989, Ohio State University
-
-### SERGIO ZARANTONELLO \(1990\)
-
-Lecturer in Applied Mathematics
-
-B.S. 1968, M.S. 1968, Ph.D. 1972, University of Wisconsin, Madison
-
-### ALEKSANDAR ZECEVIC \(1993\)
-
-Professor of Electrical and Computer Engineering
-
-Associate Dean for Graduate Programs
-
-B.S. 1984, University of Belgrade, Belgrade, Yugoslavia
-
-M.S. 1990, Ph.D. 1993, Santa Clara University
-
-### ZHIWEN \(JONATHAN\) ZHANG \(2011\)
-
-Associate Professor of Bioengineering
-
-Chair, Department of Bioengineering
-
-B.S. 1989, Nanjing University 
-
-M.S. 1995, University of Toronto
-
-Ph.D. 2001, University of Texas at Austin  
-
+_Ph.D. 2001, University of Texas at Austin_
 

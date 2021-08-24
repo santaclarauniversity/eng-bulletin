@@ -1,89 +1,130 @@
 # Engineering Advisory Board
 
-_**Renee Niemi, Chair**_
+Renee Niemi, Chair
 
-Sam Bertram  
-CEO and Co-Founder  
+**Sam Bertram**
+
+CEO and Co-Founder
+
 OnePointOne and Willo
 
-Ivo Bolsens                          
-Vice President, Chief Technology Officer  
-Xilinx, Incorporated
+**Ivo Bolsens**
 
-Chuck Cantoni  
-Former President and CEO Alara, Incorporated
+_Vice President, Chief Technology Officer_
 
-Bill Carter  
-Retired Xilinx Fellow  
+_Xilinx, Incorporated_
+
+**Chuck Cantoni**
+
+_Former President and CEO Alara, Inc._
+
+**Bill Carter**
+
+Retired Xilinx Fellow
+
 SCU Board of Trustees
 
-Kathryn \(Kathy\) Chou  
-Vice President, R&D Operations and Central Services  
-VM Ware
+**Kathryn \(Kathy\) Chou**
 
-Ross Dakin  
-New Jersey Office of Innovation  
-Greater New York City Area  
-Former Presidential Innovation Fellow
+_Vice President, R&D Operations and Central Services_
 
-Mir Imran  
-Chairman and CEO Modulus, Inc.  
-Managing Director, InCube Ventures LP  
-Adjunct Professor of Bioengineering
+_VM Ware_
 
-Waguih Ishak, Ph.D.  
-Division Vice President, Science andTechnology   
-Director, Corning West Technology Center  
-Corning Incorporated
+**Ross Dakin**
 
-Jack Jia            
-Chief Executive Officer  
-Trusper, Incorporated 
+_New Jersey Office of Innovation_
 
-James Lyons, Ex-Officio Member  
-Vice President for University Relations  
-Santa Clara University
+_Greater New York City Area_
 
-John Maydonovitch  
-President and Chief Executive Officer  
-MCE, Incorporated
+_Former Presidential Innovation Fellow_
 
-John McCool  
-Chief Platform Officer and Sr. V.P. of Engineering and Operations  
-Arista Networks, Inc.
+**Mir Imran**
 
-Renee Niemi-Chair      
-Board Director and Business Consultant
+_Chairman and CEO Modulus, Inc._
 
-Richard L. Reginato     
-Director and THAAD Development Program Manager  
-Lockheed Martin Space Systems Company
+_Managing Director, InCube Ventures LP_
 
-Fariborz \(Frankie\) Roohparvar  
-Executive Chairman  
-Batteroo Corporation
+**Waguih Ishak, Ph.D.**
 
-Paul Russell     
-Vice President and General Manager  
-L3 Technologies Tech
+_Division Vice President, Science andTechnology_
 
-Alexander S. Shubat     
-Chief Executive Officer  
-Espresa
+_Corning West Technology Center_
 
-Gordon Stitt            
-Network Technology Leader  
-Former CEO, Nebula
+**Jack Jia**
 
-Elaine Scott  
-Dean, School of Engineering  
+_Chief Executive Officer_
+
+_Trusper, Incorporated_
+
+**James Lyons, Ex-Officio Member**
+
+_Vice President for University Relations_
+
+_Santa Clara University_
+
+_**John Maydonovitch**_
+
+_President and Chief Executive Officer_
+
+_MCE, Incorporated_
+
+**John McCool**
+
+_Chief Platform Officer and Sr. V.P. of Engineering and Operations_
+
+_Arista Networks, Inc._
+
+**Renee Niemi-Chair**
+
+_Board Director and Business Consultant_
+
+_Limited Partner, Mighty Capital_
+
+**Richard L. Reginato**
+
+_Director and THAAD Development Program Manager_
+
+_Lockheed Martin Space Systems Company_
+
+**Fariborz \(Frankie\) Roohparvar**
+
+_Executive Chairman_
+
+_Batteroo Corporation_
+
+**Paul Russell**
+
+_Vice President and General Manager_
+
+_L3 Technologies Tech_
+
+**Alexander S. Shubat**
+
+_Chief Executive Officer_
+
+_Espresa_
+
+**Gordon Stitt**
+
+_Network Technology Leader_
+
+_Former CEO, Nebula_
+
+**Elaine Scott**
+
+Dean, School of Engineering
+
 Sobrato Professor of Engineering
 
-Hermant Thapar  
-Founder and CEO  
-OmniTier Incorporated
+**Hermant Thapar**
 
-Marc van den Berg, Chairman Emeritus  
-Managing Partner  
+_Founder and CEO_
+
+_OmniTier Inc._
+
+**Marc van den Berg, Chairman Emeritus**
+
+_Managing Director_
+
 40 North Ventures
 
