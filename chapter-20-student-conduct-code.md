@@ -1,10 +1,10 @@
 # Chapter 20: Student Conduct Code
 
-**Statement Of Responsibilities And Standards Of Conduct**
+## **Statement Of Responsibilities And Standards Of Conduct**
 
 All members of the University community have a strong responsibility to protect and maintain an academic climate in which the fundamental freedom to learn can be enjoyed by all and where the rights and well-being of all members of the community are protected. To this end, certain basic regulations and policies have been developed to govern the conduct of all students as members of the University community. The Student Handbook is available online at [http://www.scu.edu/osl/policies-and-protocols/](http://www.scu.edu/osl/policies-and-protocols/)
 
-**Academic Integrity**
+## **Academic Integrity**
 
 The University is committed to academic excellence and integrity. Santa Clara University Students affirm the following commitment to academic integrity:
 
@@ -14,7 +14,7 @@ Students are expected to do their own work and to cite any sources they use. Aca
 
 A student who is guilty of a dishonest act in an examination, paper, or other work required for a course, or who assists others in such an act, may, at the discretion of the instructor, receive a grade of "F" for the course. In addition, a student found guilty of a dishonest act may be subject to sanctions, up to and including dismissal from the University, as a result of the student judicial process as described in the Student Handbook and the Academic Integrity Protocol. A student who violates copyright laws, including those covering the copying of software programs, or who knowingly alters official academic records from this or any other institution is subject to similar disciplinary action.
 
-**Academic Integrity Protocol**
+## **Academic Integrity Protocol**
 
 **Allegations within the Context of a Course**
 

@@ -6,7 +6,7 @@ Certificate programs are designed to provide intensive background in a narrow ar
 
 **Interdisciplinary**
 
-**Certificate in Frugal Innovation**
+### **Certificate in Frugal Innovation**
 
  _Advisor:_ Dr. Aleksandar Zecevic
 
@@ -65,7 +65,7 @@ _Renewable Energy \(8 units\)_
 * ELEN 287 Storage Device Systems \(2 units\)
 * ENGR 272 Energy Public Policy \(2 units\)
 
-**Electrical Engineering Certificates**
+### **Electrical Engineering Certificates**
 
 **Digital System Design**
 
@@ -136,7 +136,9 @@ _Required Courses \(11 units minimum\)_
 * At least one course from: ELEN 233 Digital Signal Processing System Development \(4 units\) or ELEN 226 Machine Learning and Signal Processing Using FPGAs \(2 units\) or ELEN 234 Digital Signal Processing II \(2 units\)
 * At least one course from: ELEN 421 Speech Processing I or ELEN 640 Digital Image Processing I \(2 units\)
 
+{% hint style="info" %}
 Note: ELEN 233E Digital Signal Processing I, II \(4 units\) is equivalent to both ELEN 233 and ELEN 234.
+{% endhint %}
 
 _Elective Courses \(Additional courses to make a total of 16 units\) selected from the list below:_
 
@@ -220,7 +222,7 @@ _Elective Courses \(12 units\)_
 
 Substitutions for these courses are only possible with the approval of the certificate advisor and the chair.
 
-**Mechanical Engineering Certificates**
+### **Mechanical Engineering Certificates**
 
 _Department Chair-Dr. Hohyun Lee_
 

@@ -4,7 +4,7 @@ Santa Clara students are encouraged to participate in extracurricular activities
 
 The following sections describe various aspects of student life and services.
 
-**Campus Ministry**
+### **Campus Ministry**
 
 Campus Ministry is comprised of people who are committed to spiritual and personal growth. Its mission is to foster the spiritual life of our students and Campus Ministry values Gathering across difference, Discerning what is needed, and Transforming our hearts & communities.
 
@@ -28,7 +28,7 @@ Campus Ministry is comprised of people who are committed to spiritual and person
 
 Yes! We welcome the participation of anyone interested in spiritual and personal growth, regardless of faith tradition. This is a time for learning about yourself and our world, and we hope we can accompany you in that exploration and deepening of faith and spirituality.
 
-**Student Media**
+### **Student Media**
 
 _**KSCU:**_ KSCU is a student-run, non-commercial radio station at 103.3 FM. The program format features primarily independent music, including indie rock, punk, ska, jazz, blues, electronic, reggae, and more. Students may get involved with the radio station as a staff member or as a volunteer disc jockey, office assistant, fundraiser, or sound technical staff. The staff of KSCU operates all aspects of an FM radio station in accordance with SCU’s mission and goals, and Federal Communications Commission regulations.
 
@@ -44,7 +44,7 @@ Counseling and Psychological Services \(CAPS\) is staffed with psychologists who
 
 When CAPS is closed, an after-hours emergency and suicide crisis hotline \(408-279-3312\) is available to students along with Santa Clara's unique crisis webpage featured on the [Ulifeline website](http://www.ulifeline.org/scu/).
 
-## Student Health Services
+### Student Health Services
 
-## Student Health Services \(SHS\) is staffed with a physician, physician assistant, nurse practitioners, registered nurses, and medical assistants. A psychiatrist, registered dietitian, and physical therapy assistant are available on a part-time basis. SHS provides high-quality services, such as primary medical care, physicals, diagnosis and treatment of illness and injuries, immunizations, gynecological examinations, a limited in-house pharmacy, and medical referrals to specialists when needed. Medical visits to the Cowell Center's Student Health Services range from $10 to $50 per visit for all students. Visit fees are in addition to all other nominal associated fees, such as the cost of medications, lab/blood tests, and supplies. Visits to Cowell Center's Counseling and Psychological Services range in cost from no charge to $100 per visit for all students. For further information, see the [Cowell Center website](https://www.scu.edu/cowell/). When SHS is closed, an advice nurse is available by phone for students both on campus \(extension 4880\) and off campus \(408-554-4880\). A volunteer student emergency medical group, SCU Emergency Medical Services \(EMS\), is also available to take care of medical emergencies on campus. The health center is closed from mid-June to mid-August.
+Student Health Services \(SHS\) is staffed with a physician, physician assistant, nurse practitioners, registered nurses, and medical assistants. A psychiatrist, registered dietitian, and physical therapy assistant are available on a part-time basis. SHS provides high-quality services, such as primary medical care, physicals, diagnosis and treatment of illness and injuries, immunizations, gynecological examinations, a limited in-house pharmacy, and medical referrals to specialists when needed. Medical visits to the Cowell Center's Student Health Services range from $10 to $50 per visit for all students. Visit fees are in addition to all other nominal associated fees, such as the cost of medications, lab/blood tests, and supplies. Visits to Cowell Center's Counseling and Psychological Services range in cost from no charge to $100 per visit for all students. For further information, see the [Cowell Center website](https://www.scu.edu/cowell/). When SHS is closed, an advice nurse is available by phone for students both on campus \(extension 4880\) and off campus \(408-554-4880\). A volunteer student emergency medical group, SCU Emergency Medical Services \(EMS\), is also available to take care of medical emergencies on campus. The health center is closed from mid-June to mid-August.
 
