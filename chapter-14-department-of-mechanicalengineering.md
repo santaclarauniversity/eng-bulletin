@@ -252,7 +252,7 @@ _Elective Courses \(8 units required\)_
 
 _Culminating experience: Thesis \(4–9 units\), or MECH 345 and MECH 346._
 
-**MASTER OF SCIENCE IN AEROSPACE ENGINEERING**
+**Master of Science in Aerospace Engineering**
 
 _Advisors:_ Dr. Mohammad Ayoubi, Dr. Christopher Kitts
 
