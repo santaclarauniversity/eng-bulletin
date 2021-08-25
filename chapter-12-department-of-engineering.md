@@ -1,10 +1,10 @@
 # Chapter 12: Department of Engineering
 
-Coordinator: Dr. Aleksandar Zecevic
+_Coordinator:_ Dr. Aleksandar Zecevic
 
 The Graduate Core is one of the distinguishing features of the Master’s program at Santa Clara University. Because of its breadth and interdisciplinary nature, the Core requires courses that transcend departmental boundaries, and address questions that relate to the societal impact of engineering, as well as ways in which this impact can be shaped. We offer a wide range of such courses, which are designated with the prefix ENGR \(to emphasize the fact that they belong to the category of General Engineering\).
 
-**Course Descriptions**
+### **Course Descriptions**
 
 _**ENGR 256. Introduction to NanoBioengineering\***_
 
@@ -44,7 +44,9 @@ _**ENGR 288. Co-op Education**_
 
 The primary purpose of Co-op education is to give students an opportunity to gain practical knowledge in their field of study. This course is designed to prepare them for such an experience. It consists of a series of lectures on topics that will familiarize them with the Silicon Valley working environment and will enable them to relate their experience in the industry to their academic program. **This course is required for all international students who wish to do Curricular Practical Training \(CPT\). ENGR 288 is not offered in the summer quarter.** **Attendance is mandatory. P/NP grading. \(1 unit\)**
 
-_**Note: ENGR 288 can be taken during the first quarter of CPT, or before the training begins.**_
+{% hint style="info" %}
+_Note: ENGR 288 can be taken during the first quarter of CPT, or before the training begins._
+{% endhint %}
 
 _**ENGR 289. Extended Co-op Education**_
 

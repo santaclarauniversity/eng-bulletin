@@ -116,9 +116,9 @@ micro-devices using a wide variety of materials and processes. Multiple microflu
 
 The _**Tissue Engineering Laboratory**_ supports research and teaching activities related to mammalian cell and tissue culture. Activities include but are not limited to 2D and 3D mammalian cell culture, investigation of the role of biophysical cues on cancer cell migration and response to drugs, and genetic manipulation of mammalian cells.
 
-**Course Descriptions**
+### **Course Descriptions**
 
-**Undergraduate Courses**
+#### **Undergraduate Courses**
 
 _**BIOE 100. Bioengineering Research Seminar**_
 
@@ -316,7 +316,7 @@ _**BIOE 199. Supervised Independent Research**_
 
 By arrangement. Prerequisite: Advisor approval. \(1–4 units\)
 
-**Graduate Courses**
+#### **Graduate Courses**
 
 _**BIOE 200. Bioengineering Research Seminar**_
 

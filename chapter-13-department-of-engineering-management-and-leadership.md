@@ -85,7 +85,7 @@ Students in this program will receive a B.S. degree after satisfying the standar
 5. Students must register with the graduate course number in cross-listed courses to apply the course to an M.S. degree.
 6. Students who are entering this program should meet with their Engineering Management and Leadership advisor at the end of their junior year to develop a program of studies to ensure that all graduate courses they plan to take are applicable to the Engineering Management and Leadership M.S. degree.
 
-**COURSE DESCRIPTIONS**
+### **COURSE DESCRIPTIONS**
 
 _**EMGT 253. Operations and Production Systems**_
 

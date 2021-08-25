@@ -218,7 +218,9 @@ _Required Courses \(11 units minimum\)_
 * At least one course from: ELEN 223 Digital Signal Processing System Development \(4 units\) or ELEN 226 Machine Learning and Signal Processing Using FPGAs \(2 units\) or ELEN 234 Digital Signal Processing II \( 2 units\)
 * At least one course from: ELEN 421 Speech Processing I or ELEN 640 Digital Image Processing I \(2 units\)
 
+{% hint style="info" %}
 _Note: ELEN 233E Digital Signal Processing I, II \(4 units\) is equivalent to both ELEN 233 and ELEN 234._
+{% endhint %}
 
 _Elective Courses \(Additional courses to make a total of 16 units\) selected from the list below:_
 
@@ -320,9 +322,9 @@ The _**Thermal and Electrical Nanoscale Transport \(TENT\)**_ Laboratory provide
 
 The _**Information Processing and Machine Learning Laboratory**_ supports research in theoretical algorithm development in digital signal processing, adaptive and nonlinear signal processing, machine learning, and deep learning. Application areas include speech, audio, image and video processing for computer vision, communications, biological testing and diagnostics, artificial intelligence \(AI\), Voice-over-IP networking. The lab supports student research in algorithms and real-time implementations on Graphical Processing Units \(GPUs\), digital signal processors \(DSPs\) and field programmable gate arrays \(FPGAs\). Laboratory equipment includes digital oscilloscopes, video cameras and wireless LAN networking equipment. 
 
-**Course Descriptions**
+### **Course Descriptions**
 
-**Lower-Division Undergraduate Courses**
+#### **Lower-Division Undergraduate Courses**
 
 _**ELEN 20. Emerging Areas in Electrical and Computer Engineering**_
 
@@ -637,7 +639,7 @@ Investigation of an approved engineering problem and preparation of a suitable p
 
 \* Eligible for graduate credit in electrical and computer engineering
 
-**Graduate Courses**
+#### **Graduate Courses**
 
 _**Some graduate courses may not apply toward certain degree programs. As early as possible, preferably during the first quarter of study, students are urged to discuss in detail with their faculty advisor the program of study they wish to pursue.**_
 

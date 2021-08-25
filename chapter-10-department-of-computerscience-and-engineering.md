@@ -10,9 +10,7 @@ _Professor:_ Ruth E. Davis
 
 _Associate Professors:_ Ahmed Amer, Darren Atkinson, Yi Fang, Yuhong Liu, Weijia Shang
 
-_Assistant Professors:_ Margareta Ackerman, David C. Anastasiu, Sean Choi, Behnam Dezfouli,
-
- I-Han Hsiao, Xiang Li, Ying Liu, Zhiqiang Tao
+_Assistant Professors:_ Margareta Ackerman, David C. Anastasiu, Sean Choi, Behnam Dezfouli, I-Han Hsiao, Xiang Li, Ying Liu, Zhiqiang Tao
 
 _RTL Lecturers:_ Moe Amouzgar, Rani Mikkilineni, Angela Musurlian
 
@@ -139,11 +137,11 @@ The _**Video and Image Processing Laboratory**_ _**\(VIP Lab\)**_ investigates s
 
 For details of faculty research areas, please see [https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/research/](https://www.scu.edu/engineering/academic-programs/department-of-computer-engineering/research/).
 
-**Course Descriptions**
+### **Course Descriptions**
 
 _Please Note: Depending on enrollment, some courses may not be offered every year._
 
-**Lower-Division Undergraduate Courses**
+#### **Lower-Division Undergraduate Courses**
 
 _**COEN 10. Introduction to Programming**_
 
@@ -300,7 +298,7 @@ _**COEN 150. Introduction to Information Security**_
 
 Security principles; operating system security: process security, file system security, application program security; access control models: DAC, MAC, RBAC, ABAC; malware: virus, Trojan, worms, rootkits, botnets, adware, spyware; network security attacks and defenses at different layers; web security: attacks on clients and servers; cryptographic basis: symmetric cryptography, public-key cryptography, cryptographic hash functions, digital signature; application security: database security, email security, social networking security. Prerequisites: A grade of C- or better in COEN 146. Corequisite: COEN 150L \(4 units\)
 
-## _COEN 150L. Introduction to Information Security Laboratory_
+_**COEN 150L. Introduction to Information Security Laboratory**_
 
 Laboratory for COEN 150. Corequisite: COEN 150. \(1 unit\)
 
@@ -444,7 +442,7 @@ _**COEN 199. Directed Research/Reading**_
 
 Special problems. By arrangement. \(1–5 units\)
 
-**Graduate Courses**
+#### **Graduate Courses**
 
 Some graduate courses may not apply toward certain degree programs. During the first quarter of study, students should investigate with their faculty advisors the program of study they wish to pursue.
 

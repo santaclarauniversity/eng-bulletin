@@ -358,9 +358,9 @@ levels, digital theodolites, total stations, and GPS-based surveying instruments
 
 The _**Traffic Laboratory**_ has electronic volume counters that are used in studies to classify vehicles and measure their speeds in user-specified ranges and periods of time
 
-**Course Descriptions**
+### **Course Descriptions**
 
-**Lower-Division Undergraduate Courses**
+#### **Lower-Division Undergraduate Courses**
 
 _**CENG 7. Graphic Communication**_
 
@@ -424,7 +424,7 @@ _**CENG 45L. Construction Materials Laboratory**_
 
 Laboratory testing and processing of steel, concrete, wood, and other non-conventional civil engineering construction materials. Corequisite: CENG 45. \(1 unit\)
 
-**Upper-Division Undergraduate Courses**
+#### **Upper-Division Undergraduate Courses**
 
 _**CENG 115. Civil Engineering Materials**_
 
@@ -670,7 +670,7 @@ _**CENG 199. Directed Research**_
 
 Investigation of an approved engineering problem and preparation of a suitable project report. Conferences with faculty advisor are required. Prerequisite: Junior standing. \(1–5 units\)
 
-**Graduate Courses**
+#### **Graduate Courses**
 
 _**CENG 205. Finite Element Methods I**_
 

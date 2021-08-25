@@ -82,10 +82,7 @@ _**Power Systems**_
 
 _**Renewable Energy**_
 
-* ELEN 284 Solar Cell Technologies and Simulation Tools \(2 units\) or
-
-ELEN 380 Economics of Energy \(2 units\)
-
+* ELEN 284 Solar Cell Technologies and Simulation Tools \(2 units\) or ELEN 380 Economics of Energy \(2 units\)
 * ELEN 286/MECH 286 Introduction to Wind Energy Engineering \(2 units\)
 * ELEN 287 Storage Device Systems \(2 units\)
 * ENGR 272 Energy Public Policy \(2 units\)

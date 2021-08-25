@@ -553,9 +553,9 @@ The _**Materials Laboratory**_ contains equipment for metallography and optical 
 
 The _**Vibrations and Control Systems Laboratory**_ is equipped with two flexible test systems. One is capable of single or multi-degree of freedom modes, free or forced motion, and adjustable damping. The other is an inverted pendulum. Both systems can be controlled by a wide variety of control algorithms and are fully computer connected for data acquisition and control.
 
-**Undergraduate Course Descriptions**
+### **Undergraduate Course Descriptions**
 
-**Lower-Division Undergraduate Courses**
+#### **Lower-Division Undergraduate Courses**
 
 _**MECH 10. Graphical Communication in Design**_
 
@@ -585,7 +585,7 @@ Computer programming in MATLAB, including: use of the development environment, m
 
 Laboratory for MECH 45. Co-requisite: MECH 45 \(1 unit\)
 
-**Upper-Division Undergraduate Courses**
+#### **Upper-Division Undergraduate Courses**
 
 _**MECH 101L. Machining Lab**_
 
@@ -766,7 +766,7 @@ _**MECH 199. Directed Research/Reading**_
 
 Investigation of an engineering problem and writing an acceptable report. Meetings with faculty advisor required. Prerequisite: Senior standing. \(2–4 units\)
 
-**Graduate Courses**
+### **Graduate Courses**
 
 _**MECH 200. Advanced Engineering Mathematics I**_
 
