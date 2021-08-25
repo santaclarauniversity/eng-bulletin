@@ -1,14 +1,14 @@
 # Chapter 4: Financial Information
 
-**FINANCIAL RESPONSIBILITY**
+## **FINANCIAL RESPONSIBILITY**
 
 Students assume responsibility for all costs incurred as a result of enrollment at Santa Clara University. It is the student’s responsibility to be aware of their student account balance, financial deadlines, refund policies, financial aid information, and maintain current valid contact information at all times to ensure receipt of all University correspondence in a timely manner. All correspondence is sent using the University’s official Gmail account. Students are responsible to check their Santa Clara Gmail for important information and updates.
 
-**FINANCIAL TERMS AND CONDITIONS**
+## **FINANCIAL TERMS AND CONDITIONS**
 
 Students are required to accept the financial terms and conditions outlined by the University in order to continue their enrollment at SCU. Students will be prompted to accept the terms and conditions, on an annual basis, upon their login to ecampus. Students will not have access to their Student Center until they have read and agreed to the information contained on the page\(s\) prompted. By accepting SCU’s financial terms and conditions, students are agreeing to pay and to abide by all policies and procedures.
 
-**TUITION AND FEES**
+## **TUITION AND FEES**
 
 **Tuition, per quarter unit, for all courses...$1,088**
 
@@ -18,7 +18,7 @@ Per quarter, for each student enrolled in School of Engineering courses; include
 
 Association of Graduate Engineering Students \(AGES\) fee.
 
-**MANDATORY HEALTH INSURANCE**
+## **MANDATORY HEALTH INSURANCE**
 
 **Annual graduate student health insurance fee $3,054.**
 
@@ -42,7 +42,7 @@ All F-1 visa international students, regardless of number of units, must be enro
 
 All J-1 visa international students, regardless of number of units, will be automatically enrolled into the SCU-sponsored health insurance plan.
 
-**OTHER FEES**
+## **OTHER FEES**
 
 **Non-refundable application fee, per application...$90**
 
@@ -64,9 +64,11 @@ All J-1 visa international students, regardless of number of units, will be auto
 
 **N Permit - after 4:30PM only - \(per year\) ... $200**
 
-\*Note: For parking permit fee information, please go to [Parking & Transportation Website](https://www.scu.edu/vice-provost-for-student-life/campus-safety/parking-and-transportation-services/)
+{% hint style="info" %}
+For parking permit fee information, please go to [Parking & Transportation Website](https://www.scu.edu/vice-provost-for-student-life/campus-safety/parking-and-transportation-services/)
+{% endhint %}
 
-**BILLING AND PAYMENT PROCEDURES**
+## **BILLING AND PAYMENT PROCEDURES**
 
 Students assume responsibility for all costs incurred as a result of enrollment at Santa Clara University and agree to abide by applicable University policies and procedures. Students may designate a third party \(e.g., parent, family member, spouse\) to be an Authorized Payer for the purpose of reviewing student accounts, billing information, and remitting payment on the student’s behalf. However, it is ultimately the student’s responsibility to make sure all financial obligations are completed by the published deadlines.
 
@@ -76,7 +78,7 @@ Students are obligated to pay the applicable tuition and fees by the published t
 
 Additional information, including detailed instructions on Santa Clara’s billing and payment procedures, is located at the website: [BURSAR WEBSITE](http://www.scu.edu/bursar)
 
-**Graduate Programs Billing Dates and Deadlines**
+### **Graduate Programs Billing Dates and Deadlines**
 
 The following dates are the initial payment deadlines for each quarter:
 
@@ -88,7 +90,7 @@ Spring 2022 Billing available March 1; payment due March 21
 
 Summer 2022 Billing available May 1; payment due May 21
 
-**PAYMENT METHODS**
+### **PAYMENT METHODS**
 
 Santa Clara University offers a variety of payment methods to students to assist with their financial obligations. Please visit our Bursar’s office website for additional payment information: [Bursar Payment Options](https://www.scu.edu/bursar/paymentoptions/).
 
@@ -155,7 +157,9 @@ The following refund schedule applies:
 
 To receive tuition refunds from the Bursar’s Office, course drops must be handled administratively. **Students should NOT drop a weekend/off cycle course themselves through eCampus after the first week of the quarter.**
 
+{% hint style="info" %}
 Please Note: If you withdraw or drop below half-time status you may no longer be eligible to receive financial aid or student loans. Your account will be adjusted accordingly, and the aid returned to the appropriate program. If you have received a refund for these funds, you must reimburse Santa Clara University immediately. For more information on financial aid forfeiture, please visit the Financial Aid website or make an appointment with your financial aid counselor.
+{% endhint %}
 
 **One-Unit Courses**
 
@@ -176,7 +180,8 @@ Santa Clara reserves the right to change tuition, room and board, fees, or other
 
 **TUITION INSURANCE PROTECTION**
 
-Students and families may protect themselves against financial loss from an unexpected withdrawal from the University by purchasing tuition insurance coverage. The University has partnered with A.W.G. Dewar Inc., to provide an optional insurance plan. This plan is designed to protect from loss of funds paid for tuition should it be necessary to completely withdraw from the University during the term for diagnosed medical or mental health reasons. Information on the tuition insurance plan can be found at: [w](http://www.collegerefund.com/)[ww.collegerefund.com](http://www.collegerefund.com/) and available on the Bursar’s Office website at: [www.scu.edu/bursar/tuitionprotection](http://www.scu.edu/bursar/tuitionprotection).
+Students and families may protect themselves against financial loss from an unexpected withdrawal from the University by purchasing tuition insurance coverage. The University has partnered with A.W.G. Dewar Inc., to provide an optional insurance plan. This plan is designed to protect from loss of funds paid for tuition should it be necessary to completely withdraw from the University during the term for diagnosed medical or mental health reasons. Information on the tuition insurance plan can be found at:   
+[w](http://www.collegerefund.com/)[ww.collegerefund.com](http://www.collegerefund.com/) and available on the Bursar’s Office website at: [www.scu.edu/bursar/tuitionprotection](http://www.scu.edu/bursar/tuitionprotection).
 
 **FINANCIAL AID**
 
@@ -190,11 +195,13 @@ State graduate fellowships are awarded to California residents pursuing a recogn
 
 Students applying for aid may find the most advantageous method of financing their education through loan programs. Among those available to students of the School of Engineering are the Federal Perkins Loan and Federal Stafford Loans through the School as Lender Program. Applicants should apply using the Free Application for Federal Student Aid \(FAFSA\), which is available at the website: [www.fafsa.ed.gov/](http://www.fafsa.ed.gov/).
 
-_Please Note: A student must be a U.S. citizen or eligible non-citizen to qualify for federal sources of financial assistance._
+{% hint style="info" %}
+_Please Note:  A student must be a U.S. citizen or eligible non-citizen to qualify for federal sources of financial assistance._
+{% endhint %}
 
 **Deadlines**
 
-The Financial Aid Office has established deadlines for consideration of the various programs it administers. All students requesting financial aid from the University should contact the Financial Aid Office at the earliest possible date to request specific deadline information and appropriate application materials. Files completed later than February 1 for new recipients and March 2 for current recipients will receive consideration on a funds-available basis. All financial aid deadlines are posted on the Financial Aid website: www.scu.edu/financialaid.
+The Financial Aid Office has established deadlines for consideration of the various programs it administers. All students requesting financial aid from the University should contact the Financial Aid Office at the earliest possible date to request specific deadline information and appropriate application materials. Files completed later than February 1 for new recipients and March 2 for current recipients will receive consideration on a funds-available basis. All financial aid deadlines are posted on the Financial Aid website: [www.scu.edu/financialaid](https://www.scu.edu/financialaid).
 
 **Veterans and Veterans' Dependents Assistance**
 

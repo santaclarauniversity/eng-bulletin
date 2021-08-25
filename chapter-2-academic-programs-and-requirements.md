@@ -12,7 +12,7 @@ The application fee and GRE General Test requirement are waived. Automatic admis
 
 _Please Note: Undergraduate students will be charged the current undergraduate tuition rate while enrolled in those graduate courses. Once students have been matriculated into the master’s degree program, current graduate tuition rates will be charged._
 
-\*\*For more information on the engineering management and leadership option, please see Chapter 13.
+\*\*For more information on the engineering management and leadership option, please see [Chapter 13](chapter-13-department-of-engineering-management-and-leadership.md).
 
 **Certificate Programs**
 
@@ -30,17 +30,17 @@ The master’s program is designed to extend the technical breadth and depth of 
 
 Students have the option to write a thesis as part of their master’s degree. Students who choose this option are responsible for obtaining an advisor for their thesis work. The maximum number of units awarded for the master’s thesis is nine. Please note that the thesis option is not available in the Engineering Management and Leadership Program.
 
-The School of Engineering offers Master’s programs in Applied Mathematics, Aerospace Engineering, Bioengineering, Civil Engineering, Computer Science and Engineering, , Electrical and Computer Engineering, Engineering Management and Leadership, Mechanical Engineering, Robotics and Automation and Power Systems and Sustainable Energy. The coursework requirements for the degree are determined by each of the major departments. In order to graduate, students must complete the required coursework for the program to which they are admitted and must have a cumulative GPA of 3.0 in all coursework listed on their approved program of study. In addition to this requirement, Engineering Management and Leadership degree candidates must earn a 3.0 GPA in those courses applied to their technical stem and a 3.0 GPA in their engineering management course stem.
+The School of Engineering offers Master’s programs in Applied Mathematics, Aerospace Engineering, Bioengineering, Civil Engineering, Computer Science and Engineering, , Electrical and Computer Engineering, Engineering Management and Leadership, Mechanical Engineering, Robotics and Automation, and Power Systems and Sustainable Energy. The coursework requirements for the degree are determined by each of the major departments. In order to graduate, students must complete the required coursework for the program to which they are admitted and must have a cumulative GPA of 3.0 in all coursework listed on their approved program of study. In addition to this requirement, Engineering Management and Leadership degree candidates must earn a 3.0 GPA in those courses applied to their technical stem and a 3.0 GPA in their engineering management course stem.
 
 _Please note: Only classes with assigned grades of C- or higher will count toward the completion of the certificates, M.S., or Ph.D. degrees. The grades of all courses completed during the M.S., Ph.D. or certificate program are used to compile final cumulative grade point average \(GPA\)_
 
 Note that the number of engineering management courses accepted for other degrees in the graduate engineering program is restricted to six units in computer science engineering, electrical and computer engineering, and most options of mechanical engineering.
 
-**Graduate Minor In Science, Technology, And Society \(Sts\)**
+**Graduate Minor In Science, Technology, And Society \(STS\)**
 
 The graduate minor in science, technology, and society \(STS\) is designed to help students gain a deeper understanding of the influence that engineering has on society \(and vice versa\). Knowledge of this kind has become essential in an increasingly complex and interconnected world, in which purely technical expertise often needs to be supplemented by additional skills. In order to successfully operate in such an environment, engineers must \(at the very least\) have the ability to communicate clearly, function on interdisciplinary and diverse teams, and make ethically and socially responsible decisions. The minor consists of a Core and a set of electives and entails a minimum of 12 units of coursework. It is open to all students who are pursuing a master’s degree in engineering, regardless of the specific program in which they are enrolled.
 
-For more comprehensive information, please see Chapter 17.
+For more comprehensive information, please see [Chapter 17](chapter-17-graduate-minor-in-science-technology-and-society-sts.md).
 
 **Engineer’s Degree Program**
 
@@ -68,8 +68,7 @@ It is the student’s responsibility to obtain consent from a full-time faculty 
 
 It is strongly recommended that Ph.D. students find a thesis advisor before taking the preliminary examination. After passing the preliminary examination, Ph.D. students should have a thesis advisor before the beginning of the next quarter following the preliminary examination. Students currently pursuing a master’s degree at the time of their preliminary examination should have a thesis advisor as soon as possible after being accepted as a Ph.D. student.
 
-The student and the thesis advisor jointly develop a complete program of studies for  
-research in a particular area. The complete program of studies \(and any subsequent changes\) must be filed with Engineering Graduate Programs and approved by the student’s doctoral committee. Until this approval is obtained, there is no guarantee that courses taken will be counted toward the Ph.D. course requirements.
+The student and the thesis advisor jointly develop a complete program of studies for research in a particular area. The complete program of studies \(and any subsequent changes\) must be filed with Engineering Graduate Programs and approved by the student’s doctoral committee. Until this approval is obtained, there is no guarantee that courses taken will be counted toward the Ph.D. course requirements.
 
 **Doctoral Committee**
 
@@ -95,8 +94,7 @@ At least one month before the degree is conferred, the candidate must submit one
 
 **Time Limit for Completing Degrees**
 
-All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the Dean of Engineering in consultation with the Research Program  
-Leadership Council.
+All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the Dean of Engineering in consultation with the Research Program Leadership Council.
 
 **Non-Enrollment Period**
 
@@ -130,5 +128,7 @@ Open University students who are considering enrolling in the master’s program
 
 Students should remember, however, that all coursework taken at SCU, whether as a degree-seeking or an Open University student, becomes a part of the student’s academic history.
 
+{% hint style="info" %}
 _Please Note: Santa Clara University does not issue F-1 visas to applicants who wish to enter directly into the open university program._
+{% endhint %}
 

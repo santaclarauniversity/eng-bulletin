@@ -8,16 +8,15 @@ _Renewable Term_ Lecturer: Aaron Melman
 
 The Applied Mathematics Program is open to those students who have earned a B.S. degree in engineering, science, or mathematics, provided that the student has completed a program in undergraduate mathematics that parallels the program of the mathematics major at Santa Clara University. The undergraduate program at Santa Clara includes calculus and differential equations, abstract algebra, linear algebra, advanced calculus and/or real analysis; and a minimum of five upper-division courses chosen from the areas of analysis, complex variables, partial differential equations, numerical analysis, logic, probability, and statistics.
 
-Courses for the master’s degree must result in a total of 46 units. These units may include courses from other fields with permission of the Applied Mathematics Department advisor. A minimum of 12 quarter units must be in 300-level Amth courses.
+Courses for the master’s degree must result in a total of 46 units. These units may include courses from other fields with permission of the Applied Mathematics Department advisor. A minimum of 12 quarter units must be in 300-level AMTH courses.
 
-**Concentration in Mathematical Finance within the Master of Science in  
-Applied Mathematics**
+**Concentration in Mathematical Finance within the Master of Science in Applied Mathematics**
 
 In addition to its freestanding master’s degree program, the Department of Applied Mathematics offers a concentration in mathematical finance within its master’s degree program. Specific course requirements change from time to time. For further information, please consult with the chair of the department.
 
-**Course Descriptions**
+### **Course Descriptions**
 
-**Undergraduate Courses**
+#### **Undergraduate Courses**
 
 _**AMTH 106. Differential Equations**_
 
@@ -44,7 +43,7 @@ _**AMTH 194. Peer Educator in Applied Mathematics**_
 Peer educators in applied mathematics work closely with a faculty member to help students understand course material, think more deeply about course material, benefit from collaborative learning, feel less anxious about testing situations, and help  
 students enjoy learning. Prerequisite: Instructor Approval. \(2 units\)
 
-**Graduate Courses**
+#### **Graduate Courses**
 
 All 200-level applied mathematics courses are assumed to be first-year graduate courses. The minimum preparation for these courses is a working knowledge of calculus and a course in differential equations. A course in advanced calculus is desirable. The 300-level applied mathematics courses are graduate courses in mathematics that should be taken only by students who have completed several 200-level courses.
 

@@ -96,10 +96,14 @@ Graduate students will exhibit professionalism, consistent with the Universityâ€
 * ENGR 349 Topics in Frugal Engineering
 * ENGR 351-New Paradigm for Technology-Global Mindfulness Leadership
 
-_**Note 1: Although certain courses \(such as ENGR 302, ENGR 304, ENGR 336, and AMTH 367 for example\) may appear in multiple categories, they cannot be used to satisfy more than one Core requirement. Students are encouraged to periodically check for updates regarding new courses in these areas on the graduate engineering website under current student resources.**_
+{% hint style="info" %}
+_Note 1: Although certain courses \(such as ENGR 302, ENGR 304, ENGR 336, and AMTH 367 for example\) may appear in multiple categories, they cannot be used to satisfy more than one Core requirement. Students are encouraged to periodically check for updates regarding new courses in these areas on the graduate engineering website under current student resources._
 
 [https://www.scu.edu/engineering/current-student-resources/current-graduate-students/graduate-core/](https://www.scu.edu/engineering/current-student-resources/current-graduate-students/graduate-core/)  
 _****_
+{% endhint %}
 
-_**Please Note:Transfer credit is not approved for core courses, and all core courses must be taken at SCU.**_
+{% hint style="info" %}
+_Please Note: Transfer credit is not approved for core courses, and all core courses must be taken at SCU._
+{% endhint %}
 

@@ -14,11 +14,17 @@ Only courses in which the student has earned assigned grades of A, B, or C, with
 
 Students who have not met the minimum cumulative 3.0 GPA overall for two consecutive active quarters are eligible for dismissal. The student’s advisor and Department Chair will be notified about their GPA status by email. The decision to be dismissed from the program will be based on a departmental vote, which will be conducted at the request of the advisor and/or Department Chair, and with approval from the Associate Dean for Graduate Programs. Students who have been dismissed from the program can appeal to the Department Chair, and subsequently to the Associate Dean for Graduate Studies.
 
+{% hint style="info" %}
 _EMGT Major Note: In addition to the cumulative GPA requirement, Engineering Management students must also maintain a GPA of 3.0 or higher in their EMGT and technical stem courses._
+{% endhint %}
 
+{% hint style="info" %}
 _Note 1: Only classes with assigned grades of C- or higher will count toward the completion of the certificates, M.S., or Ph.D. degrees. The grades of all courses completed during the certificate, M.S. or Ph.D. program are used to compile the final grade point average \(GPA\)._
+{% endhint %}
 
+{% hint style="info" %}
 _Note 2: Directed Research, Independent Study, and Engr courses will not go toward the student's major GPA. Only major subject courses will be calculated in the students’ major GPA._
+{% endhint %}
 
 **Grading System**
 
@@ -70,7 +76,9 @@ During the first quarter of enrollment, a student in the M.S. degree program is 
 
 The POS must include all planned courses, units and any transfer credit approved by the department. The POS must be signed by the advisor and submitted to the Engineering Graduate Programs Office before the end of the first quarter of enrollment. Failure to submit a new POS will result in a registration hold. Variations from the approved Program of Studies may be made either with written approval of the advisor or by submitting an updated Program of Studies form with the advisor’s signature to the Engineering Graduate Programs Office. The final Program of Studies form signed by the advisor must include all units and transfer credits, and must be submitted during the student’s final quarter for graduation.
 
+{% hint style="info" %}
 Please Note: Extension, online and continuing education units are not accepted for transfer credit.
+{% endhint %}
 
 **Courses Transferred From Santa Clara University**
 
@@ -95,7 +103,9 @@ All M.S. students have the option to transfer a maximum of six semester or nine 
   * The student’s academic advisor must sign the Program of Studies form and submit it to the Engineering Graduate Programs Office.
   * The Graduate Programs Office must have an official transcript from the school you are transferring units from to review and approve the transfer credit request.
 
+{% hint style="info" %}
 NOTE: Courses that were taken more than 10 years ago are generally not acceptable for transfer credit. Students who wish to request an exception must petition the department Chair and receive a written approval with a justification. The final approval is given by the Associate Dean for Graduate Programs.
+{% endhint %}
 
 **Petition For Graduation**
 
@@ -109,7 +119,9 @@ The objective of cooperative education is to provide students with the opportuni
 
 Students who wish to pursue this option through curricular practical training \(CPT\) must enroll in ENGR 288. This class is a prerequisite for ENGR 289, and must be taken before you begin an internship. To be eligible to enroll in ENGR 288 students must complete at least 16 units of graduate level courses by the end of their second quarter at SCU, or demonstrate that they will complete 24 units of graduate-level coursework by the end of their third quarter with department chair approval. Those who plan to start \(or continue\) their CPT after they have taken ENGR 288 must enroll in ENGR 289 \(which is allowed for credit up to three times\).\*\* Students who were authorized for CPT but did not receive a passing grade in ENGR 288 or ENGR 289 will not be eligible for future CPT authorization since they did not complete the academic requirements associated with their internship.
 
-_**\*\*\* Note 1: ENGR 288 is not offered in the summer quarter. Students who plan to participate in a summer internship need to enroll in ENGR 288 in the Spring quarter.**_
+{% hint style="info" %}
+_\*\* Note 1: ENGR 288 is not offered in the summer quarter. Students who plan to participate in a summer internship need to enroll in ENGR 288 in the Spring quarter._
+{% endhint %}
 
 **Concurrent Enrollment**
 

@@ -6,9 +6,7 @@ The University was established as Santa Clara College on the site of the Mission
 
 Santa Clara experienced slow and steady growth during its first 60 years, becoming the University of Santa Clara in 1912, when the schools of engineering and law were added. In 1925, the high school was separated from the University and took the name of Bellarmine College Preparatory in 1928. The Leavey School of Business opened in 1926, and within a decade, became one of the first business schools in the country to receive national accreditation.
 
-For 110 years, Santa Clara was an all-male school. In the fall of 1961, women were  
-accepted as undergraduates, and Santa Clara became the first coeducational Catholic university in California. The decision resulted in an admissions explosion—from 1,500  
-students to more than 5,000. The size of the faculty tripled, and the University began the largest building program in school history, building eight residence halls, a student union, and an athletic stadium. In 1985, the University adopted “Santa Clara University” as its official name.
+For 110 years, Santa Clara was an all-male school. In the fall of 1961, women were accepted as undergraduates, and Santa Clara became the first coeducational Catholic university in California. The decision resulted in an admissions explosion—from 1,500 students to more than 5,000. The size of the faculty tripled, and the University began the largest building program in school history, building eight residence halls, a student union, and an athletic stadium. In 1985, the University adopted “Santa Clara University” as its official name.
 
 **University Vision, Mission And Fundamental Values**
 
@@ -22,9 +20,7 @@ Santa Clara University will educate citizens and leaders of competence, conscien
 
 The University pursues its vision by creating an academic community that educates the whole person within the Jesuit, Catholic tradition, making student learning our central focus, continuously improving our curriculum and co-curriculum, strengthening our scholarship and creative work, and serving the communities of which we are a part in Silicon Valley and around the world.
 
-Student learning takes place at the undergraduate and graduate level in an  
-educational environment that integrates rigorous inquiry and scholarship, creative  
-imagination, reflective engagement with society, and a commitment to fashioning a more humane and just world.
+Student learning takes place at the undergraduate and graduate level in an educational environment that integrates rigorous inquiry and scholarship, creative imagination, reflective engagement with society, and a commitment to fashioning a more humane and just world.
 
 As an academic community, we expand the boundaries of knowledge and insight through teaching, research, artistic expression, and other forms of scholarship. It is primarily through discovering, communicating, and applying knowledge that we exercise our institutional responsibility as a voice of reason and conscience in society.
 
@@ -46,8 +42,7 @@ _**Search for Truth, Goodness, and Beauty.**_ We prize scholarship and creative 
 
 _**Engaged Learning.**_ We strive to integrate academic reflection and direct experience in the classroom and the community, especially to understand and improve the lives of those with the least education, power, and wealth.
 
-_**Commitment to Students.**_ As teachers and scholars, mentors and facilitators, we  
-endeavor to educate the whole person. We nurture and challenge students--intellectually, spiritually, aesthetically, morally, socially, and physically–-preparing them for leadership and service to the common good in their professional, civic, and personal lives.
+_**Commitment to Students.**_ As teachers and scholars, mentors and facilitators, we endeavor to educate the whole person. We nurture and challenge students--intellectually, spiritually, aesthetically, morally, socially, and physically–-preparing them for leadership and service to the common good in their professional, civic, and personal lives.
 
 _**Service to Others.**_ We promote throughout the University a culture of service—service not only to those who study and work at Santa Clara but also to society in general and to its most disadvantaged members as we work with and for others to build a more humane, just, faith-filled, and sustainable world.
 
@@ -95,8 +90,7 @@ The [Markkula Center for Applied Ethics](https://www.scu.edu/ethics/) brings the
 
 **Faculty**
 
-Santa Clara University’s emphasis on a community of scholars and integrated education attracts faculty members who are as committed to students’ intellectual and moral  
-development as they are pursuing their own scholarship. The University’s 694full-time faculty members are distinguished teachers and scholars. Examples of awards received by SCU faculty include: Fulbright, National Science Foundation, National Institutes of Health, and National Endowment for the Arts. Additionally, our faculty are acclaimed authors, scientists and theorists in their fields.
+Santa Clara University’s emphasis on a community of scholars and integrated education attracts faculty members who are as committed to students’ intellectual and moral development as they are pursuing their own scholarship. The University’s 694full-time faculty members are distinguished teachers and scholars. Examples of awards received by SCU faculty include: Fulbright, National Science Foundation, National Institutes of Health, and National Endowment for the Arts. Additionally, our faculty are acclaimed authors, scientists and theorists in their fields.
 
 **Alumni**
 
