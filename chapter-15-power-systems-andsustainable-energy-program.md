@@ -1,4 +1,4 @@
-# Chapter 15: Power Systems andSustainable Energy Program
+# Chapter 15: Power Systems and Sustainable Energy Program
 
 _Program Advisor:_ Dr. Maryam Khanbaghi
 

@@ -18,7 +18,7 @@
 * [Chapter 12: Department of Engineering](chapter-12-department-of-engineering.md)
 * [Chapter 13: Department of Engineering Management and Leadership](chapter-13-department-of-engineering-management-and-leadership.md)
 * [Chapter 14: Department of Mechanical Engineering](chapter-14-department-of-mechanicalengineering.md)
-* [Chapter 15: Power Systems andSustainable Energy Program](chapter-15-power-systems-andsustainable-energy-program.md)
+* [Chapter 15: Power Systems and Sustainable Energy Program](chapter-15-power-systems-andsustainable-energy-program.md)
 * [Chapter 16: Robotics and Automation Program](chapter-16-robotics-and-automation-program.md)
 * [Chapter 17: Graduate Minor in Science, Technology, and Society \(STS\)](chapter-17-graduate-minor-in-science-technology-and-society-sts.md)
 * [Chapter 18: Certificate Programs](chapter-18-certificate-programs.md)
