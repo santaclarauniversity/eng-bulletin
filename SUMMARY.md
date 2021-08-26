@@ -13,7 +13,7 @@
 * [Chapter 7: Department of Applied Mathematics](chapter-7-department-of-applied-mathematics.md)
 * [Chapter 8: Department of Bioengineering](chapter-8-department-of-bioengineering.md)
 * [Chapter 9: Department of Civil, Environmental, and Sustainable Engineering](chapter-9-department-of-civil-environmental-and-sustainable-engineering.md)
-* [Chapter 10: Department of ComputerScience and Engineering](chapter-10-department-of-computerscience-and-engineering.md)
+* [Chapter 10: Department of Computer Science and Engineering](chapter-10-department-of-computerscience-and-engineering.md)
 * [Chapter 11: Department of Electrical and Computer Engineering](chapter-11-department-of-electrical-and-computer-engineering.md)
 * [Chapter 12: Department of Engineering](chapter-12-department-of-engineering.md)
 * [Chapter 13: Department of Engineering Management and Leadership](chapter-13-department-of-engineering-management-and-leadership.md)

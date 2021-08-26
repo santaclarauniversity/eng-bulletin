@@ -1,4 +1,4 @@
-# Chapter 10: Department of ComputerScience and Engineering
+# Chapter 10: Department of Computer Science and Engineering
 
 _Professor Emeritus:_ Ronald L. Danielson, Daniel W. Lewis  
 _Wilmot J. Nicholson Family Professor:_ Nam Ling _\(IEEE Fellow, Chair\)  
