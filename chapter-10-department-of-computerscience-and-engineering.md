@@ -1,30 +1,19 @@
 # Chapter 10: Department of ComputerScience and Engineering
 
-_Professor Emeritus:_ Ronald L. Danielson, Daniel W. Lewis
-
-_Wilmot J. Nicholson Family Professor:_ Nam Ling _\(IEEE Fellow, Chair\)_
-
-_Dianne McKenna Professor:_ Silvia Figueira
-
-_Professor:_ Ruth E. Davis
-
-_Associate Professors:_ Ahmed Amer, Darren Atkinson, Yi Fang, Yuhong Liu, Weijia Shang
-
-_Assistant Professors:_ Margareta Ackerman, David C. Anastasiu, Sean Choi, Behnam Dezfouli, I-Han Hsiao, Xiang Li, Ying Liu, Zhiqiang Tao
-
-_RTL Lecturers:_ Moe Amouzgar, Rani Mikkilineni, Angela Musurlian
-
+_Professor Emeritus:_ Ronald L. Danielson, Daniel W. Lewis  
+_Wilmot J. Nicholson Family Professor:_ Nam Ling _\(IEEE Fellow, Chair\)  
+Dianne McKenna Professor:_ Silvia Figueira  
+_Professor:_ Ruth E. Davis  
+_Associate Professors:_ Ahmed Amer, Darren Atkinson, Yi Fang, Yuhong Liu, Weijia Shang  
+_Assistant Professors:_ Margareta Ackerman, David C. Anastasiu, Sean Choi, Behnam Dezfouli, I-Han Hsiao, Xiang Li, Ying Liu, Zhiqiang Tao  
+_RTL Lecturers:_ Moe Amouzgar, Rani Mikkilineni, Angela Musurlian  
 _AYAL Lecturers:_ Salem Al-Agtash, Farokh H. Eskafi, Keyvan Moataghed, Yuan Wang
 
 **Overview**
 
-_“Computing sits at the crossroads among the central processes of applied mathematics, science, and engineering. The three processes have equal and fundamental importance in the discipline, which uniquely blends theory, abstraction, and design.”_
-
-_–1989 Task Force Report on the Core of Computer Science prepared by the ACM and the IEEE Computer Society._
-
 The most successful graduates in the field of computing are those who understand computers as systems—not just the design of hardware or software, but also the relationships and interdependencies between them and the underlying theory of computation.
 
-The department offers a variety of degree and certificate programs, including courses that cover the breadth of the discipline, from the engineering aspects of hardware and software design to the underlying theory of computation.
+The Computer Science and Engineering degree includes courses that cover the breadth of the discipline, from the engineering aspects of hardware and software design to the underlying theory of computation.
 
 **Degree Programs**
 
@@ -36,52 +25,67 @@ With the prior written consent of the advisor, master’s students may take a ma
 
 All students admitted to the MSCSE program are expected to already have competence in the fundamental subjects listed below, as required within an accredited program for a B.S. in Computer Science Engineering. An applicant without such background \(but who has completed college level calculus and advanced programming\) may still be admitted, provided the deficiencies are corrected by coursework that is in addition to the normal degree requirements, and that is completed within the first year of graduate study. Alternatively, a student may take a similar course at another approved accredited institution. Online, continuing education, extension courses, and courses without a closed book exam are not accepted. The subjects and corresponding SCU courses that may be used to correct the deficiencies include:
 
- 1. Logic design
+ 1\) Logic design
 
 * COEN 21 or 921C
 
- 2. Data structures
+ 2\) Data structures
 
 * COEN 12 or 912C
 
- 3. Computer organization & assembly language
+ 3\) Computer organization & assembly language
 
 * COEN 20 or 920C or ELEN 33
 
- 4. Discrete math
+ 4\) Discrete math
 
 * AMTH 240
 
- 5. Probability
+ 5\) Probability
 
 * AMTH 210
 
- 6. One of the following:
+ 6\) One of the following:
 
 *  Differential Equations \(AMTH 106\), Numerical Analysis \(AMTH 220, 221\), or Linear Algebra \(AMTH 245, 246\)
 
- 7. One additional advanced programming course or one year of programming experience in industry.
+ 7\) One additional advanced programming course or one year of programming experience in industry.
 
 The SCU COEN and ELEN courses listed above and AMTH 106 are considered undergraduate-level and may not be used to satisfy the requirements for the M.S. in Computer Science and Engineering. However, students who have not satisfied item 4 above may use AMTH 240 as an elective; students who have not satisfied item 5 above may use AMTH 210 as an elective; students who have satisfied item 6 above, but who have never studied numerical analysis, may use AMTH 220/221 as electives; students who have satisfied item 6 above, but who have never studied linear algebra, may use AMTH 245/246 as electives. Laboratory components are not required for the above courses.
 
 _**Degree Requirements**_
 
-1. Engineering Graduate Core- Enrichment Experience
+**Engineering Graduate Core- Enrichment Experience.**   
+Students must take a minimum of 8 units of the Graduate Core Enrichment Experience. 
 
-* Students must take a minimum of 8 units of the Graduate Core Enrichment Experience. A minimum of 4 units must be from the Graduate Core which requires at least two courses from the three areas \(Emerging Topics in Engineering, Engineering and Business/Entrepreneurship, and Engineering and Society\). The remaining 4 units can be accumulated by the following a\) Taking one or more major technical electives, b\) Taking additional classes from the Graduate Core, c\) Taking Cooperative Education course and d\) Combining courses from a, b and c. Please refer to Chapter 6, Enrichment Experience and Graduate Core for additional information and the core course list.
+* A minimum of 4 units must be from the Graduate Core which requires at least two courses from the three areas
 
-1. MSCSE Core
+  * Emerging Topics in Engineering,
+  * Engineering and Business/Entrepreneurship,
+  *  Engineering and Society. 
+
+  The remaining 4 units can be accumulated by the following 
+
+* a\) Taking one or more major technical electives, 
+* b\) Taking additional classes from the Graduate Core, 
+* c\) Taking Cooperative Education course 
+* d\) Combining courses from a, b and c. 
+
+Please refer to [Chapter 6: Enrichment Experience and Graduate Core](chapter-6-enrichment-experience-and-graduate-core-requirements.md) for additional information and the core course list.
+
+**MSCSE Core**
 
 * COEN 210, 279, and 283
-* Students who have taken one or more of these core courses or their equivalent must replace said course\(s\) with the advanced course equivalent \(COEN 313, 379, and/or 383\) or, with their advisor’s approval, replace said course\(s\) with elective\(s\).
+  * Students who have taken one or more of these core courses or their equivalent must replace said course\(s\) with the advanced course equivalent \(COEN 313, 379, and/or 383\) or, with their advisor’s approval, replace said course\(s\) with elective\(s\).
 
-1. MSCSE Electives
+**MSCSE Electives**
 
 * A student must take a minimum of 8 units of COEN 300-899 courses. CSE electives must be approved by the advisor.
+  * Electives: Sufficient units to bring the total to at least 46. \(The minimum number of COEN graduate units should be at least 36 units, and courses must be approved by the advisor.\)
 
-1. Electives: Sufficient units to bring the total to at least 46. \(The minimum number of COEN graduate units should be at least 36 units, and courses must be approved by the advisor.\)
-
+{% hint style="info" %}
 _Please Note: Students wishing to do a thesis \(COEN 497\) should consult with their academic advisor regarding a modification of these requirements._
+{% endhint %}
 
 **Doctor of Philosophy in Computer Science and Engineering**
 
@@ -99,12 +103,11 @@ The student and his or her advisor jointly develop a complete program of study f
 
 After passing the Ph.D. preliminary exam, a student requests his or her thesis advisor to form a doctoral committee. The committee consists of at least five members, each of which must have earned a doctoral degree in a field of engineering or a related discipline. This includes the student’s thesis advisor, at least two other current faculty members of the student’s major department at Santa Clara University, and at least one current faculty member from another appropriate academic department at Santa Clara University.
 
-The committee reviews the student’s program of study, conducts an oral comprehensive exam, conducts the dissertation defense, and reviews the thesis. Successful completion of the doctoral program requires that the student’s program of study, performance on the oral comprehensive examination, dissertation defense, and thesis itself meet with the approval of all committee members. In addition, acceptance of publications with the student as the primary \(first\) author is required. More details are described in Chapter 2, Academic Programs and Requirements.
+The committee reviews the student’s program of study, conducts an oral comprehensive exam, conducts the dissertation defense, and reviews the thesis. Successful completion of the doctoral program requires that the student’s program of study, performance on the oral comprehensive examination, dissertation defense, and thesis itself meet with the approval of all committee members. In addition, acceptance of publications with the student as the primary \(first\) author is required. More details are described in [Chapter 2: Academic Programs and Requirements](chapter-2-academic-programs-and-requirements.md).
 
 **Time Limit for Completing Degree**
 
-All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Graduate Program  
-Leadership Council \(GPLC\).
+All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Graduate Program Leadership Council \(GPLC\).
 
 **Engineer’s Degree in Computer Science and Engineering**
 

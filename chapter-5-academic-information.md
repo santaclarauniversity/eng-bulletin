@@ -61,7 +61,7 @@ Students may change their course registration as stated in the Academic Calendar
 
 **Program Of Studies**
 
-During the first quarter of enrollment, a student in the M.S. degree program is required to meet with a faculty advisor to complete a Program of Studies \(POS\) form. Here are assigned advisors for the following departments
+During the first quarter of enrollment, a student in the M.S. degree program is required to meet with a faculty advisor to complete a Program of Studies \(POS\) form. The program of studies can be found on our graduate engineering website under current student resources. www.scu.edu/engineering/graduate. Here are assigned advisors for the following departments
 
 * Aerospace Engineering-Mohammad Ayoubi and Chris Kitts \(Program Advisors\)
 * Applied Math-Stephen Chiappari \(Department Chair\)
@@ -90,7 +90,7 @@ With the approval of their academic advisor, M.S. students who have an undergrad
 
 **Courses Transferred From Other Institutions**
 
-All M.S. students have the option to transfer a maximum of six semester or nine quarter units of graduate level coursework from an accredited institution into their degree program with their advisor’s approval. All Ph.D. students have the option to transfer a maximum of 12 semester or 18 quarter units of graduate level coursework from an accredited institution into their degree program with their advisor’s approval. Please keep the following in mind when transferring units:
+All M.S. students have the option to transfer a maximum of 6 semester or 9 quarter units of graduate level coursework from an accredited institution into their degree program with their advisor’s approval. All Ph.D. students have the option to transfer a maximum of 12 semester or 18 quarter units of graduate level coursework from an accredited institution into their degree program with their advisor’s approval. Please keep the following in mind when transferring units:
 
 * Only those courses completed with a C grade or higher will be eligible for transfer.
 * Extension, continuing education, and online courses may not be transferred.
@@ -104,23 +104,23 @@ All M.S. students have the option to transfer a maximum of six semester or nine 
   * The Graduate Programs Office must have an official transcript from the school you are transferring units from to review and approve the transfer credit request.
 
 {% hint style="info" %}
-NOTE: Courses that were taken more than 10 years ago are generally not acceptable for transfer credit. Students who wish to request an exception must petition the department Chair and receive a written approval with a justification. The final approval is given by the Associate Dean for Graduate Programs.
+**NOTE: Courses that were taken more than 10 years ago are generally not acceptable for transfer credit. Students who wish to request an exception must petition the department Chair and receive a written approval with a justification. The final approval is given by the Associate Dean for Graduate Programs.**
 {% endhint %}
 
 **Petition For Graduation**
 
-It is a student’s responsibility to file an online petition for graduation no later than the last day to petition for graduate degrees as indicated in the Academic Calendar. The petition to graduate will only be accepted through online submission and may be found on the graduate engineering website under current student resources : All graduating students must submit a final program of studies and enroll in at least one unit for their final quarter.
+It is a student’s responsibility to file an online petition for graduation no later than the last day to petition for graduate degrees as indicated in the Academic Calendar. The petition to graduate will only be accepted through online submission and may be found on the graduate engineering website under current student resources [www.scu.edu/engineering/gradaute](https://www.scu.edu/engineering/gradaute).  All graduating students must submit a final program of studies and enroll in at least one unit for their final quarter.
 
-Please Note: Eligibility to participate in the June Commencement ceremony will be based on the completion of all requirements and units by the end of the spring quarter or participation in the ceremony will be delayed until the following June.
+_Please Note: Eligibility to participate in the June Commencement ceremony will be based on the completion of all requirements and units by the end of the spring quarter or participation in the ceremony will be delayed until the following June._
 
 **Cooperative Education Option**
 
-The objective of cooperative education is to provide students with the opportunity, through the interaction of study and work experience, to enhance their academic knowledge, to further their personal work experience, and to learn about working with people. The Cooperative Education option integrates classroom work with practical industrial experience. It alternates or parallels periods of college education with periods of practical training in industry. The industrial training is related to the field of study in which the student is engaged and often is diversified to afford a wide range of experience. To qualify for this study option, students must complete at least 24 graduate level units at Santa Clara University. Please note that COEN 900 level courses and transfer credit do not count toward the 24 graduate level unit requirement.
+The objective of cooperative education is to provide students with the opportunity, through the interaction of study and work experience, to enhance their academic knowledge, to further their personal work experience, and to learn about working with people. The Cooperative Education option integrates classroom work with practical industrial experience. It alternates or parallels periods of college education with periods of practical training in industry. The industrial training is related to the field of study in which the student is engaged and often is diversified to afford a wide range of experience. To qualify for this study option, students must complete at least 24 graduate level units at Santa Clara University. _Please note that COEN 900 level courses and transfer credit do not count toward the 24 graduate level unit requirement._
 
 Students who wish to pursue this option through curricular practical training \(CPT\) must enroll in ENGR 288. This class is a prerequisite for ENGR 289, and must be taken before you begin an internship. To be eligible to enroll in ENGR 288 students must complete at least 16 units of graduate level courses by the end of their second quarter at SCU, or demonstrate that they will complete 24 units of graduate-level coursework by the end of their third quarter with department chair approval. Those who plan to start \(or continue\) their CPT after they have taken ENGR 288 must enroll in ENGR 289 \(which is allowed for credit up to three times\).\*\* Students who were authorized for CPT but did not receive a passing grade in ENGR 288 or ENGR 289 will not be eligible for future CPT authorization since they did not complete the academic requirements associated with their internship.
 
 {% hint style="info" %}
-_\*\* Note 1: ENGR 288 is not offered in the summer quarter. Students who plan to participate in a summer internship need to enroll in ENGR 288 in the Spring quarter._
+_**\*\* Note 1: ENGR 288 is not offered in the summer quarter. Students who plan to participate in a summer internship need to enroll in ENGR 288 in the Spring quarter.**_
 {% endhint %}
 
 **Concurrent Enrollment**
@@ -133,15 +133,15 @@ Concurrent Enrollment means that a student is enrolled in two places at the same
 * The student is making normal progress at Santa Clara and is not in danger of probation or disqualification
 * Any NON-vocational coursework from the other school will be accepted for fulfilling degree requirements at SCU
 
-For more information, please contact the International Student Services Office at 408-554-4318 or refer to website: [www.scu.edu/globalengagement/international-students](http://www.scu.edu/globalengagement/international-students)
+For more information, please email the International Student Services Office at [iss@scu.edu](mailto:iss@scu.edu) or refer to website: [www.scu.edu/globalengagement/international-students](http://www.scu.edu/globalengagement/international-students)
 
 **Non-enrollment Period**
 
-Students in the Master’s and Ph.D. program are expected to enroll in at least one unit for the fall, winter and spring quarters. Those students who do not wish to enroll must submit a leave of absence or a withdrawal form to the Engineering Graduate Programs Office. A leave of absence form is required if a student plans to miss one or two quarters, while a more prolonged absence requires a withdrawal form. Students who wish to resume their Master’s or Ph.D. studies after a leave of absence or withdrawal from the program must submit a returning student request form. The forms can be found on the graduate engineering website; [Current Student Resources](https://www.scu.edu/engineering/current-student-resources/current-graduate-students/). Leave of absence or withdrawal forms must be submitted by the end of the first week of the quarter. Returning student’s request forms must be submitted three weeks prior to the start of the quarter returning. Please note the return request is not guaranteed.
+Students in the Master’s and Ph.D. program are expected to enroll in at least one unit for the fall, winter and spring quarters, summer quarter is optional to enroll. Those students who do not wish to enroll must submit a leave of absence or a withdrawal form to the Engineering Graduate Programs Office. A leave of absence form is required if a student plans to miss one or two quarters, while a more prolonged absence requires a withdrawal form. Students who wish to resume their Master’s or Ph.D. studies after a leave of absence or withdrawal from the program must submit a returning student request form. The forms can be found on the graduate engineering website; Current Student Resources. Leave of absence or withdrawal forms must be submitted by the end of the first week of the quarter. Returning student’s request forms must be submitted three weeks prior to the start of the quarter returning. Please note the return request is not guaranteed.
 
 M.S. students are required to complete their degree within six years from their original admit term date. The six-year time frame includes quarters during which a student was not enrolled. Ph.D. students are required to complete their degree within eight years from their original admit term date. The eight-year time frame includes quarters during which a student is not enrolled. Certificate students are required to complete their certificate within two years from their original admit term date.
 
-Note that students who miss a quarter and fail to submit the appropriate form\(s\) with the Graduate Programs Office will be automatically discontinued as a no show status and will be required to submit a returning student form. This is the same procedure for students who took a leave of absence or withdrew from the program.
+_Note that students who miss a quarter and fail to submit the appropriate form\(s\) with the Graduate Programs Office will be automatically discontinued as a no show status and will be required to submit a returning student form. This is the same procedure for students who took a leave of absence or withdrew from the program._
 
 **Withdrawal From The University**
 
@@ -175,8 +175,7 @@ Former or current borrowers of funds from any Title IV student loan program shou
 
 Students have the right to inspect and review their educational records at the following offices:
 
-* Official academic records, including application forms, admission transcripts, letters of acceptance, and a student's permanent academic record are on file and maintained in the Office of the Registrar
-* Working academic files are maintained by the Drahmann Center
+* Official academic records, including application forms, admission transcripts, letters of acceptance, and a student's permanent academic record are on file and maintained in the Office of the Registrar and the Graduate Programs Office
 * Records related to a student's nonacademic activities are maintained in the Office of Student Life
 * Records relating to a student's financial status with the University are maintained in the various student financial services offices
 

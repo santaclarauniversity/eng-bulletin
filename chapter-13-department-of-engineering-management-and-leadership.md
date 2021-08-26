@@ -1,7 +1,6 @@
 # Chapter 13: Department of Engineering Management and Leadership
 
-_Dean’s Executive Professor:_ Paul Semenza _\(Department Chair\)_
-
+_Dean’s Executive Professor:_ Paul Semenza \(Department Chair\)  
 _Adjunct Faculty:_ Michele Ellie Ahi, Octave Baker, Marlene Cole, Theresa Conefrey, Don Danielson, John Giddings, Pravin Jain, Ronald Lesniak, Eric Monsef, Mohammad Musa, Usha Parimi, Kern Peng, Bruce Pittman, Dennis Segers, Nataliya Starostina, Dave Trindade
 
 **Overview**
@@ -25,8 +24,17 @@ Students are required to complete a minimum of 46 quarter units to complete the 
 * **Technical Stem \(18 units\)**
   * A focused set of courses from Graduate Engineering departments; see guidelines and restrictions below
 * **Enrichment Experience \(minimum 8 units\)**
-  * Graduate Core: one course each from “Emerging Topics in Engineering” and “Engineering and Society” \(a minimum of 4 units\)
-  * The additional 4 units can be satisfied by any combination of a\) one or more technical electives, b\) additional classes from Graduate Core List, c\) Cooperative Education courses \(ENGR 288/289\) and d\) combination of a, b and c.
+  * Graduate Core: A minimum of 4 units. One from each topic
+    * Emerging Topics in Engineering
+    * Engineering and Society
+  * The additional 4 units can be satisfied by any combination of 
+
+    * a\) one or more technical electives
+    * b\) additional classes from Graduate Core List
+    * c\) Cooperative Education courses \(ENGR 288/289\) 
+    * d\) combination of a, b and c
+
+    Please see Chapter 6 for additional information regarding the Enrichment Experience. 
 
 **Technical Stem Courses**
 
@@ -76,14 +84,14 @@ The application fee and GRE General Test requirement are waived for students com
 
 Students in this program will receive a B.S. degree after satisfying the standard undergraduate degree requirements. Students will then be matriculated to the Engineering Management and Leadership M.S. program and must then fulfill all requirements for the M.S. degree.
 
-**Notes**
+_**Notes**_
 
-1. B.S. degrees \(for those who are graduating seniors\) must be posted by September 1 to allow the student progression in their graduate career.
-2. Undergraduate students must submit “Permission to Take Graduate Course” form to be correctly registered for graduate courses.
-3. All coursework applied to the M.S. degree must be at the 200 level or above and not applied to any other degree.
-4. Course numbers below 200 indicate undergraduate courses, numbers of 200 and above indicate graduate courses. Students may take courses assigned both undergraduate and graduate numbers \(same title used for both numbers\) only once as an undergraduate or graduate student.
-5. Students must register with the graduate course number in cross-listed courses to apply the course to an M.S. degree.
-6. Students who are entering this program should meet with their Engineering Management and Leadership advisor at the end of their junior year to develop a program of studies to ensure that all graduate courses they plan to take are applicable to the Engineering Management and Leadership M.S. degree.
+1. _B.S. degrees \(for those who are graduating seniors\) must be posted by September 1 to allow the student progression in their graduate career._
+2. _Undergraduate students must submit “Permission to Take Graduate Course” form to be correctly registered for graduate courses._
+3. _All coursework applied to the M.S. degree must be at the 200 level or above and not applied to any other degree._
+4. _Course numbers below 200 indicate undergraduate courses, numbers of 200 and above indicate graduate courses. Students may take courses assigned both undergraduate and graduate numbers \(same title used for both numbers\) only once as an undergraduate or graduate student._
+5. _Students must register with the graduate course number in cross-listed courses to apply the course to an M.S. degree._
+6. _Students who are entering this program should meet with their Engineering Management and Leadership advisor at the end of their junior year to develop a program of studies to ensure that all graduate courses they plan to take are applicable to the Engineering Management and Leadership M.S. degree._
 
 ### **COURSE DESCRIPTIONS**
 

@@ -6,7 +6,7 @@ Students assume responsibility for all costs incurred as a result of enrollment 
 
 ## **FINANCIAL TERMS AND CONDITIONS**
 
-Students are required to accept the financial terms and conditions outlined by the University in order to continue their enrollment at SCU. Students will be prompted to accept the terms and conditions, on an annual basis, upon their login to ecampus. Students will not have access to their Student Center until they have read and agreed to the information contained on the page\(s\) prompted. By accepting SCU’s financial terms and conditions, students are agreeing to pay and to abide by all policies and procedures.
+Students are required to accept the financial terms and conditions outlined by the University in order to continue their enrollment at SCU. Students will be prompted to accept the terms and conditions, on an annual basis, upon their login to eCampus. Students will not have access to their Student Center until they have read and agreed to the information contained on the page\(s\) prompted. By accepting SCU’s financial terms and conditions, students are agreeing to pay and to abide by all policies and procedures.
 
 ## **TUITION AND FEES**
 
@@ -14,9 +14,7 @@ Students are required to accept the financial terms and conditions outlined by t
 
 **Graduate Design Center and Student Association \(AGES\) fee...$180**
 
-Per quarter, for each student enrolled in School of Engineering courses; includes
-
-Association of Graduate Engineering Students \(AGES\) fee.
+Per quarter, for each student enrolled in School of Engineering courses; includes Association of Graduate Engineering Students \(AGES\) fee.
 
 ## **MANDATORY HEALTH INSURANCE**
 
@@ -46,23 +44,15 @@ All J-1 visa international students, regardless of number of units, will be auto
 
 **Non-refundable application fee, per application...$90**
 
-**Non-refundable Enrollment Deposit \(will be credited toward students**
+**Non-refundable Enrollment Deposit \(will be credited toward students Account once enrollment is posted\)...$300**
 
-**Account once enrollment is posted\)...$300**
+**Late registration fee \(Only applies to students who have no enrollment before the late registration deadline. Begins one week prior to the start of the quarter. Dates listed on** [**academic calendar**](2021-2022-graduate-academic-calendar.md)**\)...$100**
 
-**Late registration fee \(Only applies to students who have no enrollment before the late registration deadline. Begins one week before the start of the quarter. Dates listed on academic calendar\)...$100**
-
-**Course drop/swap fee \(Per course. Begins one week before the start of the quarter. Dates listed on academic calendar\)...$50**
+**Course drop/swap fee \(Per course. Begins one week prior to the start of the quarter. Dates listed on academic calendar\)...$50**
 
 **Tuition Late payment fee...$100**
 
 **Parking permits \(subject to change\)**
-
-**E Permit - \(per-year\)...$400**
-
-**F Permit - Leavey and Loyola parking lots only- \(per-year\)... $260**
-
-**N Permit - after 4:30PM only - \(per year\) ... $200**
 
 {% hint style="info" %}
 For parking permit fee information, please go to [Parking & Transportation Website](https://www.scu.edu/vice-provost-for-student-life/campus-safety/parking-and-transportation-services/)
@@ -158,7 +148,7 @@ The following refund schedule applies:
 To receive tuition refunds from the Bursar’s Office, course drops must be handled administratively. **Students should NOT drop a weekend/off cycle course themselves through eCampus after the first week of the quarter.**
 
 {% hint style="info" %}
-Please Note: If you withdraw or drop below half-time status you may no longer be eligible to receive financial aid or student loans. Your account will be adjusted accordingly, and the aid returned to the appropriate program. If you have received a refund for these funds, you must reimburse Santa Clara University immediately. For more information on financial aid forfeiture, please visit the Financial Aid website or make an appointment with your financial aid counselor.
+**Please Note: If you withdraw or drop below half-time status you may no longer be eligible to receive financial aid or student loans. Your account will be adjusted accordingly, and the aid returned to the appropriate program. If you have received a refund for these funds, you must reimburse Santa Clara University immediately. For more information on financial aid forfeiture, please visit the Financial Aid website or make an appointment with your financial aid counselor**.
 {% endhint %}
 
 **One-Unit Courses**
@@ -205,7 +195,7 @@ The Financial Aid Office has established deadlines for consideration of the vari
 
 **Veterans and Veterans' Dependents Assistance**
 
-Santa Clara University has been certified by the Department of Veterans Affairs as qualified to enroll students under applicable federal legislation and regulations, including Chapter 35 \(child of a deceased or 100 percent disabled veteran, widow of any person who died in the service or died of a service-connected disability, or wife of a veteran with a 100 percent service-connected disability\), Chapter 31 \(rehabilitation\), Chapter 30/1606 \(active duty Montgomery G.I. Bill®\), Chapter 33 \(Post 9/11 GI Bill®\), and Yellow Ribbon. Individuals interested in attending under any of the veteran assistance programs should contact the Veterans Administration and the University Office of the Registrar.
+Santa Clara University has been certified by the Department of Veterans Affairs as qualified to enroll students under applicable federal legislation and regulations, including Chapter 35 \(child of a deceased or 100 percent disabled veteran, widow of any person who died in the service or died of a service-connected disability, or wife of a veteran with a 100 percent service-connected disability\), Chapter 31 \(rehabilitation\), Chapter 30/1606 \(active duty Montgomery G.I. Bill®\), Chapter 33 \(Post 9/11 GI Bill®\), and Yellow Ribbon. Individuals interested in attending under any of the veteran assistance programs should contact the Veterans Administration and the University's Office of the Registrar [registrar@scu.edu](mailto:registrar@scu.edu).
 
 GI Bill® is a registered trademark of the U.S. Department of Veterans Affairs \(VA\). More information about education benefits offered by VA is available at the official U.S. government Web site at [http://www.benefits.va.gov/gibill](http://www.benefits.va.gov/gibill).
 

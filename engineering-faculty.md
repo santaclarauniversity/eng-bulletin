@@ -1481,8 +1481,9 @@ _Ph.D. 1991, Illinois Institute of Technology_
 
 _Lecturer in Computer Science and Engineering_
 
-_B.Eng. 1987, M. Eng. 1990, Beijing University of Technology \(Beijing Polytechnic University\), China  
-Ph.D. 1995, University of Western Ontario, Canada_
+_B.Eng. 1987, M. Eng. 1990, Beijing University of Technology \(Beijing Polytechnic University\), China_
+
+_Ph.D. 1995, University of Western Ontario, Canada_
 
 **KATHLEEN WATSON**
 

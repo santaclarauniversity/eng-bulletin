@@ -1,13 +1,9 @@
-# Chapter 14: Department of MechanicalEngineering
+# Chapter 14: Department of Mechanical Engineering
 
-_Professor Emeritus:_ Terry E. Shoup,
-
-_Associate Professor Emeritus:_ Timothy K. Hight
-
-_Professors:_ Christopher Kitts, M. Godfrey Mungal
-
-_Associate Professors:_ Mohammad Ayoubi, Drazen Fabris, Hohyun Lee \(Chair\), On Shun Pak, Panthea Sepehrband, Michael Taylor
-
+_Professor Emeritus:_ Terry E. Shoup  
+_Associate Professor Emeritus:_ Timothy K. Hight  
+_Professors:_ Christopher Kitts, M. Godfrey Mungal  
+_Associate Professors:_ Mohammad Ayoubi, Drazen Fabris, Hohyun Lee \(Chair\), On Shun Pak, Panthea Sepehrband, Michael Taylor  
 _Lecturers:_ Robert Marks, Gaetano \(Tony\) Restivo, Calvin Tszeng
 
 **Overview**
@@ -18,7 +14,7 @@ The Department of Mechanical Engineering is dedicated to delivering up-to-date, 
 
 An M.S. degree requires a minimum 46 units of study with an overall GPA of 3.0 or higher. The student must select one of the five concentration areas and develop a program of studies with an advisor. Courses taken to satisfy any particular requirement may be used to simultaneously satisfy additional requirements for which they are appropriate. Master of Science degrees must include the following:
 
-* Engineering Core- Enrichment experience requirement as described in Chapter 6 \(minimum of 8 units\). Students must take a minimum of 4 units from at least two of the three areas:
+* Engineering Core- Enrichment experience requirement as described in [Chapter 6](chapter-6-enrichment-experience-and-graduate-core-requirements.md) \(minimum of 8 units\). Students must take a minimum of 4 units from at least two of the three areas:
   * Emerging Topics in Engineering,
   * Engineering and Business/Entrepreneurship
   * Engineering and Society
@@ -292,8 +288,7 @@ _Elective Courses \(recommended\)_
 
 The Doctor of Philosophy degree is conferred by the School of Engineering in recognition of competence in the subject field and the ability to investigate engineering problems independently, resulting in a new contribution to knowledge in the field.
 
-See the section on Academic Regulations for details on admission and general degree requirements. The following departmental information augments the general School  
-requirements.
+See [Chapter 2](chapter-2-academic-programs-and-requirements.md) for details on admission and general degree requirements. The following departmental information augments the general School requirements.
 
 **Academic Advisor**
 
@@ -309,11 +304,11 @@ After passing the Ph.D. preliminary exam, a student requests his or her thesis a
 
 **Time Limit for Completing Degree**
 
-All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. This includes leave of absence/withdrawals. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Research Program Leadership Council.
+All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. This includes leave of absence/withdrawals. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Graduate Program Leadership Council. \(GPLC\)
 
 **Engineer’s Degree Program**
 
-The Department of Mechanical Engineering offers an engineer’s degree program. Details on admissions and requirements are shown in the Academic Regulations section. Students interested in this program should seek individual advice from the department chair prior to applying.
+The Department of Mechanical Engineering offers an engineer’s degree program. Details on admissions and requirements are shown in [Chapter 2](chapter-2-academic-programs-and-requirements.md). Students interested in this program should seek individual advice from the department chair prior to applying.
 
 **Certificate Programs**
 

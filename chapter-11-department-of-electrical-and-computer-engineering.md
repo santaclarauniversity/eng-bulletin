@@ -1,13 +1,9 @@
 # CHAPTER 11: Department of Electrical and Computer Engineering
 
-_Professors Emeritus:_ Dragoslav D. Siljak
-
-_Thomas J. Bannan Professor:_ Sally L. Wood
-
-_Professors:_ Shoba Krishnan _\(Chair\)_, Timothy J. Healy, Tokunbo Ogunfunmi, Sarah Kate Wilson, Cary Y. Yang, Aleksandar Zecevic
-
-_Associate Professor:_ M. Mahmudur Rahman
-
+_Professors Emeritus:_ Dragoslav D. Siljak  
+_Thomas J. Bannan Professor:_ Sally L. Wood  
+_Professors:_ Shoba Krishnan _\(Chair\)_, Timothy J. Healy, Tokunbo Ogunfunmi, Sarah Kate Wilson, Cary Y. Yang, Aleksandar Zecevic  
+_Associate Professor:_ M. Mahmudur Rahman  
 _Assistant Professors:_ Maryam Khanbaghi, Maria Kyrarini, Kurt Schab, Sara Tehranipoor, Dat Tran, S.J.
 
 **Overview**
@@ -25,8 +21,18 @@ Students must develop a program of studies with an academic advisor and file the
 The program of studies must include the following:
 
 1. Graduate Core-Enrichment Experience \(minimum 8 units\): Students must take a minimum of 8 units of the Graduate Core Enrichment Experience.
-   * A minimum of 4 units must be from the Graduate Core which requires at least two courses from the three areas \(Emerging Topics in Engineering, Engineering and Business/Entrepreneurship, and Engineering and Society\).
-   * The remaining 4 units can be accumulated by the following a\) Taking one or more major technical electives, b\)Taking additional classes from the Graduate Core, c\) Taking Cooperative Education course and d\) combining courses from a, b and c. For additional information please see Chapter 6, Enrichment Experience and Graduate Core Requirements.
+   * A minimum of 4 units must be from the Graduate Core which requires at least two courses from the three areas 
+     * Emerging Topics in Engineering,
+     * Engineering and Business/Entrepreneurship, 
+     * Engineering and Society\).
+   * The remaining 4 units can be accumulated by the following
+
+     *  a\) Taking one or more major technical electives, 
+     * b\)Taking additional classes from the Graduate Core, 
+     * c\) Taking Cooperative Education course 
+     * d\) combining courses from a, b and c. 
+
+     For additional information please see [Chapter 6: Enrichment Experience and Graduate Core Requirements](chapter-6-enrichment-experience-and-graduate-core-requirements.md).
 
 2. Applied Mathematics \(4 units\)
 
@@ -123,17 +129,17 @@ At least one month before the degree is to be conferred, the candidate must subm
 
 _**Time Limit for Completing Degree**_
 
-All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. This includes any leave of absences/withdrawals. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Research Program Leadership Council.
+All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. This includes any leave of absences/withdrawals. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the Dean of Engineering in consultation with the Graduate Program Leadership Council. \(GPLC\)
 
 _**Additional Graduation Requirements**_
 
-The requirements for the doctoral degree in the School of Engineering have been made to establish the structure in which the degree may be earned. Upon written approval of the provost, the dean of the School of Engineering, the doctoral committee, and the chair of the major department, other degree requirements may be established. The University reserves the right to evaluate the undertakings and the accomplishments of the degree candidate in total, and award or withhold the degree as a result of its deliberations.
+The requirements for the doctoral degree in the School of Engineering have been made to establish the structure in which the degree may be earned. Upon written approval of the Provost, the Dean of the School of Engineering, the doctoral committee, and the chair of the major department, other degree requirements may be established. The University reserves the right to evaluate the undertakings and the accomplishments of the degree candidate in total, and award or withhold the degree as a result of its deliberations.
 
 **Certificate Programs**
 
 _**General Information**_
 
-Certificate programs are designed to provide an intensive background in a narrow area at the graduate level. At roughly one-third of the units of a master’s degree program, the certificate is designed to be completed in a much shorter period of time. These certificate programs are appropriate for students working in the industry who wish to update their skills or those interested in changing their career path. Students can only take courses that are required for the certificate.
+Certificate programs are designed to provide an intensive background in a narrow area at the graduate level. At roughly one-third of the units of a master’s degree program, the certificate is designed to be completed in a much shorter period of time. These certificate programs are appropriate for students working in the industry who wish to update their skills or those interested in changing their career path. Students can only take courses that are required for the certificate. Please see [Chapter 18](chapter-18-certificate-programs.md) for additional information. 
 
 _**Admission**_
 
@@ -213,7 +219,7 @@ This certificate program provides a basic understanding of digital signal proces
 _Required Courses \(11 units minimum\)_
 
 * ELEN 233 Digital Signal Processing I \(2 units\)
-* ELEN 520 and ELEN 520L Introduction to Machine Learning \(3 units\)
+* ELEN 520 and ELEN 520L Introduction to Machine Learning Lecture and Lab \(3 units\)
 * At least one course from: AMTH 210 Probability I or AMTH 245 Linear Algebra I or AMTH 370 Optimization Techniques \(2 units\)
 * At least one course from: ELEN 223 Digital Signal Processing System Development \(4 units\) or ELEN 226 Machine Learning and Signal Processing Using FPGAs \(2 units\) or ELEN 234 Digital Signal Processing II \( 2 units\)
 * At least one course from: ELEN 421 Speech Processing I or ELEN 640 Digital Image Processing I \(2 units\)
@@ -539,7 +545,7 @@ Laboratory for ELEN 151. Co-requisite: ELEN 151. \(1 unit\)
 
 _**ELEN 152. Integrated Circuit Fabrication Process Technology**_
 
-Fundamental principles of processes essential for fabricating micro- and nanoelectronic hardware ranging from Integrated circuits, MEMS and biosensors to power, control and optoelectronic devices. Physical and chemical models of semiconductor crystal growth, thermal oxidation and diffusion, ion implantation, Lithography, etching and cleaning, epitaxy, chemical and physical vapor deposition, metallization, etc. Process integration and simulation using TCAD. \(4 units\). Also listed as ELEN 276. \(4 units\)
+Fundamental principles of processes essential for fabricating micro- and nano-electronic hardware ranging from Integrated circuits, MEMS and biosensors to power, control and optoelectronic devices. Physical and chemical models of semiconductor crystal growth, thermal oxidation and diffusion, ion implantation, Lithography, etching and cleaning, epitaxy, chemical and physical vapor deposition, metallization, etc. Process integration and simulation using TCAD. \(4 units\). Also listed as ELEN 276. \(4 units\)
 
 _**ELEN 152L.**_ _**Integrated Circuit Fabrication Process Technology Laboratory**_
 

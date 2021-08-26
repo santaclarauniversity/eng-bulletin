@@ -1,11 +1,8 @@
 # Chapter 8: Department of Bioengineering
 
 _Professor:_ Yuling Yan  
-  
 _Associate Professors:_ Ismail Emre Araci, Prashanth Asuri, Unyoung \(Ashley\) Kim, Biao \(Bill\) Lu, Zhiwen \(Jonathan\) Zhang _\(Department Chair\)  
-  
 Lecturers:_ Maryam Mobed-Miremadi, Eun Ju \(Emily\) Park  
-  
 _Adjunct Faculty:_ Zeynep Araci, Eric Chan, Parsa Hosseini, Sathish Manickam, Verna Rodriguez, Erhan Yenilmez
 
 **Overview**
@@ -41,7 +38,7 @@ To be considered for admission to the graduate program in bioengineering, an app
 * Graduate Record Examination \(GRE\)-general test
 * For students whose native language is not English, Test of English as a Foreign Language \(TOEFL\) or the International English Language Testing systems \(ILETS\) exam scores are required before application is processed
 
-Applicants who have taken graduate-level courses at other institutions may qualify to transfer a maximum of six semester units \(nine quarter units\) of approved credit to their graduate program at Santa Clara University. Please see Chapter 4 for additional information on the transfer credit process.
+Applicants who have taken graduate-level courses at other institutions may qualify to transfer a maximum of six semester units \(nine quarter units\) of approved credit to their graduate program at Santa Clara University. Please see [Chapter 5](chapter-5-academic-information.md) for additional information on the transfer credit process.
 
 Upon acceptance to the graduate program in bioengineering, a student will be required to select a graduate advisor \(full-time faculty member\) from within the Department of Bioengineering. The student’s advisor will be responsible for approving the student’s course of study. Any changes to a student’s initial course of study must have the written approval of the student’s advisor.
 
@@ -49,7 +46,15 @@ To qualify for the degree of Master of Science in Bioengineering, students must 
 
 _**Course requirements**_
 
-* Enrichment Experience Graduate Core- Students must take a course in at least two of the three areas \(Emerging Topics in Engineering, Engineering and Business Entrepreneurship, and Engineering and Society for a minimum of four units. The remaining four units can be accumulated by A\) Taking one or more major technical electives, B\) Taking additional classes from the Graduate Core, C\) Taking Cooperative Education courses or D\) Combining A, B and C \(minimum eight units including BIOE 210 Bioethics\) \(See descriptions in Chapter 6 , Enrichment Experience and Graduate Core requirements\)
+* Enrichment Experience Graduate Core- Students must take a course in at least two of the three areas for a minimum of 4 units
+  * Emerging Topics in Engineering, 
+  * Engineering and Business Entrepreneurship
+  * Engineering and Society
+* The remaining four units can be accumulated by
+  * A\) Taking one or more major technical electives, 
+  * B\) Taking additional classes from the Graduate Core,
+  * C\) Taking Cooperative Education courses or 
+  * D\) Combining A, B and C \(minimum eight units including BIOE 210 Bioethics\) \(See descriptions in Chapter 6 , Enrichment Experience and Graduate Core requirements\)
 * Applied Mathematics \(4 units\) Select from AMTH 200 & 201 \(or 202\), 210 & 211 \(or 212\), or AMTH 245 & 246
 * Bioengineering Core \(15 or 21\* units\)
 

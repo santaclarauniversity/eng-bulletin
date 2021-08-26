@@ -28,11 +28,11 @@ Incapacitation is determined through consideration of all relevant indicators of
 
 ### **Reporting Options**
 
-There are confidential and non-confidential reporting options available. Confidential Resources include on and off campus mental counselors, health service providers, local rape crisis counselors, domestic violence resources, and members of the clergy and chaplains. Confidential on-campus resources include CAPS, Cowell Center, 408-554-4501; Wellness Center, 862 Market Street, 408-554-4409; and members of the clergy or chaplains. Confidential means that what a reporting party shares will not be communicated with anyone else unless except in extreme cases of immediacy of threat or abuse of a minor.
+There are confidential and non-confidential reporting options available. Confidential Resources include on and off campus mental counselors, health service providers, local rape crisis counselors, domestic violence resources, and members of the clergy and chaplains. **Confidential on-campus resources include CAPS, Cowell Center, 408-554-4501; Wellness Center, 862 Market Street, 408-554-4409; and members of the clergy or chaplains. Confidential means that what a reporting party shares will not be communicated with anyone else unless except in extreme cases of immediacy of threat or abuse of a minor.**
 
 ### **Reporting to Law Enforcement**
 
-For immediate, emergency assistance or to report a crime of sexual violence, including sexual assault, domestic/dating violence \(intimate partner violence\), and stalking students, contact the Santa Clara Police Department, dial 911, or contact Campus Safety Services at 408-554-4444.
+For immediate, emergency assistance or to report a crime of sexual violence, including sexual assault, domestic/dating violence \(intimate partner violence\), and stalking students, **contact the Santa Clara Police Department, dial 911, or contact Campus Safety Services at 408-554-4444.**
 
 ### **Reporting to the University**
 

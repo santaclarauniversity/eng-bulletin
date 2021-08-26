@@ -24,8 +24,10 @@ Applications for admission and related deadlines are available on the graduate s
   <tbody>
     <tr>
       <td style="text-align:left">
-        <p>BS/MS 5 Year Program</p>
-        <p>(Current SCU Undergraduate Students)</p>
+        <p><b>BS/MS 5 Year Program</b>
+        </p>
+        <p><b>(Current SCU Undergraduate Students)</b>
+        </p>
       </td>
       <td style="text-align:left">
         <ul>
@@ -36,7 +38,8 @@ Applications for admission and related deadlines are available on the graduate s
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Open University</td>
+      <td style="text-align:left"><b>Open University</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Online Application</li>
@@ -47,7 +50,8 @@ Applications for admission and related deadlines are available on the graduate s
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Certificate</td>
+      <td style="text-align:left"><b>Certificate</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Online Application</li>
@@ -58,7 +62,8 @@ Applications for admission and related deadlines are available on the graduate s
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Master&#x2019;s Degree</td>
+      <td style="text-align:left"><b>Master&#x2019;s Degree</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Online Application</li>
@@ -70,7 +75,8 @@ Applications for admission and related deadlines are available on the graduate s
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Engineer&#x2019;s Degree</td>
+      <td style="text-align:left"><b>Engineer&#x2019;s Degree</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Online Application</li>
@@ -84,7 +90,8 @@ Applications for admission and related deadlines are available on the graduate s
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">Ph.D. Degree</td>
+      <td style="text-align:left"><b>Ph.D. Degree</b>
+      </td>
       <td style="text-align:left">
         <ul>
           <li>Online Application</li>
@@ -117,12 +124,12 @@ Applications for admission and related deadlines are available on the graduate s
 
 **BS/MS 5 Year Program \(Current undergraduate SCU students\)**
 
-* Automatic admission into the five-year program is based on a minimum GPA of 3.0 in the major. Upon notification of acceptance into the B.S./M.S. program, students may begin taking graduate-level courses in their senior year and a maximum of 20 units can be transferred into the graduate program.
+* Current undergraduate SCU students need to apply to the B.S./M.S. program at the end of their Junior year. Automatic admission into the five-year program is based on a minimum GPA of 3.0 in the major. Upon notification of acceptance into the B.S./M.S. program, students may begin taking graduate-level courses in their senior year and a maximum of 20 units can be transferred into the graduate program.
 
 **Open University**
 
 * For those who want to update their skills and learn new technologies without the commitment of earning a graduate degree, Open University allows students to enroll in graduate-level classes.
-* A maximum of 16 units may apply toward the degree if the courses are in the same discipline to which the student is accepted. The general GRE test requirement for admission to the master’s degree program will be waived if the student has completed a set of required courses in the department to which they are applying and has earned a GPA of 3.5 or higher.
+* A maximum of 16 units may apply toward the M.S. degree if the courses are in the same discipline to which the student is accepted. The general GRE test requirement for admission to the master’s degree program will be waived if the student has completed a set of required courses in the department to which they are applying and has earned a GPA of 3.5 or higher. Open University students who wish to pursue and M.S. degree must submit an online application.
 
 {% hint style="info" %}
 _Note: Santa Clara University does not issue F-1 visas to applicants who wish to enter directly into Open University._

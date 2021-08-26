@@ -137,7 +137,7 @@ _Required Courses \(11 units minimum\)_
 * At least one course from: ELEN 421 Speech Processing I or ELEN 640 Digital Image Processing I \(2 units\)
 
 {% hint style="info" %}
-Note: ELEN 233E Digital Signal Processing I, II \(4 units\) is equivalent to both ELEN 233 and ELEN 234.
+_Note: ELEN 233E Digital Signal Processing I, II \(4 units\) is equivalent to both ELEN 233 and ELEN 234._
 {% endhint %}
 
 _Elective Courses \(Additional courses to make a total of 16 units\) selected from the list below:_

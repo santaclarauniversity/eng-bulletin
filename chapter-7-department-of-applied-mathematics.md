@@ -1,20 +1,19 @@
 # Chapter 7: Department of Applied Mathematics
 
-_Senior Lecturer:_ Stephen A. Chiappari _\(Chair\)_
-
-_Renewable Term_ Lecturer: Aaron Melman
+_Senior Lecturer:_ Stephen A. Chiappari _\(Chair\)  
+Renewable Term_ Lecturer: Aaron Melman
 
 **Master Of Science Program**
 
 The Applied Mathematics Program is open to those students who have earned a B.S. degree in engineering, science, or mathematics, provided that the student has completed a program in undergraduate mathematics that parallels the program of the mathematics major at Santa Clara University. The undergraduate program at Santa Clara includes calculus and differential equations, abstract algebra, linear algebra, advanced calculus and/or real analysis; and a minimum of five upper-division courses chosen from the areas of analysis, complex variables, partial differential equations, numerical analysis, logic, probability, and statistics.
 
-Courses for the master’s degree must result in a total of 46 units. These units may include courses from other fields with permission of the Applied Mathematics Department advisor. A minimum of 12 quarter units must be in 300-level AMTH courses.
+Courses for the master’s degree must result in a minimum of 46 units. These units may include courses from other fields with permission of the Applied Mathematics Department advisor. A minimum of 12 quarter units must be in 300-level AMTH courses.
 
 **Concentration in Mathematical Finance within the Master of Science in Applied Mathematics**
 
 In addition to its freestanding master’s degree program, the Department of Applied Mathematics offers a concentration in mathematical finance within its master’s degree program. Specific course requirements change from time to time. For further information, please consult with the chair of the department.
 
-### **Course Descriptions**
+### Course Descriptions
 
 #### **Undergraduate Courses**
 

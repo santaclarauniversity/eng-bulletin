@@ -2,24 +2,6 @@
 
 The Enrichment Experience is an 8 unit requirement for all M.S. degree seeking students that is common to most departments in the School of Engineering. Civil Engineering majors may complete the Enrichment Experience with 7 units. The various components that are associated with this requirement were designed to broaden the scope of the student’s knowledge, and develop professional skills that are widely perceived as essential for operating in a global environment such as the ability to communicate clearly, to function on interdisciplinary and diverse teams, and to make ethically and socially responsible decisions.
 
-The Enrichment Experience requirement cannot be waived and no substitution will be approved.
-
-In order to fulfill this requirement, students must take
-
-* \(minimum 4 units\) A course in at least two of the three areas of
-  * Emerging Topics in Engineering,
-  * Engineering and Business/Entrepreneurship
-  * Engineering and Society.
-
-Below is the list of all classes approved for the graduate core in these three areas. Please check our current student resources on our graduate engineering website for the most current list of Graduate Core classes.
-
-* The remaining 4 units can be accumulated by:
-  * Taking one or more major technical electives.
-    * \(Directed Research, Independent Study, Capstone, Thesis and CSE foundation courses cannot be approved as a technical elective\)
-  * Taking additional classes from the Graduate Core List below
-  * Taking Cooperative Education courses \(Engr 288 and 289\)
-  * Combining courses from categories \(a\), \(b\) and \(c\)
-
 Through the Enrichment Experience, in conjunction with students’ specific program of study, Engineering graduate students will achieve the following objectives:
 
 1. Academic competence
@@ -33,6 +15,23 @@ Graduate students will demonstrate an ability to collaborate in creative ways, a
 3. Professional development
 
 Graduate students will exhibit professionalism, consistent with the University’s Jesuit mission,that includes attention to ethics, integrity, and responsible engagement with their communities–both locally and globally.
+
+**The Enrichment Experience requirement cannot be waived and no substitutions will be approved.**
+
+In order to fulfill this requirement, students must take
+
+* Graduate Core: \(minimum of 4 units required\) Must take a course in at least two of the three areas from
+  * Emerging Topics in Engineering,
+  * Engineering and Business/Entrepreneurship
+  * Engineering and Society.
+    * Below is the list of all classes approved for the graduate core in these three areas. Please check our current student resources on our graduate engineering website for the most current list of Graduate Core classes.
+* The remaining 4 units can be accumulated by:
+  * Taking one or more major technical electives.
+    * _Directed Research, Independent Study, Capstone, Thesis and CSE foundation courses cannot be approved as a technical electives_
+  * Taking additional classes from the Graduate Core List below
+  * Taking Cooperative Education courses \(Engr 288 and 289\). 
+    * Can repeat Engr 289 up to 3 times.
+  * Combining courses from categories \(a\), \(b\) and \(c\)
 
 **GRADUATE CORE AREAS AND TOPICS**
 

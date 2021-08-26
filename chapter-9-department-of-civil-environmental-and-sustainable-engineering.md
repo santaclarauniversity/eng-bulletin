@@ -1,17 +1,11 @@
 # Chapter 9: Department of Civil, Environmental, and Sustainable Engineering
 
-_Professor Emeritus:_ E. John Finnemore, P.E.
-
-_Associate Professor Emeritus:_ Steven C. Chiesa, P.E.
-
-_Robert W. Peters Professor:_ Edwin Maurer, P.E. _\(Department Chair\)_
-
-_Professors:_ Aria Amirbahman, Reynaud L. Serrette, Sukhmander Singh, P.E., G.E.
-
-_Associate Professors:_ Rachel He, Hisham Said
-
-_Senior Lecturer:_ Tonya Nilsson, P.E.
-
+_Professor Emeritus:_ E. John Finnemore, P.E.  
+_Associate Professor Emeritus:_ Steven C. Chiesa, P.E.  
+_Robert W. Peters Professor:_ Edwin Maurer, P.E. _\(Department Chair\)  
+Professors:_ Aria Amirbahman, Reynaud L. Serrette, Sukhmander Singh, P.E., G.E.  
+_Associate Professors:_ Rachel He, Hisham Said  
+_Senior Lecturer:_ Tonya Nilsson, P.E.  
 _Lecturers:_ Tracy Abbott, S.E., Laura Doyle
 
 **Overview**
@@ -32,7 +26,7 @@ The water and environmental engineering \(WEE\) track prepares students to engag
 
 **Master of Science in Civil Engineering**
 
-To be considered for admission to the graduate program in Civil, Environmental and Sustainable Engineering, an applicant must meet the requirements outlined in the Admissions section of the bulletin, with the following additional criteria:
+To be considered for admission to the graduate program in Civil, Environmental and Sustainable Engineering, an applicant must meet the requirements outlined in the [Admissions](chapter-3-admissions.md) section of the bulletin, with the following additional criteria:
 
 Applicant’s undergraduate degree must be:
 
@@ -45,7 +39,7 @@ Applicant’s undergraduate record must show:
 
 In very rare cases, applicants not meeting this may be admitted with a requirement to successfully complete a defined course of studies within a limited time period.
 
-See the Academic Information section of this bulletin for details on transferring credit for courses taken at other institutions.
+See the [Academic Information](chapter-5-academic-information.md) section of this bulletin for details on transferring credit for courses taken at other institutions.
 
 Upon acceptance to the graduate program in Civil, Environmental and Sustainable Engineering, a student will be required to select a graduate advisor \(full-time faculty member\) from within the Department of Civil, Environmental and Sustainable Engineering. The student’s advisor will be responsible for approving the student’s course of study. Any changes to a student’s initial course of study must have the written approval of the student’s advisor.
 
@@ -323,11 +317,11 @@ Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the fo
 
 Units are shown in parentheses: x/y indicates x-unit course with y-unit lab. No more than 6 units from CENG 293, 295, and 297 may be used to satisfy degree requirements. Taking Required Technical Course\(s\) that repeat previously taken course\(s\) is discouraged; in such cases, Elective Technical course\(s\) may be substituted. In rare occasions, program plans may deviate from these requirements with Department approval.
 
-\* Replace with CENG 246 if a timber design course was taken previously.
+\* _Replace with CENG 246 if a timber design course was taken previously._
 
-\*\*Courses listed in the required section not taken to satisfy that requirement may be used as technical electives. An advisor may approve selected upper-level undergraduate classes \(no more than 12 units total\) that do not duplicate course content of graduate courses in the program of studies.
+_\*\*Courses listed in the required section not taken to satisfy that requirement may be used as technical electives. An advisor may approve selected upper-level undergraduate classes \(no more than 12 units total\) that do not duplicate course content of graduate courses in the program of studies._
 
-^ May simultaneously satisfy a Graduate Core requirement, but course credit may only count once toward the degree. Balance of credits shall be made of technical electives.
+_^ May simultaneously satisfy a Graduate Core requirement, but course credit may only count once toward the degree. Balance of credits shall be made of technical electives._
 
 Upon the approval of the student’s advisor, alternative elective courses may be taken. Courses used to satisfy the 46-unit minimum total for the Master of Science in Civil, Environmental and Sustainable Engineering degree cannot be used to satisfy any previous undergraduate degree program requirement. This includes cross-listed undergraduate courses at Santa Clara University and/or their equivalent courses at other institutions. Where required courses in the SCU graduate Civil, Environmental, and Sustainable Engineering program have been completed prior to graduate-level matriculation at SCU, additional elective courses may be required to satisfy the minimum unit total requirement as necessary.
 
@@ -468,7 +462,7 @@ Use of experimentation and computer modeling to analyze problems in chemical kin
 
 _**CENG 124. Water Law and Policy**_
 
-Introduction to the legal and regulatory concepts related to water. Examines rights, policies, and laws, including issues related to water supply and access \(water transfers/water markets, riparian and appropriative doctrines\), flood control, water pollution and quality \(the Clean Water Act, EPA standards, instream flows for fish\), and on-site stormwater management/flood control. A focus on California water law and policy is complemented with some national and international case studies. Cross-listed with CENG 258 and ENVS 124. \(4 units\)
+Introduction to the legal and regulatory concepts related to water. Examines rights, policies, and laws, including issues related to water supply and access \(water transfers/water markets, riparian and appropriative doctrines\), flood control, water pollution and quality \(the Clean Water Act, EPA standards, instream flows for fish\), and on-site storm water management/flood control. A focus on California water law and policy is complemented with some national and international case studies. Cross-listed with CENG 258 and ENVS 124. \(4 units\)
 
 _**CENG 125. Municipal Engineering Design**_
 
@@ -850,7 +844,7 @@ Evolution of mass transit in the United States. Characteristics of major compone
 
 _**CENG 258. Water Law and Policy**_
 
-Introduction to the legal and regulatory concepts related to water. Examines rights, policies, and laws, including issues related to water supply and access \(water transfers/water markets, riparian and appropriative doctrines\), flood control, water pollution and quality \(the Clean Water Act, EPA standards, instream flows for fish\), and on-site stormwater management/flood control. A focus on California water law and policy is complemented with some national and international case studies. Cross-listed with CENG 124 and ENVS 124. \(4 units\)
+Introduction to the legal and regulatory concepts related to water. Examines rights, policies, and laws, including issues related to water supply and access \(water transfers/water markets, riparian and appropriative doctrines\), flood control, water pollution and quality \(the Clean Water Act, EPA standards, instream flows for fish\), and on-site storm water management/flood control. A focus on California water law and policy is complemented with some national and international case studies. Cross-listed with CENG 124 and ENVS 124. \(4 units\)
 
 _**CENG 259. Groundwater Hydrology**_
 
