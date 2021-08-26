@@ -1,4 +1,4 @@
-# Chapter 11: Department of Electrical and Computer Engineering
+# CHAPTER 11: Department of Electrical and Computer Engineering
 
 _Professors Emeritus:_ Dragoslav D. Siljak  
 _Thomas J. Bannan Professor:_ Sally L. Wood  
