@@ -25,31 +25,31 @@ With the prior written consent of the advisor, master’s students may take a ma
 
 All students admitted to the MSCSE program are expected to already have competence in the fundamental subjects listed below, as required within an accredited program for a B.S. in Computer Science Engineering. An applicant without such background \(but who has completed college level calculus and advanced programming\) may still be admitted, provided the deficiencies are corrected by coursework that is in addition to the normal degree requirements, and that is completed within the first year of graduate study. Alternatively, a student may take a similar course at another approved accredited institution. Online, continuing education, extension courses, and courses without a closed book exam are not accepted. The subjects and corresponding SCU courses that may be used to correct the deficiencies include:
 
- 1\) Logic design
+1\) Logic design
+  
+  * COEN 21 or 921C
 
-* COEN 21 or 921C
+2\) Data structures
 
- 2\) Data structures
+  * COEN 12 or 912C
 
-* COEN 12 or 912C
+3\) Computer organization & assembly language
 
- 3\) Computer organization & assembly language
+  * COEN 20 or 920C or ELEN 33
 
-* COEN 20 or 920C or ELEN 33
+4\) Discrete math
 
- 4\) Discrete math
+  * AMTH 240
 
-* AMTH 240
+5\) Probability
 
- 5\) Probability
+  * AMTH 210
 
-* AMTH 210
+6\) One of the following:
 
- 6\) One of the following:
+  *  Differential Equations \(AMTH 106\), Numerical Analysis \(AMTH 220, 221\), or Linear Algebra \(AMTH 245, 246\)
 
-*  Differential Equations \(AMTH 106\), Numerical Analysis \(AMTH 220, 221\), or Linear Algebra \(AMTH 245, 246\)
-
- 7\) One additional advanced programming course or one year of programming experience in industry.
+7\) One additional advanced programming course or one year of programming experience in industry.
 
 The SCU COEN and ELEN courses listed above and AMTH 106 are considered undergraduate-level and may not be used to satisfy the requirements for the M.S. in Computer Science and Engineering. However, students who have not satisfied item 4 above may use AMTH 240 as an elective; students who have not satisfied item 5 above may use AMTH 210 as an elective; students who have satisfied item 6 above, but who have never studied numerical analysis, may use AMTH 220/221 as electives; students who have satisfied item 6 above, but who have never studied linear algebra, may use AMTH 245/246 as electives. Laboratory components are not required for the above courses.
 

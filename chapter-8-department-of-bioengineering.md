@@ -60,31 +60,31 @@ _**Course requirements**_
 
 Students must take six units from one of the five primary focus areas \(additional six units are required for Computational Bioengineering or Translational Bioengineering\), four units from other focus areas, three units from biostatistics \(BIOE 232 L&L\) and two quarter research seminar units \(BIOE 200, 2 x 1 unit\).
 
- Five primary focus areas are:
+Five primary focus areas are:
 
  1. Biomolecular Engineering Biotechnology
 
-* BIOE 257, 282, 283, 286, 288, 300, 301
+   * BIOE 257, 282, 283, 286, 288, 300, 301
 
  2. Biomaterials and Tissue Engineering
-
-* BIOE 208, 240, 245, 269, 273, 378
+  
+   * BIOE 208, 240, 245, 269, 273, 378
 
  3. Microfluidics/Biosensors and Imaging
-
-* BIOE 203, 260, 267, 268, 276, 277, 308
+  
+   * BIOE 203, 260, 267, 268, 276, 277, 308
 
  4. Computational Bioengineering
-
-* BIOE 251, 252, 261, 263, 281, 310, 312
-* Advanced Applied Mathematics\*
-  * AMTH 240, 364, 370, 371, 377
+ 
+   * BIOE 251, 252, 261, 263, 281, 310, 312
+   * Advanced Applied Mathematics\*
+     * AMTH 240, 364, 370, 371, 377
 
  5. Translational Bioengineering
-
-* BIOE 206, 263, 279, 285, 302, 307, 320, 380
-* Graduate Capstone Project\*
-  * BIOE 294, 295, 296
+  
+   * BIOE 206, 263, 279, 285, 302, 307, 320, 380
+   * Graduate Capstone Project\*
+     * BIOE 294, 295, 296
 
 \*additional six units required for primary focus in Computational Bioengineering or Translational Bioengineering
 

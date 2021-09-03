@@ -45,10 +45,7 @@ Engineering Management and Leadership students are required to create a focused,
 * **Computer Science and Engineering**: Data Science; Internet of Things; Software Engineering; Information Assurance; Multimedia Processing; Computer Networks; Computer Architecture and Systems
 * **Electrical and Computer Engineering**: Power Systems and Control; RF and Applied Electromagnetics; Signal Processing; Digital Systems; Communications
 * **Mechanical Engineering**: Aerospace Engineering; Dynamics and Controls; Materials Engineering; Mechanical Design; Robotics and Mechatronic Systems; Thermofluids
-* **Power Systems and Sustainable Energy**
-
-Interdisciplinary Technical Stem programs can be created to pursue areas of interest within engineering management. For example, the following program would be applicable to Industrial Engineering and/or Operations Research.
-
+* **Power Systems and Sustainable Energy** Interdisciplinary Technical Stem programs can be created to pursue areas of interest within engineering management. For example, the following program would be applicable to Industrial Engineering and/or Operations Research.
 * **Probabilistic Modeling/Optimization:** AMTH 210, 211, 245, 246, 362, 364, 370, 371 \(optional: ELEN 235\)
   * Mathematical Finance option: substitute AMTH 367 for 2 of the above
   * Network option: substitute ELEN 211 and/or 330 for 1 or 2 of the above

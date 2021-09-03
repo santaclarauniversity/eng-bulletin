@@ -6,15 +6,15 @@ Through the Enrichment Experience, in conjunction with students’ specific prog
 
 1. Academic competence
 
-Graduate students will demonstrate broad content knowledge and the ability to integrate and apply concepts from their course of study to professional situations.
+  Graduate students will demonstrate broad content knowledge and the ability to integrate and apply concepts from their course of study to professional situations.
 
 2. Creative and collaborative learning
 
-Graduate students will demonstrate an ability to collaborate in creative ways, and communicate effectively with professionals and others in their discipline.
+  Graduate students will demonstrate an ability to collaborate in creative ways, and communicate effectively with professionals and others in their discipline.
 
 3. Professional development
 
-Graduate students will exhibit professionalism, consistent with the University’s Jesuit mission,that includes attention to ethics, integrity, and responsible engagement with their communities–both locally and globally.
+  Graduate students will exhibit professionalism, consistent with the University’s Jesuit mission,that includes attention to ethics, integrity, and responsible engagement with their communities–both locally and globally.
 
 **The Enrichment Experience requirement cannot be waived and no substitutions will be approved.**
 
@@ -31,7 +31,8 @@ In order to fulfill this requirement, students must take
   * Taking additional classes from the Graduate Core List below
   * Taking Cooperative Education courses \(Engr 288 and 289\). 
     * Can repeat Engr 289 up to 3 times.
-  * Combining courses from categories \(a\), \(b\) and \(c\)
+
+  Combining courses from the categories above
 
 **GRADUATE CORE AREAS AND TOPICS**
 
