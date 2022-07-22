@@ -16,9 +16,11 @@ Strategic Vision Santa Clara University will educate citizens and leaders of com
 
 University Mission The University pursues its vision by creating an academic community that educates the whole person within the Jesuit, Catholic tradition, making student learning our central focus, continuously improving our curriculum and co-curriculum, strengthening our scholarship and creative work, and serving the communities of which we are a part in Silicon Valley and around the world.
 
-Fundamental Values The University is committed to these core values, which guide us in carrying out our mission and realizing our vision:
+### Fundamental Values&#x20;
 
-Academic Excellence. We seek an uncompromising standard of excellence in teaching, learning, creativity, and scholarship within and across disciplines.
+The University is committed to these core values, which guide us in carrying out our mission and realizing our vision:
+
+_**Academic Excellence.**_ We seek an uncompromising standard of excellence in teaching, learning, creativity, and scholarship within and across disciplines.
 
 Search for Truth, Goodness, and Beauty. We prize scholarship and creative work that advance human understanding, improve teaching and learning, and add to the betterment of society by illuminating the most significant problems of the day and exploring the enduring mysteries of life. In this search, our commitment to academic freedom is unwavering.
 
