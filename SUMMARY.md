@@ -3,7 +3,7 @@
 * [2021-2022 Engineering Graduate Bulletin](README.md)
 * [Letter from the Dean](letter-from-the-dean.md)
 * [Engineering at Santa Clara](engineering-at-santa-clara.md)
-* [2021-2022 Graduate Academic Calendar](2021-2022-graduate-academic-calendar.md)
+* [2022-2023 Graduate Academic Calendar](2021-2022-graduate-academic-calendar.md)
 * [Chapter 1: Santa Clara University](chapter-1-santa-clara-university.md)
 * [Chapter 2: Academic Programs and Requirements](chapter-2-academic-programs-and-requirements.md)
 * [Chapter 3: Admissions](chapter-3-admissions.md)
@@ -20,7 +20,7 @@
 * [Chapter 14: Department of Mechanical Engineering](chapter-14-department-of-mechanicalengineering.md)
 * [Chapter 15: Power Systems and Sustainable Energy Program](chapter-15-power-systems-andsustainable-energy-program.md)
 * [Chapter 16: Robotics and Automation Program](chapter-16-robotics-and-automation-program.md)
-* [Chapter 17: Graduate Minor in Science, Technology, and Society \(STS\)](chapter-17-graduate-minor-in-science-technology-and-society-sts.md)
+* [Chapter 17: Graduate Minor in Science, Technology, and Society (STS)](chapter-17-graduate-minor-in-science-technology-and-society-sts.md)
 * [Chapter 18: Certificate Programs](chapter-18-certificate-programs.md)
 * [Chapter 19: Campus Life](chapter-19-campus-life.md)
 * [Chapter 20: Student Conduct Code](chapter-20-student-conduct-code.md)
@@ -28,4 +28,3 @@
 * [Academic Accreditations](academic-accreditations.md)
 * [Engineering Advisory Board](engineering-advisory-board.md)
 * [Engineering Faculty](engineering-faculty.md)
-
