@@ -1,4 +1,4 @@
-# Chapter 15: Power Systems andSustainable Energy Program
+# Chapter 15: Power Systems and Sustainable Energy Program
 
 _Program Advisor:_ Dr. Maryam Khanbaghi
 
@@ -8,58 +8,62 @@ Twenty-first century problems demand holistic thinking to effectively address th
 
 **Master’s Degree Program And Requirements**
 
-Students interested in this major must satisfy the standard admissions criteria used by the School of Engineering, which include an undergraduate degree in a field of engineering \(physics degrees will also be considered\), appropriate GRE scores and \(for international students\) demonstrated proficiency in English. Both TOEFL and IELTS scores are acceptable for this purpose. All students are expected to maintain a minimum grade point average of 3.0 while enrolled in the program. They must also develop a PS&SE Program of Studies with the program advisor and file this document with the Graduate Programs Office by the end of their first quarter at SCU.
+Students interested in this major must satisfy the standard admissions criteria used by the School of Engineering, which include an undergraduate degree in a field of engineering (physics degrees will also be considered), appropriate GRE scores and (for international students) demonstrated proficiency in English. Both TOEFL and IELTS scores are acceptable for this purpose. All students are expected to maintain a minimum grade point average of 3.0 while enrolled in the program. They must also develop a PS\&SE Program of Studies with the program advisor and file this document with the Graduate Programs Office by the end of their first quarter at SCU.
 
 _**Required Courses**_
 
 **Foundational Courses**
 
-* ELEN 280/MECH 287 Introduction to Alternative Energy Systems \(2 units\)
-* ELEN 281A Power Systems: Generation and Transmission \(2 units\)
-* ELEN 281B Power Systems: Distribution \(2 units\)
-* ELEN 285 Introduction to the Smart Grid \(2 units\)
+* ELEN 280/MECH 287 Introduction to Alternative Energy Systems (2 units)
+* ELEN 281A Power Systems: Generation and Transmission (2 units)
+* ELEN 281B Power Systems: Distribution (2 units)
+* ELEN 285 Introduction to the Smart Grid (2 units)
 
 _**Graduate Core Courses**_
 
-* ENGR 272 Energy Public Policy \(2 units\)
-* ENGR 273 Sustainable Energy and Ethics \(2 units\) or ENGR 344 Artificial Intelligence and Ethics \(2 units\)
-* EMGT 255 Managerial Accounting for Operating Managers \(2 units\)
-* EMGT 380 Introduction to Systems Engineering Management \(2 units\)
+* ENGR 272 Energy Public Policy (2 units)
+* ENGR 273 Sustainable Energy and Ethics (2 units) or\
+  ENGR 344 Artificial Intelligence and Ethics (2 units)
+* EMGT 255 Managerial Accounting for Operating Managers (2 units)
+* EMGT 380 Introduction to Systems Engineering Management (2 units)
 
 _**Applied Mathematics Courses**_
 
-* AMTH 245 Linear Algebra I \(2 units\)
-* AMTH 246 Linear Algebra II \(2 units\)
+* AMTH 245 Linear Algebra I (2 units)
+* AMTH 246 Linear Algebra II (2 units)
 * 4 units to be selected in consultation with the student’s academic advisor
 
-A set of specialized energy-related courses which are appropriate to the area of  
+A set of specialized energy-related courses which are appropriate to the area of\
 engineering in which the student is interested. These four areas are:
 
 _**Mechanical Engineering**_
 
-* ELEN 231 Power System Stability and Control \(4 units\)
-* ELEN 287/ENGR 339 Energy Storage Systems \(2 units\)
-* MECH 228 Equilibrium Thermodynamics \(2 units\) or MECH 230 Statistical Thermodynamics \(2 units\)
-* MECH 288 Energy Conversion I \(2 units\)
+* ELEN 231 Power System Stability and Control (4 units)
+* ELEN 287/ENGR 339 Energy Storage Systems (2 units)
+* MECH 228 Equilibrium Thermodynamics (2 units) or\
+  MECH 230 Statistical Thermodynamics (2 units)
+* MECH 288 Energy Conversion I (2 units)
 
 _**Electrical Engineering**_
 
-* ELEN 231 Power System Stability and Control \(4 units\)
-* ELEN 287/ENGR 339 Energy Storage Systems \(2 units\)
-* ELEN 288 Energy Management Systems or ELEN 236 Linear Control Systems \(2 units\)
-* ELEN 353 DC to DC Power Conversion \(2 units\)
+* ELEN 231 Power System Stability and Control (4 units)
+* ELEN 287/ENGR 339 Energy Storage Systems (2 units)
+* ELEN 288 Energy Management Systems or\
+  ELEN 236 Linear Control Systems (2 units)
+* ELEN 353 DC to DC Power Conversion (2 units)
 
 _**Computer Engineering**_
 
-* COEN 242 Big Data \(4 units\) or Coen 240 Machine Learning \(4 units\)
-* COEN 243 Internet of Things \(4 units\)
-* COEN 266 Artificial Intelligence \(4 units\)
+* COEN 242 Big Data (4 units) or Coen 240 Machine Learning (4 units)
+* COEN 243 Internet of Things (4 units)
+* COEN 266 Artificial Intelligence (4 units)
 
 _**Civil Engineering**_
 
-* CENG 217 Sustainable Infrastructure for Developing Countries \(4 units\) or CENG 288 Engineering Decision and Risk Analysis \(4 units\)
-* CENG 219 Designing for Sustainable Construction \(4 units\)
-* CENG 249 Civil Systems Engineering \(4 units\)
+* CENG 217 Sustainable Infrastructure for Developing Countries (4 units) or\
+  CENG 288 Engineering Decision and Risk Analysis (4 units)
+* CENG 219 Designing for Sustainable Construction (4 units)
+* CENG 249 Civil Systems Engineering (4 units)
 
 Additional elective courses to complete the 46-unit requirement must be approved by the academic advisor. These elective courses may include a thesis, up to nine units.
 
@@ -71,19 +75,18 @@ The main goal of this certificate is to introduce students to the field of renew
 
 All Santa Clara University graduate courses applied to the completion of a certificate program earn graduate credit that may also be applied toward a graduate degree. Students who wish to continue for such a degree must submit a separate application and satisfy all standard admission requirements. The general GRE test requirement for graduate admission to the master’s degree will be waived for students who complete a certificate program with a GPA of 3.5 or better.
 
-_**Required Courses \(16 units total\)**_
+_**Required Courses (16 units total)**_
 
 _**Power Systems**_
 
-* ELEN 280/MECH 287 Introduction to Alternative Energy Systems \(2 units\)
-* ELEN 281A Power Systems: Generation and Transmission \(2 units\)
-* ELEN 281B Power Systems: Distribution \(2 units\)
-* ELEN 285 Introduction to the Smart Grid \(2 units\)
+* ELEN 280/MECH 287 Introduction to Alternative Energy Systems (2 units)
+* ELEN 281A Power Systems: Generation and Transmission (2 units)
+* ELEN 281B Power Systems: Distribution (2 units)
+* ELEN 285 Introduction to the Smart Grid (2 units)
 
 _**Renewable Energy**_
 
-* ELEN 284 Solar Cell Technologies and Simulation Tools \(2 units\) or ELEN 380 Economics of Energy \(2 units\)
-* ELEN 286/MECH 286 Introduction to Wind Energy Engineering \(2 units\)
-* ELEN 287 Storage Device Systems \(2 units\)
-* ENGR 272 Energy Public Policy \(2 units\)
-
+* ELEN 284 Solar Cell Technologies and Simulation Tools (2 units) or ELEN 380 Economics of Energy (2 units)
+* ELEN 286/MECH 286 Introduction to Wind Energy Engineering (2 units)
+* ELEN 287 Storage Device Systems (2 units)
+* ENGR 272 Energy Public Policy (2 units)

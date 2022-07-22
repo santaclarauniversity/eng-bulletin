@@ -4,35 +4,34 @@ The Enrichment Experience is an 8 unit requirement for all M.S. degree seeking s
 
 Through the Enrichment Experience, in conjunction with students’ specific program of study, Engineering graduate students will achieve the following objectives:
 
-1. Academic competence
+1.  Academic competence
 
-  Graduate students will demonstrate broad content knowledge and the ability to integrate and apply concepts from their course of study to professional situations.
+    Graduate students will demonstrate broad content knowledge and the ability to integrate and apply concepts from their course of study to professional situations.
+2.  Creative and collaborative learning
 
-2. Creative and collaborative learning
+    Graduate students will demonstrate an ability to collaborate in creative ways, and communicate effectively with professionals and others in their discipline.
+3.  Professional development
 
-  Graduate students will demonstrate an ability to collaborate in creative ways, and communicate effectively with professionals and others in their discipline.
-
-3. Professional development
-
-  Graduate students will exhibit professionalism, consistent with the University’s Jesuit mission,that includes attention to ethics, integrity, and responsible engagement with their communities–both locally and globally.
+    Graduate students will exhibit professionalism, consistent with the University’s Jesuit mission,that includes attention to ethics, integrity, and responsible engagement with their communities–both locally and globally.
 
 **The Enrichment Experience requirement cannot be waived and no substitutions will be approved.**
 
 In order to fulfill this requirement, students must take
 
-* Graduate Core: \(minimum of 4 units required\) Must take a course in at least two of the three areas from
+* Graduate Core: (minimum of 4 units required) Must take a course in at least two of the three areas from
   * Emerging Topics in Engineering,
   * Engineering and Business/Entrepreneurship
   * Engineering and Society.
     * Below is the list of all classes approved for the graduate core in these three areas. Please check our current student resources on our graduate engineering website for the most current list of Graduate Core classes.
-* The remaining 4 units can be accumulated by:
-  * Taking one or more major technical electives.
-    * _Directed Research, Independent Study, Capstone, Thesis and CSE foundation courses cannot be approved as a technical electives_
-  * Taking additional classes from the Graduate Core List below
-  * Taking Cooperative Education courses \(Engr 288 and 289\). 
-    * Can repeat Engr 289 up to 3 times.
+*   The remaining 4 units can be accumulated by:
 
-  Combining courses from the categories above
+    * Taking one or more major technical electives.
+      * _Directed Research, Independent Study, Capstone, Thesis and CSE foundation courses cannot be approved as a technical electives_
+    * Taking additional classes from the Graduate Core List below
+    * Taking Cooperative Education courses (Engr 288 and 289).&#x20;
+      * Can repeat Engr 289 up to 3 times.
+
+    Combining courses from the categories above
 
 **GRADUATE CORE AREAS AND TOPICS**
 
@@ -68,7 +67,7 @@ In order to fulfill this requirement, students must take
 * ENGR 338 Mobile Applications for Emerging Markets
 * ENGR 350 Success in Global Emerging Markets
 * ENGR 351 New Paradigm for Technology-Global Mindfulness Leadership
-* Any 2-unit course in Engineering Management and Leadership \(EMGT\)
+* Any 2-unit course in Engineering Management and Leadership (EMGT)
 
 **Engineering and Society**
 
@@ -97,13 +96,11 @@ In order to fulfill this requirement, students must take
 * ENGR 351-New Paradigm for Technology-Global Mindfulness Leadership
 
 {% hint style="info" %}
-_Note 1: Although certain courses \(such as ENGR 302, ENGR 304, ENGR 336, and AMTH 367 for example\) may appear in multiple categories, they cannot be used to satisfy more than one Core requirement. Students are encouraged to periodically check for updates regarding new courses in these areas on the graduate engineering website under current student resources._
+_Note 1: Although certain courses (such as ENGR 302, ENGR 304, ENGR 336, and AMTH 367 for example) may appear in multiple categories, they cannot be used to satisfy more than one Core requirement. Students are encouraged to periodically check for updates regarding new courses in these areas on the graduate engineering website under current student resources._
 
-[https://www.scu.edu/engineering/current-student-resources/current-graduate-students/graduate-core/](https://www.scu.edu/engineering/current-student-resources/current-graduate-students/graduate-core/)  
-_****_
+[https://www.scu.edu/engineering/current-student-resources/current-graduate-students/graduate-core/](https://www.scu.edu/engineering/current-student-resources/current-graduate-students/graduate-core/)
 {% endhint %}
 
 {% hint style="info" %}
 _Please Note: Transfer credit is not approved for core courses, and all core courses must be taken at SCU._
 {% endhint %}
-
