@@ -6,7 +6,10 @@ The Enrichment Experience requirement cannot be waived and no substitution will 
 
 In order to fulfill this requirement, students must take
 
-* (minimum 4 units) A course in at least two of the three areas of Emerging Topics in Engineering, Engineering and Business/Entrepreneurship Engineering and Society.
+* (minimum 4 units) A course in at least two of the three areas of&#x20;
+  * Emerging Topics in Engineering,&#x20;
+  * Engineering and Business/Entrepreneurship&#x20;
+  * Engineering and Society
 
 Below is the list of all classes approved for the graduate core in these three areas. Please check our current student resources on our graduate engineering website for the most current list of Graduate Core classes.
 
