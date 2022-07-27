@@ -18,9 +18,9 @@ Courses for the master’s degree must result in a total of 46 units. These unit
 
 In addition to its freestanding master’s degree program, the Department of Applied Mathematics offers a concentration in mathematical finance within its master’s degree program. Specific course requirements change from time to time. For further information, please consult with the chair of the department.
 
-**Course Descriptions**
+## **Course Descriptions**
 
-&#x20;**Undergraduate Courses**
+### **Undergraduate Courses**
 
 _**AMTH 106. Differential Equations**_&#x20;
 
@@ -142,108 +142,110 @@ _**AMTH 256. Applied Graph Theory I**_&#x20;
 
 Elementary treatment of graph theory. The basic definitions of graph theory are covered; the fundamental theorems are explored. Subgraphs, complements, graph isomorphisms, and some elementary algorithms make up the content. Prerequisite: Mathematical maturity. (2 units)&#x20;
 
-**AMTH 297. Directed Research**&#x20;
+_**AMTH 297. Directed Research**_&#x20;
 
 By arrangement. Prerequisite: Permission of the chair of applied mathematics. May be repeated for credit with permission of the chair of applied mathematics. (1–8 units)&#x20;
 
-**AMTH 299. Special Problems**&#x20;
+_**AMTH 299. Special Problems**_&#x20;
 
 By arrangement. (1–2 units)&#x20;
 
-**AMTH 308. Theory of Wavelets**&#x20;
+_**AMTH 308. Theory of Wavelets**_&#x20;
 
 Construction of Daubechies’ wavelets and the application of wavelets to image compression and numerical analysis. Multi resolution analysis and the properties of the scaling function, dilation equation, and wavelet filter coefficients. Pyramid algorithms and their application to image compression. Prerequisites: Familiarity with MATLAB or other high-level language, Fourier analysis, and linear algebra. (2 units)&#x20;
 
-**AMTH 313. Time Series Analysis**&#x20;
+_**AMTH 313. Time Series Analysis**_&#x20;
 
 Review of forecasting methods. Concepts in time series analysis; stationarity, auto-correlation, Box-Jenkins. Moving average and auto-regressive processes. Mixed processes. Models for seasonal time series. Prerequisite: AMTH 211 or 212. (2 units)&#x20;
 
-**AMTH 315. Matrix Theory I**&#x20;
+_**AMTH 315. Matrix Theory I**_&#x20;
 
 Properties and operations, vector spaces and linear transforms, characteristic root; vectors, inversion of matrices, applications. Prerequisite: AMTH 246 or 247. (2 units)&#x20;
 
-AMTH 316. Matrix Theory II&#x20;
+_**AMTH 316. Matrix Theory II**_&#x20;
 
 Continuation of AMTH 315. Prerequisite: AMTH 315. (2 units)&#x20;
 
-AMTH 340. Linear Programming I&#x20;
+_**AMTH 340. Linear Programming I**_&#x20;
 
 Basic assumptions and limitations, problem formulation, algebraic and geometric representation. Simplex algorithm and duality. (2 units)&#x20;
 
-AMTH 344. Linear Regression&#x20;
+_**AMTH 344. Linear Regression**_&#x20;
 
 The elementary straight-line “least squares least-squares fit;” and the fitting of data to linear models. Emphasis on the matrix approach to linear regressions. Multiple regression; various strategies for introducing coefficients. Examination of residuals for linearity. Introduction to nonlinear regression. Prerequisite: AMTH 211 or 212. (2 units)&#x20;
 
-AMTH 351. Quantum Computing&#x20;
+_**AMTH 351. Quantum Computing**_&#x20;
 
 Introduction to quantum computing, with emphasis on computational and algorithmic aspects. Prerequisite: AMTH 246 or 247. (2 units)&#x20;
 
-AMTH 358. Fourier Transforms&#x20;
+_**AMTH 358. Fourier Transforms**_&#x20;
 
 Definition and basic properties. Energy and power spectra. Applications of transforms of one variable to linear systems, random functions, communications. Transforms of two variables and applications to optics. Prerequisites: Calculus sequence, elementary differential equations, fundamentals of linear algebra, and familiarity with MATLAB (preferably) or other high-level programming language. (2 units)&#x20;
 
-AMTH 360. Advanced Topics in Fourier Analysis&#x20;
+_**AMTH 360. Advanced Topics in Fourier Analysis**_&#x20;
 
 Continuation of AMTH 358. Focus on Fourier analysis in higher dimensions, other extensions of the classical theory, and applications of Fourier analysis in mathematics and signal processing. Prerequisite: AMTH 358 or instructor approval. (2 units)&#x20;
 
-AMTH 362. Stochastic Processes I&#x20;
+_**AMTH 362. Stochastic Processes I**_&#x20;
 
 Types of stochastic processes, stationarity, ergodicity, differentiation and integration of stochastic processes. Topics chosen from correlation and power spectral density functions, linear systems, band-limit processes, normal processes, Markov processes, Brownian motion, and option pricing. Prerequisite: AMTH 211 or 212 or instructor approval. (2 units)&#x20;
 
-AMTH 363. Stochastic Processes II&#x20;
+_**AMTH 363. Stochastic Processes II**_&#x20;
 
 Continuation of AMTH 362. Prerequisite: AMTH 362 or instructor approval. (2 units)&#x20;
 
-AMTH 364. Markov Chains&#x20;
+_**AMTH 364. Markov Chains**_&#x20;
 
 Markov property, Markov processes, discrete-time Markov chains, classes of states, recurrence processes and limiting probabilities, continuous-time Markov chains, time-reversed chains, numerical techniques. Prerequisite: AMTH 211 or 212 or 362 or ELEN 233 or 236. (2 units)&#x20;
 
-AMTH 367. Mathematical Finance&#x20;
+_**AMTH 367. Mathematical Finance**_&#x20;
 
 Introduction to Ito calculus and stochastic differential equations. Discrete lattice models. Models for the movement of stock and bond prices using Brownian motion and Poisson processes. Pricing models for equity and bond options via Black-Scholes and its variants. Optimal portfolio allocation. Solution techniques will include Monte Carlo and finite difference methods. Prerequisite: MATH 53 or permission of instructor and MATH 122 or AMTH 108. Also listed as FNCE 116, MATH 125 AND FNCE 3489. (4 units)&#x20;
 
-AMTH 370. Optimization Techniques I&#x20;
+_**AMTH 370. Optimization Techniques I**_&#x20;
 
 Convex sets and functions. Unconstrained optimality conditions. Convergence and rates of convergence. Applications. Numerical methods for unconstrained optimization (and constrained optimization as time permits). Prerequisites: Proficiency in Matlab programming and AMTH 246 or 247. (2 units)&#x20;
 
-AMTH 371. Optimization Techniques II&#x20;
+_**AMTH 371. Optimization Techniques II**_&#x20;
 
 Optimization problems in multidimensional spaces involving equality constraints and inequality constraints by gradient and non-gradient methods. Special topics. Prerequisite: AMTH 370. (2 units)&#x20;
 
-AMTH 372. Semi-Markov and Decision Processes Semi-Markov processes in discrete and continuous time, continuous-time Markov processes, processes with an infinite number of states, rewards, discounting, decision processes, dynamic programming, and applications. Prerequisite: AMTH 211 or 212 or 362 or 364 or ELEN 233 or 236. (2 units)&#x20;
+_**AMTH 372. Semi-Markov and Decision Processes**_&#x20;
 
-AMTH 374. Partial Differential Equations I&#x20;
+Semi-Markov processes in discrete and continuous time, continuous-time Markov processes, processes with an infinite number of states, rewards, discounting, decision processes, dynamic programming, and applications. Prerequisite: AMTH 211 or 212 or 362 or 364 or ELEN 233 or 236. (2 units)&#x20;
+
+_**AMTH 374. Partial Differential Equations I**_&#x20;
 
 Relation between particular solutions, general solutions, and boundary values. Existence and uniqueness theorems. Wave equation and Cauchy’s problem. Heat equation. (2 units)&#x20;
 
-AMTH 375. Partial Differential Equations II&#x20;
+_**AMTH 375. Partial Differential Equations II**_&#x20;
 
 Continuation of AMTH 374. Prerequisite: AMTH 374. (2 units)&#x20;
 
-AMTH 376. Numerical Solution of Partial Differential Equations
+_**AMTH 376. Numerical Solution of Partial Differential Equations**_
 
 &#x20;Numerical solution of parabolic, elliptic, and hyperbolic partial differential equations. Basic techniques of finite differences, finite volumes, finite elements, and spectral methods. Direct and iterative solvers. Prerequisites: Familiarity with numerical analysis, linear algebra, and MATLAB. (2 units)&#x20;
 
-AMTH 377. Design and Analysis of Algorithms&#x20;
+_**AMTH 377. Design and Analysis of Algorithms**_&#x20;
 
 Techniques of design and analysis of algorithms: proof of correctness; running times of recursive algorithms; design strategies: brute-force, divide and conquer, dynamic programming, branch-and-bound, backtracking, and greedy technique; max flow/ matching. Intractability: lower bounds; P, NP, and NP-completeness. Also listed as BIOE 377. Prerequisite: COEN 912C or equivalent. (4 units)&#x20;
 
-AMTH 379. Advanced Design and Analysis of Algorithms&#x20;
+_**AMTH 379. Advanced Design and Analysis of Algorithms**_&#x20;
 
 Amortized and probabilistic analysis of algorithms and data structures: disjoint sets, hashing, search trees, suffix arrays and trees. Randomized, parallel, and approximation algorithms. Also listed as COEN 379. Prerequisite: AMTH 377/COEN 279. (4 units)&#x20;
 
-AMTH 387. Cryptology&#x20;
+_**AMTH 387. Cryptology**_&#x20;
 
 Mathematical foundations for information security (number theory, finite fields, discrete logarithms, information theory, elliptic curves). Cryptography. Encryption systems (classical, DES, Rijndael, RSA). Cryptanalytic techniques. Simple protocols. Techniques for data security (digital signatures, hash algorithms, secret sharing, zero-knowledge techniques). Prerequisite: Mathematical maturity at least at the level of upper-division engineering students. (4 units)&#x20;
 
-AMTH 388. Advanced Topics in Cryptology&#x20;
+_**AMTH 388. Advanced Topics in Cryptology**_&#x20;
 
 Topics may include advanced cryptography and cryptanalysis. May be repeated for credit if topics differ. Prerequisite: AMTH 387. (2 units)&#x20;
 
-AMTH 397. Master’s Thesis
+_**AMTH 397. Master’s Thesis**_
 
 By arrangement. Limited to master’s students in applied mathematics. (1–9 units)&#x20;
 
-AMTH 399. Independent Study&#x20;
+_**AMTH 399. Independent Study**_&#x20;
 
 By arrangement. Prerequisite: Instructor approval. (1-4 units)
