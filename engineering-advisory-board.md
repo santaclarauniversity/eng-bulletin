@@ -2,86 +2,93 @@
 
 _**Renee Niemi, Chair**_
 
-Sam Bertram\
-CEO and Co-Founder\
-OnePointOne and Willo
+Sam Bertram \
+CEO and Co-Founder \
+_OnePointOne_
 
 Ivo Bolsens\
-_Vice President, Chief Technology Officer_\
+Vice President, Chief Technology Officer \
 _Xilinx, Incorporated_
 
-Chuck Cantoni\
-_Former President and CEO Alara, Inc._
+Bill Carter \
+Retired Xilinx Fellow \
+_SCU Board of Trustees_
 
-Bill Carter\
-Retired Xilinx Fellow\
-SCU Board of Trustees
+Kathryn (Kathy) Chou \
+Senior Vice President, SAAS Engineering \
+_Nutanix_
 
-Kathryn (Kathy) Chou\
-_Vice President, R\&D Operations and Central Services_\
-_VM Ware_
+Lynda Coffman \
+Senior Operations Executive
 
-Ross Dakin\
-_New Jersey Office of Innovation_\
-_Greater New York City Area_\
-_Former Presidential Innovation Fellow_
+Ross Dakin \
+Co-Founder and CTO \
+_Criticality Sciences_
 
-Mir Imran\
-_Chairman and CEO Modulus, Inc._\
+Mir Imran \
+Chairman and CEO Modulus, Inc. \
 _Managing Director, InCube Ventures LP_
 
-Waguih Ishak, Ph.D.\
-_Division Vice President, Science andTechnology_\
+Waguih Ishak, Ph.D. \
+Division Vice President, Science andTechnology \
 _Corning West Technology Center_
 
 Jack Jia\
-_Chief Executive Officer_\
+Chief Executive Officer \
 _Trusper, Incorporated_
 
-James Lyons, Ex-Officio Member\
-_Vice President for University Relations_\
+Kevin Kelly \
+CEO and Founder \
+_Axias Technology Group_
+
+James Lyons, Ex-Officio Member \
+Vice President for University Relations \
 _Santa Clara University_
 
-John Maydonovitch\
-_President and Chief Executive Officer_\
+John Maydonovitch \
+President and Chief Executive Officer \
 _MCE, Incorporated_
 
-John McCool\
-_Chief Platform Officer and Sr. V.P. of Engineering and Operations_\
+John McCool \
+Chief Platform Officer and Sr. V.P. of Engineering and Operations \
 _Arista Networks, Inc._
 
 Renee Niemi-Chair\
-_Board Director and Business Consultant_\
+Board Director and Business Consultant \
 _Limited Partner, Mighty Capital_
 
 Richard L. Reginato\
-_Director and THAAD Development Program Manager_\
-_Lockheed Martin Space Systems Company_
+Chair, Strategic Advisory Board \
+_Momentus_
 
-Fariborz (Frankie) Roohparvar\
-_Executive Chairman_\
+Fariborz (Frankie) Roohparvar \
+Executive Chairman \
 _Batteroo Corporation_
 
 Paul Russell\
-_Vice President and General Manager_\
-_L3 Technologies Tech_
+Chief Executive Officer \
+_Stellant Systems_
 
 Alexander S. Shubat\
-_Chief Executive Officer_\
+Chief Executive Officer \
 _Espresa_
 
 Gordon Stitt\
-_Network Technology Leader_\
-_Former CEO, Nebula_
+Network Technology Leader, Former CEO \
+_Nebula_
 
-Elaine Scott\
-Dean, School of Engineering\
+Elaine Scott \
+Dean, School of Engineering \
 Sobrato Professor of Engineering
 
-Hermant Thapar\
-_Founder and CEO_\
+Hermant Thapar \
+Founder and CEO \
 _OmniTier Inc._
 
-Marc van den Berg, Chairman Emeritus\
-_Managing Director_\
-__40 North Ventures
+Marc van den Berg, Chairman Emeritus \
+Managing Director, Venture Capital \
+_OGCI Climate Investments_
+
+Jose Ysaguirre \
+Senior Manager, Electrical Engineering \
+_Becton Dickinson_
