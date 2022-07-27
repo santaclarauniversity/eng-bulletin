@@ -53,8 +53,6 @@ To qualify for the degree of Master of Science in Civil, Environmental and Susta
 
 Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the following table:
 
-***
-
 Structural Engineering Track General Civil Engineering Track Construction Engineering and Management Track Water and Environmental Engineering Track Required Technical Coursework CENG 205† (2) CENG 206† (2) CENG 222 (4) CENG 233\* (4) CENG 234 (4) CENG 236 (4) CENG 237 (4) (24 units) CENG 219^ (3) CENG 237 (4) CENG 238 (4/1) CENG 249 (4) CENG 250 (4) CENG 282^ (3) (24 units)
 
 CENG 218 (3) CENG 219^ (3) CENG 281 (3) CENG 282^ (3) CENG 284 (3) CENG 285 (3) CENG 286 (3) CENG 287 (3) (24 units) At least 15 units from: CENG 242 (4) CENG 249 (4) CENG 253 (3/1) CENG 254 (3/1) CENG 258 (4) CENG 259 (3)
