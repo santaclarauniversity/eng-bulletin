@@ -83,7 +83,7 @@ Office Location: Loyola Hall, Suite 140, 425 El Camino Real, Santa Clara, CA 950
 
 Main Office: 408-551-3043 | Direct Line: 408-551-3521&#x20;
 
-Email: jrelliott@scu.edu&#x20;
+Email: [jrelliott@scu.edu ](mailto:jrelliott@scu.edu)
 
 Web: [www.scu.edu/title-ix](http://www.scu.edu/title-ix)
 
@@ -93,7 +93,7 @@ Sex discrimination claims or other inquiries concerning the application of Title
 
 Santa Clara University, in compliance with state and federal laws and regulations including Section 504 of the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA), and the Americans with Disabilities Act Amendments Act (ADAAA) does not discriminate on the basis of disability in administration of its education-related programs and activities. The University is committed to providing individuals with disabilities including those with learning disabilities, ADHD, chronic health conditions, traumatic brain injuries, hearing impairments, physical disabilities, psychological disorders, visual impairments, and other health impairments equal access to academic courses, programs, activities, services and employment opportunities, and strives in its policies and practices to provide for the full participation of individuals with disabilities in all aspects of University life.
 
-For information concerning policies and procedures for students with disabilities, see the Office of Accessible Education (OAE) website, [https://www.scu.edu/oae/](https://www.scu.edu/oae/). Students with disabilities who are registered with the OAE office may be qualified to receive accommodations, auxiliary aids or services based on supporting documentation. To register with OAE, contact the Director at 408-554-4109 or by email at oae@scu.edu. Faculty and staff should contact Human Resources for information on how to request employee disability-related accommodations, auxiliary aids or services, [https://www.scu.edu/hr/.](https://www.scu.edu/hr/)
+For information concerning policies and procedures for students with disabilities, see the Office of Accessible Education (OAE) website, [https://www.scu.edu/oae/](https://www.scu.edu/oae/). Students with disabilities who are registered with the OAE office may be qualified to receive accommodations, auxiliary aids or services based on supporting documentation. To register with OAE, contact the Director at 408-554-4109 or by email at [oae@scu.edu](mailto:oae@scu.edu). Faculty and staff should contact Human Resources for information on how to request employee disability-related accommodations, auxiliary aids or services, [https://www.scu.edu/hr/.](https://www.scu.edu/hr/)
 
 Students, faculty, and staff who believe they have been subjected to unlawful discrimination on the basis of disability, or have been denied access to services or accommodations required by law, should contact the Director of Equal Opportunity and Title IX, [https://www.scu.edu/title-ix/.](https://www.scu.edu/title-ix/)
 
