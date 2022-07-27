@@ -1,9 +1,5 @@
 # Chapter 7: Department of Applied Mathematics
 
-__
-
-__
-
 _Senior Lecturer:_ Stephen A. Chiappari&#x20;
 
 _Renewable Term Lecturer:_ Aaron Melman (Department Chair)
@@ -42,7 +38,7 @@ _**AMTH 120. Engineering Mathematics**_
 
 &#x20;Review of ordinary differential equations (ODEs) and Laplace transform, vector calculus, linear algebra, orthogonal functions and Fourier Series, partial differential equations (PDEs), and introduction to numerical solutions of ODEs. Also listed as MECH 120. Prerequisite: AMTH 106. (4 units) AMTH 194. Peer Educator in Applied Mathematics Peer educators in applied mathematics work closely with a faculty member to help students understand course material, think more deeply about course material, benefit from collaborative learning, feel less anxious about testing situations, and enjoy learning. Prerequisite: Enrollment by permission of the instructor. (2 units)
 
-**Graduate Courses**
+### **Graduate Courses**
 
 &#x20;All 200-level applied mathematics courses are assumed to be first-year graduate courses. The minimum preparation for these courses is a working knowledge of calculus and a course in differential equations. A course in advanced calculus is desirable. The 300-level applied mathematics courses are graduate courses in mathematics that should be taken only by students who have completed several 200-level courses.
 
