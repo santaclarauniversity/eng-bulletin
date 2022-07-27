@@ -63,7 +63,7 @@ During the first quarter of enrollment, a student in the M.S. degree program is 
 * Applied Mathematics-Aaron Melman (Department Chair)&#x20;
 * Bioengineering-Please contact the department for available advisors.&#x20;
 * Civil Engineering-Please contact the department for available advisors.&#x20;
-* Computer Science and Engineering-The CSE department will email your advisor information by the end of the first week of the quarter. Also, you can contact the CSE peer advisor at [coenpeeradvisors@scu.edu](mailto:coenpeeradvisors@scu.edu)&#x20;
+* Computer Science and Engineering-The CSE department will email your advisor information by the end of the first week of the quarter. Also, you can contact the CSE peer advisor at coenpeeradvisors@scu.edu&#x20;
 * Electrical and Computer Engineering-Please contact the department for available advisors.&#x20;
 * Engineering Management and Leadership-Paul Semenza (Department Chair)&#x20;
 * Mechanical Engineering-Please contact the department for available advisors.&#x20;
@@ -94,9 +94,14 @@ Please keep the following in mind when transferring the units:
 * Only the credit will transfer, but not grades; so the overall grade point average will be based only on coursework completed at Santa Clara University.&#x20;
 * An official transcript and course syllabus is required for verification of the units by the student’s advisor and Graduate Engineering Programs Office.&#x20;
 * In order to transfer units into a degree program, please follow this procedure:
-  * Include the units you wish to transfer in the “Transfer Credit” section of the Program of Studies form and include the Institution Name, Course Number and Title, Grade, Units\*, Year and (if applicable) the SCU equivalent course. If no equivalent course is listed, the transfer credit will be processed as general transfer credit (TRCR 300).  _\*Note that 1 semester unit is equivalent to 1.5 quarter units. Please put the quarter unit value on the Program of Studies so that the final total will be correct._&#x20;
-  * The student’s academic advisor must sign the Program of Studies form&#x20;
-  * The Program of Study form must be submitted to the Graduate Engineering Programs Office by the end of the students first quarter
+
+Include the units you wish to transfer in the “Transfer Credit” section of the Program of Studies form and include the Institution Name, Course Number and Title, Grade, Units\*, Year and (if applicable) the SCU equivalent course. If no equivalent course is listed, the transfer credit will be processed as general transfer credit (TRCR 300).
+
+
+
+_\*Note that 1 semester unit is equivalent to 1.5 quarter units. Please put the quarter unit value on the Program of Studies so that the final total will be correct._&#x20;
+
+The student’s academic advisor must sign the Program of Studies form The Program of Study form must be submitted to the Graduate Engineering Programs Office by the end of the students first quarter
 
 NOTE: Courses that were taken more than 6 years ago are generally not accepted for transfer credit. Students who wish to request an exception must petition the Department Chair and receive a written approval with a justification. The final approval is given by the Associate Dean for Graduate Programs.
 
