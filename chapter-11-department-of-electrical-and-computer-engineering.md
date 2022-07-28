@@ -1,11 +1,5 @@
 # Chapter 11: Department of Electrical and Computer Engineering
 
-__
-
-__
-
-__
-
 _Professors Emeritus:_ Timothy J. Healy, Dragoslav D. Siljak,&#x20;
 
 _Thomas J. Bannan Professor:_ Shoba Krishnan (Chair)&#x20;
@@ -30,33 +24,30 @@ Students must develop a program of studies with an academic advisor and file the
 
 The program of studies must include the following:
 
-1. Graduate Core-Enrichment Experience (minimum 8 units): Students must take a minimum of 8 units of the Graduate Core Enrichment Experience.&#x20;
-
-* A minimum of 4 units must be from the Graduate Core which requires at least two courses from the three areas (Emerging Topics in Engineering, Engineering and Business/Entrepreneurship, and Engineering and Society).&#x20;
-* The remaining 4 units can be accumulated by the following a) Taking one or more major technical electives, b)Taking additional classes from the Graduate Core, c) Taking Cooperative Education course and d) combining courses from a, b and c. For additional information please see Chapter 6, Enrichment Experience and Graduate Core Requirements.
-
-1. Applied Mathematics (4 units)&#x20;
-2. Electrical and Computer Engineering primary focus area (minimum 6 units). Students must select and meet the requirements of one of the six focus areas listed below.&#x20;
-
-* _**Power Systems and Control**_&#x20;
-  * Either (236 or 281A) and two courses selected from (211, 232, 281B, 333)&#x20;
-* _**IC Design and Technology**_&#x20;
-  * Three courses selected from (252, 261, 270, 387)&#x20;
-* _**RF and Applied Electromagnetics**_&#x20;
-  * 201 and two courses selected from (202, 203, 204, 624, 701, 706)&#x20;
-* _**Signal Processing and Machine Learning**_&#x20;
-  * 233 and two courses selected from (234, 421, 431, 520, 640, 644)&#x20;
-* _**Digital Systems**_&#x20;
-  * 501 , 511, and 603&#x20;
-*   _**Communications**_&#x20;
-
-    * 241 and 243, and one course selected from (244, 444, 446)&#x20;
+1.  Graduate Core-Enrichment Experience (minimum 8 units): Students must take a minimum of 8 units of the Graduate Core Enrichment Experience.&#x20;
 
 
 
-Electrical and Computer Engineering breadth: (minimum 4 units) Two other focus areas must be selected as breadth areas. For each breadth area, one course must be taken from the list of required courses for that area.&#x20;
+    * A minimum of 4 units must be from the Graduate Core which requires at least two courses from the three areas (Emerging Topics in Engineering, Engineering and Business/Entrepreneurship, and Engineering and Society).&#x20;
+    * The remaining 4 units can be accumulated by the following a) Taking one or more major technical electives, b)Taking additional classes from the Graduate Core, c) Taking Cooperative Education course and d) combining courses from a, b and c. For additional information please see Chapter 6, Enrichment Experience and Graduate Core Requirements.
+2. Applied Mathematics (4 units)&#x20;
+3.  Electrical and Computer Engineering primary focus area (minimum 6 units). Students must select and meet the requirements of one of the six focus areas listed below.\
+    \
+    • _**Power Systems and Control**_
 
-Additional graduate courses recommended and approved by the graduate program advisor.
+    Either (236 or 281A) and two courses selected from (211, 232, 281B, 333)
+
+    • _**IC Design and Technology**_\
+    _****_Three courses selected from (252, 261, 270, 387)\
+    • _**RF and Applied Electromagnetics**_\
+    _****_201 and two courses selected from (202, 203, 204, 624, 701, 706)\
+    • _**Signal Processing and Machine Learning**_\
+    _****_233 and two courses selected from (234, 421, 431, 520, 640, 644)\
+    • _**Digital Systems**_\
+    _****_501 , 511, and 603 Communications 241 and 243, and one course selected from (244, 444, 446)
+4. Electrical and Computer Engineering breadth: (minimum 4 units) Two other focus areas must be selected as breadth areas. For each breadth area, one course must be taken from the list of required courses for that area.
+5. Additional graduate courses recommended and approved by the graduate program advisor.\
+
 
 These M.S. degree requirements may be adjusted by the advisor based on the student’s previous graduate work.
 
