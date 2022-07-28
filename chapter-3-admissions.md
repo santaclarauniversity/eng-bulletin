@@ -48,7 +48,7 @@ Applications Applications for admission and related deadlines are available on t
 
 ### Program Details&#x20;
 
-**B.S./M.S. 5 Year Program (Current undergraduate SCU students)**&#x20;
+**B.S./M.S. Dual Degree Program (Current undergraduate SCU students)**&#x20;
 
 The B.S./M.S. degree program allows current SCU undergraduate students to begin taking courses required for a master’s degree before completing the requirements for bachelor degree. This B.S./M.S. program is based on a minimum GPA of 3.0 in your major. Upon notification of acceptance into the B.S./M.S. program, students may begin taking graduate-level courses in their senior year and a maximum of 20 units can be transferred into the graduate program.&#x20;
 
