@@ -30,7 +30,7 @@ Applications Applications for admission and related deadlines are available on t
     *   _**Domestic Applicants**_&#x20;
 
         * On the Slate application, list any degree program in which you are currently enrolled, as well as every institution you have previously attended. Upload official transcripts from **EACH** institution.&#x20;
-        * Upload official transcripts from **EACH** degree granting institution. The official transcript must include the degree received and date of conferral. _Note: we do NOT accept transcripts sent directly from students, transcripts are ONLY ACCEPTED from the University._&#x20;
+        * Upload official transcripts from **EACH** degree granting institution. The official transcript must include the degree received and date of conferral. _**Note:** we do NOT accept transcripts sent directly from students, transcripts are ONLY ACCEPTED from the University._&#x20;
         * Acceptable transcript delivery methods include: certified electronic transcripts that are passcode protected, digitally signed, and sent from the issuing institution or its authorized agent to [gradengineer@scu.edu.](mailto:gradengineer@scu.edu)&#x20;
 
 
@@ -38,10 +38,9 @@ Applications Applications for admission and related deadlines are available on t
       * Students attending a university **OUTSIDE** of the United States, must submit a transcript evaluation report from Educational Credential Evaluators (ECE) or World Education Services (WES). The report must include a course by course evaluation which will verify a GPA based on a 4.0 scale, and the U.S. equivalence of each educational credential. Please refer to the ECE or WES website: www.ece.org or www.wes.org (There is no exception to this requirement). ** **_**Please note:** A copy of your original transcripts will be attached to the report and **you do not need to send any additional transcripts.**_&#x20;
 
     _****_
-* **OFFICIAL GRE SCORES.**&#x20;
-* Official Graduate Record Examination (GRE) scores must be sent directly to Graduate Engineering Programs by the Educational Testing Service (ETS). Our institution code is 4851. Additionally, students can send a PDF copy of their results to [gradengineer@scu.edu](mailto:gradengineer@scu.edu). For information on the GRE, please visit the website: [www.ets.org/. ](http://www.ets.org/)
-* Required for all computer science applicants.&#x20;
-*   Petition to waive the GRE is available for all other departments. The petition is available at [https://slate.scu.edu/register/engrGREwaiver. ](https://slate.scu.edu/register/engrGREwaiver)
+* **OFFICIAL GRE SCORES.** Official Graduate Record Examination (GRE) scores must be sent directly to Graduate Engineering Programs by the Educational Testing Service (ETS). Our institution code is 4851. Additionally, students can send a PDF copy of their results to [gradengineer@scu.edu](mailto:gradengineer@scu.edu). For information on the GRE, please visit the website: [www.ets.org/. ](http://www.ets.org/)
+  * Required for all computer science applicants.&#x20;
+  *   Petition to waive the GRE is available for all other departments. The petition is available at [https://slate.scu.edu/register/engrGREwaiver. ](https://slate.scu.edu/register/engrGREwaiver)
 
 
 * **OFFICIAL TOEFL/IELTS/DUOLINGO SCORES.**  For non-U.S. citizens or students who have received a degree from a university outside of the United States international students, we will accept scores from the Test of English as a Foreign Language (TOEFL), the International English Language Testing Systems (IELTS) or Duolingo. Our institution code is 4851. Test scores over three years old will not be accepted. Additionally, students can send a PDF copy of their results to [gradengineer@scu.edu](mailto:gradengineer@scu.edu). This requirement is waived for those who attended an institution within the U.S.
