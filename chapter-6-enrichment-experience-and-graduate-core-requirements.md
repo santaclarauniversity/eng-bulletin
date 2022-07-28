@@ -6,20 +6,28 @@ The Enrichment Experience requirement cannot be waived and no substitution will 
 
 In order to fulfill this requirement, students must take
 
-* (minimum 4 units) A course in at least two of the three areas of&#x20;
-  * Emerging Topics in Engineering,&#x20;
+* (minimum 4 units) A course in at least two of the three areas of
+  * Emerging Topics in Engineering
   * Engineering and Business/Entrepreneurship&#x20;
   * Engineering and Society
 
 Below is the list of all classes approved for the graduate core in these three areas. Please check our current student resources on our graduate engineering website for the most current list of Graduate Core classes.
 
-* The remaining 4 units can be accumulated by: Taking one or more major technical electives. (Directed Research, Independent Study, Capstone, Thesis and CSE foundation courses cannot be approved as a technical elective) Taking additional classes from the Graduate Core List below Taking Cooperative Education courses (Engr 288 and 289) Combining courses from categories (a), (b) and (c)
+* The remaining 4 units can be accumulated by:&#x20;
+  * Taking one or more major technical electives.&#x20;
+    * (Directed Research, Independent Study, Capstone, Thesis and CSE foundation courses cannot be approved as a technical elective)&#x20;
+  * Taking additional classes from the Graduate Core List below&#x20;
+  * Taking Cooperative Education courses (Engr 288 and 289)&#x20;
+  * Combining courses from categories (a), (b) and (c)
 
 Through the Enrichment Experience, in conjunction with students’ specific program of study, Engineering graduate students will achieve the following objectives:
 
-1. Academic competence Graduate students will demonstrate broad content knowledge and the ability to integrate and apply concepts from their course of study to professional situations.
-2. Creative and collaborative learning Graduate students will demonstrate an ability to collaborate in creative ways, and communicate effectively with professionals and others in their discipline.
-3. Professional development Graduate students will exhibit professionalism, consistent with the University’s Jesuit mission that includes attention to ethics, integrity, and responsible engagement with their communities–both locally and globally.
+1. Academic competence \
+   Graduate students will demonstrate broad content knowledge and the ability to integrate and apply concepts from their course of study to professional situations.
+2. Creative and collaborative learning \
+   Graduate students will demonstrate an ability to collaborate in creative ways, and communicate effectively with professionals and others in their discipline.
+3. Professional development \
+   Graduate students will exhibit professionalism, consistent with the University’s Jesuit mission that includes attention to ethics, integrity, and responsible engagement with their communities–both locally and globally.
 
 ### GRADUATE CORE AREAS AND TOPICS&#x20;
 
