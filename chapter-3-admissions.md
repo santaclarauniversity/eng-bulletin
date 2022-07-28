@@ -1,17 +1,17 @@
 # Chapter 3: Admissions
 
+
+
 Applications Applications for admission and related deadlines are available on the graduate school of engineering website: [Prospective Graduate Student Resources](https://www.scu.edu/engineering/graduate/prospective-graduate-student-resources/)
 
-| Program (See Program Details Below)                                    | Application Requirements (See Application Requirement Details Below)                                                                                                   |
-| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **B.S./M.S. Dual Degree Program (Current SCU Undergraduate Students)** | <p>• Online Application Application </p><p>• Fee Waived </p><p>• GRE Scores Waived</p>                                                                                 |
-| **Open University**                                                    | Online Application Nonrefundable Application Fee Official Transcripts TOEFL/IELTS/DUOLINGO (If Applicable)                                                             |
-| Certificate                                                            | Online Application Nonrefundable Application Fee Official Transcripts TOEFL/IELTS/DUOLINGO (If Applicable)                                                             |
-| Master’s Degree                                                        | Online Application Nonrefundable Application Fee Official Transcripts GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable)                                                  |
-| Engineer’s Degree                                                      | Online Application Nonrefundable Application Fee Official Transcripts 3 Letters of Recommendation Statement of Purpose GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable) |
-| Ph.D. Degree                                                           | Online Application Nonrefundable Application Fee Official Transcripts 3 Letters of Recommendation Statement of Purpose GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable) |
-
-
+| Program (See Program Details Below)                                    | Application Requirements (See Application Requirement Details Below)                                                                                                                                                                  |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **B.S./M.S. Dual Degree Program (Current SCU Undergraduate Students)** | <ul><li>Online Application</li><li>Application Fee Waived</li><li> GRE Scores Waived</li></ul>                                                                                                                                        |
+| **Open University**                                                    | <ul><li>Online Application </li><li>Nonrefundable Application Fee </li><li>Official Transcripts TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>                                                                                        |
+| **Certificate**                                                        | <ul><li>Online Application </li><li>Nonrefundable Application Fee </li><li>Official Transcripts TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>                                                                                        |
+| **Master’s Degree**                                                    | <ul><li>Online Application </li><li>Nonrefundable Application Fee </li><li>Official Transcripts GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>                                                                             |
+| **Engineer’s Degree**                                                  | <ul><li>Online Application </li><li>Nonrefundable Application Fee </li><li>Official Transcripts </li><li>3 Letters of Recommendation </li><li>Statement of Purpose </li><li>GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul> |
+| **Ph.D. Degree**                                                       | <ul><li>Online Application </li><li>Nonrefundable Application Fee </li><li>Official Transcripts </li><li>3 Letters of Recommendation </li><li>Statement of Purpose </li><li>GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul> |
 
 ### Application Requirement Details&#x20;
 
@@ -40,8 +40,8 @@ Applications Applications for admission and related deadlines are available on t
     _****_
 * **OFFICIAL GRE SCORES.**&#x20;
 * Official Graduate Record Examination (GRE) scores must be sent directly to Graduate Engineering Programs by the Educational Testing Service (ETS). Our institution code is 4851. Additionally, students can send a PDF copy of their results to [gradengineer@scu.edu](mailto:gradengineer@scu.edu). For information on the GRE, please visit the website: [www.ets.org/. ](http://www.ets.org/)
-  * Required for all computer science applicants.&#x20;
-  *   Petition to waive the GRE is available for all other departments. The petition is available at [https://slate.scu.edu/register/engrGREwaiver. ](https://slate.scu.edu/register/engrGREwaiver)
+* Required for all computer science applicants.&#x20;
+*   Petition to waive the GRE is available for all other departments. The petition is available at [https://slate.scu.edu/register/engrGREwaiver. ](https://slate.scu.edu/register/engrGREwaiver)
 
 
 * **OFFICIAL TOEFL/IELTS/DUOLINGO SCORES.**  For non-U.S. citizens or students who have received a degree from a university outside of the United States international students, we will accept scores from the Test of English as a Foreign Language (TOEFL), the International English Language Testing Systems (IELTS) or Duolingo. Our institution code is 4851. Test scores over three years old will not be accepted. Additionally, students can send a PDF copy of their results to [gradengineer@scu.edu](mailto:gradengineer@scu.edu). This requirement is waived for those who attended an institution within the U.S.
