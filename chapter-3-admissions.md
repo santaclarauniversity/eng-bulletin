@@ -2,14 +2,14 @@
 
 Applications Applications for admission and related deadlines are available on the graduate school of engineering website: [Prospective Graduate Student Resources](https://www.scu.edu/engineering/graduate/prospective-graduate-student-resources/)
 
-| Program (See Program Details Below)                           | Application Requirements (See Application Requirement Details Below)                                                                                                   |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **BS/MS 5 Year Program (Current SCU Undergraduate Students)** | <p>• Online Application Application </p><p>• Fee Waived </p><p>• GRE Scores Waived</p>                                                                                 |
-| **Open University**                                           | Online Application Nonrefundable Application Fee Official Transcripts TOEFL/IELTS/DUOLINGO (If Applicable)                                                             |
-| Certificate                                                   | Online Application Nonrefundable Application Fee Official Transcripts TOEFL/IELTS/DUOLINGO (If Applicable)                                                             |
-| Master’s Degree                                               | Online Application Nonrefundable Application Fee Official Transcripts GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable)                                                  |
-| Engineer’s Degree                                             | Online Application Nonrefundable Application Fee Official Transcripts 3 Letters of Recommendation Statement of Purpose GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable) |
-| Ph.D. Degree                                                  | Online Application Nonrefundable Application Fee Official Transcripts 3 Letters of Recommendation Statement of Purpose GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable) |
+| Program (See Program Details Below)                                    | Application Requirements (See Application Requirement Details Below)                                                                                                   |
+| ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **B.S./M.S. Dual Degree Program (Current SCU Undergraduate Students)** | <p>• Online Application Application </p><p>• Fee Waived </p><p>• GRE Scores Waived</p>                                                                                 |
+| **Open University**                                                    | Online Application Nonrefundable Application Fee Official Transcripts TOEFL/IELTS/DUOLINGO (If Applicable)                                                             |
+| Certificate                                                            | Online Application Nonrefundable Application Fee Official Transcripts TOEFL/IELTS/DUOLINGO (If Applicable)                                                             |
+| Master’s Degree                                                        | Online Application Nonrefundable Application Fee Official Transcripts GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable)                                                  |
+| Engineer’s Degree                                                      | Online Application Nonrefundable Application Fee Official Transcripts 3 Letters of Recommendation Statement of Purpose GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable) |
+| Ph.D. Degree                                                           | Online Application Nonrefundable Application Fee Official Transcripts 3 Letters of Recommendation Statement of Purpose GRE Scores TOEFL/IELTS/DUOLINGO (If Applicable) |
 
 
 
