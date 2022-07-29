@@ -8,7 +8,7 @@ _Renewable Term Lecturer:_ Aaron Melman (Department Chair)
 
 The Applied Mathematics Program is open to those students who have earned a B.S. degree in engineering, science, or mathematics, provided that the student has completed a program in undergraduate mathematics that parallels the program of the mathematics major at Santa Clara University. The undergraduate program at Santa Clara includes calculus and differential equations, abstract algebra, linear algebra, advanced calculus and/or real analysis; and a minimum of five upper-division courses chosen from the areas of analysis, complex variables, partial differential equations, numerical analysis, logic, probability, and statistics.
 
-Courses for the master’s degree must result in a total of 46 units. These units may include courses from other fields with permission of the Applied Mathematics Department advisor. A minimum of 12 quarter units must be in 300-level AMTH courses.
+Courses for the master’s degree must result in a minimum of 46 units. These units may include courses from other fields with permission of the Applied Mathematics Department advisor. A minimum of 12 quarter units must be in 300-level AMTH courses.
 
 **Concentration in Mathematical Finance within the Master of Science in Applied Mathematics**
 
@@ -32,15 +32,15 @@ Set theory and probability, random variables, conditional and total probability,
 
 _**AMTH 118. Numerical Methods**_
 
-&#x20;Numerical solution of algebraic and transcendental equations, numerical differentiation and integration, and solution of ordinary differential equations. Solution of representative problems on the digital computer. Prerequisites: AMTH 106 or MATH 22 and one of the following: MECH 45; COEN 11; CSCI 10. (4 units)&#x20;
+Numerical solution of algebraic and transcendental equations, numerical differentiation and integration, and solution of ordinary differential equations. Solution of representative problems on the digital computer. Prerequisites: AMTH 106 or MATH 22 and one of the following: MECH 45; COEN 11; CSCI 10. (4 units)&#x20;
 
 _**AMTH 120. Engineering Mathematics**_
 
-&#x20;Review of ordinary differential equations (ODEs) and Laplace transform, vector calculus, linear algebra, orthogonal functions and Fourier Series, partial differential equations (PDEs), and introduction to numerical solutions of ODEs. Also listed as MECH 120. Prerequisite: AMTH 106. (4 units) AMTH 194. Peer Educator in Applied Mathematics Peer educators in applied mathematics work closely with a faculty member to help students understand course material, think more deeply about course material, benefit from collaborative learning, feel less anxious about testing situations, and enjoy learning. Prerequisite: Enrollment by permission of the instructor. (2 units)
+Review of ordinary differential equations (ODEs) and Laplace transform, vector calculus, linear algebra, orthogonal functions and Fourier Series, partial differential equations (PDEs), and introduction to numerical solutions of ODEs. Also listed as MECH 120. Prerequisite: AMTH 106. (4 units) AMTH 194. Peer Educator in Applied Mathematics Peer educators in applied mathematics work closely with a faculty member to help students understand course material, think more deeply about course material, benefit from collaborative learning, feel less anxious about testing situations, and enjoy learning. Prerequisite: Enrollment by permission of the instructor. (2 units)
 
 ### **Graduate Courses**
 
-&#x20;All 200-level applied mathematics courses are assumed to be first-year graduate courses. The minimum preparation for these courses is a working knowledge of calculus and a course in differential equations. A course in advanced calculus is desirable. The 300-level applied mathematics courses are graduate courses in mathematics that should be taken only by students who have completed several 200-level courses.
+All 200-level applied mathematics courses are assumed to be first-year graduate courses. The minimum preparation for these courses is a working knowledge of calculus and a course in differential equations. A course in advanced calculus is desirable. The 300-level applied mathematics courses are graduate courses in mathematics that should be taken only by students who have completed several 200-level courses.
 
 _**AMTH 200. Advanced Engineering Mathematics I**_&#x20;
 
@@ -68,7 +68,7 @@ Combination of AMTH 210 and 211. (4 units)&#x20;
 
 _**AMTH 214. Engineering Statistics I**_
 
-&#x20;Frequency distributions, sampling, sampling distributions, univariate and bivariate normal distributions, analysis of variance, two- and three-factor analysis, regression and correlation, design of experiments. Prerequisite: Solid background in discrete and continuous probability. (2 units)&#x20;
+Frequency distributions, sampling, sampling distributions, univariate and bivariate normal distributions, analysis of variance, two- and three-factor analysis, regression and correlation, design of experiments. Prerequisite: Solid background in discrete and continuous probability. (2 units)&#x20;
 
 _**AMTH 215. Engineering Statistics II**_&#x20;
 
@@ -100,11 +100,11 @@ Solution of ordinary differential equations with variable coefficients using pow
 
 _**AMTH 231. Special Functions and Laplace Transforms**_
 
-&#x20;Review of the method of Frobenius in solving differential equations with variable coefficients. Gamma and beta functions. Solution of Bessel’s differential equation, properties and orthogonality of Bessel functions. Bessel Fourier series. Laplace transform, basic transforms, and applications. Prerequisite: AMTH 230. (2 units)&#x20;
+Review of the method of Frobenius in solving differential equations with variable coefficients. Gamma and beta functions. Solution of Bessel’s differential equation, properties and orthogonality of Bessel functions. Bessel Fourier series. Laplace transform, basic transforms, and applications. Prerequisite: AMTH 230. (2 units)&#x20;
 
 _**AMTH 232. Biostatistics**_
 
-&#x20;This course will cover the statistical principles used in Bioengineering encompassing distribution-based analyses and Bayesian methods applied to biomedical device and disease testing including methods for categorical data, comparing groups (analysis of variance) and analyzing associations (linear and logistic regression). Special emphasis will be placed on computational approaches used in model optimization, test-method validation, sensitivity analysis (ROC curve) and survival analysis. Also listed as BIOE 232 Prerequisites: AMTH 108, BIOE 120, or equivalent. (2 units)&#x20;
+This course will cover the statistical principles used in Bioengineering encompassing distribution-based analyses and Bayesian methods applied to biomedical device and disease testing including methods for categorical data, comparing groups (analysis of variance) and analyzing associations (linear and logistic regression). Special emphasis will be placed on computational approaches used in model optimization, test-method validation, sensitivity analysis (ROC curve) and survival analysis. Also listed as BIOE 232 Prerequisites: AMTH 108, BIOE 120, or equivalent. (2 units)&#x20;
 
 _**AMTH 232L. Biostatistics Laboratory**_&#x20;
 
@@ -120,7 +120,7 @@ Continuation of AMTH 235. Prerequisite: AMTH 235. (2 units)&#x20;
 
 _**AMTH 240. Discrete Mathematics for Computer Science**_
 
-&#x20;Relations and operation on sets, orderings, combinatorics, recursion, logic, method of proof, and algebraic structures. (2 units)&#x20;
+Relations and operation on sets, orderings, combinatorics, recursion, logic, method of proof, and algebraic structures. (2 units)&#x20;
 
 _**AMTH 245. Linear Algebra I**_&#x20;
 
@@ -220,7 +220,7 @@ Continuation of AMTH 374. Prerequisite: AMTH 374. (2 units)&#x20;
 
 _**AMTH 376. Numerical Solution of Partial Differential Equations**_
 
-&#x20;Numerical solution of parabolic, elliptic, and hyperbolic partial differential equations. Basic techniques of finite differences, finite volumes, finite elements, and spectral methods. Direct and iterative solvers. Prerequisites: Familiarity with numerical analysis, linear algebra, and MATLAB. (2 units)&#x20;
+Numerical solution of parabolic, elliptic, and hyperbolic partial differential equations. Basic techniques of finite differences, finite volumes, finite elements, and spectral methods. Direct and iterative solvers. Prerequisites: Familiarity with numerical analysis, linear algebra, and MATLAB. (2 units)&#x20;
 
 _**AMTH 377. Design and Analysis of Algorithms**_&#x20;
 

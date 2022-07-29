@@ -49,7 +49,7 @@ Applications Applications for admission and related deadlines are available on t
 
 **B.S./M.S. Dual Degree Program (Current undergraduate SCU students)**&#x20;
 
-The B.S./M.S. degree program allows current SCU undergraduate students to begin taking courses required for a master’s degree before completing the requirements for bachelor degree. This B.S./M.S. program is based on a minimum GPA of 3.0 in your major. Upon notification of acceptance into the B.S./M.S. program, students may begin taking graduate-level courses in their senior year and a maximum of 20 units can be transferred into the graduate program.&#x20;
+The B.S./M.S. degree program allows current SCU undergraduate students to begin taking courses required for a master’s degree before completing the requirements for bachelor degree. This B.S./M.S. program is based on a minimum major GPA of 3.0. Upon notification of acceptance into the B.S./M.S. program, students may begin taking graduate-level courses in their senior year and a maximum of 20 units can be transferred into the graduate program as long as they were not used for the undergraduate degree.
 
 **Open University**&#x20;
 
@@ -64,17 +64,17 @@ For those who want to update their skills and learn new technologies without the
 Certificate programs provide an opportunity for continued learning and skills refreshment for professional practice at the graduate level.&#x20;
 
 * Depending on the certificate program, students will complete 16-18 units of coursework.&#x20;
-* All certificate units in the discipline may be applied toward a master’s degree. Students who wish to pursue a Master’s degree must submit a separate online application. The application fee will be waived for currently enrolled certificate students. The general GRE and TOEFL test requirement for graduate admission to the master’s degree will be waived for students who complete a certificate with a GPA of 3.5 or higher.&#x20;
+* All certificate units in the discipline may be applied toward a master’s degree. Students who wish to pursue a Master’s degree must submit a separate online application. The application fee will be waived for currently enrolled certificate students. The general GRE and TOEFL test requirement for graduate admission to the master’s degree will be waived for students who complete a certificate with a minimum cumulative GPA of 3.5 or higher.&#x20;
 * _Note 1: Santa Clara University does not issue F-1 visas to applicants who wish to enter directly into the Certificate Program._&#x20;
 
 **Master’s Program**&#x20;
 
-Our master’s programs extend the breadth and depth of undergraduate knowledge leading to a professional work. Completion of the degree requires 46 units.&#x20;
+Our master’s programs extend the breadth and depth of undergraduate knowledge leading to a professional work. Completion of the degree requires a minimum of 46 units.&#x20;
 
 **Ph.D. Degree**&#x20;
 
 Our research-intensive Ph.D. program prepares students for careers in research and design.\
-Ph.D. degrees are offered in the Departments of Computer Science and Engineering, Electrical and Computer Engineering, and Mechanical Engineering. This is a full-time program. Students must complete 72 units.
+Ph.D. degrees are offered in the Departments of Computer Science and Engineering, Electrical and Computer Engineering, and Mechanical Engineering. This is a full-time program. Students must complete a minimum of 72 units.
 
 **Engineer’s Degree Program**
 
