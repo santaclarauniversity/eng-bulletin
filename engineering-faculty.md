@@ -28,7 +28,11 @@ _B. Math 2006, M. Math 2007, Ph.D. 2012, University of Waterloo, Canada_
 
 **ELLIE AHI (2008)**&#x20;
 
-_Lecturer in Engineering Management and Leadership B.S. 1983, San Jose State University M.S. 2007, Santa Clara University_
+_Lecturer in Engineering Management and Leadership_&#x20;
+
+_B.S. 1983, San Jose State University_&#x20;
+
+_M.S. 2007, Santa Clara University_
 
 **SALEM AL-AGTASH (2018)**&#x20;
 
@@ -168,7 +172,9 @@ _M.S. 2003, Ph.D. 2006, Purdue University_
 
 _Lecturer in Electrical and Computer Engineering_&#x20;
 
-_B.Sc. 1980, University of Auckland, New Zealand M.Sc. 1984, Ph.D. 1988, Massachusetts Institute of Technology_
+_B.Sc. 1980, University of Auckland, New Zealand_&#x20;
+
+_M.Sc. 1984, Ph.D. 1988, Massachusetts Institute of Technology_
 
 **ERIC CHAN (2020)**&#x20;
 
@@ -384,7 +390,11 @@ _B.S. 1991, M.S. 1992, Ph.D. 1996, University of California, Berkeley_
 
 **AHMED K. EZZAT (1988)**&#x20;
 
-_Lecturer in Computer Science and Engineering B.S. 1971, M.S. 1976, Cairo University Ph.D. 1982, University of New Hampshire_
+_Lecturer in Computer Science and Engineering_&#x20;
+
+_B.S. 1971, M.S. 1976, Cairo University_&#x20;
+
+_Ph.D. 1982, University of New Hampshire_
 
 **DRAZEN FABRIS (1999)**&#x20;
 
@@ -752,9 +762,9 @@ _Assistant Professor of Computer Science and Engineering_&#x20;
 
 _B.S. 2009, Heilongjiang University, China_&#x20;
 
-_M.S. 2012, Chinese Academy of Sciences,_&#x20;
+_M.S. 2012, Chinese Academy of Sciences, China_&#x20;
 
-_China M.S. 2014, Ph.D. 2018, University of Florida, Gainesville_
+_M.S. 2014, Ph.D. 2018, University of Florida, Gainesville_
 
 **NIGEL H. LIN (2016)**&#x20;
 
@@ -764,9 +774,11 @@ _B. Eng. 2000, M. Eng. 2002, Ph.D. 2005, Tamkang University, Taiwan_
 
 **NAM LING (1989)**&#x20;
 
-_Professor of Computer Science and Engineering Chair,_&#x20;
+_Professor of Computer Science and Engineering_&#x20;
 
-_Department of Computer Science and Engineering Wilmot J. Nicholson Family Professor_&#x20;
+_Chair, Department of Computer Science and Engineering_&#x20;
+
+_Wilmot J. Nicholson Family Professor_&#x20;
 
 _B.Eng. 1981, National University of Singapore_&#x20;
 
@@ -816,7 +828,9 @@ _Lecturer in Mechanical Engineering_&#x20;
 
 _B.S. 2011, University of California, Irvine_&#x20;
 
-_M.S. 2014, Ph.D. 2016, Georgia Institute of Technology U.S. Army Aviation Development Directorate_
+_M.S. 2014, Ph.D. 2016, Georgia Institute of Technology_&#x20;
+
+_U.S. Army Aviation Development Directorate_
 
 **BIAO LU (2015)**&#x20;
 
@@ -882,7 +896,9 @@ _B.S. 1985, University of Rhode Island_&#x20;
 
 _M.S. 1989, University of California, Berkeley_&#x20;
 
-_Ph.D. 2002, University of Washington Registered Professional Engineer in Civil Engineering_
+_Ph.D. 2002, University of Washington_&#x20;
+
+_Registered Professional Engineer in Civil Engineering_
 
 **MICHAEL McELFRESH (2011)**&#x20;
 
@@ -1202,7 +1218,9 @@ _M.S. 1998, Stanford University_
 
 _Lecturer in Engineering Management and Leadership_&#x20;
 
-_B.S. 1975, Texas A\&M University AEA Stanford Executive Institute 1995_
+_B.S. 1975, Texas A\&M University_&#x20;
+
+_AEA Stanford Executive Institute 1995_
 
 **ROCIO L. SEGURA (2022)**&#x20;
 
@@ -1342,7 +1360,9 @@ _M.S. 2013, Naval Postgraduate School_
 
 _Lecturer in Civil, Environmental and Sustainable Engineering_&#x20;
 
-_B.S. 1970, Santa Clara University Registered Professional Engineer in Civil Engineering_
+_B.S. 1970, Santa Clara University_&#x20;
+
+_Registered Professional Engineer in Civil Engineering_
 
 **MICHAEL TAYLOR (2015)**&#x20;
 
@@ -1480,7 +1500,9 @@ _Professor of Electrical and Computer Engineering_&#x20;
 
 _Associate Dean for Graduate Programs_&#x20;
 
-_B.S. 1969, Columbia University M.S. 1975, Ph.D. 1978, Stanford University_
+_B.S. 1969, Columbia University_&#x20;
+
+_M.S. 1975, Ph.D. 1978, Stanford University_
 
 **PETER J. WOYTOWITZ (1994)**&#x20;
 
@@ -1524,9 +1546,9 @@ _Ph.D. 1991, Keio University_
 
 **CARY Y. YANG (1983)**&#x20;
 
-_Professor of Electrical and Computer Engineering Director,_&#x20;
+_Professor of Electrical and Computer Engineering_&#x20;
 
-_Center for Nanostructures_&#x20;
+_Director, Center for Nanostructures_&#x20;
 
 _B.S.E.E. 1970, M.S.E.E. 1971, Ph.D. 1975, University of Pennsylvania_
 

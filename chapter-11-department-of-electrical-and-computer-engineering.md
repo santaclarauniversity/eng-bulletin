@@ -12,7 +12,7 @@ _Assistant Professors:_ Maryam Khanbaghi, Maria Kyrarini, Kurt Schab, Dat Tran, 
 
 ### Overview
 
-&#x20;The field of electrical and computer engineering covers the design, construction, testing, and operation of electrical components, circuits, and systems. Electrical and computer engineers work with information representation, processing and transmission; advancing integrated circuit design for digital, analog, and mixed signals systems; designing and characterizing antennas, RF, microwave and millimeter-wave Systems; new devices and architectures, energy systems and renewable energy; nanotechnology; and all the areas of information circuits and systems that have traditionally supported these efforts. This includes all phases of the digital or analog transmission of information, such as in mobile communications and networks, radio, television, telephone systems, fiber optics, and satellite communications, as well as control and robotics, electric power, information processing and storage.
+The field of electrical and computer engineering covers the design, construction, testing, and operation of electrical components, circuits, and systems. Electrical and computer engineers work with information representation, processing and transmission; advancing integrated circuit design for digital, analog, and mixed signals systems; designing and characterizing antennas, RF, microwave and millimeter-wave Systems; new devices and architectures, energy systems and renewable energy; nanotechnology; and all the areas of information circuits and systems that have traditionally supported these efforts. This includes all phases of the digital or analog transmission of information, such as in mobile communications and networks, radio, television, telephone systems, fiber optics, and satellite communications, as well as control and robotics, electric power, information processing and storage.
 
 The Electrical and Computer Engineering Programs are supported by the facilities of the University’s Academic Computing Center, as well as by the Engineering Computing Center. The department supports 10 major teaching and research laboratories, five additional laboratories used only for teaching, and a laboratory dedicated to the support of design projects. The five teaching laboratories cover the fields of digital systems, electric circuits, electronics, systems, and RF and communication.
 
@@ -32,8 +32,7 @@ The program of studies must include the following:
     * The remaining 4 units can be accumulated by the following a) Taking one or more major technical electives, b)Taking additional classes from the Graduate Core, c) Taking Cooperative Education course and d) combining courses from a, b and c. For additional information please see Chapter 6, Enrichment Experience and Graduate Core Requirements.
 2. Applied Mathematics (4 units)&#x20;
 3.  Electrical and Computer Engineering primary focus area (minimum 6 units). Students must select and meet the requirements of one of the six focus areas listed below.\
-    \
-    • _**Power Systems and Control**_
+    &#x20;_**Power Systems and Control**_
 
     Either (236 or 281A) and two courses selected from (211, 232, 281B, 333)
 
