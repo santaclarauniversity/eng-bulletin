@@ -12,7 +12,7 @@ _Assistant Professors:_ Maryam Khanbaghi, Maria Kyrarini, Kurt Schab, Dat Tran, 
 
 ### Overview
 
-The field of electrical and computer engineering covers the design, construction, testing, and operation of electrical components, circuits, and systems. Electrical and computer engineers work with information representation, processing and transmission; advancing integrated circuit design for digital, analog, and mixed signals systems; designing and characterizing antennas, RF, microwave and millimeter-wave Systems; new devices and architectures, energy systems and renewable energy; nanotechnology; and all the areas of information circuits and systems that have traditionally supported these efforts. This includes all phases of the digital or analog transmission of information, such as in mobile communications and networks, radio, television, telephone systems, fiber optics, and satellite communications, as well as control and robotics, electric power, information processing and storage.
+&#x20;The field of electrical and computer engineering covers the design, construction, testing, and operation of electrical components, circuits, and systems. Electrical and computer engineers work with information representation, processing and transmission; advancing integrated circuit design for digital, analog, and mixed signals systems; designing and characterizing antennas, RF, microwave and millimeter-wave Systems; new devices and architectures, energy systems and renewable energy; nanotechnology; and all the areas of information circuits and systems that have traditionally supported these efforts. This includes all phases of the digital or analog transmission of information, such as in mobile communications and networks, radio, television, telephone systems, fiber optics, and satellite communications, as well as control and robotics, electric power, information processing and storage.
 
 The Electrical and Computer Engineering Programs are supported by the facilities of the University’s Academic Computing Center, as well as by the Engineering Computing Center. The department supports 10 major teaching and research laboratories, five additional laboratories used only for teaching, and a laboratory dedicated to the support of design projects. The five teaching laboratories cover the fields of digital systems, electric circuits, electronics, systems, and RF and communication.
 
@@ -32,7 +32,8 @@ The program of studies must include the following:
     * The remaining 4 units can be accumulated by the following a) Taking one or more major technical electives, b)Taking additional classes from the Graduate Core, c) Taking Cooperative Education course and d) combining courses from a, b and c. For additional information please see Chapter 6, Enrichment Experience and Graduate Core Requirements.
 2. Applied Mathematics (4 units)&#x20;
 3.  Electrical and Computer Engineering primary focus area (minimum 6 units). Students must select and meet the requirements of one of the six focus areas listed below.\
-    &#x20;_**Power Systems and Control**_
+    \
+    • _**Power Systems and Control**_
 
     Either (236 or 281A) and two courses selected from (211, 232, 281B, 333)
 
@@ -92,7 +93,7 @@ Only those students who pass the preliminary examination shall be allowed to con
 
 _**Thesis Advisor**_
 
-It is the student’s responsibility to obtain consent from a full-time faculty member in the student’s major department to serve as his/her prospective thesis advisor.
+&#x20;It is the student’s responsibility to obtain consent from a full-time faculty member in the student’s major department to serve as his/her prospective thesis advisor.
 
 It is strongly recommended that Ph.D. students find a thesis advisor before taking the preliminary examination. After passing the preliminary examination, Ph.D. students should have a thesis advisor before the beginning of the next quarter following the preliminary examination. Students currently pursuing a master’s degree at the time of their preliminary examination should have a thesis advisor as soon as possible after being accepted as a Ph.D. student.
 
@@ -126,7 +127,7 @@ All requirements for the doctoral degree must be completed within eight years fo
 
 _**Additional Graduation Requirements**_
 
-The requirements for the doctoral degree in the School of Engineering have been made to establish the structure in which the degree may be earned. Upon written approval of the provost, the dean of the School of Engineering, the doctoral committee, and the chair of the major department, other degree requirements may be established. The University reserves the right to evaluate the undertakings and the accomplishments of the degree candidate in total, and award or withhold the degree as a result of its deliberations.&#x20;
+&#x20;The requirements for the doctoral degree in the School of Engineering have been made to establish the structure in which the degree may be earned. Upon written approval of the provost, the dean of the School of Engineering, the doctoral committee, and the chair of the major department, other degree requirements may be established. The University reserves the right to evaluate the undertakings and the accomplishments of the degree candidate in total, and award or withhold the degree as a result of its deliberations.&#x20;
 
 ### Certificate Programs&#x20;
 
@@ -136,7 +137,7 @@ Certificate programs are designed to provide an intensive background in a narrow
 
 **Admission**
 
-To be accepted into a certificate program, the applicant must have a bachelor’s degree and meet any additional requirements for the specific certificate. Exceptions based on work experience may be granted for the Certificate in Fundamentals of Electrical and Computer Engineering. Admitted students are responsible for ensuring that they have the prerequisites for all courses they take in the Certificate Program.&#x20;
+&#x20;To be accepted into a certificate program, the applicant must have a bachelor’s degree and meet any additional requirements for the specific certificate. Exceptions based on work experience may be granted for the Certificate in Fundamentals of Electrical and Computer Engineering. Admitted students are responsible for ensuring that they have the prerequisites for all courses they take in the Certificate Program.&#x20;
 
 **Grade Requirements**&#x20;
 
@@ -429,7 +430,7 @@ Design and analysis of microprocessor-based systems for embedded applications. A
 
 _**ELEN 120L. Microprocessor System Design Lab**_&#x20;
 
-Projects based on an embedded computer module to practical applications that reinforce class concepts and provide some opportunities for creative design. Prerequisites A grade of C- or better in ELEN 21 and COEN 11. Co-requisite: ELEN 120 (1 unit)&#x20;
+projects based on an embedded computer module to practical applications that reinforce class concepts and provide some opportunities for creative design. Prerequisites A grade of C- or better in ELEN 21 and COEN 11. Co-requisite: ELEN 120 (1 unit)&#x20;
 
 _**ELEN 121. Real-Time Embedded Systems**_&#x20;
 
@@ -851,7 +852,7 @@ Various topics. (2 units)&#x20;
 
 _**ELEN 280. Introduction to Alternative Energy Systems**_
 
-An introduction to such alternative energy systems with an emphasis on those utilizing solar technologies. Learn how the technologies work to provide electrical power today and the capabilities foreseen for the future. The material is designed to be suitable for both undergraduate and graduate students in engineering and related applied sciences. Also listed as MECH 287. (2 units)&#x20;
+&#x20;An introduction to such alternative energy systems with an emphasis on those utilizing solar technologies. Learn how the technologies work to provide electrical power today and the capabilities foreseen for the future. The material is designed to be suitable for both undergraduate and graduate students in engineering and related applied sciences. Also listed as MECH 287. (2 units)&#x20;
 
 _**ELEN 281A. Power Systems: Generation and Transmission**_&#x20;
 
