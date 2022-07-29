@@ -32,7 +32,7 @@ The water and environmental engineering (WEE) track prepares students to engage 
 
 ### Master of Science in Civil Engineering
 
-To be considered for admission to the graduate program in Civil, Environmental and Sustainable Engineering, an applicant must meet the requirements outlined in the **Admissions section** of the bulletin, with the following additional criteria:
+&#x20;To be considered for admission to the graduate program in Civil, Environmental and Sustainable Engineering, an applicant must meet the requirements outlined in the **Admissions section** of the bulletin, with the following additional criteria:
 
 Applicant’s undergraduate degree must be:
 
@@ -53,13 +53,13 @@ To qualify for the degree of Master of Science in Civil, Environmental and Susta
 
 Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the following table:
 
-|                          ---                          | Structural  Engineering Track                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | General Civil Engineering Track                                                                                                                                                                                                                                                                                                                      | Construction Engineering and Management Track                                                                                                                                                                                                                                                                      | Water and Environmental Engineering Track                                                                                                                                                                                                                                                                                                              |
-| :---------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           **Required Technical Coursework**           | <p>CENG 205† (2) </p><p>CENG 206† (2) </p><p>CENG 222 (4) </p><p>CENG 233* (4) </p><p>CENG 234 (4) </p><p>CENG 236 (4) </p><p>CENG 237 (4) </p><p><strong>(24 units)</strong></p>                                                                                                                                                                                                                                                                                                                                                                              | <p>CENG 219^ (3) </p><p>CENG 237 (4) </p><p>CENG 238 (4/1) CENG 249 (4) </p><p>CENG 250 (4) </p><p>CENG 282^ (3) </p><p><strong>(24 units)</strong></p>                                                                                                                                                                                              | <p>CENG 218 (3) </p><p>CENG 219^ (3) </p><p>CENG 281 (3) </p><p>CENG 282^ (3) </p><p>CENG 284 (3) </p><p>CENG 285 (3) </p><p>CENG 286 (3) </p><p>CENG 287 (3) </p><p><strong>(24 units)</strong></p>                                                                                                               | <p><strong>At least 15 units from:</strong> </p><p>CENG 242 (4) </p><p>CENG 249 (4) </p><p>CENG 253 (3/1) CENG 254 (3/1) CENG 258 (4) </p><p>CENG 259 (3)</p>                                                                                                                                                                                          |
-|           **Elective Technical Coursework**           | <p><strong>6 units from:</strong> </p><p>CENG 207 (2) </p><p>CENG 213 (3/1) </p><p>CENG 215 (3/1) </p><p>CENG 218 (3) </p><p>CENG 220 (4) </p><p>CENG 231 (4) </p><p>CENG 232 (2) </p><p>CENG 238 (4) </p><p>CENG 239 (2) </p><p>CENG 240 (2) </p><p>CENG 241 (2) </p><p>CENG 244 (2) </p><p>CENG 246 (4) </p><p>CENG 292 (2) </p><p>CENG 293 </p><p>CENG 295 </p><p>CENG 297</p>                                                                                                                                                                              | <p><strong>6 units from:</strong> </p><p>CENG 217 (4) </p><p>CENG 218 (3) </p><p>CENG 242 (4) </p><p>CENG 247 (4) </p><p>CENG 251 (4) </p><p>CENG 253 (3) </p><p>CENG 254 (3/1) CENG 256 (3) </p><p>CENG 258 (4) </p><p>CENG 259 (3) </p><p>CENG 261 (3) </p><p>CENG 262 (3) </p><p>CENG 263 (4) </p><p>CENG 293 </p><p>CENG 295 </p><p>CENG 297</p> | <p><strong>6 units from:</strong> </p><p>CENG 249 (4) </p><p>CENG 256 (3) </p><p>CENG 288 (4) </p><p>CENG 289 (3) </p><p>CENG 292 (2) </p><p>CENG 293 </p><p>CENG 295 </p><p>CENG 297 </p><p>EMGT 255 (2) </p><p>EMGT 292 (2) </p><p>EMGT 296 (2) </p><p>EMGT 330 (2) </p><p>EMGT 335 (2) </p><p>ENGR 357^ (2)</p> | <p><em>At least 16 units from: **</em> </p><p>CENG 217 (4) </p><p>CENG 219 (3) </p><p>CENG 252 (3) </p><p>CENG 260 (3) </p><p>CENG 261 (4) </p><p>CENG 262 (3) </p><p>CENG 263 (4) </p><p>CENG 297 (3) </p><p>MECH 266 (2) </p><p>MECH 268 (2) </p><p>ENVS 117 (5) </p><p>ENVS 122 (5) </p><p>ENVS 145 (5) </p><p>ENVS 166 (5) </p><p>ENVS 185 (5)</p> |
-|                **Applied Mathematics**                | <p><strong>4 units from:</strong> </p><p>AMTH 210 (2) &#x26; 211 (2) </p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 220 (2) &#x26; 221 (2) </p><p>AMTH 245 (2) &#x26; 246 (2)</p>                                                                                                                                                                                                                                                                                                                                                                              | <p><strong>4 units from:</strong> </p><p>AMTH 210 (2) &#x26; 211 (2)</p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 220 (2) &#x26; 221 (2) </p><p>AMTH 245 (2) &#x26; 246 (2)</p>                                                                                                                                                                     | <p><strong>4 units from:</strong> </p><p>AMTH 210 (2) &#x26; 211 (2)</p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 367 (4) </p><p>AMTH 370 (2) &#x26; 371 (2)</p>                                                                                                                                                  | <p>4 units from: </p><p>AMTH 210 (2) &#x26; 211 (2) </p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 220 (2) &#x26; 221 (2) </p><p>AMTH 245 (2) &#x26; 246 (2)</p>                                                                                                                                                                                       |
-| **Project Management, Leadership and Communications** | <p><strong>5 units from:</strong> </p><p>CENG 282^ (3) </p><p>EMGT 255^ (2) </p><p>EMGT 272^ (2) </p><p>EMGT 330^ (2) </p><p>EMGT 335^ (2)</p>                                                                                                                                                                                                                                                                                                                                                                                                                 | <p><strong>5 units from:</strong> </p><p>CENG 260 (3) </p><p>EMGT 255^ (2) </p><p>EMGT 272^ (2) </p><p>EMGT 330^ (2) </p><p>EMGT 335^ (2)</p>                                                                                                                                                                                                        | <p><strong>6 units from:</strong> </p><p>EMGT 269 (2) </p><p>EMGT 270 (2) </p><p>EMGT 272^ (2) </p><p>EMGT 285 (2) </p><p>EMGT 322 (2) </p><p>EMGT 324 (2) </p><p>EMGT 349 (2)</p>                                                                                                                                 | <p>4 units from: </p><p>CENG 208^ (2) </p><p>CENG 292^ (2) </p><p>EMGT 272^ (2)</p><p>EMGT 330^ (2) </p><p>EMGT 335^ (2) </p><p>ENGR 304^ (2) </p><p>ENGR 336^ (2)</p>                                                                                                                                                                                 |
-|               **Enrichment Experience**               | A minimum of 4 units from at least two of the three areas in the Graduate Core Areas (Emerging Topics in Engineering, Engineering and Business/Entrepreneurship and Engineering and Society). The remaining three units may be fulfilled by a) Taking additional classes from the Graduate Core,  b)Taking one or more major technical electives, c) Taking Cooperative Education courses (ENGR 288, 299) and d) combining courses from categories a, b and c. See Chapter 6, Enrichment Experience and Graduate Core requirements for additional information. |                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                        |
+|                          ---                          | Structural  Engineering Track                                                                                                                                                                                                                                                                                                                                                     | General Civil Engineering Track                                                                                                                                                                                                                                                                                                                      | Construction Engineering and Management Track                                                                                                                                                                                                                                                                      | Water and Environmental Engineering Track                                                                                                                                                                                                                                                                                                              |
+| :---------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|           **Required Technical Coursework**           | <p>CENG 205† (2) </p><p>CENG 206† (2) </p><p>CENG 222 (4) </p><p>CENG 233* (4) </p><p>CENG 234 (4) </p><p>CENG 236 (4) </p><p>CENG 237 (4) </p><p><strong>(24 units)</strong></p>                                                                                                                                                                                                 | <p>CENG 219^ (3) </p><p>CENG 237 (4) </p><p>CENG 238 (4/1) CENG 249 (4) </p><p>CENG 250 (4) </p><p>CENG 282^ (3) </p><p><strong>(24 units)</strong></p>                                                                                                                                                                                              | <p>CENG 218 (3) </p><p>CENG 219^ (3) </p><p>CENG 281 (3) </p><p>CENG 282^ (3) </p><p>CENG 284 (3) </p><p>CENG 285 (3) </p><p>CENG 286 (3) </p><p>CENG 287 (3) </p><p><strong>(24 units)</strong></p>                                                                                                               | <p><strong>At least 15 units from:</strong> </p><p>CENG 242 (4) </p><p>CENG 249 (4) </p><p>CENG 253 (3/1) CENG 254 (3/1) CENG 258 (4) </p><p>CENG 259 (3)</p>                                                                                                                                                                                          |
+|           **Elective Technical Coursework**           | <p><strong>6 units from:</strong> </p><p>CENG 207 (2) </p><p>CENG 213 (3/1) </p><p>CENG 215 (3/1) </p><p>CENG 218 (3) </p><p>CENG 220 (4) </p><p>CENG 231 (4) </p><p>CENG 232 (2) </p><p>CENG 238 (4) </p><p>CENG 239 (2) </p><p>CENG 240 (2) </p><p>CENG 241 (2) </p><p>CENG 244 (2) </p><p>CENG 246 (4) </p><p>CENG 292 (2) </p><p>CENG 293 </p><p>CENG 295 </p><p>CENG 297</p> | <p><strong>6 units from:</strong> </p><p>CENG 217 (4) </p><p>CENG 218 (3) </p><p>CENG 242 (4) </p><p>CENG 247 (4) </p><p>CENG 251 (4) </p><p>CENG 253 (3) </p><p>CENG 254 (3/1) CENG 256 (3) </p><p>CENG 258 (4) </p><p>CENG 259 (3) </p><p>CENG 261 (3) </p><p>CENG 262 (3) </p><p>CENG 263 (4) </p><p>CENG 293 </p><p>CENG 295 </p><p>CENG 297</p> | <p><strong>6 units from:</strong> </p><p>CENG 249 (4) </p><p>CENG 256 (3) </p><p>CENG 288 (4) </p><p>CENG 289 (3) </p><p>CENG 292 (2) </p><p>CENG 293 </p><p>CENG 295 </p><p>CENG 297 </p><p>EMGT 255 (2) </p><p>EMGT 292 (2) </p><p>EMGT 296 (2) </p><p>EMGT 330 (2) </p><p>EMGT 335 (2) </p><p>ENGR 357^ (2)</p> | <p><em>At least 16 units from: **</em> </p><p>CENG 217 (4) </p><p>CENG 219 (3) </p><p>CENG 252 (3) </p><p>CENG 260 (3) </p><p>CENG 261 (4) </p><p>CENG 262 (3) </p><p>CENG 263 (4) </p><p>CENG 297 (3) </p><p>MECH 266 (2) </p><p>MECH 268 (2) </p><p>ENVS 117 (5) </p><p>ENVS 122 (5) </p><p>ENVS 145 (5) </p><p>ENVS 166 (5) </p><p>ENVS 185 (5)</p> |
+|                **Applied Mathematics**                | <p><strong>4 units from:</strong> </p><p>AMTH 210 (2) &#x26; 211 (2) </p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 220 (2) &#x26; 221 (2) </p><p>AMTH 245 (2) &#x26; 246 (2)</p>                                                                                                                                                                                                 | <p><strong>4 units from:</strong> </p><p>AMTH 210 (2) &#x26; 211 (2)</p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 220 (2) &#x26; 221 (2) </p><p>AMTH 245 (2) &#x26; 246 (2)</p>                                                                                                                                                                     | <p><strong>4 units from:</strong> </p><p>AMTH 210 (2) &#x26; 211 (2)</p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 367 (4) </p><p>AMTH 370 (2) &#x26; 371 (2)</p>                                                                                                                                                  | <p>4 units from: </p><p>AMTH 210 (2) &#x26; 211 (2) </p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 220 (2) &#x26; 221 (2) </p><p>AMTH 245 (2) &#x26; 246 (2)</p>                                                                                                                                                                                       |
+| **Project Management, Leadership and Communications** | <p><strong>5 units from:</strong> </p><p>CENG 282^ (3) </p><p>EMGT 255^ (2) </p><p>EMGT 272^ (2) </p><p>EMGT 330^ (2) </p><p>EMGT 335^ (2)</p>                                                                                                                                                                                                                                    | <p><strong>5 units from:</strong> </p><p>CENG 260 (3) </p><p>EMGT 255^ (2) </p><p>EMGT 272^ (2) </p><p>EMGT 330^ (2) </p><p>EMGT 335^ (2)</p>                                                                                                                                                                                                        | <p><strong>6 units from:</strong> </p><p>EMGT 269 (2) </p><p>EMGT 270 (2) </p><p>EMGT 272^ (2) </p><p>EMGT 285 (2) </p><p>EMGT 322 (2) </p><p>EMGT 324 (2) </p><p>EMGT 349 (2)</p>                                                                                                                                 | <p>4 units from: </p><p>CENG 208^ (2) </p><p>CENG 292^ (2) </p><p>EMGT 272^ (2)</p><p>EMGT 330^ (2) </p><p>EMGT 335^ (2) </p><p>ENGR 304^ (2) </p><p>ENGR 336^ (2)</p>                                                                                                                                                                                 |
+|               **Enrichment Experience**               |                                                                                                                                                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                        |
 
 Units are shown in parentheses: x/y indicates x-unit course with y-unit lab. No more than 6 units from CENG 293, 295, and 297 may be used to satisfy degree requirements. Taking Required Technical Course(s) that repeat previously taken course(s) is discouraged; in such cases, Elective Technical course(s) may be substituted. In rare occasions, program plans may deviate from these requirements with Department approval.
 
@@ -103,7 +103,7 @@ The **Traffic Laboratory** has electronic volume counters that are used in studi
 
 _**CENG 7. Graphic Communication**_
 
-Introduction to technical drawing including isometric and multi-view drawings, use of sectional views and dimensioning, understanding blueprints and scales. Co-requisite: CENG 7L. (3 units)
+&#x20;Introduction to technical drawing including isometric and multi-view drawings, use of sectional views and dimensioning, understanding blueprints and scales. Co-requisite: CENG 7L. (3 units)
 
 &#x20;_**CENG 7L. Laboratory for CENG 7**_&#x20;
 
@@ -135,11 +135,11 @@ Resolution and composition of force systems and equilibrium of force systems act
 
 _**CENG 43. Mechanics II: Strength of Materials**_
 
-Analysis of stresses and strains in machines and structural members. Fundamental study of the behavior and response of statically determinate and indeterminate structural members subjected to axial, torsional, flexural, shear, and combined stresses. Introduction to the stability of columns. Prerequisite: CENG 41. Co-requisite: CENG 43L. (4 units)&#x20;
+&#x20;Analysis of stresses and strains in machines and structural members. Fundamental study of the behavior and response of statically determinate and indeterminate structural members subjected to axial, torsional, flexural, shear, and combined stresses. Introduction to the stability of columns. Prerequisite: CENG 41. Co-requisite: CENG 43L. (4 units)&#x20;
 
 _**CENG 43L. Laboratory for CENG 43**_
 
-Testing of structural elements subjected to axial tension and compression loads, bending, torsion, and combined loading. Analysis of test data and laboratory report writing. Co-requisite: CENG 43. (1 unit)&#x20;
+&#x20;Testing of structural elements subjected to axial tension and compression loads, bending, torsion, and combined loading. Analysis of test data and laboratory report writing. Co-requisite: CENG 43. (1 unit)&#x20;
 
 _**CENG 44A. Strength of Materials I**_&#x20;
 
@@ -181,7 +181,7 @@ Design strategies for sustainable commercial and residential construction. Use o
 
 _**CENG 121A. Geotechnical Engineering**_
 
-Origin, development, and properties of soils. Classification of soils and applications of engineering mechanics to soils as an engineering material. Water in soils. Soil-testing methods. Compaction, stabilization, consolidation, shear strength, and slope stability. Prerequisites: CENG 20 and 44A. Co-requisite: CENG 121AL. (3 units)&#x20;
+&#x20;Origin, development, and properties of soils. Classification of soils and applications of engineering mechanics to soils as an engineering material. Water in soils. Soil-testing methods. Compaction, stabilization, consolidation, shear strength, and slope stability. Prerequisites: CENG 20 and 44A. Co-requisite: CENG 121AL. (3 units)&#x20;
 
 _**CENG 121AL. Laboratory for CENG 121**_&#x20;
 
@@ -193,7 +193,7 @@ Theory and basic factors related to earth pressure, slope stability, and foundat
 
 _**CENG 122. Air Pollution**_
 
-The study of generation of common air pollutants, their transport, effects, and state-of-the-art air pollution control strategies. Also listed as CENG 252. Prerequisite: CENG 143 or consent of the instructor. (3 units)&#x20;
+&#x20;The study of generation of common air pollutants, their transport, effects, and state-of-the-art air pollution control strategies. Also listed as CENG 252. Prerequisite: CENG 143 or consent of the instructor. (3 units)&#x20;
 
 _**CENG 123. Pollutant Fate and Transport**_&#x20;
 
@@ -221,7 +221,7 @@ Time value of money, economic analysis of engineering projects, rate-of-return a
 
 _**CENG 132. Structural Analysis**_
 
-Distribution of loads in structural systems. Analysis of statically determinate and indeterminate beams, trusses, and frames. Influence lines for beams and trusses. Introduction to structural modeling, and elastic analysis using commercial software programs. Prerequisite: CENG 44A. Co-requisite: CENG 44B. (4 units)&#x20;
+&#x20;Distribution of loads in structural systems. Analysis of statically determinate and indeterminate beams, trusses, and frames. Influence lines for beams and trusses. Introduction to structural modeling, and elastic analysis using commercial software programs. Prerequisite: CENG 44A. Co-requisite: CENG 44B. (4 units)&#x20;
 
 _**CENG 133. Wood Design**_&#x20;
 
@@ -237,7 +237,7 @@ Design of one-way slabs, tee beams, and doubly-reinforced beams for flexure and 
 
 _**CENG 136. Advanced Concrete Structures**_
 
-Confinement, moment-curvature and shear-displacement response; modeling; design and detailing of special moment frames, shear walls, and diaphragms; pre-stressed concrete beams. Also listed as CENG 236. Prerequisite: CENG 135. (4 units)&#x20;
+&#x20;Confinement, moment-curvature and shear-displacement response; modeling; design and detailing of special moment frames, shear walls, and diaphragms; pre-stressed concrete beams. Also listed as CENG 236. Prerequisite: CENG 135. (4 units)&#x20;
 
 _**CENG 137. Earthquake Engineering Design**_
 
@@ -253,7 +253,7 @@ Structural design of footings, piles, and retaining walls. Also listed as CENG 2
 
 _**CENG 139. Groundwater Hydrology**_
 
-Groundwater occurrence, flow principles, flow to wells, and regional flow. Groundwater contamination, management, and models. Field methods. Field trips. Also listed as CENG 259. Prerequisite: CENG 141 or permission of instructor. (3 units)&#x20;
+&#x20;Groundwater occurrence, flow principles, flow to wells, and regional flow. Groundwater contamination, management, and models. Field methods. Field trips. Also listed as CENG 259. Prerequisite: CENG 141 or permission of instructor. (3 units)&#x20;
 
 _**CENG 140. Water Resources Engineering**_
 
@@ -265,7 +265,7 @@ Computational exercises for water resources analysis, field trips demonstrating 
 
 _**CENG 141. Fluid Mechanics and Hydraulic Engineering**_
 
-Fundamentals of fluid behavior with an emphasis on water. Covers basic fluid properties, flow classification, and fluid statics including forces on submerged surfaces. Introduces and applies fundamental relationships: conservation of mass, momentum, and energy. Hydraulic applications include flow in pipes and pipe networks, steady flow in open channels, and hydraulic machinery. Laboratory. Prerequisite: CENG 41, PHYS 31. Co-requisite: CENG 141L. (4 units)&#x20;
+&#x20;Fundamentals of fluid behavior with an emphasis on water. Covers basic fluid properties, flow classification, and fluid statics including forces on submerged surfaces. Introduces and applies fundamental relationships: conservation of mass, momentum, and energy. Hydraulic applications include flow in pipes and pipe networks, steady flow in open channels, and hydraulic machinery. Laboratory. Prerequisite: CENG 41, PHYS 31. Co-requisite: CENG 141L. (4 units)&#x20;
 
 _**CENG 141L. Fluid Mechanics and Hydraulic Engineering Laboratory**_&#x20;
 
@@ -273,11 +273,11 @@ Experiments demonstrating the principles of fluid flow and hydraulics for flow i
 
 _**CENG 142. Water Resources Design**_
 
-Design of system components for water supply and flood control projects, including storage facilities, closed conduits, open channels, well fields, and pumping systems. Also listed as CENG 242. Prerequisites: CENG 141 and CENG 140 (CENG 140 may be taken concurrently) or permission of instructor. (4 units)&#x20;
+&#x20;Design of system components for water supply and flood control projects, including storage facilities, closed conduits, open channels, well fields, and pumping systems. Also listed as CENG 242. Prerequisites: CENG 141 and CENG 140 (CENG 140 may be taken concurrently) or permission of instructor. (4 units)&#x20;
 
 _**CENG 143. Environmental Engineering**_
 
-Water and air quality. Water supply and pollution control; air pollution control. Management of solid wastes. Prerequisites: CHEM 11, MATH 12, and junior standing. Co-requisite: CENG 143L. (3 units)&#x20;
+&#x20;Water and air quality. Water supply and pollution control; air pollution control. Management of solid wastes. Prerequisites: CHEM 11, MATH 12, and junior standing. Co-requisite: CENG 143L. (3 units)&#x20;
 
 _**CENG 143L. Laboratory for CENG 143**_&#x20;
 
@@ -285,31 +285,31 @@ Laboratory analysis of aqueous samples and ideal reactor systems. Analysis of no
 
 _**CENG 144. Water and Wastewater Treatment**_
 
-Design of water and municipal wastewater treatment systems. Topics include unit operations such as flocculation, sedimentation, filtration, biological treatment, nutrient removal, disinfection, and sludge management. Also listed as CENG 254. Prerequisites: CENG 143 or instructor's consent. Corequisite: CENG 144L. (3 units)&#x20;
+&#x20;Design of water and municipal wastewater treatment systems. Topics include unit operations such as flocculation, sedimentation, filtration, biological treatment, nutrient removal, disinfection, and sludge management. Also listed as CENG 254. Prerequisites: CENG 143 or instructor's consent. Corequisite: CENG 144L. (3 units)&#x20;
 
 _**CENG 144L. Laboratory for CENG 144**_
 
-Laboratory experiments to characterize water samples, including BOD and COD measurements. Field trips to local water and wastewater treatment plants. Also listed as CENG 254L. Corequisite: CENG 144. (1 unit)&#x20;
+&#x20;Laboratory experiments to characterize water samples, including BOD and COD measurements. Field trips to local water and wastewater treatment plants. Also listed as CENG 254L. Corequisite: CENG 144. (1 unit)&#x20;
 
 _**CENG 145. Transportation Engineering Design**_
 
-Transportation systems analysis. Dynamics and traffic flow. Highway geometric design, traffic control, transportation planning. Transportation policies and economics. Prerequisites: CENG 10 and junior standing. (4 units)
+&#x20;Transportation systems analysis. Dynamics and traffic flow. Highway geometric design, traffic control, transportation planning. Transportation policies and economics. Prerequisites: CENG 10 and junior standing. (4 units)
 
 _**CENG 146. Design of Cold-Formed Steel Frame Structures**_
 
-Introduction to cold-formed steel design and construction. Practical design of members for tension, compression, shear, and torsion. Connection detailing. Lateral force-resisting systems. Also listed as CENG 246. Prerequisite: CENG 132. (4 units)&#x20;
+&#x20;Introduction to cold-formed steel design and construction. Practical design of members for tension, compression, shear, and torsion. Connection detailing. Lateral force-resisting systems. Also listed as CENG 246. Prerequisite: CENG 132. (4 units)&#x20;
 
 _**CENG 147. Pavement Design**_
 
-Paving materials. Geometric and structural design of highways. Urban street layout and details. Layout and design of airport runways. Also listed as CENG 247. Prerequisites: CENG 115 and 121A. (4 units)&#x20;
+&#x20;Paving materials. Geometric and structural design of highways. Urban street layout and details. Layout and design of airport runways. Also listed as CENG 247. Prerequisites: CENG 115 and 121A. (4 units)&#x20;
 
 _**CENG 148. Structural Systems**_
 
-Structural requirements for building systems. Design loads, load combinations, and load path. Fire, sound, thermal, and mechanical requirements. An introduction to design of steel and reinforced concrete beams and columns. Prerequisite: CENG 132. Co-requisite: CENG 148L. (4 units)&#x20;
+&#x20;Structural requirements for building systems. Design loads, load combinations, and load path. Fire, sound, thermal, and mechanical requirements. An introduction to design of steel and reinforced concrete beams and columns. Prerequisite: CENG 132. Co-requisite: CENG 148L. (4 units)&#x20;
 
 _**CENG 148L. Structural Systems Laboratory**_
 
-Modeling, analysis, and evaluation of structural systems. Structural drawings/schematics. Co-requisite: CENG 148. (1 unit)&#x20;
+&#x20;Modeling, analysis, and evaluation of structural systems. Structural drawings/schematics. Co-requisite: CENG 148. (1 unit)&#x20;
 
 _**CENG 149. Civil Systems Engineering**_&#x20;
 
@@ -317,7 +317,7 @@ Introduction to engineering systems analysis and management technologies and the
 
 _**CENG 150. Traffic Engineering: Design and Operations**_
 
-Basic characteristics of motor-vehicle traffic, highway and intersection capacity, applications of traffic control devices, traffic data studies, signal design, traffic safety. Also listed as CENG 250. Prerequisite: CENG 145. (4 units)&#x20;
+&#x20;Basic characteristics of motor-vehicle traffic, highway and intersection capacity, applications of traffic control devices, traffic data studies, signal design, traffic safety. Also listed as CENG 250. Prerequisite: CENG 145. (4 units)&#x20;
 
 _**CENG 151. Special Topics in Transportation Engineering**_&#x20;
 
@@ -337,7 +337,7 @@ Use of professional application software to analyze systems for water resources 
 
 _**CENG 163. Solid Waste Management**_
 
-Characterization of solid waste streams. Overview of collection, transport, processing, and disposal options. Waste stream reduction and resource recovery strategies. Also listed as CENG 263. (4 units)&#x20;
+&#x20;Characterization of solid waste streams. Overview of collection, transport, processing, and disposal options. Waste stream reduction and resource recovery strategies. Also listed as CENG 263. (4 units)&#x20;
 
 _**CENG 182. Introduction to Building Information Modeling**_&#x20;
 
@@ -349,7 +349,7 @@ Introduction to the major systems within a building, including heating, ventilat
 
 _**CENG 184. Construction Project Delivery**_
 
-Project organization and delivery systems, Project stakeholders authorities and responsibilities, contractual payment schemes, bidding process, preconstruction administration, contracts, payment measurement, change orders, quality management, safety, claims and disputes, risk and liability sharing, project documentation and closeout, lean construction, pull planning, work structuring, lean supply chain, lean project delivery system. Also listed as CENG 284. Prerequisite: Junior standing. (3 units)&#x20;
+&#x20;Project organization and delivery systems, Project stakeholders authorities and responsibilities, contractual payment schemes, bidding process, preconstruction administration, contracts, payment measurement, change orders, quality management, safety, claims and disputes, risk and liability sharing, project documentation and closeout, lean construction, pull planning, work structuring, lean supply chain, lean project delivery system. Also listed as CENG 284. Prerequisite: Junior standing. (3 units)&#x20;
 
 _**CENG 185. Cost Estimation**_
 
@@ -523,7 +523,7 @@ Introduction of soil-structure analysis for evaluating seismic response. Dynamic
 
 _**CENG 241. Introduction to Blast Analysis**_
 
-This introductory course will cover well-established procedures and principles used to design structures to resist the effects of accidental explosions. Concepts covered include design considerations; risk analysis and reduction; acceptable performance criteria; levels of protection; air-blast loading phenomenon, blast loading functions, current state of practice of structural blast analysis, design and detailing requirements. Prerequisite: CENG 148 or instructor approval. (2 units)&#x20;
+&#x20;This introductory course will cover well-established procedures and principles used to design structures to resist the effects of accidental explosions. Concepts covered include design considerations; risk analysis and reduction; acceptable performance criteria; levels of protection; air-blast loading phenomenon, blast loading functions, current state of practice of structural blast analysis, design and detailing requirements. Prerequisite: CENG 148 or instructor approval. (2 units)&#x20;
 
 _**CENG 242. Water Resources Design**_&#x20;
 
@@ -631,7 +631,7 @@ Work breakdown structure; work sequencing and logic; activity duration estimates
 
 _**CENG 287. Heavy Construction**_
 
-Earthmoving with dozers, scrapers, and excavators; hauling, compacting, concrete operations, asphalt paving, work and production plans. Machine power and resistance, piling, cranes, and rigging operations. Also listed as CENG 187. (3 units)&#x20;
+&#x20;Earthmoving with dozers, scrapers, and excavators; hauling, compacting, concrete operations, asphalt paving, work and production plans. Machine power and resistance, piling, cranes, and rigging operations. Also listed as CENG 187. (3 units)&#x20;
 
 _**CENG 288. Engineering Decision and Risk Analysis**_&#x20;
 
