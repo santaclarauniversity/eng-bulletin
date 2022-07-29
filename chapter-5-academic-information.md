@@ -12,7 +12,7 @@ Classes are taught in the following time slots: 7:10-9:00 a.m., 5:10-7:00 p.m., 
 
 Only courses in which the student has earned assigned grades of C- or higher may be counted for the Master’s or Ph.D. degree. The student must earn a minimum 3.0 cumulative grade point average (GPA) overall, and a minimum 3.0 grade point average (GPA) in their major of the approved minimum 46 units required for the completion of the M.S. degree or the approved minimum 72 units required for the Ph.D. degree. Only credits, not grade points, are transferred from other institutions.
 
-Students who have not met the minimum cumulative 3.0 GPA overall for two consecutive active quarters or after completing 16 units are eligible for dismissal. The student’s advisor and Department Chair will be notified about their GPA status by email. The decision to be dismissed from the program will be based on a departmental vote, which will be conducted at the request of the advisor and/or Department Chair, and with approval from the Associate Dean for Graduate Programs. Students who have been dismissed from the program can appeal to the Department Chair, and subsequently to the Associate Dean for Graduate Studies.
+Students who have not met the minimum cumulative 3.0 GPA overall for two consecutive active quarters or after completing 16 quarter units are eligible for dismissal. The student’s advisor and Department Chair will be notified about their GPA status by email. The decision to be dismissed from the program will be based on a departmental vote, which will be conducted at the request of the advisor and/or Department Chair, and with approval from the Associate Dean for Graduate Programs. Students who have been dismissed from the program can appeal to the Department Chair, and subsequently to the Associate Dean for Graduate Studies.
 
 {% hint style="info" %}
 _EMGT Major Note: In addition to the cumulative GPA requirement, Engineering Management students must also maintain a GPA of 3.0 or higher in both their EMGT courses and their EMGT technical stem courses._
@@ -51,7 +51,9 @@ A student may take courses with a grading basis of “audit” but the following
 
 Alumni students can request to audit a course with a reduced tuition fee. Students will need to apply to the Open University program and must meet the application deadline to apply for an audit. Please contact the Director of Records for the alumni audit form; [lmjocewicz@scu.edu](https://app.gitbook.com/u/ETINJL2rKSRuX1egDkdrgExMPXa2) Alumni students must meet the application deadlines listed on our graduate engineering admissions website to apply for an audit.
 
-### **Repeating Courses**
+### **Repeating Courses**&#x20;
+
+A student may, with the permission of the department, repeat a course in which a grade of D+ or lower was received on the first attempt. All grades, whether received on the first or second attempt, will be used in computing overall student performance. The units from a course may be counted only once in fulfilling graduation requirements.
 
 &#x20;A student may, with the permission of the department, repeat a course in which a grade of D+ or lower was received on the first attempt. All grades, whether received on the first or second attempt, will be used in computing overall student performance. The units from a course may be counted only once in fulfilling graduation requirements.
 

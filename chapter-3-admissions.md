@@ -39,7 +39,7 @@ Applications Applications for admission and related deadlines are available on t
 
     _****_
 * **OFFICIAL GRE SCORES.** Official Graduate Record Examination (GRE) scores must be sent directly to Graduate Engineering Programs by the Educational Testing Service (ETS). Our institution code is 4851. Additionally, students can send a PDF copy of their results to [gradengineer@scu.edu](mailto:gradengineer@scu.edu). For information on the GRE, please visit the website: [www.ets.org/. ](http://www.ets.org/)
-  * Required for all computer science applicants.&#x20;
+  * Required for all computer science engineering applicants.&#x20;
   *   Petition to waive the GRE is available for all other departments. The petition is available at [https://slate.scu.edu/register/engrGREwaiver. ](https://slate.scu.edu/register/engrGREwaiver)
 
 
@@ -49,7 +49,7 @@ Applications Applications for admission and related deadlines are available on t
 
 **B.S./M.S. Dual Degree Program (Current undergraduate SCU students)**&#x20;
 
-The B.S./M.S. degree program allows current SCU undergraduate students to begin taking courses required for a master’s degree before completing the requirements for bachelor degree. This B.S./M.S. program is based on a minimum major GPA of 3.0. Upon notification of acceptance into the B.S./M.S. program, students may begin taking graduate-level courses in their senior year and a maximum of 20 units can be transferred into the graduate program as long as they were not used for the undergraduate degree.
+The B.S./M.S. degree program allows current SCU undergraduate students to begin taking courses required for a master’s degree before completing the requirements for bachelor degree. This B.S./M.S. program is based on a minimum GPA of 3.0 in your major. Upon notification of acceptance into the B.S./M.S. program, students may begin taking graduate-level courses in their senior year and a maximum of 20 units of graduate level coursework can be transferred into the graduate program as long as the units were not used toward the undergraduate degree.
 
 **Open University**&#x20;
 
