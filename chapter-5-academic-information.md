@@ -2,11 +2,11 @@
 
 ### Engineering Honor Code
 
-The Engineering Honor Code is a long-standing Santa Clara tradition; instituted at the request of engineering students, it states: All students taking courses in the School of Engineering agree, individually and collectively, that they will not give or receive unpermitted aid in examinations or other coursework that is to be used by the instructor as the basis of grading. Students and teachers cooperate and share responsibilities under the code. Teachers are responsible for making clear what aid is permissible and for using procedures that minimize temptations to violate the code. Students are responsible for behaving honorably, for actively ensuring that others, as well as themselves, uphold the code, and for being responsive to violations. Information on faculty or student reporting of violations can be found on the university academic integrity web resources at https://www.scu.edu/academic-integrity.
+&#x20;The Engineering Honor Code is a long-standing Santa Clara tradition; instituted at the request of engineering students, it states: All students taking courses in the School of Engineering agree, individually and collectively, that they will not give or receive unpermitted aid in examinations or other coursework that is to be used by the instructor as the basis of grading. Students and teachers cooperate and share responsibilities under the code. Teachers are responsible for making clear what aid is permissible and for using procedures that minimize temptations to violate the code. Students are responsible for behaving honorably, for actively ensuring that others, as well as themselves, uphold the code, and for being responsive to violations. Information on faculty or student reporting of violations can be found on the university academic integrity web resources at https://www.scu.edu/academic-integrity.
 
 ### Classes
 
-Classes are taught in the following time slots: 7:10-9:00 a.m., 5:10-7:00 p.m., and 7:10-9:00 p.m., Monday through Friday with some Saturday and/or Sunday offerings; two-unit courses meet one day per week, and four-unit courses meet two days per week. All students are expected to attend the first class meeting of the quarter. Failure to do so can result in an administrative withdrawal from the course by the professor during the first week of the quarter.
+&#x20;Classes are taught in the following time slots: 7:10-9:00 a.m., 5:10-7:00 p.m., and 7:10-9:00 p.m., Monday through Friday with some Saturday and/or Sunday offerings; two-unit courses meet one day per week, and four-unit courses meet two days per week. All students are expected to attend the first class meeting of the quarter. Failure to do so can result in an administrative withdrawal from the course by the professor during the first week of the quarter.
 
 ### Standards of Scholarship&#x20;
 
@@ -63,7 +63,7 @@ During the first quarter of enrollment, a student in the M.S. degree program is 
 * Applied Mathematics-Aaron Melman (Department Chair)&#x20;
 * Bioengineering-Please contact the department for available advisors.&#x20;
 * Civil Engineering-Please contact the department for available advisors.&#x20;
-* Computer Science and Engineering-The CSE department will email your advisor information by the end of the first week of the quarter. Also, you can contact the CSE peer advisor at [coenpeeradvisors@scu.edu](mailto:coenpeeradvisors@scu.edu)&#x20;
+* Computer Science and Engineering-The CSE department will email your advisor information by the end of the first week of the quarter. Also, you can contact the CSE peer advisor at coenpeeradvisors@scu.edu&#x20;
 * Electrical and Computer Engineering-Please contact the department for available advisors.&#x20;
 * Engineering Management and Leadership-Paul Semenza (Department Chair)&#x20;
 * Mechanical Engineering-Please contact the department for available advisors.&#x20;
@@ -94,9 +94,14 @@ Please keep the following in mind when transferring the units:
 * Only the credit will transfer, but not grades; so the overall grade point average will be based only on coursework completed at Santa Clara University.&#x20;
 * An official transcript and course syllabus is required for verification of the units by the student’s advisor and Graduate Engineering Programs Office.&#x20;
 * In order to transfer units into a degree program, please follow this procedure:
-  * Include the units you wish to transfer in the “Transfer Credit” section of the Program of Studies form and include the Institution Name, Course Number and Title, Grade, Units\*, Year and (if applicable) the SCU equivalent course. If no equivalent course is listed, the transfer credit will be processed as general transfer credit (TRCR 300).  _\*Note that 1 semester unit is equivalent to 1.5 quarter units. Please put the quarter unit value on the Program of Studies so that the final total will be correct._&#x20;
-  * The student’s academic advisor must sign the Program of Studies form&#x20;
-  * The Program of Study form must be submitted to the Graduate Engineering Programs Office by the end of the students first quarter
+
+Include the units you wish to transfer in the “Transfer Credit” section of the Program of Studies form and include the Institution Name, Course Number and Title, Grade, Units\*, Year and (if applicable) the SCU equivalent course. If no equivalent course is listed, the transfer credit will be processed as general transfer credit (TRCR 300).
+
+
+
+_\*Note that 1 semester unit is equivalent to 1.5 quarter units. Please put the quarter unit value on the Program of Studies so that the final total will be correct._&#x20;
+
+The student’s academic advisor must sign the Program of Studies form The Program of Study form must be submitted to the Graduate Engineering Programs Office by the end of the students first quarter
 
 NOTE: Courses that were taken more than 6 years ago are generally not accepted for transfer credit. Students who wish to request an exception must petition the Department Chair and receive a written approval with a justification. The final approval is given by the Associate Dean for Graduate Programs.
 

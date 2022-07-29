@@ -2,7 +2,7 @@
 
 **General Information**&#x20;
 
-&#x20;More than 800 students attend Santa Clara University’s Graduate Engineering Programs each quarter. The School of Engineering offers a large variety of programs to meet the needs of these engineering professionals.
+More than 800 students attend Santa Clara University’s Graduate Engineering Programs each quarter. The School of Engineering offers a large variety of programs to meet the needs of these engineering professionals.
 
 ### B.S./M.S. Dual Degree Program&#x20;
 
@@ -22,7 +22,9 @@ All Santa Clara University courses applied toward the completion of a certificat
 
 Certificate programs are offered in Frugal Innovation, Renewable Energy, Digital System Design, Integrated Circuit Design and Technology, Digital Signal Processing and Machine Learning, Digital Signal Processing Theory, Fundamentals of Electrical and Computer Engineering, RF and Applied Electromagnetics, Design and Manufacturing, Dynamics and Controls, Mechanics and Materials, Mechatronics Systems Engineering, and Thermofluids and Energy. For more specific information on each certificate, please see [Chapter 18](chapter-18-certificate-programs.md).
 
+{% hint style="info" %}
 _Please Note: Santa Clara University does not issue F-1 visas to applicants who wish to enter directly into the certificate program._
+{% endhint %}
 
 ### Master of Science Program
 
@@ -32,9 +34,13 @@ Students have the option to write a thesis as part of their master’s degree. S
 
 The School of Engineering offers Master’s programs in Applied Mathematics, Aerospace Engineering, Bioengineering, Civil Engineering, Computer Science and Engineering, ,Electrical and Computer Engineering, Engineering Management and Leadership, Mechanical Engineering, Robotics and Automation and Power Systems and Sustainable Energy. The coursework requirements for the degree are determined by each of the major departments. In order to graduate, students must complete the required coursework for the program to which they are admitted and must have a cumulative GPA of 3.0 in all coursework listed on their approved program of study. In addition to this requirement, Engineering Management and Leadership degree candidates must earn a 3.0 GPA in those courses applied to their technical stem and a 3.0 GPA in their engineering management course stem.
 
+{% hint style="info" %}
 _Please note: Only classes with assigned grades of C- or higher will count toward the completion of the certificates, M.S. or Ph.D. degrees. The grades of all courses completed during the M.S., Ph.D. or certificate program are used to compile final cumulative grade point average (GPA)_
+{% endhint %}
 
+{% hint style="info" %}
 Note that the number of engineering management courses accepted for other degrees in the graduate engineering program is restricted to six units in computer science engineering, electrical and computer engineering, and most options of mechanical engineering.
+{% endhint %}
 
 ### Graduate Minor in Science, Technology, and Society (STS)&#x20;
 
@@ -94,7 +100,7 @@ At least one month before the degree is conferred, the candidate must submit one
 
 **Time Limit for Completing Degrees**&#x20;
 
-&#x20;All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the Dean of Engineering in consultation with the Graduate Program Leadership Council.&#x20;
+All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the Dean of Engineering in consultation with the Graduate Program Leadership Council.&#x20;
 
 **Non-Enrollment Period**&#x20;
 
@@ -102,7 +108,11 @@ Ph.D. students are required to enroll in at least one unit for the fall, winter,
 
 Students are required to complete their degree within eight years from their original admit term date. The eight-year time frame includes quarters during which a student was not enrolled. Those who fail to complete their Ph.D. in eight years can request an extension only under special circumstances. In such cases, the student’s advisor will need to discuss the case with the Research Program Leadership Council, which will determine whether an extension is warranted (and for how long).
 
-_Please Note: Students who miss one or more quarters and fail to submit the appropriate form(s) will be discontinued automatically and will have to reapply to the Ph.D. program. They will need to follow the same procedure as students who withdrew from the program._&#x20;
+{% hint style="info" %}
+_Please Note: Students who miss one or more quarters and fail to submit the appropriate form(s) will be discontinued automatically and will have to reapply to the Ph.D. program. They will need to follow the same procedure as students who withdrew from the program._
+{% endhint %}
+
+
 
 **Additional Graduation Requirements**
 
@@ -134,4 +144,6 @@ Open University students who are considering enrolling in the master’s program
 
 Students should remember, however, that all coursework taken at SCU, whether as a degree-seeking or an Open University student, becomes a part of the student’s academic history.
 
+{% hint style="info" %}
 _Please Note: Santa Clara University does not issue F-1 visas to applicants who wish to enter directly into the open university program._
+{% endhint %}
