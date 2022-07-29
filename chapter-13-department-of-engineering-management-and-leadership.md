@@ -44,7 +44,7 @@ Students are required to complete a minimum of 46 quarter units to complete the 
 
 
 
-    Please see [Chapter 6](chapter-6-enrichment-experience-and-graduate-core-requirements.md) for additional information regarding the Enrichment Experience
+    Please see Chapter 6 for additional information regarding the Enrichment Experience
 
 **Technical Stem Courses**&#x20;
 
@@ -81,13 +81,11 @@ A completed program of studies for Engineering Management and Leadership degree 
 
 A maximum of nine quarter units (six semester units) of graduate-level coursework may be transferred from other accredited institutions at the discretion of the student’s advisor provided they have not been applied to a previous degree. However, in no case will the minimum units taken in the Department of Engineering Management and Leadership be fewer than 16. Extension classes, continuing education classes, professional development courses, or classes from international universities are not accepted for transfer credits.
 
-{% hint style="info" %}
 _Note: International students or students not fluent in the English language should enroll in one or more of the following courses prior to enrolling in advanced courses in engineering management:_
 
 * EMGT 270 Effective Oral Technical Presentations&#x20;
 * EMGT 272 Effective Written Technical Communications II&#x20;
 * EMGT 318 Strategies for Career and Academic Success (for foreign-born technical professionals)
-{% endhint %}
 
 ### Engineering Management and Leadership Five-Year Program&#x20;
 
@@ -97,13 +95,10 @@ The application fee and GRE General Test requirement are waived for students com
 
 Students in this program will receive a B.S. degree after satisfying the standard undergraduate degree requirements. Students will then be matriculated to the Engineering Management and Leadership M.S. program and must then fulfill all requirements for the M.S. degree.&#x20;
 
-{% hint style="info" %}
-Note 1: Course numbers below 200 indicate undergraduate courses, numbers of 200 and above indicate graduate courses. Students may take courses assigned both undergraduate and graduate numbers (same title used for both numbers) only once as an undergraduate or graduate student. All coursework applied to the M.S. degree must be at the 200 level or above and not applied to any other degree.
-{% endhint %}
+**Notes**&#x20;
 
-{% hint style="info" %}
-Note 2: Students who are entering this program should meet with their Engineering Management and Leadership advisor to develop a program of studies to ensure that all graduate courses they plan to take are applicable to the Engineering Management and Leadership M.S. degree.
-{% endhint %}
+1. Course numbers below 200 indicate undergraduate courses, numbers of 200 and above indicate graduate courses. Students may take courses assigned both undergraduate and graduate numbers (same title used for both numbers) only once as an undergraduate or graduate student. All coursework applied to the M.S. degree must be at the 200 level or above and not applied to any other degree.&#x20;
+2. Students who are entering this program should meet with their Engineering Management and Leadership advisor to develop a program of studies to ensure that all graduate courses they plan to take are applicable to the Engineering Management and Leadership M.S. degree.
 
 ### COURSE DESCRIPTIONS
 
