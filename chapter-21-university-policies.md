@@ -1,7 +1,5 @@
 # Chapter 21: University Policies
 
-##
-
 ## Equal Opportunity, Nondiscrimination and Sexual Harassment Policies&#x20;
 
 ### Gender-Based Discrimination and Sexual Misconduct Policy&#x20;
@@ -10,7 +8,9 @@ Santa Clara University is committed to providing an environment free of gender-b
 
 The University's Gender-Based Discrimination and Sexual Misconduct Policy applies to all students, faculty, and staff, and includes any individual regularly or temporarily employed, studying, living, visiting, or serving in an official capacity at Santa Clara University (including volunteers and contractors). The policy applies to both on-campus and off-campus conduct and to online actions that have a potential or actual adverse impact on any member of the University community, or which substantially interferes with a person's ability to participate in University activities, or which could affect a substantial University interest or its educational mission. For more information about reporting, response, and adjudication, please see the University's [Gender-Based Discrimination and Sexual Misconduct Policy](https://www.scu.edu/media/offices/eeo/SCU-Discrimination-Harassment-Policy-2020.pdf) or contact the Director of Equal Opportunity and Title IX, [www.scu.edu/title-ix.](http://www.scu.edu/title-ix)
 
+{% hint style="info" %}
 NOTE: The Department of Education issued new Title IX regulations to be effective August 14, 2020. The University will update relevant policies and procedures including the Gender-Based Discrimination and Sexual Misconduct Policy to ensure compliance and will post revisions online at [www.scu.edu/title-ix.](http://www.scu.edu/title-ix)&#x20;
+{% endhint %}
 
 ### **What Constitutes Consent**&#x20;
 
@@ -61,7 +61,7 @@ All staff and faculty members, except those within the Confidential Resources se
 
 ### Notice of Nondiscrimination
 
-&#x20;Santa Clara University's fundamental principles of academic excellence through diversity and inclusion are central to the University's Jesuit, Catholic values, and require us to provide a workplace and educational environment free from discrimination. In accordance with federal and state law, Santa Clara University does not discriminate and prohibits discrimination against any individual on the basis of race, ethnicity, nationality, religion, age, gender, gender expression, gender identity, sexual orientation, marital status, registered domestic partner status, veteran or military status, physical or mental disability (including perceived disability), medical condition (including cancer related or genetic characteristics), pregnancy (including childbirth, breastfeeding, and related medical conditions), or other protected classes under the law. This policy, therefore, affects employment policies and actions, as well as the delivery of educational services at all levels and facilities of the University including admissions, scholarships and loan programs, athletics, hiring, promotion, job assignment, retention, and compensation. The University will promptly investigate all complaints of protected class discrimination, sexual harassment, sexual misconduct, and related retaliation in accordance with University's[ Policy on Discrimination, Harassment and Sexual Misconduct ](https://www.scu.edu/media/offices/eeo/SCU-Discrimination-Harassment-Policy-2020.pdf)and applicable federal and state laws.
+Santa Clara University's fundamental principles of academic excellence through diversity and inclusion are central to the University's Jesuit, Catholic values, and require us to provide a workplace and educational environment free from discrimination. In accordance with federal and state law, Santa Clara University does not discriminate and prohibits discrimination against any individual on the basis of race, ethnicity, nationality, religion, age, gender, gender expression, gender identity, sexual orientation, marital status, registered domestic partner status, veteran or military status, physical or mental disability (including perceived disability), medical condition (including cancer related or genetic characteristics), pregnancy (including childbirth, breastfeeding, and related medical conditions), or other protected classes under the law. This policy, therefore, affects employment policies and actions, as well as the delivery of educational services at all levels and facilities of the University including admissions, scholarships and loan programs, athletics, hiring, promotion, job assignment, retention, and compensation. The University will promptly investigate all complaints of protected class discrimination, sexual harassment, sexual misconduct, and related retaliation in accordance with University's[ Policy on Discrimination, Harassment and Sexual Misconduct ](https://www.scu.edu/media/offices/eeo/SCU-Discrimination-Harassment-Policy-2020.pdf)and applicable federal and state laws.
 
 ### Title IX of the Education Amendments of 1972&#x20;
 
@@ -69,22 +69,14 @@ Title IX of the Education Amendments of 1972 ("Title IX"), 20 U.S.C. §1681 et s
 
 Inquiries regarding the University's equal opportunity and nondiscrimination policies may be directed to the Director for the Office of Equal Opportunity and Title IX who serves as the University's designated Title IX Coordinator and ADA/504 Coordinator, and Affirmative Action Officer.
 
-Jenna Elliott, Interim Director and Title IX Coordinator&#x20;
-
-Santa Clara University&#x20;
-
-Office of Equal Opportunity and Title IX&#x20;
-
-500 El Camino Real&#x20;
-
-Santa Clara, CA 95053&#x20;
-
-Office Location: Loyola Hall, Suite 140, 425 El Camino Real, Santa Clara, CA 95053&#x20;
-
-Main Office: 408-551-3043 | Direct Line: 408-551-3521&#x20;
-
-Email: jrelliott@scu.edu&#x20;
-
+Jenna Elliott, Interim Director and Title IX Coordinator \
+Santa Clara University \
+Office of Equal Opportunity and Title IX \
+500 El Camino Real \
+Santa Clara, CA 95053 \
+Office Location: Loyola Hall, Suite 140, 425 El Camino Real, Santa Clara, CA 95053 \
+Main Office: 408-551-3043 | Direct Line: 408-551-3521 \
+Email: [jrelliott@scu.edu ](mailto:jrelliott@scu.edu)\
 Web: [www.scu.edu/title-ix](http://www.scu.edu/title-ix)
 
 Sex discrimination claims or other inquiries concerning the application of Title IX of the Education Amendments of 1972 and its implementing regulations may also be directed to the Director of Equal Opportunity and Title IX, the Assistant Secretary, Office for Civil Rights or both, and to the Equal Employment Opportunity Commission (EEOC), and/or the California Department of Fair Employment and Housing (DFEH).
@@ -93,13 +85,13 @@ Sex discrimination claims or other inquiries concerning the application of Title
 
 Santa Clara University, in compliance with state and federal laws and regulations including Section 504 of the Rehabilitation Act of 1973, the Americans with Disabilities Act (ADA), and the Americans with Disabilities Act Amendments Act (ADAAA) does not discriminate on the basis of disability in administration of its education-related programs and activities. The University is committed to providing individuals with disabilities including those with learning disabilities, ADHD, chronic health conditions, traumatic brain injuries, hearing impairments, physical disabilities, psychological disorders, visual impairments, and other health impairments equal access to academic courses, programs, activities, services and employment opportunities, and strives in its policies and practices to provide for the full participation of individuals with disabilities in all aspects of University life.
 
-For information concerning policies and procedures for students with disabilities, see the Office of Accessible Education (OAE) website, [https://www.scu.edu/oae/](https://www.scu.edu/oae/). Students with disabilities who are registered with the OAE office may be qualified to receive accommodations, auxiliary aids or services based on supporting documentation. To register with OAE, contact the Director at 408-554-4109 or by email at oae@scu.edu. Faculty and staff should contact Human Resources for information on how to request employee disability-related accommodations, auxiliary aids or services, [https://www.scu.edu/hr/.](https://www.scu.edu/hr/)
+For information concerning policies and procedures for students with disabilities, see the Office of Accessible Education (OAE) website, [https://www.scu.edu/oae/](https://www.scu.edu/oae/). Students with disabilities who are registered with the OAE office may be qualified to receive accommodations, auxiliary aids or services based on supporting documentation. To register with OAE, contact the Director at 408-554-4109 or by email at [oae@scu.edu](mailto:oae@scu.edu). Faculty and staff should contact Human Resources for information on how to request employee disability-related accommodations, auxiliary aids or services, [https://www.scu.edu/hr/.](https://www.scu.edu/hr/)
 
 Students, faculty, and staff who believe they have been subjected to unlawful discrimination on the basis of disability, or have been denied access to services or accommodations required by law, should contact the Director of Equal Opportunity and Title IX, [https://www.scu.edu/title-ix/.](https://www.scu.edu/title-ix/)
 
 ### Drug-free Policies
 
-&#x20;It is the goal of Santa Clara University to maintain a drug-free workplace and campus. The unlawful manufacture, distribution, dispensation, possession, and/or use of controlled substances or the unlawful possession, use, or distribution of alcohol is prohibited on the Santa Clara University campus, in the workplace, or as part of any of the University’s activities. This includes the unlawful use of controlled substances or alcohol in the workplace even if it does not result in impaired job performance or in unacceptable conduct.
+It is the goal of Santa Clara University to maintain a drug-free workplace and campus. The unlawful manufacture, distribution, dispensation, possession, and/or use of controlled substances or the unlawful possession, use, or distribution of alcohol is prohibited on the Santa Clara University campus, in the workplace, or as part of any of the University’s activities. This includes the unlawful use of controlled substances or alcohol in the workplace even if it does not result in impaired job performance or in unacceptable conduct.
 
 The unlawful presence of any controlled substance or alcohol in the workplace and campus itself is prohibited. The workplace and campus are presumed to include all Santa Clara premises where the activities of the University are conducted.
 
@@ -111,4 +103,4 @@ The program information is distributed on an annual basis to all faculty, staff,
 
 **Reasons Withdrawal for Health Reasons**
 
-&#x20;Students may experience an illness, injury, or psychological condition that significantly impairs their ability to function successfully or safely in their role as students. In these instances, the Policy for Withdrawal for Health Reasons allows time away from the University for treatment and recovery until functioning is restored to a level that will enable the student to return to the University. The purpose of this policy is to set forth the procedures for student withdrawals from the University for reasons of health and/or safety. The University has designated four categories relating to withdrawal. They differ according to who initiates the action, whether it is voluntary or not, and the re-enrollment procedures. The Vice Provost for Student Life or designee, in consultation with the appropriate mental and medical health professionals and other staff as deemed necessary, is responsible for the implementation of this policy as stated in the Student Handbook.
+Students may experience an illness, injury, or psychological condition that significantly impairs their ability to function successfully or safely in their role as students. In these instances, the Policy for Withdrawal for Health Reasons allows time away from the University for treatment and recovery until functioning is restored to a level that will enable the student to return to the University. The purpose of this policy is to set forth the procedures for student withdrawals from the University for reasons of health and/or safety. The University has designated four categories relating to withdrawal. They differ according to who initiates the action, whether it is voluntary or not, and the re-enrollment procedures. The Vice Provost for Student Life or designee, in consultation with the appropriate mental and medical health professionals and other staff as deemed necessary, is responsible for the implementation of this policy as stated in the Student Handbook.
