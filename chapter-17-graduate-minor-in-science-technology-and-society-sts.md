@@ -1,12 +1,10 @@
 # Chapter 17: Graduate Minor in Science, Technology, and Society (STS)
 
-
-
 _Program Advisor:_ Dr. Aleksandar Zecevic&#x20;
 
 ### Program Description
 
-&#x20;The graduate minor in science, technology, and society (STS) is designed to help students gain a deeper understanding of the influence that engineering has on society (and vice versa). Knowledge of this kind has become essential in an increasingly complex and interconnected world, in which purely technical expertise often needs to be supplemented by additional skills. In order to successfully operate in such an environment, engineers must (at the very least) have the ability to communicate clearly, function on interdisciplinary and diverse teams, and make ethically and socially responsible decisions.
+The graduate minor in science, technology, and society (STS) is designed to help students gain a deeper understanding of the influence that engineering has on society (and vice versa). Knowledge of this kind has become essential in an increasingly complex and interconnected world, in which purely technical expertise often needs to be supplemented by additional skills. In order to successfully operate in such an environment, engineers must (at the very least) have the ability to communicate clearly, function on interdisciplinary and diverse teams, and make ethically and socially responsible decisions.
 
 The need to develop such skills has been widely recognized in universities around the country, as witnessed by the growing emphasis on interdisciplinary studies in undergraduate engineering curricula. It is unusual, however, to encounter programs of this kind on the graduate level. Most traditional master’s programs still focus on specialized technical topics and offer little insight into how practicing engineers might engage global challenges such as climate change, sustainability, or economic disparity (to name just a few).
 
@@ -54,7 +52,7 @@ A list of approved STS Core courses and the different thematic areas to which th
 
 **Admission Procedures**&#x20;
 
-The STS minor option is open to all master’s students in the School of Engineering. Those who wish to pursue this minor must submit an application form to the Graduate Services Office by the end of their third quarter at SCU (at the latest), and must have their program of studies approved by the academic advisor for this program (Dr. Aleksander Zecevic). Links to the application form and the program of studies form can be found at the website: www.scu.edu/engineering/graduate
+The STS minor option is open to all master’s students in the School of Engineering. Those who wish to pursue this minor must submit an application form to the Graduate Services Office by the end of their third quarter at SCU (at the latest), and must have their program of studies approved by the academic advisor for this program (Dr. Aleksander Zecevic). Links to the application form and the program of studies form can be found at the website: [www.scu.edu/engineering/graduate](https://www.scu.edu/engineering/graduate)
 
 Students who complete all the technical requirements set by their department, as well as an approved set of STS classes, will receive a master’s degree with a minor in Science, Technology, and Society. The degree will be conferred by the department to which the student was originally accepted. Please note that the grades obtained in STS courses will be included in the overall GPA and will carry the same weight as grades obtained in technical classes.
 
