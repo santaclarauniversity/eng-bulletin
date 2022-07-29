@@ -8,7 +8,7 @@ Twenty-first-century problems demand holistic thinking to effectively address th
 
 ### Master’s Degree Program and Requirements&#x20;
 
-Students interested in this major must satisfy the standard admissions criteria used by the School of Engineering, which include an undergraduate degree in a field of engineering (physics degrees will also be considered), appropriate GRE scores and (for international students) demonstrated proficiency in English. Both TOEFL and IELTS scores are acceptable for this purpose. All students are expected to maintain a minimum grade point average of 3.0 while enrolled in the program. They must also develop a PS\&SE Program of Studies with the program advisor and file this document with the Graduate Programs Office by the end of their first quarter at SCU.&#x20;
+Students interested in this major must satisfy the standard admissions criteria used by the School of Engineering, which include an undergraduate degree in a field of engineering (physics degrees will also be considered), appropriate GRE scores and (for international students) demonstrated proficiency in English. Both TOEFL and IELTS scores are acceptable for this purpose. All students are expected to maintain a minimum G.P.A. of a 3.0 while enrolled in the program. They must also develop a PS\&SE Program of Studies with the program advisor and file this document with the Graduate Programs Office by the end of their first quarter at SCU.&#x20;
 
 **Required Courses**&#x20;
 
@@ -64,7 +64,7 @@ Additional elective courses to complete the 46-unit requirement must be approved
 
 ### Renewable Energy Certificate Program&#x20;
 
-The main goal of this certificate is to introduce students to the field of renewable energy. The intent is to help equip professionals in Silicon Valley with the knowledge that will help them advance in their present career or enter the renewable energy field. To enroll in this certificate, an applicant should have a B.S. in Engineering from an accredited school and maintain a grade point average of 3.0. As with most certificates in the Graduate School of Engineering, the requirement is 16 quarter units. Eight of these units are in Power Systems and eight units are in Renewable Energy.&#x20;
+The main goal of this certificate is to introduce students to the field of renewable energy. The intent is to help equip professionals in Silicon Valley with the knowledge that will help them advance in their present career or enter the renewable energy field. To enroll in this certificate, an applicant should have a B.S. in Engineering from an accredited school and maintain a G.P.A. of a 3.0. As with most certificates in the Graduate School of Engineering, the requirement is 16 quarter units. Eight of these units are in Power Systems and eight units are in Renewable Energy.&#x20;
 
 ### Continuation for A Master’s Degree&#x20;
 

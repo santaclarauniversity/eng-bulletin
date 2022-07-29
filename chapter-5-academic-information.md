@@ -108,7 +108,7 @@ NOTE: Courses that were taken more than 6 years ago are generally not accepted f
 
 ### Petition for Graduation
 
-It is a student’s responsibility to file an online petition to graduate by the deadline listed in the Academic Calendar. The petition to graduate will only be accepted through online submission and may be found on the [graduate engineering website](https://www.scu.edu/engineering/graduate). All graduating students must submit a final Program of Study form and enroll in at least one unit during their final quarter.
+It is a student’s responsibility to file an online petition to graduate by the deadline listed in the [Academic Calendar](https://www.scu.edu/engineering/graduate/academic-calendar/). The petition to graduate will only be accepted through online submission and may be found on the [graduate engineering website](https://www.scu.edu/engineering/graduate). All graduating students must submit a final Program of Study form and enroll in at least one unit during their final quarter.
 
 {% hint style="info" %}
 NOTE: Eligibility to participate in the June Commencement ceremony will be based on the completion of all requirements and units by the end of the spring quarter or the participation in the ceremony will be delayed until the following June.

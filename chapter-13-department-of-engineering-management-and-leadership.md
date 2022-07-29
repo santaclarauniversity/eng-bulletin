@@ -14,7 +14,7 @@ Admission to the Engineering Management and Leadership Program is open to those 
 
 **Requirements**&#x20;
 
-Students are required to complete a minimum of 46 quarter units to complete the master’s degree, following these guidelines:
+Students are required to complete a minimum of 46 quarter units and a minimum cumulative G.P.A. of a 3.0 to complete the master’s degree, following these guidelines:
 
 *   **Engineering Management Core (20 units)**&#x20;
 
@@ -44,7 +44,7 @@ Students are required to complete a minimum of 46 quarter units to complete the 
 
 
 
-    Please see Chapter 6 for additional information regarding the Enrichment Experience
+    Please see [Chapter 6](chapter-6-enrichment-experience-and-graduate-core-requirements.md) for additional information regarding the Enrichment Experience
 
 **Technical Stem Courses**&#x20;
 
@@ -75,30 +75,35 @@ Courses for the Technical Stem of Engineering Management and Leadership are sele
 * Engineering Management and Leadership students are allowed to enroll in one unit of Independent Study or Directed Research under the direction of a full-time faculty member in the respective engineering department. Any additional units will not be counted toward graduation.&#x20;
 * New courses are often developed and offered during the academic year that are not listed in this bulletin. It is important that students check with their advisor prior to enrolling in those courses to make sure they will count toward their degree.
 
-All of the requirements for the engineering management and leadership degree must be completed within a six-year timeframe. In addition to the overall 3.0 GPA graduation requirement, engineering management and leadership degree candidates must earn a 3.0 GPA in those courses applied to their technical stem and a 3.0 GPA in their engineering management course stem. All courses in which a student is enrolled at Santa Clara are included in these calculations.
+All of the requirements for the engineering management and leadership degree must be completed within a six-year timeframe. In addition to the overall 3.0 GPA graduation requirement, engineering management and leadership degree candidates must earn a minimum 3.0 GPA in those courses applied to their technical stem and a minimum 3.0 GPA in their engineering management course stem. All courses in which a student is enrolled at Santa Clara are included in these calculations.
 
 A completed program of studies for Engineering Management and Leadership degree candidates must be submitted to the chair of the Department of Engineering Management and Leadership during the first term of enrollment to ensure that all courses undertaken are applicable to the degree. Students who take courses that have not been approved for their program of studies by both the department chair and the Graduate Programs Office do so at their own risk, as they may not be counted toward completion of the degree.
 
 A maximum of nine quarter units (six semester units) of graduate-level coursework may be transferred from other accredited institutions at the discretion of the student’s advisor provided they have not been applied to a previous degree. However, in no case will the minimum units taken in the Department of Engineering Management and Leadership be fewer than 16. Extension classes, continuing education classes, professional development courses, or classes from international universities are not accepted for transfer credits.
 
+{% hint style="info" %}
 _Note: International students or students not fluent in the English language should enroll in one or more of the following courses prior to enrolling in advanced courses in engineering management:_
 
 * EMGT 270 Effective Oral Technical Presentations&#x20;
 * EMGT 272 Effective Written Technical Communications II&#x20;
 * EMGT 318 Strategies for Career and Academic Success (for foreign-born technical professionals)
+{% endhint %}
 
-### Engineering Management and Leadership Five-Year Program&#x20;
+### Engineering Management and Leadership BS/MS Program&#x20;
 
 The School of Engineering offers qualified Santa Clara University undergraduates the opportunity to earn both a Bachelor of Science degree in their technical discipline and a Master of Science degree in Engineering Management and Leadership in five years. This is an excellent path to continue technical education while learning the essential skills required to manage technical projects and people. The degree program is open to students in engineering and engineering physics.
 
-The application fee and GRE General Test requirement are waived for students completing their undergraduate B.S. degree in the technical disciplines listed above who have a minimum GPA of 3.0 in their technical major. The maximum number of graduate units allowed to transfer as an undergraduate in this program is 20.
+The application fee and GRE General Test requirement are waived for students completing their undergraduate B.S. degree in the technical disciplines listed above who have a minimum GPA of 3.0 in their technical major. The maximum number of graduate units allowed to transfer as an undergraduate in this program is 20 units as long as those units were not used toward the undergraduate degree.
 
 Students in this program will receive a B.S. degree after satisfying the standard undergraduate degree requirements. Students will then be matriculated to the Engineering Management and Leadership M.S. program and must then fulfill all requirements for the M.S. degree.&#x20;
 
-**Notes**&#x20;
+{% hint style="info" %}
+Note 1: Course numbers below 200 indicate undergraduate courses, numbers of 200 and above indicate graduate courses. Students may take courses assigned both undergraduate and graduate numbers (same title used for both numbers) only once as an undergraduate or graduate student. All coursework applied to the M.S. degree must be at the 200 level or above and not applied to any other degree.
+{% endhint %}
 
-1. Course numbers below 200 indicate undergraduate courses, numbers of 200 and above indicate graduate courses. Students may take courses assigned both undergraduate and graduate numbers (same title used for both numbers) only once as an undergraduate or graduate student. All coursework applied to the M.S. degree must be at the 200 level or above and not applied to any other degree.&#x20;
-2. Students who are entering this program should meet with their Engineering Management and Leadership advisor to develop a program of studies to ensure that all graduate courses they plan to take are applicable to the Engineering Management and Leadership M.S. degree.
+{% hint style="info" %}
+Note 2: Students who are entering this program should meet with their Engineering Management and Leadership advisor to develop a program of studies to ensure that all graduate courses they plan to take are applicable to the Engineering Management and Leadership M.S. degree.
+{% endhint %}
 
 ### COURSE DESCRIPTIONS
 
@@ -288,7 +293,7 @@ Provides the tools and techniques that can be used early in the design phase to 
 
 _**EMGT 390. System Architecture and Design**_&#x20;
 
-_Fundamentals of system architecting and the architecting process, along with practical heuristics. The course has a strong “how-to” orientation, and numerous case studies are used to convey and discuss good architectural concepts as well as lessons learned. Adaptation of the architectural process to ensure the effective application of COTS will be addressed. (2 units)_&#x20;
+Fundamentals of system architecting and the architecting process, along with practical heuristics. The course has a strong “how-to” orientation, and numerous case studies are used to convey and discuss good architectural concepts as well as lessons learned. Adaptation of the architectural process to ensure the effective application of COTS will be addressed. (2 units)&#x20;
 
 _**EMGT 395. Intrapreneurship – Innovation from Within**_&#x20;
 

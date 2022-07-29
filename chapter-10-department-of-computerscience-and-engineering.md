@@ -1,9 +1,5 @@
 # Chapter 10: Department of Computer Science and Engineering
 
-__
-
-__
-
 _Professor Emeritus:_ Ronald L. Danielson, Daniel W. Lewis&#x20;
 
 _Wilmot J. Nicholson Family Professor:_ Nam Ling (_IEEE Fellow, Chair_)
@@ -22,13 +18,13 @@ _AYAL Lecturers:_ Keyvan Moataghed, Yuan Wang
 
 ### Overview
 
-&#x20;The most successful graduates in the field of computing are those who understand computers as systems—not just the design of hardware or software, but also the relationships and interdependencies between them and the underlying theory of computation.
+The most successful graduates in the field of computing are those who understand computers as systems—not just the design of hardware or software, but also the relationships and interdependencies between them and the underlying theory of computation.
 
 The Computer Science and Engineering degree includes courses that cover the breadth of the discipline, from the engineering aspects of hardware and software design to the underlying theory of computation.
 
 ### Degree Programs
 
-&#x20;Students are required to meet with their advisors to define and file a program of study during their first quarter. In general, no credit is allowed for courses that duplicate prior coursework, including courses listed as degree requirements. Students should arrange adjustment of these requirements with their academic advisor when they file their program of study.
+Students are required to meet with their advisors to define and file a program of study during their first quarter. In general, no credit is allowed for courses that duplicate prior coursework, including courses listed as degree requirements. Students should arrange adjustment of these requirements with their academic advisor when they file their program of study.
 
 With the prior written consent of the advisor, master’s students may take a maximum of 12 units of coursework for graduate credit from selected senior-level undergraduate courses.&#x20;
 
@@ -68,7 +64,7 @@ Students must take a minimum of 8 units of the Graduate Core Enrichment Experien
 
 
 
-Please refer to **Chapter 6, Enrichment Experience and Graduate Core Requirements** for additional information and the core course list.
+Please refer to [Chapter 6, Enrichment Experience and Graduate Core Requirements](chapter-6-enrichment-experience-and-graduate-core-requirements.md) for additional information and the core course list.
 
 **MSCSE Core**&#x20;
 
@@ -90,7 +86,7 @@ We are currently not accepting applications for the Master of Science in Softwar
 
 ### Doctor of Philosophy in Computer Science and Engineering&#x20;
 
-The Doctor of Philosophy (Ph.D.) degree is conferred by the School of Engineering primarily in recognition of competence in the subject field and the ability to investigate engineering problems independently, resulting in a new contribution to knowledge in the field. The work for the degree consists of engineering research, the preparation of a thesis based on that research, and a program of advanced study in engineering, mathematics, and related physical sciences. The student’s work is directed by the department, subject to the general supervision of the School of Engineering. See **Chapters 2 and 3, Academic Programs and Requirements and Admissions**, for details on admission and general degree requirements. The following departmental information augments the general requirements.&#x20;
+The Doctor of Philosophy (Ph.D.) degree is conferred by the School of Engineering primarily in recognition of competence in the subject field and the ability to investigate engineering problems independently, resulting in a new contribution to knowledge in the field. The work for the degree consists of engineering research, the preparation of a thesis based on that research, and a program of advanced study in engineering, mathematics, and related physical sciences. The student’s work is directed by the department, subject to the general supervision of the School of Engineering. See [Chapter 2, Academic Programs and Requirements](chapter-2-academic-programs-and-requirements.md), and [Chapter 3, Admissions](chapter-3-admissions.md), for details on admission and general degree requirements. The following departmental information augments the general requirements.&#x20;
 
 **Preliminary Exam**&#x20;
 
@@ -106,13 +102,13 @@ The student and his or her advisor jointly develop a complete program of study f
 
 After passing the Ph.D. preliminary exam, a student requests his or her thesis advisor to form a doctoral committee. The committee consists of at least five members, each of which must have earned a doctoral degree in a field of engineering or a related discipline. This includes the student’s thesis advisor, at least two other current faculty members of the student’s major department at Santa Clara University, and at least one current faculty member from another appropriate academic department at Santa Clara University.
 
-The committee reviews the student’s program of study, conducts an oral comprehensive exam (presentation of research proposal for examinations on the subject of research work), conducts the dissertation defense, and reviews the thesis. Successful completion of the doctoral program requires that the student’s program of study, performance on the oral comprehensive examination, dissertation defense, and thesis itself meet with the approval of all committee members. In addition, acceptance of publications (at least one article accepted by a refereed journal with an impact factor of at least 1.0) with the student as the primary (first) author is required. More details are described in **Chapter 2, Academic Programs and Requirements.**
+The committee reviews the student’s program of study, conducts an oral comprehensive exam (presentation of research proposal for examinations on the subject of research work), conducts the dissertation defense, and reviews the thesis. Successful completion of the doctoral program requires that the student’s program of study, performance on the oral comprehensive examination, dissertation defense, and thesis itself meet with the approval of all committee members. In addition, acceptance of publications (at least one article accepted by a refereed journal with an impact factor of at least 1.0) with the student as the primary (first) author is required. More details are described in [Chapter 2, Academic Programs and Requirements](chapter-2-academic-programs-and-requirements.md).
 
-The student is expected to complete a minimum of 72 units of graduate credit beyond the master’s degree with an overall GPA of 3.0 or better. Of these, 36 quarter units may be earned through coursework, independent study and directed research, and 36 through the thesis. A maximum of 18 quarter units (12 semester units), not previously used for the completion of another degree, may be transferred from any accredited institutions at the discretion of the student’s advisor. More details are described in **Chapter 2, Academic Programs and Requirements.**&#x20;
+The student is expected to complete a minimum of 72 units of graduate credit beyond the master’s degree with a minimum cumulative GPA of 3.0. Of these, 36 quarter units may be earned through coursework, independent study and directed research, and 36 through the thesis. A maximum of 18 quarter units (12 semester units), not previously used for the completion of another degree, may be transferred from any accredited institutions at the discretion of the student’s advisor. More details are described in **Chapter 2, Academic Programs and Requirements.**&#x20;
 
 **Time Limit for Completing Degree**&#x20;
 
-All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Graduate Program Leadership Council (GPLC).&#x20;
+All requirements for the doctoral degree must be completed within eight years following initial admittance in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Graduate Program Leadership Council (GPLC).&#x20;
 
 ### Engineer’s Degree in Computer Science and Engineering&#x20;
 
@@ -350,7 +346,7 @@ Laboratory for COEN 164. Co-requisite: COEN 164. (1 unit)&#x20;
 
 _**COEN 165. Introduction to 3D Animation & Modeling/Modeling & Control of Rigid Body Dynamics**_
 
-&#x20;Mathematical and physical principles of motion of rigid bodies, including movement, acceleration, inertia and collision. Modeling of rigid body dynamics for three-dimensional graphic simulation; controlling the motion of rigid bodies in robotic applications. May be repeated twice for credit. Also listed as ARTS 173. (5 units)&#x20;
+Mathematical and physical principles of motion of rigid bodies, including movement, acceleration, inertia and collision. Modeling of rigid body dynamics for three-dimensional graphic simulation; controlling the motion of rigid bodies in robotic applications. May be repeated twice for credit. Also listed as ARTS 173. (5 units)&#x20;
 
 _**COEN 166. Artificial Intelligence**_&#x20;
 
@@ -602,7 +598,7 @@ Social factors. Configuration management. Software complexity measures. Function
 
 _**COEN 287. Software Development Process Management**_
 
-&#x20;Management of the software development process at both the project and organization levels. Interrelationship of the individual steps of the development process. Management techniques for costing, scheduling, tracking, and adjustment. Prerequisite: COEN 285 or equivalent. (2 units)&#x20;
+Management of the software development process at both the project and organization levels. Interrelationship of the individual steps of the development process. Management techniques for costing, scheduling, tracking, and adjustment. Prerequisite: COEN 285 or equivalent. (2 units)&#x20;
 
 _**COEN 288. Software Ethics**_&#x20;
 
@@ -646,7 +642,7 @@ Advanced system architectures. Overview of different computer architecture parad
 
 _**COEN 315. Web Architecture and Protocols**_
 
-&#x20;History and overview of World Wide Web technology. Web clients and browsers. State management, session persistence, and cookies. Spiders, bots, and search engines. Web proxies. Web servers and server farms. HTTP and web protocols. Web caching and content distribution. Load balancing. Web security and firewalls. Web workload and traffic characterization. Future of web technology. Prerequisite: COEN 233 or equivalent. (4 units)&#x20;
+History and overview of World Wide Web technology. Web clients and browsers. State management, session persistence, and cookies. Spiders, bots, and search engines. Web proxies. Web servers and server farms. HTTP and web protocols. Web caching and content distribution. Load balancing. Web security and firewalls. Web workload and traffic characterization. Future of web technology. Prerequisite: COEN 233 or equivalent. (4 units)&#x20;
 
 _**COEN 317. Distributed Systems**_&#x20;
 
@@ -658,7 +654,7 @@ Introduction to parallel processing. Parallel system classifications. Parallel c
 
 _**COEN 319. Parallel Computing**_
 
-&#x20;How to effectively program parallel computers, from smartphones to large clusters. Types of parallel architectures, routing, data parallel, shared-memory, and message-passing parallel programming, load balancing, evaluation of parallel algorithms, advanced topics. Students will implement select parallel algorithms for solving real-world data analytics problems, including parallel algorithms for sparse matrix and graph operations. Prerequisites: COEN 12 or 912C or CSCI 61 or equivalent. (4 units)&#x20;
+How to effectively program parallel computers, from smartphones to large clusters. Types of parallel architectures, routing, data parallel, shared-memory, and message-passing parallel programming, load balancing, evaluation of parallel algorithms, advanced topics. Students will implement select parallel algorithms for solving real-world data analytics problems, including parallel algorithms for sparse matrix and graph operations. Prerequisites: COEN 12 or 912C or CSCI 61 or equivalent. (4 units)&#x20;
 
 _**COEN 320. Computer Performance Evaluation**_&#x20;
 
@@ -718,10 +714,12 @@ Learning and inference in vision; regression models; deep learning for vision; c
 
 _**COEN 346. Natural Language Processing Natural**_&#x20;
 
-language processing (NLP) is the art and science of extracting insights from large amounts of natural language. It is one of the most important technologies of the information age. Applications of NLP are everywhere because people communicate almost everything in language: web search, recommendation, emails, customer service, language translation, virtual agents, medical reports, politics, etc. This course presents an introduction to NLP and covers the main models, algorithms, and applications of NLP. A key emphasis of this course is on statistical analysis of large text corpora, and distilling useful structured knowledge from large collections of unstructured documents. Prerequisites: COEN 240 or COEN 281. COEN 342 is optional but recommended. (4 units)\
+Language processing (NLP) is the art and science of extracting insights from large amounts of natural language. It is one of the most important technologies of the information age. Applications of NLP are everywhere because people communicate almost everything in language: web search, recommendation, emails, customer service, language translation, virtual agents, medical reports, politics, etc. This course presents an introduction to NLP and covers the main models, algorithms, and applications of NLP. A key emphasis of this course is on statistical analysis of large text corpora, and distilling useful structured knowledge from large collections of unstructured documents. Prerequisites: COEN 240 or COEN 281. COEN 342 is optional but recommended. (4 units)\
+
+
 _**COEN 347. Advanced Image and Video Coding**_
 
-&#x20;Advanced topics in image and video coding, selected from: Wavelet transform and compression. Sparse coding. Compressive sensing. Standards such as JPEG 2000, JPEG XT, JPEG PLENO, VVC, and HEVC extensions such as SHVC, MV-HEVC, 3D-HEVC, and SCC. Scalable video coding. Multiview and 3D video coding. Screen content coding. High dynamic range HDR. Light-field, point-cloud, and holographic imaging. Distributed video coding. Video communications systems. Congestion control. Rate control. Error control. Transcoding. Machine and deep learning approaches. Image/video coding for machines. Other advanced topics. Prerequisite: COEN 338 or ELEN 641. (4 units)&#x20;
+Advanced topics in image and video coding, selected from: Wavelet transform and compression. Sparse coding. Compressive sensing. Standards such as JPEG 2000, JPEG XT, JPEG PLENO, VVC, and HEVC extensions such as SHVC, MV-HEVC, 3D-HEVC, and SCC. Scalable video coding. Multiview and 3D video coding. Screen content coding. High dynamic range HDR. Light-field, point-cloud, and holographic imaging. Distributed video coding. Video communications systems. Congestion control. Rate control. Error control. Transcoding. Machine and deep learning approaches. Image/video coding for machines. Other advanced topics. Prerequisite: COEN 338 or ELEN 641. (4 units)&#x20;
 
 _**COEN 348. Speech Processing I**_&#x20;
 

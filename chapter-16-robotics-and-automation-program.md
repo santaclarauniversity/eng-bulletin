@@ -2,13 +2,13 @@
 
 _Program Advisor:_ Dr. Christopher Kitts
 
-### OVERVIEW&#x20;
+### Overview&#x20;
 
 Robotics and the automation sciences relating to intelligent machines and smart systems is a burgeoning field that is fueling the economy, driving employment in Silicon Valley and beyond, and transforming the nature of work in a wide range of applications. We offer a multi-disciplinary master’s degree in Robotics and Automation, which balances deep technical expertise with practical application-oriented experience and with insight into the societal impacts, ethical challenges and entrepreneurial opportunities relevant to this field. A technical core ensures competence in the areas of design, controls and perception. Elective-based focus areas within the degree provide opportunities for students to build knowledge and expertise in application areas such as industrial internet-of-things and manufacturing, field robotics, etc. Furthermore, partnerships with local companies and agencies provide highly applicable project experiences, ensure a relevant curriculum, and contribute to a strong student recruitment pipeline. Finally, a novel co-curricular option certifies student competencies in modern skills and tools relevant to the robotics and automation industry.
 
-### MASTER’S DEGREE PROGRAM AND REQUIREMENTS&#x20;
+### Master's Degree Program and Requirements&#x20;
 
-Students interested in this major must satisfy the standard admissions criteria used by the School of Engineering, which include an undergraduate degree in a field of engineering or related area, appropriate GRE scores, and demonstrated proficiency in English. Students must also have an academic background or be able to demonstrate proficiency in computer programming, electrical circuit design, and mechanical design; students deficient in one or more of these areas may be required to take additional courses in these areas at either the graduate or undergraduate level prior to entering or early in their degree program. Students are expected to maintain a minimum grade point average of 3.0 while enrolled in the program. They must also develop a Robotics and Automation Program of Studies with an academic advisor and file this document with the Graduate Services Office by the end of their first quarter at SCU.
+Students interested in this major must satisfy the standard admissions criteria used by the School of Engineering, which include an undergraduate degree in a field of engineering or related area, appropriate GRE scores, and demonstrated proficiency in English. Students must also have an academic background or be able to demonstrate proficiency in computer programming, electrical circuit design, and mechanical design; students deficient in one or more of these areas may be required to take additional courses in these areas at either the graduate or undergraduate level prior to entering or early in their degree program. Students are expected to maintain a minimum G.P.A. of a 3.0 while enrolled in the program. They must also develop a Robotics and Automation Program of Studies with an academic advisor and file this document with the Graduate Services Office by the end of their first quarter at SCU.
 
 The degree requires completion of a minimum of 46 graduate units, to include:
 

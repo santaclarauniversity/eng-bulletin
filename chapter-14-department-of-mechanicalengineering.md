@@ -16,9 +16,9 @@ The Department of Mechanical Engineering is dedicated to delivering up-to-date, 
 
 ## Master Of Science Programs&#x20;
 
-An M.S. degree requires a minimum 46 units of study with an overall GPA of 3.0 or higher. The student must select one of the five areas of emphasis and develop a program of studies with an advisor. Courses taken to satisfy any particular requirement may be used to simultaneously satisfy additional requirements for which they are appropriate. Master of Science degrees must include the following:
+An M.S. degree requires a minimum 46 units of study with a minimum cumulative GPA of 3.0. The student must select one of the five areas of emphasis and develop a program of studies with an advisor. Courses taken to satisfy any particular requirement may be used to simultaneously satisfy additional requirements for which they are appropriate. Master of Science degrees must include the following:
 
-*   Engineering Core- Enrichment experience requirement as described in Chapter 6 (minimum of 8 units). Students must take a minimum of 4 units from at least two of the three areas:&#x20;
+*   Engineering Core- Enrichment experience requirement as described in [Chapter 6](chapter-6-enrichment-experience-and-graduate-core-requirements.md) (minimum of 8 units). Students must take a minimum of 4 units from at least two of the three areas:&#x20;
 
     * Emerging Topics in Engineering,&#x20;
     * Engineering and Business/Entrepreneurship&#x20;
@@ -28,8 +28,8 @@ An M.S. degree requires a minimum 46 units of study with an overall GPA of 3.0 o
 
     * a) taking one or more major technical electives,&#x20;
     * b) additional classes from the Graduate Core list,&#x20;
-    * c) cooperative education courses (Engr 288, Engr 289) or\
-      d) combining a, b, and c.&#x20;
+    * c) cooperative education courses (Engr 288, Engr 289)&#x20;
+    * d) combining a, b, and c.&#x20;
 
 
 * Math requirement: 8 units composed of MECH 200 and 201, or MECH 202, and an approved two-course sequence or equivalent four-unit course in applied math&#x20;
@@ -217,7 +217,7 @@ After passing the Ph.D. preliminary exam, a student requests his or her thesis a
 
 **Time Limit for Completing Degree**&#x20;
 
-All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. This includes leave of absence/withdrawals. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Research Program Leadership Council.
+All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. This includes leave of absence/withdrawals. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Graduate Program Leadership Council (GPLC).
 
 ### Engineer’s Degree Program&#x20;
 
@@ -261,7 +261,7 @@ The _**Control Systems Laboratory**_ is equipped with the Rotary Motion Platform
 
 ## Undergraduate Course Descriptions
 
-### &#x20;Lower-Division Undergraduate Courses
+### Lower-Division Undergraduate Courses
 
 _**MECH 10L. Engineering Graphics and Computer-Aided Design I**_&#x20;
 

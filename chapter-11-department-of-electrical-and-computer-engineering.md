@@ -12,13 +12,13 @@ _Assistant Professors:_ Maryam Khanbaghi, Maria Kyrarini, Kurt Schab, Dat Tran, 
 
 ### Overview
 
-&#x20;The field of electrical and computer engineering covers the design, construction, testing, and operation of electrical components, circuits, and systems. Electrical and computer engineers work with information representation, processing and transmission; advancing integrated circuit design for digital, analog, and mixed signals systems; designing and characterizing antennas, RF, microwave and millimeter-wave Systems; new devices and architectures, energy systems and renewable energy; nanotechnology; and all the areas of information circuits and systems that have traditionally supported these efforts. This includes all phases of the digital or analog transmission of information, such as in mobile communications and networks, radio, television, telephone systems, fiber optics, and satellite communications, as well as control and robotics, electric power, information processing and storage.
+The field of electrical and computer engineering covers the design, construction, testing, and operation of electrical components, circuits, and systems. Electrical and computer engineers work with information representation, processing and transmission; advancing integrated circuit design for digital, analog, and mixed signals systems; designing and characterizing antennas, RF, microwave and millimeter-wave Systems; new devices and architectures, energy systems and renewable energy; nanotechnology; and all the areas of information circuits and systems that have traditionally supported these efforts. This includes all phases of the digital or analog transmission of information, such as in mobile communications and networks, radio, television, telephone systems, fiber optics, and satellite communications, as well as control and robotics, electric power, information processing and storage.
 
 The Electrical and Computer Engineering Programs are supported by the facilities of the University’s Academic Computing Center, as well as by the Engineering Computing Center. The department supports 10 major teaching and research laboratories, five additional laboratories used only for teaching, and a laboratory dedicated to the support of design projects. The five teaching laboratories cover the fields of digital systems, electric circuits, electronics, systems, and RF and communication.
 
 ### Master’s Degree Program and Requirements&#x20;
 
-The master’s degree will be granted to degree candidates who complete a program of studies approved by a faculty advisor. The degree does not require a thesis, but students may include a thesis in their program with up to nine units for their thesis work. The program must consist of no less than 46 units. In addition, a 3.0 cumulative GPA (B average) must be earned in all coursework taken at Santa Clara University. Residence requirements are met by completing no less than 37 units of the graduate program at Santa Clara University. A maximum of nine quarter units (six-semester units) of graduate-level coursework may be transferred from other accredited institutions at the discretion of the student’s advisor. All units applied toward the degree, including those transferred from other institutions, must be earned within six years from initial enrollment.
+The master’s degree will be granted to degree candidates who complete a program of studies approved by a faculty advisor. The degree does not require a thesis, but students may include a thesis in their program with up to nine units for their thesis work. The program must consist of a minimum of 46 units. In addition, a minimum 3.0 cumulative GPA (B average) must be earned in all coursework taken at Santa Clara University. Residence requirements are met by completing no less than 37 units of the graduate program at Santa Clara University. A maximum of nine quarter units (six-semester units) of graduate-level coursework may be transferred from other accredited institutions at the discretion of the student’s advisor. All units applied toward the degree, including those transferred from other institutions, must be earned within six years from initial enrollment.
 
 Students must develop a program of studies with an academic advisor and file the approved program during their first term of enrollment at Santa Clara University. The program of studies must contain a minimum of 46 units of graduate-level engineering courses which include at least 27 units of courses offered within the electrical and computer department and no more than four units of engineering management courses.
 
@@ -29,22 +29,15 @@ The program of studies must include the following:
 
 
     * A minimum of 4 units must be from the Graduate Core which requires at least two courses from the three areas (Emerging Topics in Engineering, Engineering and Business/Entrepreneurship, and Engineering and Society).&#x20;
-    * The remaining 4 units can be accumulated by the following a) Taking one or more major technical electives, b)Taking additional classes from the Graduate Core, c) Taking Cooperative Education course and d) combining courses from a, b and c. For additional information please see Chapter 6, Enrichment Experience and Graduate Core Requirements.
+    * The remaining 4 units can be accumulated by the following a) Taking one or more major technical electives, b)Taking additional classes from the Graduate Core, c) Taking Cooperative Education course and d) combining courses from a, b and c. For additional information please see [Chapter 6, Enrichment Experience and Graduate Core Requirements](chapter-6-enrichment-experience-and-graduate-core-requirements.md).
 2. Applied Mathematics (4 units)&#x20;
 3.  Electrical and Computer Engineering primary focus area (minimum 6 units). Students must select and meet the requirements of one of the six focus areas listed below.\
-    \
-    • _**Power Systems and Control**_
+    • _**Power Systems and Control -**_Either (236 or 281A) and two courses selected from (211, 232, 281B, 333)
 
-    Either (236 or 281A) and two courses selected from (211, 232, 281B, 333)
-
-    • _**IC Design and Technology**_\
-    _****_Three courses selected from (252, 261, 270, 387)\
-    • _**RF and Applied Electromagnetics**_\
-    _****_201 and two courses selected from (202, 203, 204, 624, 701, 706)\
-    • _**Signal Processing and Machine Learning**_\
-    _****_233 and two courses selected from (234, 421, 431, 520, 640, 644)\
-    • _**Digital Systems**_\
-    _****_501 , 511, and 603 Communications 241 and 243, and one course selected from (244, 444, 446)
+    • _**IC Design and Technology-**_ Three courses selected from (252, 261, 270, 387)\
+    • _**RF and Applied Electromagnetics-**_ 201 and two courses selected from (202, 203, 204, 624, 701, 706)\
+    • _**Signal Processing and Machine Learning -**_ 233 and two courses selected from (234, 421, 431, 520, 640, 644)\
+    • _**Digital Systems -**_ 501 , 511, and 603 Communications 241 and 243, and one course selected from (244, 444, 446)
 4. Electrical and Computer Engineering breadth: (minimum 4 units) Two other focus areas must be selected as breadth areas. For each breadth area, one course must be taken from the list of required courses for that area.
 5. Additional graduate courses recommended and approved by the graduate program advisor.\
 
@@ -93,7 +86,7 @@ Only those students who pass the preliminary examination shall be allowed to con
 
 _**Thesis Advisor**_
 
-&#x20;It is the student’s responsibility to obtain consent from a full-time faculty member in the student’s major department to serve as his/her prospective thesis advisor.
+It is the student’s responsibility to obtain consent from a full-time faculty member in the student’s major department to serve as his/her prospective thesis advisor.
 
 It is strongly recommended that Ph.D. students find a thesis advisor before taking the preliminary examination. After passing the preliminary examination, Ph.D. students should have a thesis advisor before the beginning of the next quarter following the preliminary examination. Students currently pursuing a master’s degree at the time of their preliminary examination should have a thesis advisor as soon as possible after being accepted as a Ph.D. student.
 
@@ -105,7 +98,7 @@ After passing the Ph.D. preliminary exam, a student requests his or her thesis a
 
 _**Residence**_&#x20;
 
-The doctoral degree is granted based on achievement, rather than on the accumulation of units of credit. However, the candidate is expected to complete a minimum of 72 quarter units of graduate credit beyond the master’s degree. Of these, 36 quarter units may be earned through coursework and independent study, and 36 through the thesis. All Ph.D. thesis units are graded on a Pass/No Pass basis. A maximum of 18 quarter units (12-semester units) may be transferred from other accredited institutions at the discretion of the student’s advisor.
+The Ph.D. degree is granted based on achievement, rather than on the accumulation of units of credit. The student is expected to complete a minimum of 72 quarter units of graduate credit beyond the master’s degree with a minimum cumulative GPA of a 3.0. Of these, 36 quarter units may be earned through coursework and independent study, and 36 through the thesis. All Ph.D. thesis units are graded on a Pass/No Pass basis. A maximum of 18 quarter units (12-semester units) may be transferred from other accredited institutions at the discretion of the student’s advisor.
 
 Ph.D. students must undertake a minimum of four consecutive quarters of full-time study at the University; spring and fall quarters are considered consecutive. The residency time shall normally be any period between passing the preliminary examination and completion of the thesis. For this requirement, full-time study is interpreted as a minimum registration of eight units per quarter during the academic year and four units during the summer session. Any variation from this requirement must be approved by the doctoral committee.&#x20;
 
@@ -119,15 +112,15 @@ The period following the comprehensive examinations is devoted to research for t
 
 _**Thesis and Publication**_&#x20;
 
-At least one month before the degree is to be conferred, the candidate must submit to the Office of the Dean of Engineering two copies of the final version of the thesis describing the research in its entirety. The thesis will not be considered as accepted until approved by the doctoral committee and one or more refereed articles based on it are accepted for publication in a first-tier professional or scientific journal approved by the doctoral committee. All doctoral theses must also be archived in the University library.&#x20;
+At least one month before the degree is conferred, the candidate must submit one copy of the final version of the thesis to the department and one copy to the University Library. The thesis will not be considered as accepted until approved by the doctoral committee and one or more refereed articles based on it are accepted for publication in a professional or scientific journal approved by the doctoral committee. The quality of the refereed journal must be satisfied by one of two criteria: (1) the refereed journal should have an impact factor of at least 1.0 or (2) prior to submitting the candidate’s work to a refereed journal, written approvals on satisfying the journal’s quality should be obtained from the candidate’s advisor, the doctoral committee, the department chair, and the dean’s office. This written approval must be kept in the candidate’s file.
 
 _**Time Limit for Completing Degree**_&#x20;
 
-All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. This includes any leave of absences/withdrawals. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Research Program Leadership Council.&#x20;
+All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. This includes any leave of absences/withdrawals. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Graduate Program Leadership Council (GPLC)
 
 _**Additional Graduation Requirements**_
 
-&#x20;The requirements for the doctoral degree in the School of Engineering have been made to establish the structure in which the degree may be earned. Upon written approval of the provost, the dean of the School of Engineering, the doctoral committee, and the chair of the major department, other degree requirements may be established. The University reserves the right to evaluate the undertakings and the accomplishments of the degree candidate in total, and award or withhold the degree as a result of its deliberations.&#x20;
+The requirements for the doctoral degree in the School of Engineering have been made to establish the structure in which the degree may be earned. Upon written approval of the provost, the dean of the School of Engineering, the doctoral committee, and the chair of the major department, other degree requirements may be established. The University reserves the right to evaluate the undertakings and the accomplishments of the degree candidate in total, and award or withhold the degree as a result of its deliberations.&#x20;
 
 ### Certificate Programs&#x20;
 
@@ -137,11 +130,11 @@ Certificate programs are designed to provide an intensive background in a narrow
 
 **Admission**
 
-&#x20;To be accepted into a certificate program, the applicant must have a bachelor’s degree and meet any additional requirements for the specific certificate. Exceptions based on work experience may be granted for the Certificate in Fundamentals of Electrical and Computer Engineering. Admitted students are responsible for ensuring that they have the prerequisites for all courses they take in the Certificate Program.&#x20;
+To be accepted into a certificate program, the applicant must have a bachelor’s degree and meet any additional requirements for the specific certificate. Exceptions based on work experience may be granted for the Certificate in Fundamentals of Electrical and Computer Engineering. Admitted students are responsible for ensuring that they have the prerequisites for all courses they take in the Certificate Program.&#x20;
 
 **Grade Requirements**&#x20;
 
-Students must receive a minimum grade of C in each course and have an overall GPA of 3.0 or better to earn a certificate.&#x20;
+Students must receive a minimum grade of C in each course and have a minimum cumulative GPA of 3.0 to earn a certificate.&#x20;
 
 **Continuation for a Master’s Degree**&#x20;
 
@@ -320,7 +313,7 @@ The _**Information Processing and Machine Learning Laboratory**_ supports resear
 
 ## Course Descriptions
 
-### &#x20;Lower-Division Undergraduate Courses&#x20;
+### Lower-Division Undergraduate Courses&#x20;
 
 _**ELEN 20. Emerging Areas in Electrical and Computer Engineering**_&#x20;
 
@@ -430,7 +423,7 @@ Design and analysis of microprocessor-based systems for embedded applications. A
 
 _**ELEN 120L. Microprocessor System Design Lab**_&#x20;
 
-projects based on an embedded computer module to practical applications that reinforce class concepts and provide some opportunities for creative design. Prerequisites A grade of C- or better in ELEN 21 and COEN 11. Co-requisite: ELEN 120 (1 unit)&#x20;
+Projects based on an embedded computer module to practical applications that reinforce class concepts and provide some opportunities for creative design. Prerequisites A grade of C- or better in ELEN 21 and COEN 11. Co-requisite: ELEN 120 (1 unit)&#x20;
 
 _**ELEN 121. Real-Time Embedded Systems**_&#x20;
 
@@ -640,7 +633,7 @@ _**ELEN 199. Directed Research/Reading**_&#x20;
 
 Investigation of an approved engineering problem and preparation of a suitable project report. Open to electrical engineering and computer majors only. (1–6 units)
 
-* Eligible for graduate credit in electrical and computer engineering
+
 
 ### Graduate Courses&#x20;
 
@@ -852,7 +845,7 @@ Various topics. (2 units)&#x20;
 
 _**ELEN 280. Introduction to Alternative Energy Systems**_
 
-&#x20;An introduction to such alternative energy systems with an emphasis on those utilizing solar technologies. Learn how the technologies work to provide electrical power today and the capabilities foreseen for the future. The material is designed to be suitable for both undergraduate and graduate students in engineering and related applied sciences. Also listed as MECH 287. (2 units)&#x20;
+An introduction to such alternative energy systems with an emphasis on those utilizing solar technologies. Learn how the technologies work to provide electrical power today and the capabilities foreseen for the future. The material is designed to be suitable for both undergraduate and graduate students in engineering and related applied sciences. Also listed as MECH 287. (2 units)&#x20;
 
 _**ELEN 281A. Power Systems: Generation and Transmission**_&#x20;
 
