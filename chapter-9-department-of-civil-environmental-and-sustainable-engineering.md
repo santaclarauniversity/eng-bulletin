@@ -53,13 +53,273 @@ To qualify for the degree of Master of Science in Civil, Environmental and Susta
 
 Course requirements for the SE, GCE, CEM and WEE tracks are summarized in the following table:
 
-|                          ---                          | Structural  Engineering Track                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | General Civil Engineering Track                                                                                                                                                                                                                                                                                                                      | Construction Engineering and Management Track                                                                                                                                                                                                                                                                      | Water and Environmental Engineering Track                                                                                                                                                                                                                                                                                                              |
-| :---------------------------------------------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           **Required Technical Coursework**           | <p>CENG 205† (2) </p><p>CENG 206† (2) </p><p>CENG 222 (4) </p><p>CENG 233* (4) </p><p>CENG 234 (4) </p><p>CENG 236 (4) </p><p>CENG 237 (4) </p><p><strong>(24 units)</strong></p>                                                                                                                                                                                                                                                                                                                                                                                                                                                   | <p>CENG 219^ (3) </p><p>CENG 237 (4) </p><p>CENG 238 (4/1) CENG 249 (4) </p><p>CENG 250 (4) </p><p>CENG 282^ (3) </p><p><strong>(24 units)</strong></p>                                                                                                                                                                                              | <p>CENG 218 (3) </p><p>CENG 219^ (3) </p><p>CENG 281 (3) </p><p>CENG 282^ (3) </p><p>CENG 284 (3) </p><p>CENG 285 (3) </p><p>CENG 286 (3) </p><p>CENG 287 (3) </p><p><strong>(24 units)</strong></p>                                                                                                               | <p><strong>At least 15 units from:</strong> </p><p>CENG 242 (4) </p><p>CENG 249 (4) </p><p>CENG 253 (3/1) CENG 254 (3/1) CENG 258 (4) </p><p>CENG 259 (3)</p>                                                                                                                                                                                          |
-|           **Elective Technical Coursework**           | <p><strong>6 units from:</strong> </p><p>CENG 207 (2) </p><p>CENG 213 (3/1) </p><p>CENG 215 (3/1) </p><p>CENG 218 (3) </p><p>CENG 220 (4) </p><p>CENG 231 (4) </p><p>CENG 232 (2) </p><p>CENG 238 (4) </p><p>CENG 239 (2) </p><p>CENG 240 (2) </p><p>CENG 241 (2) </p><p>CENG 244 (2) </p><p>CENG 246 (4) </p><p>CENG 292 (2) </p><p>CENG 293 </p><p>CENG 295 </p><p>CENG 297</p>                                                                                                                                                                                                                                                   | <p><strong>6 units from:</strong> </p><p>CENG 217 (4) </p><p>CENG 218 (3) </p><p>CENG 242 (4) </p><p>CENG 247 (4) </p><p>CENG 251 (4) </p><p>CENG 253 (3) </p><p>CENG 254 (3/1) CENG 256 (3) </p><p>CENG 258 (4) </p><p>CENG 259 (3) </p><p>CENG 261 (3) </p><p>CENG 262 (3) </p><p>CENG 263 (4) </p><p>CENG 293 </p><p>CENG 295 </p><p>CENG 297</p> | <p><strong>6 units from:</strong> </p><p>CENG 249 (4) </p><p>CENG 256 (3) </p><p>CENG 288 (4) </p><p>CENG 289 (3) </p><p>CENG 292 (2) </p><p>CENG 293 </p><p>CENG 295 </p><p>CENG 297 </p><p>EMGT 255 (2) </p><p>EMGT 292 (2) </p><p>EMGT 296 (2) </p><p>EMGT 330 (2) </p><p>EMGT 335 (2) </p><p>ENGR 357^ (2)</p> | <p><em>At least 16 units from: **</em> </p><p>CENG 217 (4) </p><p>CENG 219 (3) </p><p>CENG 252 (3) </p><p>CENG 260 (3) </p><p>CENG 261 (4) </p><p>CENG 262 (3) </p><p>CENG 263 (4) </p><p>CENG 297 (3) </p><p>MECH 266 (2) </p><p>MECH 268 (2) </p><p>ENVS 117 (5) </p><p>ENVS 122 (5) </p><p>ENVS 145 (5) </p><p>ENVS 166 (5) </p><p>ENVS 185 (5)</p> |
-|                **Applied Mathematics**                | <p><strong>4 units from:</strong> </p><p>AMTH 210 (2) &#x26; 211 (2) </p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 220 (2) &#x26; 221 (2) </p><p>AMTH 245 (2) &#x26; 246 (2)</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                   | <p><strong>4 units from:</strong> </p><p>AMTH 210 (2) &#x26; 211 (2)</p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 220 (2) &#x26; 221 (2) </p><p>AMTH 245 (2) &#x26; 246 (2)</p>                                                                                                                                                                     | <p><strong>4 units from:</strong> </p><p>AMTH 210 (2) &#x26; 211 (2)</p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 367 (4) </p><p>AMTH 370 (2) &#x26; 371 (2)</p>                                                                                                                                                  | <p>4 units from: </p><p>AMTH 210 (2) &#x26; 211 (2) </p><p>AMTH 214 (2) &#x26; 215 (2) </p><p>AMTH 220 (2) &#x26; 221 (2) </p><p>AMTH 245 (2) &#x26; 246 (2)</p>                                                                                                                                                                                       |
-| **Project Management, Leadership and Communications** | <p><strong>5 units from:</strong> </p><p>CENG 282^ (3) </p><p>EMGT 255^ (2) </p><p>EMGT 272^ (2) </p><p>EMGT 330^ (2) </p><p>EMGT 335^ (2)</p>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | <p><strong>5 units from:</strong> </p><p>CENG 260 (3) </p><p>EMGT 255^ (2) </p><p>EMGT 272^ (2) </p><p>EMGT 330^ (2) </p><p>EMGT 335^ (2)</p>                                                                                                                                                                                                        | <p><strong>6 units from:</strong> </p><p>EMGT 269 (2) </p><p>EMGT 270 (2) </p><p>EMGT 272^ (2) </p><p>EMGT 285 (2) </p><p>EMGT 322 (2) </p><p>EMGT 324 (2) </p><p>EMGT 349 (2)</p>                                                                                                                                 | <p>4 units from: </p><p>CENG 208^ (2) </p><p>CENG 292^ (2) </p><p>EMGT 272^ (2)</p><p>EMGT 330^ (2) </p><p>EMGT 335^ (2) </p><p>ENGR 304^ (2) </p><p>ENGR 336^ (2)</p>                                                                                                                                                                                 |
-|               **Enrichment Experience**               | A minimum of 4 units from at least two of the three areas in the Graduate Core Areas (Emerging Topics in Engineering, Engineering and Business/Entrepreneurship and Engineering and Society). The remaining three units may be fulfilled by a) Taking additional classes from the Graduate Core,  b)Taking one or more major technical electives, c) Taking Cooperative Education courses (ENGR 288, 299) and d) combining courses from categories a, b and c. See [Chapter 6, Enrichment Experience and Graduate Core requirements](chapter-6-enrichment-experience-and-graduate-core-requirements.md) for additional information. |                                                                                                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                        |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">---</th>
+      <th style="text-align:left">
+        <p><b>Structural</b>
+        </p>
+        <p><b>Engineering Track</b>
+        </p>
+      </th>
+      <th style="text-align:left">
+        <p><b>General Civil</b>
+        </p>
+        <p><b>Engineering Track</b>
+        </p>
+      </th>
+      <th style="text-align:left">
+        <p><b>Construction Engineering</b>
+        </p>
+        <p><b>and Management Track</b>
+        </p>
+      </th>
+      <th style="text-align:left"><b>Water and Environmental Engineering Track</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Required</b>
+        </p>
+        <p><b>Technical</b>
+        </p>
+        <p><b>Coursework</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>CENG 205 (2)</p>
+        <p>CENG 206 (2)</p>
+        <p>CENG 222 (4)</p>
+        <p>CENG 233* (4)</p>
+        <p>CENG 234 (4)</p>
+        <p>CENG 236 (4)</p>
+        <p>CENG 237 (4)</p>
+        <p><b>(24 units)</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>CENG 219^ (3)</p>
+        <p>CENG 237 (4)</p>
+        <p>CENG 238 (4/1)</p>
+        <p>CENG 249 (4)</p>
+        <p>CENG 250 (4)</p>
+        <p>CENG 282^ (3)</p>
+        <p><b>(24 units)</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p>CENG 218 (3)</p>
+        <p>CENG 219^ (3)</p>
+        <p>CENG 281 (3)</p>
+        <p>CENG 282^ (3)</p>
+        <p>CENG 284 (3)</p>
+        <p>CENG 285 (3)</p>
+        <p>CENG 286 (3)</p>
+        <p>CENG 287 (3)</p>
+        <p><b>(24 units)</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><b>At least 15 units from:</b>
+        </p>
+        <p>CENG 242 (4)</p>
+        <p>CENG 249 (4)</p>
+        <p>CENG 253 (3/1)</p>
+        <p>CENG 254 (3/1)</p>
+        <p>CENG 258 (4)</p>
+        <p>CENG 259 (3)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Elective</b>
+        </p>
+        <p><b>Technical</b>
+        </p>
+        <p><b>Coursework</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><b>6 units from:</b>
+        </p>
+        <p>CENG 207 (2)</p>
+        <p>CENG 213 (3/1)</p>
+        <p>CENG 215 (3/1)</p>
+        <p>CENG 218 (3)</p>
+        <p>CENG 220 (4)</p>
+        <p>CENG 231 (4)</p>
+        <p>CENG 232 (2)</p>
+        <p>CENG 238 (4)</p>
+        <p>CENG 239 (2)</p>
+        <p>CENG 240 (2)</p>
+        <p>CENG 241 (2)</p>
+        <p>CENG 244 (2)</p>
+        <p>CENG 246 (4)</p>
+        <p>CENG 292 (2)</p>
+        <p>CENG 293</p>
+        <p>CENG 295</p>
+        <p>CENG 297</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>6 units from:</b>
+        </p>
+        <p>CENG 217 (4)</p>
+        <p>CENG 218 (3)</p>
+        <p>CENG 242 (4)</p>
+        <p>CENG 247 (4)</p>
+        <p>CENG 251 (4)</p>
+        <p>CENG 253 (3)</p>
+        <p>CENG 254 (3/1)</p>
+        <p>CENG 256 (3)</p>
+        <p>CENG 258 (4)</p>
+        <p>CENG 259 (3)</p>
+        <p>CENG 261 (3)</p>
+        <p>CENG 262 (3)</p>
+        <p>CENG 263 (4)</p>
+        <p>CENG 293</p>
+        <p>CENG 295</p>
+        <p>CENG 297</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>6 units from:</b>
+        </p>
+        <p>CENG 249 (4)</p>
+        <p>CENG 256 (3)</p>
+        <p>CENG 288 (4)</p>
+        <p>CENG 289 (3)</p>
+        <p>CENG 292 (2)</p>
+        <p>CENG 293</p>
+        <p>CENG 295</p>
+        <p>CENG 297</p>
+        <p>EMGT 255 (2)</p>
+        <p>EMGT 289 (2)</p>
+        <p>EMGT 292 (2)</p>
+        <p>EMGT 295 (2)</p>
+        <p>EMGT 330 (2)</p>
+        <p>EMGT 335 (2)</p>
+        <p>ENGR 329^ (3)</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>At least 16 units from:</b> **</p>
+        <p>CENG 217 (4)</p>
+        <p>CENG 219 (3)</p>
+        <p>CENG 252 (3)</p>
+        <p>CENG 260 (3)</p>
+        <p>CENG 261 (4)</p>
+        <p>CENG 262 (3)</p>
+        <p>CENG 263 (4)</p>
+        <p>CENG 297 (3)</p>
+        <p>MECH 266 (2)</p>
+        <p>MECH 268 (2)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Applied</b>
+        </p>
+        <p><b>Mathematics</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><b>4 units from:</b>
+        </p>
+        <p>AMTH 210 (2) &amp; 211 (2)</p>
+        <p>AMTH 214 (2) &amp; 215 (2)</p>
+        <p>AMTH 220 (2) &amp; 221 (2)</p>
+        <p>AMTH 245 (2) &amp; 246 (2)</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>4 units from:</b>
+        </p>
+        <p>AMTH 210 (2) &amp; 211 (2)</p>
+        <p>AMTH 214 (2) &amp; 215 (2)</p>
+        <p>AMTH 220 (2) &amp; 221 (2)</p>
+        <p>AMTH 245 (2) &amp; 246 (2)</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>4 units from:</b>
+        </p>
+        <p>AMTH 210 (2) &amp; 211 (2)</p>
+        <p>AMTH 214 (2) &amp; 215 (2)</p>
+        <p>AMTH 367 (4)</p>
+        <p>AMTH 370 (2) &amp; 371 (2)</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>4 units from:</b>
+        </p>
+        <p>AMTH 210 (2) &amp; 211 (2)</p>
+        <p>AMTH 214 (2) &amp; 215 (2)</p>
+        <p>AMTH 220 (2) &amp; 221 (2)</p>
+        <p>AMTH 245 (2) &amp; 246 (2)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Project</b>
+        </p>
+        <p><b>Management, Leadership and</b>
+        </p>
+        <p><b>Communications</b>
+        </p>
+      </td>
+      <td style="text-align:left">
+        <p><b>5 units from:</b>
+        </p>
+        <p>CENG 282^ (3)</p>
+        <p>EMGT 255^ (2)</p>
+        <p>EMGT 271^ (2)</p>
+        <p>EMGT 330^ (2)</p>
+        <p>EMGT 335^ (2)</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>5 units from:</b>
+        </p>
+        <p>CENG 260 (3)</p>
+        <p>EMGT 255^ (2)</p>
+        <p>EMGT 271^ (2)</p>
+        <p>EMGT 330^ (2)</p>
+        <p>EMGT 335^ (2)</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>6 units from:</b>
+        </p>
+        <p>EMGT 270 (2)</p>
+        <p>EMGT 271^ (2)</p>
+        <p>EMGT 319 (2)</p>
+        <p>EMGT 320 (2)</p>
+        <p>EMGT 329 (2)</p>
+        <p>EMGT 349 (2)</p>
+      </td>
+      <td style="text-align:left">
+        <p><b>4 units from:</b>
+        </p>
+        <p>CENG 208^ (2)</p>
+        <p>CENG 292^ (2)</p>
+        <p>EMGT 271^ (2</p>
+        <p>EMGT 330^ (2</p>
+        <p>EMGT 335^ (2)</p>
+        <p>ENGR 304^ (2)</p>
+        <p>ENGR 336^ (2)</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Enrichment Experience</b>
+      </td>
+      <td style="text-align:left">
+        <p><b>[minimum 7 units] composed of:</b>
+        </p>
+        <p><b>A minimum of 4 units from at least two of the three areas in the Graduate Core Areas (Emerging Topics in Engineering, Engineering and Business/Entrepreneurship and Engineering and Society). The remaining three units may be fulfilled by a) Taking additional classes from the Graduate Core, b)Taking one or more major technical electives, c) Taking Cooperative Education courses (ENGR 288, 299) and d) combining courses from categories a, b and c. See Chapter 6, Enrichment Experience and Graduate Core requirements for additional information.</b>
+        </p>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
 
 Units are shown in parentheses: x/y indicates x-unit course with y-unit lab. No more than 6 units from CENG 293, 295, and 297 may be used to satisfy degree requirements. Taking Required Technical Course(s) that repeat previously taken course(s) is discouraged; in such cases, Elective Technical course(s) may be substituted. In rare occasions, program plans may deviate from these requirements with Department approval.
 
