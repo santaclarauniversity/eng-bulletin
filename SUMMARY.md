@@ -10,7 +10,7 @@
 * [(New) Chapter 4: Financial Information](new-chapter-4-financial-information.md)
 * [Chapter 5: Academic Information](chapter-5-academic-information.md)
 * [Chapter 6: Enrichment Experience and Graduate Core Requirements](chapter-6-enrichment-experience-and-graduate-core-requirements.md)
-* [Chapter 7: Department of Applied Mathematics](chapter-7-department-of-applied-mathematics.md)
+* [(New) Chapter 7: Department of Applied Mathematics](new-chapter-7-department-of-applied-mathematics.md)
 * [Chapter 8: Department of Bioengineering](chapter-8-department-of-bioengineering.md)
 * [Chapter 9: Department of Civil, Environmental, and Sustainable Engineering](chapter-9-department-of-civil-environmental-and-sustainable-engineering.md)
 * [Chapter 10: Department of Computer Science and Engineering](chapter-10-department-of-computerscience-and-engineering.md)
