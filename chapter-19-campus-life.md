@@ -30,7 +30,7 @@ Yes! We welcome the participation of anyone interested in personal and spritual 
 
 _**KSCU:**_ KSCU is a student-run, non-commercial radio station at 103.3 FM. The program format features primarily independent music, including indie rock, punk, ska, jazz, blues, electronic, reggae, and more. Students may get involved with the radio station as a staff member or as a volunteer disc jockey, office assistant, fundraiser, or sound technical staff. The staff of KSCU operates all aspects of an FM radio station in accordance with SCU’s mission and goals, and Federal Communications Commission regulations.
 
-_**Santa Clara Review:** _ The Santa Clara Review (SCR) is the University's biannual literary magazine and draws submissions from students, faculty, staff, and artists outside the University community. The Review is committed to the development of student literary talent in editorial knowledge and creative writing skills. Students may get involved with the magazine in several staff positions and with opportunities to volunteer in the areas of poetry, fiction, nonfiction, art, and management.
+_**Santa Clara Review:**_ The Santa Clara Review (SCR) is the University's biannual literary magazine and draws submissions from students, faculty, staff, and artists outside the University community. The Review is committed to the development of student literary talent in editorial knowledge and creative writing skills. Students may get involved with the magazine in several staff positions and with opportunities to volunteer in the areas of poetry, fiction, nonfiction, art, and management.
 
 ### Student Resources And Services&#x20;
 

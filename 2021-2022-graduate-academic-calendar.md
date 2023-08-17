@@ -2,4 +2,3 @@
 
 Click here to see the most up-to-date [Graduate Academic Calendar](https://www.scu.edu/engineering/graduate/academic-calendar/).
 
-****

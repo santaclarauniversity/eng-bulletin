@@ -1,10 +1,10 @@
 # Chapter 8: Department of Bioengineering
 
-_Professor:_ **** Yuling Yan&#x20;
+_Professor:_ Yuling Yan&#x20;
 
 _Associate Professors:_ Ismail Emre Araci, Prashanth Asuri, Unyoung (Ashley) Kim, Biao (Bill) Lu Zhiwen (Jonathan) Zhang (_Department Chair_)&#x20;
 
-_Lecturers:_ **** Maryam Mobed-Miremadi, Eun Ju (Emily) Park&#x20;
+_Lecturers:_ Maryam Mobed-Miremadi, Eun Ju (Emily) Park&#x20;
 
 _Adjunct Faculty:_ Zeynep Araci, Eric Chan, Parsa Hosseini, Sathish Manickam, Gerardo Noriega, Verna Rodriguez, Erhan Yenilmez
 
@@ -61,7 +61,7 @@ Students must take six units from one of the five primary focus areas (additiona
 4. Computational Bioengineering - BIOE 251, 252, 261, 263, 281, 310, 312 Advanced Applied Mathematics\* - AMTH 240, 364, 370, 371, 377
 5. Translational Bioengineering- BIOE 206, 263, 279, 285, 302, 307, 320, 380&#x20;
 
-&#x20; __  Graduate Capstone Project\* - BIOE 294, 295, 296&#x20;
+&#x20; Graduate Capstone Project\* - BIOE 294, 295, 296&#x20;
 
 &#x20;  _\*additional six units required for primary focus in Computational Bioengineering or Translational Bioengineering_&#x20;
 

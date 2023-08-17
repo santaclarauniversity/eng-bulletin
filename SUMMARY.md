@@ -7,7 +7,7 @@
 * [Chapter 1: Santa Clara University](chapter-1-santa-clara-university.md)
 * [Chapter 2: Academic Programs and Requirements](chapter-2-academic-programs-and-requirements.md)
 * [Chapter 3: Admissions](chapter-3-admissions.md)
-* [Chapter 4: Financial Information](chapter-4-financial-information.md)
+* [(New) Chapter 4: Financial Information](new-chapter-4-financial-information.md)
 * [Chapter 5: Academic Information](chapter-5-academic-information.md)
 * [Chapter 6: Enrichment Experience and Graduate Core Requirements](chapter-6-enrichment-experience-and-graduate-core-requirements.md)
 * [Chapter 7: Department of Applied Mathematics](chapter-7-department-of-applied-mathematics.md)

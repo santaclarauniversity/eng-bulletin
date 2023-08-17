@@ -35,9 +35,9 @@ Applications Applications for admission and related deadlines are available on t
 
 
     * _**International Applicants**_&#x20;
-      * Students attending a university **OUTSIDE** of the United States, must submit a transcript evaluation report from Educational Credential Evaluators (ECE) or World Education Services (WES). The report must include a course by course evaluation which will verify a GPA based on a 4.0 scale, and the U.S. equivalence of each educational credential. Please refer to the ECE or WES website: www.ece.org or www.wes.org (There is no exception to this requirement). ** **_**Please note:** A copy of your original transcripts will be attached to the report and **you do not need to send any additional transcripts.**_&#x20;
+      * Students attending a university **OUTSIDE** of the United States, must submit a transcript evaluation report from Educational Credential Evaluators (ECE) or World Education Services (WES). The report must include a course by course evaluation which will verify a GPA based on a 4.0 scale, and the U.S. equivalence of each educational credential. Please refer to the ECE or WES website: www.ece.org or www.wes.org (There is no exception to this requirement). _**Please note:** A copy of your original transcripts will be attached to the report and **you do not need to send any additional transcripts.**_&#x20;
 
-    _****_
+
 * **OFFICIAL GRE SCORES.** Official Graduate Record Examination (GRE) scores must be sent directly to Graduate Engineering Programs by the Educational Testing Service (ETS). Our institution code is 4851. Additionally, students can send a PDF copy of their results to [gradengineer@scu.edu](mailto:gradengineer@scu.edu). For information on the GRE, please visit the website: [www.ets.org/. ](http://www.ets.org/)
   * Required for all computer science engineering applicants.&#x20;
   *   Petition to waive the GRE is available for all other departments. The petition is available at [https://slate.scu.edu/register/engrGREwaiver. ](https://slate.scu.edu/register/engrGREwaiver)

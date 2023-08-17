@@ -94,7 +94,7 @@ Through the Enrichment Experience, in conjunction with students’ specific prog
 * ENGR 351-New Paradigm for Technology-Global Mindfulness Leadership
 
 {% hint style="info" %}
-N_ote 1: Although certain courses (such as ENGR 302, ENGR 304, ENGR 336, and AMTH 367 for example) may appear in multiple categories, they cannot be used to satisfy more than one Core requirement. Students are encouraged to periodically check for updates regarding new courses in these areas on the graduate engineering website under current student resources._ [_https://www.scu.edu/engineering/current-student-resources/current-graduate-students/graduate-core/_](https://www.scu.edu/engineering/current-student-resources/current-graduate-students/graduate-core/)__
+N_ote 1: Although certain courses (such as ENGR 302, ENGR 304, ENGR 336, and AMTH 367 for example) may appear in multiple categories, they cannot be used to satisfy more than one Core requirement. Students are encouraged to periodically check for updates regarding new courses in these areas on the graduate engineering website under current student resources._ [_https://www.scu.edu/engineering/current-student-resources/current-graduate-students/graduate-core/_](https://www.scu.edu/engineering/current-student-resources/current-graduate-students/graduate-core/)
 {% endhint %}
 
 {% hint style="info" %}

@@ -126,7 +126,7 @@ _**AMTH 245. Linear Algebra I**_&#x20;
 
 Vector spaces, transformations, matrices, characteristic value problems, canonical forms, and quadratic forms. (2 units)&#x20;
 
-_**AMTH 246. Linear Algebra II**_** **&#x20;
+_**AMTH 246. Linear Algebra II**_&#x20;
 
 Continuation of AMTH 245. Prerequisite: AMTH 245. (2 units)&#x20;
 

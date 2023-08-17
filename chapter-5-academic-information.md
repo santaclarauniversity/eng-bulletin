@@ -46,10 +46,10 @@ A student may take courses with a grading basis of “audit” but the following
 
 * The current graduate tuition rate of $1,121.00 per unit + the $180.00 Design Center and Student Association engineering fee will be charged.&#x20;
 * No grade points or credit will be earned so the class cannot be counted toward the completion of a certificate, M.S. or Ph.D. degree.&#x20;
-* A student will need to register for the class, then send an email to the Director of Records requesting the grading basis be changed to “Audit”: [lmjocewicz@scu.edu](https://app.gitbook.com/u/ETINJL2rKSRuX1egDkdrgExMPXa2)&#x20;
+* A student will need to register for the class, then send an email to the Director of Records requesting the grading basis be changed to “Audit”: [lmjocewicz@scu.edu](http://127.0.0.1:5000/u/ETINJL2rKSRuX1egDkdrgExMPXa2)&#x20;
 * The last day to request to audit a course is at the end of the first week of the quarter.
 
-Alumni students can request to audit a course with a reduced tuition fee. Students will need to apply to the Open University program and must meet the application deadline to apply for an audit. Please contact the Director of Records for the alumni audit form; [lmjocewicz@scu.edu](https://app.gitbook.com/u/ETINJL2rKSRuX1egDkdrgExMPXa2) Alumni students must meet the application deadlines listed on our graduate engineering admissions website to apply for an audit.
+Alumni students can request to audit a course with a reduced tuition fee. Students will need to apply to the Open University program and must meet the application deadline to apply for an audit. Please contact the Director of Records for the alumni audit form; [lmjocewicz@scu.edu](http://127.0.0.1:5000/u/ETINJL2rKSRuX1egDkdrgExMPXa2) Alumni students must meet the application deadlines listed on our graduate engineering admissions website to apply for an audit.
 
 ### **Repeating Courses**&#x20;
 
