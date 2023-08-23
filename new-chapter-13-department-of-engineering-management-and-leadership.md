@@ -28,14 +28,10 @@ Students are required to complete a minimum of 46 quarter units to complete the 
     * Emerging Topics in Engineering
     * Engineering and Society&#x20;
   * The additional 4 units can be satisfied by any combination of&#x20;
-
-a) one or more technical electives
-
-b) additional classes from Graduate Core List
-
-c) Cooperative Education courses (ENGR 288/289)&#x20;
-
-d) Combination of a, b and c.
+    1. One or more technical electives
+    2. Additional classes from Graduate Core List
+    3. Cooperative Education courses (ENGR 288/289)&#x20;
+    4. Combination of a, b, and c.
 
 {% hint style="info" %}
 Please see Chapter 6 for additional information regarding the Enrichment Experience
