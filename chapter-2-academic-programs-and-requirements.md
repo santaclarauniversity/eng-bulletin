@@ -12,7 +12,7 @@ The application fee and GRE General Test requirement are waived. Admission into 
 
 _Please Note: Undergraduate students will be charged the current undergraduate tuition rate while enrolled in graduate courses as an undergraduate. Once students have been matriculated into the master’s degree program, current graduate tuition rates will be charged._
 
-\*\*For more information on the engineering management and leadership option, please see [Chapter 13](chapter-13-department-of-engineering-management-and-leadership.md).
+\*\*For more information on the engineering management and leadership option, please see [Chapter 13](broken-reference).
 
 ### Certificate Programs
 
