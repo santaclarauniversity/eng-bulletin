@@ -1,3 +1,3 @@
-# 2022-2023 Engineering Graduate Bulletin
+# (New) 2023-2024 Engineering Graduate Bulletin
 
-![](<.gitbook/assets/Graduate Bulletin Cover 2022.jpg>)
+![](<.gitbook/assets/Graduate Bulletin Cover 2023.jpeg>)
