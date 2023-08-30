@@ -1,4 +1,4 @@
-# (New) Chapter 9: Department of Civil, Environmental, and Sustainable Engineering
+# (New) Chapter 9: Department of Civil, Environmental and Sustainable Engineering
 
 _Professor Emeritus_: E. John Finnemore, P.E.\
 _Associate Professor Emeritus_: Steven C. Chiesa, P.E.\
@@ -13,7 +13,7 @@ The Department of Civil, Environmental and Sustainable Engineering offers gradua
 
 ## Degree Program
 
-The Civil, Environmental, and Sustainable engineering graduate program at Santa Clara University is designed to accommodate the needs of students interested in advanced study. An individual may pursue the degree of Master of Science (M.S.) as either a full-time or part-time student through a customized balance of coursework, design projects, and directed research. Program participants are also required to supplement their technical work with coursework on project management topics addressed in the graduate engineering core curriculum.
+The Civil, Environmental and Sustainable engineering graduate program at Santa Clara University is designed to accommodate the needs of students interested in advanced study. An individual may pursue the degree of Master of Science (M.S.) as either a full-time or part-time student through a customized balance of coursework, design projects, and directed research. Program participants are also required to supplement their technical work with coursework on project management topics addressed in the graduate engineering core curriculum.
 
 The structural engineering (SE) track provides students with an opportunity to effectively link theory and practice by completing a combination of analysis- and design-oriented courses. Options within the structural engineering track allow students to either complete a capstone design project or a faculty-directed research investigation. This program track is aimed at individuals looking to prepare for a career in consulting structural engineering or in structural plan review.
 
