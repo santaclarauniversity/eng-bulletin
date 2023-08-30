@@ -38,7 +38,7 @@ Applicant’s undergraduate record must show:
 
 In very rare cases, applicants not meeting this may be admitted with a requirement to successfully complete a defined course of studies within a limited time period.
 
-See the **Academic Information section** of this bulletin for details on transferring credit for courses taken at other institutions.
+See the [**Academic Information section**](new-chapter-5-academic-information.md) of this bulletin for details on transferring credit for courses taken at other institutions.
 
 Upon acceptance to the graduate program in Civil, Environmental and Sustainable Engineering, a student will be required to select a graduate advisor (full-time faculty member) from within the Department of Civil, Environmental and Sustainable Engineering. The student’s advisor will be responsible for approving the student’s course of study. Any changes to a student’s initial course of study must have the written approval of the student’s advisor.
 
