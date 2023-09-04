@@ -32,7 +32,7 @@ Set theory and probability, random variables, conditional and total probability,
 
 _**AMTH 118. Numerical Methods**_
 
-Numerical solution of algebraic and transcendental equations, numerical differentiation and integration, and solution of ordinary differential equations. Solution of representative problems on the digital computer. Prerequisites: AMTH 106 or MATH 22 and one of the following: MECH 45; COEN 11; CSCI 10. (4 units)
+Numerical solution of algebraic and transcendental equations, numerical differentiation and integration, and solution of ordinary differential equations. Solution of representative problems on the digital computer. Prerequisites: AMTH 106 or MATH 22 and one of the following: MECH 45; CSEN (COEN) 11; CSCI 10. (4 units)
 
 _**AMTH 120. Engineering Mathematics**_&#x20;
 
@@ -197,7 +197,7 @@ Continuation of AMTH 362. Prerequisite: AMTH 362 or instructor approval. (2 unit
 
 _**AMTH 364. Markov Chains**_
 
-Markov property, Markov processes, discrete-time Markov chains, classes of states, recurrence processes and limiting probabilities, continuous-time Markov chains, time-reversed chains, numerical techniques. Prerequisite: AMTH 211 or 212 or 362 or ELEN 233 or 236. (2 units)
+Markov property, Markov processes, discrete-time Markov chains, classes of states, recurrence processes and limiting probabilities, continuous-time Markov chains, time-reversed chains, numerical techniques. Prerequisite: AMTH 211 or 212 or 362 or ECEN (ELEN) 233 or 236. (2 units)
 
 _**AMTH 367. Mathematical Finance**_
 
@@ -213,7 +213,7 @@ Optimization problems in multidimensional spaces involving equality constraints 
 
 _**AMTH 372. Semi-Markov and Decision Processes**_
 
-Semi-Markov processes in discrete and continuous time, continuous-time Markov processes, processes with an infinite number of states, rewards, discounting, decision processes, dynamic programming, and applications. Prerequisite: AMTH 211 or 212 or 362 or 364 or ELEN 233 or 236. (2 units)
+Semi-Markov processes in discrete and continuous time, continuous-time Markov processes, processes with an infinite number of states, rewards, discounting, decision processes, dynamic programming, and applications. Prerequisite: AMTH 211 or 212 or 362 or 364 or ECEN (ELEN) 233 or 236. (2 units)
 
 _**AMTH 374. Partial Differential Equations I**_
 
@@ -229,11 +229,11 @@ Numerical solution of parabolic, elliptic, and hyperbolic partial differential e
 
 _**AMTH 377. Design and Analysis of Algorithms**_
 
-Techniques of design and analysis of algorithms: proof of correctness; running times of recursive algorithms; design strategies: brute-force, divide and conquer, dynamic programming, branch-and-bound, backtracking, and greedy technique; max flow/ matching. Intractability: lower bounds; P, NP, and NP-completeness. Also listed as BIOE 377. Prerequisite: COEN 912C or equivalent. (4 units)
+Techniques of design and analysis of algorithms: proof of correctness; running times of recursive algorithms; design strategies: brute-force, divide and conquer, dynamic programming, branch-and-bound, backtracking, and greedy technique; max flow/ matching. Intractability: lower bounds; P, NP, and NP-completeness. Also listed as CSEN (COEN) 279 Prerequisite: CSEN (COEN) 912C or equivalent. (4 units)
 
 _**AMTH 379. Advanced Design and Analysis of Algorithms**_
 
-Amortized and probabilistic analysis of algorithms and data structures: disjoint sets, hashing, search trees, suffix arrays and trees. Randomized, parallel, and approximation algorithms. Also listed as COEN 379. Prerequisite: AMTH 377/COEN 279. (4 units)
+Amortized and probabilistic analysis of algorithms and data structures: disjoint sets, hashing, search trees, suffix arrays and trees. Randomized, parallel, and approximation algorithms. Also listed as CSEN (COEN) 379. Prerequisite: AMTH 377/CSEN (COEN) 279. (4 units)
 
 _**AMTH 387. Cryptology**_
 

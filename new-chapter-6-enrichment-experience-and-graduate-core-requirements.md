@@ -33,9 +33,9 @@ Below is the list of all classes approved for the graduate core in these three a
 * CENG 215 Sustainable Structural Engineering
 * CENG 219 Designing for Sustainable Construction
 * CENG 282 Introduction to Building Information Modeling
-* ELEN 280/MECH 287 Introduction to Alternative Energy Systems
-* ELEN 285 Introduction to the Smart Grid&#x20;
-* ELEN 331 Autonomous Driving Systems&#x20;
+* ECEN (ELEN) 280/MECH 287 Introduction to Alternative Energy Systems
+* ECEN (ELEN) 285 Introduction to the Smart Grid&#x20;
+* ECEN (ELEN) 331 Autonomous Driving Systems&#x20;
 * ENGR 260 Nanoscale Science and Technology
 * ENGR 273 Sustainable Energy and Ethics
 * ENGR 371/MECH 371 Space Systems Design and Engineering I
@@ -48,7 +48,7 @@ Below is the list of all classes approved for the graduate core in these three a
 * BIOE 357/EMGT 357 Root Cause Analysis (RCA) Effective Problem Solving
 * CENG 208 Engineering Economics and Project Finance
 * CENG 292 Infrastructure Project Management
-* COEN 287 Software Development Process Management
+* CSEN (COEN) 287 Software Development Process Management
 * ENGR 245 Innovation, Entrepreneurship and the Evolution of Silicon Valley
 * ENGR 302 Managing in the Multicultural Environment
 * ENGR 304 Building Global Teams
@@ -61,9 +61,9 @@ Below is the list of all classes approved for the graduate core in these three a
 
 * BIOE 210 Ethical Issues in Bioengineering
 * CENG 208 Engineering Economics and Project Finance
-* COEN 250 Information Security Management
-* COEN 288 Software Ethics&#x20;
-* ELEN 217 Chaos Theory, Metamathematics, and the Limits of Science: An Engineering Perspective on Religion
+* CSEN (COEN) 250 Information Security Management
+* CSEN (COEN) 288 Software Ethics&#x20;
+* ECEM (ELEN) 217 Chaos Theory, Metamathematics, and the Limits of Science: An Engineering Perspective on Religion
 * ENGR 238 Critical Tools for Social and Environmental Projects
 * ENGR 261 Nanotechnology and Society
 * ENGR 272 Energy Public Policy&#x20;

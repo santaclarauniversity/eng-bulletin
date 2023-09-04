@@ -63,7 +63,7 @@ Please refer to **Chapter 6, Enrichment Experience and Graduate Core Requirement
 **MSCSE Core**
 
 * **CSEN(COEN)** 210, 279, and 283
-  * Students who have taken one or more of these core courses or their equivalent must replace said course(s) with the advanced course equivalent (CSEN(COEN)      313, 379, and/or 383) or, with their advisor’s approval, replace said course(s) with elective(s).
+  * Students who have taken one or more of these core courses or their equivalent must replace said course(s) with the advanced course equivalent CSEN(COEN) 313, 379, and/or 383) or, with their advisor’s approval, replace said course(s) with elective(s).
 
 **MSCSE Electives**
 
@@ -81,7 +81,7 @@ We are currently not accepting applications for the Master of Science in Softwar
 ## **Doctor of Philosophy in Computer Science and Engineering**
 
 The Doctor of Philosophy (Ph.D.) degree is conferred by the School of Engineering\
-primarily in recognition of competence in the subject field and the ability to investigate engineering problems independently, resulting in a new contribution to knowledge in the field. The work for the degree consists of engineering research, the preparation of a thesis based on that research, and a program of advanced study in engineering, mathematics, and related physical sciences. The student’s work is directed by the department, subject to the general supervision of the School of Engineering. **See Chapters 2 and 3, Academic Programs and Requirements and Admissions**, for details on admission and general degree requirements. The following departmental information augments the general requirements.
+primarily in recognition of competence in the subject field and the ability to investigate engineering problems independently, resulting in a new contribution to knowledge in the field. The work for the degree consists of engineering research, the preparation of a thesis based on that research, and a program of advanced study in engineering, mathematics, and related physical sciences. The student’s work is directed by the department, subject to the general supervision of the School of Engineering. **See** [**Chapters 2**](new-chapter-2-academic-programs-and-requirements.md) **and** [**3**](new-chapter-3-admissions.md)**, Academic Programs and Requirements and Admissions**, for details on admission and general degree requirements. The following departmental information augments the general requirements.
 
 **Preliminary Exam**
 
@@ -97,13 +97,13 @@ The student and his or her advisor jointly develop a complete program of study f
 
 After passing the Ph.D. preliminary exam, a student requests his or her thesis advisor to form a doctoral committee. The committee consists of at least five members, each of which must have earned a doctoral degree in a field of engineering or a related discipline. This includes the student’s thesis advisor, at least two other current faculty members of the student’s major department at Santa Clara University, and at least one current faculty member from another appropriate academic department at Santa Clara University.
 
-The committee reviews the student’s program of study, conducts an oral comprehensive exam (presentation of research proposal for examinations on the subject of research work), conducts the dissertation defense, and reviews the thesis. Successful completion of the doctoral program requires that the student’s program of study, performance on the oral comprehensive examination, dissertation defense, and thesis itself meet with the approval of all committee members. In addition, acceptance of publications (at least one article accepted by a refereed journal with an impact factor of at least 1.0) with the student as the primary (first) author is required. More details are described in **Chapter 2, Academic Programs and Requirements.**
+The committee reviews the student’s program of study, conducts an oral comprehensive exam (presentation of research proposal for examinations on the subject of research work), conducts the dissertation defense, and reviews the thesis. Successful completion of the doctoral program requires that the student’s program of study, performance on the oral comprehensive examination, dissertation defense, and thesis itself meet with the approval of all committee members. In addition, acceptance of publications (at least one article accepted by a refereed journal with an impact factor of at least 1.0) with the student as the primary (first) author is required. More details are described in [**Chapter 2**](new-chapter-2-academic-programs-and-requirements.md)**, Academic Programs and Requirements.**
 
-The student is expected to complete a minimum of 72 units of graduate credit beyond the master’s degree with an overall GPA of 3.0 or better.  Of these, 36 quarter units may be earned through coursework, independent study and directed research, and 36 through the thesis. A maximum of 18 quarter units (12 semester units), not previously used for the completion of another degree, may be transferred from any accredited institutions at the discretion of the student’s advisor. More details are described in **Chapter 2, Academic Programs and Requirements**.
+The student is expected to complete a minimum of 72 units of graduate credit beyond the master’s degree with an overall GPA of 3.0 or better.  Of these, 36 quarter units may be earned through coursework, independent study and directed research, and 36 through the thesis.&#x20;
 
 **Time Limit for Completing Degree**
 
-All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Graduate Program Leadership Council (GPLC).
+All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the Dean of Engineering in consultation with the Graduate Program Leadership Council (GPLC).
 
 ## Engineer’s Degree in Computer Science and Engineering
 
@@ -207,7 +207,7 @@ Overview of real-time systems: classification, design issues and description. Fi
 Laboratory for CSEN(COEN) 120. Co-requisite: CSEN(COEN) 120. (1 unit)&#x20;
 
 **CSEN (COEN) 122. Computer Architecture**\
-Overview of computer systems. Performance measurement. Instruction set architecture. Computer arithmetic. CPU datapath design. CPU control design. Pipelining. Data/control hazards. Memory hierarchies and management. Introduction of multiprocessor systems. Hardware description languages. Laboratory project consists of a design of a CPU. Prerequisites: A grade of C- or better in either CSEN/COEN 20 or ECEN/ELEN 33 and in either CSEN/COEN 21 or ECEN/ELEN 21. Co-requisite: CSEN/COEN 122L. (4 units)
+Overview of computer systems. Performance measurement. Instruction set architecture. Computer arithmetic. CPU datapath design. CPU control design. Pipelining. Data/control hazards. Memory hierarchies and management. Introduction of multiprocessor systems. Hardware description languages. Laboratory project consists of a design of a CPU. Prerequisites: A grade of C- or better in either CSEN(COEN) 20 or ECEN()ELEN 33 and in either CSEN(COEN) 21 or ECEN(ELEN) 21. Co-requisite: CSEN(COEN) 122L. (4 units)
 
 **CSEN (COEN) 122L. Computer Architecture Laboratory** \
 Laboratory for CSEN(COEN) 122. Co-requisite: CSEN(COEN) 122. (1 unit)
@@ -382,10 +382,10 @@ Same description as CSEN(COEN) 201 and CSEN(COEN) 202. Credit not allowed for bo
 Continuation of CSEN/COEN 201. Digital FIR and IIR filter design and realization techniques. Multi-rate signal processing. Fast Fourier transform. Quantization effects. Also listed as ECEN(ELEN) 234. Prerequisite: CSEN(COEN) 201. (2 units)
 
 **CSEN (COEN) 203. VLSI Design I**\
-Introduction to VLSI design and methodology. Analysis of CMOS integrated circuits. Circuit modeling and performance evaluation supported by simulation (SPICE). Ratioed, switch, and dynamic logic families. Design of sequential elements. Fully-custom layout using CAD tools. Also listed as ECEN/ELEN 387. Prerequisite: CSEN(COEN) ECEN(ELEN) 127 or equivalent. (2 units)
+Introduction to VLSI design and methodology. Analysis of CMOS integrated circuits. Circuit modeling and performance evaluation supported by simulation (SPICE). Ratioed, switch, and dynamic logic families. Design of sequential elements. Fully-custom layout using CAD tools. Also listed as ECEN(ELEN) 387. Prerequisite: CSEN(COEN) ECEN(ELEN) 127 or equivalent. (2 units)
 
 **CSEN (COEN) 204. VLSI Design II**\
-Continuation of VLSI design and methodology. Design of arithmetic circuits and memory. Comparison of semi-custom versus fully custom design. General concept of floor planning, placement and routing. Introduction of signal integrity through the interconnect wires. Also listed as ECEN(ELEN) 388. Prerequisite: CSEN/(COEN)/ECEN/(ELEN) 387 or equivalent, or ECEN(ELEN) 153. (2 units)
+Continuation of VLSI design and methodology. Design of arithmetic circuits and memory. Comparison of semi-custom versus fully custom design. General concept of floor planning, placement and routing. Introduction of signal integrity through the interconnect wires. Also listed as ECEN(ELEN) 388. Prerequisite: CSEN(COEN)/ECEN(ELEN) 387 or equivalent, or ECEN(ELEN) 153. (2 units)
 
 **CSEN (COEN) 207. SoC (System-on-Chip) Verification**\
 This course presents various state-of-the art verification techniques used to ensure the corrections of the SoC (System-on-Chip) design before committing it to manufacturing. Both Logical and Physical verification techniques will be covered including Functional Verification, Static Timing, Power and Lay Out Verification. Also, the use of Emulation Assertion-based Verification and Hardware/Software CO-Verification techniques will be presented. Also listed as CSEN(COEN) 207. Prerequisites: ECEN(ELEN) 500 or CSEN(COEN) 200 and ECEN(ELEN) 303 or equivalent. (2 units)
@@ -502,10 +502,10 @@ _**CSEN (COEN) 296B. Topics in Computer Science and Engineering**_\
 Various subjects of current interest. May be taken more than once if topics differ. (4 units)
 
 _**CSEN (COEN) 303. Logic Design Using HDL**_\
-Algorithmic approach to design of digital systems. Use of hardware description languages for design specification. Structural, register transfer, and behavioral, view of HDL. Simulation and synthesis of systems descriptions. Also listed as ECEN(ELEN) 603. Prerequisite: ECEN/(ELEN)/CSEN/(COEN) 127 or equivalent. (2 units).
+Algorithmic approach to design of digital systems. Use of hardware description languages for design specification. Structural, register transfer, and behavioral, view of HDL. Simulation and synthesis of systems descriptions. Also listed as ECEN(ELEN) 603. Prerequisite: ECEN(ELEN)/CSEN(COEN) 127 or equivalent. (2 units).
 
 _**CSEN (COEN) 305. VLSI Physical Design**_\
-Physical design is the phase that follows logic design, and it includes the following steps that precede the fabrication of the IC logic partitioning: cell layout, floor planning, placement, routing. These steps are examined in the context of very deep submicron technology. Effects of parasitic devices and packaging are also considered. Power distribution and thermal effects are essential issues in this design phase. Also listed as ECEN(ELEN) 389. Prerequisites: CSEN(COEN) 204/ECEN/(ELEN) 388 or equivalent. (2 units)
+Physical design is the phase that follows logic design, and it includes the following steps that precede the fabrication of the IC logic partitioning: cell layout, floor planning, placement, routing. These steps are examined in the context of very deep submicron technology. Effects of parasitic devices and packaging are also considered. Power distribution and thermal effects are essential issues in this design phase. Also listed as ECEN(ELEN) 389. Prerequisites: CSEN(COEN) 204/ECEN(ELEN) 388 or equivalent. (2 units)
 
 _**CSEN (COEN) 307. Digital Computer Arithmetic**_\
 Fixed-point and floating-point number representation and arithmetic. High-speed addition and subtraction algorithms and architectures. Multiplication and division algorithms and architectures. Decimal arithmetic. Serial vs. parallel arithmetic circuits. Residue number arithmetic. Advanced arithmetic processing units. High-speed number crunchers. Arithmetic codes for error detection. VLSI perspective and reliability issues. Signed-digit (SD) representation of signed numbers. Prerequisite: CSEN(COEN) 210. (2 units)
@@ -549,7 +549,7 @@ In-depth and quantitative study of Internet algorithms, protocols, and services.
 _**CSEN (COEN) 338. Image and Video Compression**_ \
 Image and video compression. Entropy coding. Prediction. Quantization. Transform coding and 2-D discrete cosine transform. Color compression. Motion estimation and compensation. Digital video. Image coding standards such as JPEG, BPG, and JPEG family. Video coding standards such as the MPEG series and the H.26x series. H.264/MPEG-4 AVC coding. HEVC/H.265/MPEG-H Part 2 coding. VVC/H.266/MPEG-I Part 3 coding. Rate-distortion theory and optimization. Visual quality and coding efficiency. Brief intro to 3D video coding and 3D-HEVC. Deep learning approaches. Screen content coding. Video coding for machines. Applications. Also listed as ECEN(ELEN) 641. Prerequisites: AMTH 108, AMTH 245 and basic knowledge of algorithms. (4 units)
 
-_**CSEN (COEN) Audio and Speech Compression**_ \
+_**CSEN (COEN) 339 Audio and Speech Compression**_ \
 Audio and speech compression. Digital audio signal processing fundamentals. Non-perceptual coding. Perceptual coding. Psychoacoustic model. High-quality audio coding. Audio coding standards. Brief introduction to speech coding and speech coding standards. Machine learning for audio and speech coding. Also listed as ECEN(ELEN) 639. Prerequisites: AMTH 108, AMTH 245 and CSEN(COEN) 279 or equivalent. (2 units)
 
 _**CSEN (COEN) 340. Digital Image Processing I**_\
@@ -567,14 +567,14 @@ Image restoration using least squares methods in image and spatial frequency dom
 _**CSEN (COEN) 344. Computer Vision I**_\
 Introduction to image understanding, feature detection, description, and matching; feature based alignment; structure from motion; stereo correspondence. Also listed as ECEN(ELEN) 644. Prerequisites: CSEN(COEN) 340 and knowledge of linear algebra. (2 units)
 
-_**CSEN (COEN) Computer Vision II**_\
+_**CSEN (COEN) 345 Computer Vision II**_\
 Learning and inference in vision; regression models; deep learning for vision; classification strategies; detection and recognition of objects in images. Also listed as ECEN(ELEN) 645. Prerequisites: CSEN(COEN) 340 and knowledge of probability. (2 units)
 
 _**CSEN (COEN) 346. Natural Language Processing**_\
 Natural language processing (NLP) is the art and science of extracting insights from large amounts of natural language. It is one of the most important technologies of the information age. Applications of NLP are everywhere because people communicate almost everything in language: web search, recommendation, emails, customer service, language translation, virtual agents, medical reports, politics, etc. This course presents an introduction to NLP and covers the main models, algorithms, and applications of NLP. A key emphasis of this course is on statistical analysis of large text corpora, and distilling useful structured knowledge from large collections of unstructured documents. Prerequisites: CSEN(COEN) 240 or CSEN(COEN) 281. CSEN(COEN) 342 is optional but recommended. (4 units) &#x20;
 
 _**CSEN (COEN) 347. Advanced Image and Video Coding**_\
-Advanced topics in image and video coding, selected from: Wavelet transform and compression. Sparse coding. Compressive sensing. Standards such as JPEG 2000, JPEG XT, JPEG PLENO, VVC, and HEVC extensions such as SHVC, MV-HEVC, 3D-HEVC, and SCC. Scalable video coding. Multiview and 3D video coding. Screen content coding. High dynamic range HDR. Light-field, point-cloud, and holographic imaging. Distributed video coding. Video communications systems. Congestion control. Rate control. Error control. Transcoding. Machine and deep learning approaches. Image/video coding for machines. Other advanced topics. Prerequisite: CSEN/COEN 338 or ECEN/ELEN 641. (4 units)
+Advanced topics in image and video coding, selected from: Wavelet transform and compression. Sparse coding. Compressive sensing. Standards such as JPEG 2000, JPEG XT, JPEG PLENO, VVC, and HEVC extensions such as SHVC, MV-HEVC, 3D-HEVC, and SCC. Scalable video coding. Multiview and 3D video coding. Screen content coding. High dynamic range HDR. Light-field, point-cloud, and holographic imaging. Distributed video coding. Video communications systems. Congestion control. Rate control. Error control. Transcoding. Machine and deep learning approaches. Image/video coding for machines. Other advanced topics. Prerequisite: CSEN(COEN) 338 or ECEN(ELEN) 641. (4 units)
 
 _**CSEN (COEN) 348. Speech Processing I**_\
 Review of sampling and quantization. Introduction to digital speech processing. Elementary principles and applications of speech analysis, synthesis, and coding. Speech signal analysis and modeling. The LPC Model. LPC parameter quantization using line spectrum pairs (LSPs). Digital coding techniques: quantization, waveform coding, predictive coding, transform coding, hybrid coding, and sub-band coding. Applications of speech coding in various systems. Standards for speech and audio coding. Also listed as ECEN(ELEN) 421. Prerequisite: ECEN(ELEN) 233 and/or ECEN(ELEN) 334 or equivalent. (2 units)
@@ -604,10 +604,10 @@ _**CSEN (COEN) 376. Expert Systems**_\
 Overview of tools and applications of expert systems, as well as the theoretical issues: What is knowledge, can it be articulated, and can we represent it? Stages in the construction of expert systems: problem selection, knowledge acquisition, development of knowledge bases, choice of reasoning methods, life cycle of expert systems. Basic knowledge of representation techniques (rules, frames, objects) and reasoning methods (forward-chaining, backward-chaining, heuristic classification, constraint reasoning, and related search techniques). Requires completion of an expert systems project. Prerequisite: CSEN(COEN) 266 and a course including predicate logic and lambda calculus. (4 units)
 
 _**CSEN (COEN) 379. Advanced Design and Analysis of Algorithms**_\
-Amortized and probabilistic analysis of algorithms and data structures: disjoint sets, hashing, search trees, suffix arrays and trees. Randomized, parallel, and approximation algorithms. Also listed as AMTH 379. Prerequisite: AMTH 377/CSEN/(COEN) 279. (4 units)
+Amortized and probabilistic analysis of algorithms and data structures: disjoint sets, hashing, search trees, suffix arrays and trees. Randomized, parallel, and approximation algorithms. Also listed as AMTH 379. Prerequisite: AMTH 377/CSEN(COEN) 279. (4 units)
 
 _**CSEN (COEN) 380. Advanced Database Systems**_\
-Database system design and implementation. Disk and file organization. Storage and indexes; query processing and query optimization. Concurrency control; transaction management; system failures and recovery. Parallel and distributed databases. MapReduce. Prerequisite: CSEN/(COEN) 280 or equivalent. (4 units)
+Database system design and implementation. Disk and file organization. Storage and indexes; query processing and query optimization. Concurrency control; transaction management; system failures and recovery. Parallel and distributed databases. MapReduce. Prerequisite: CSEN(COEN) 280 or equivalent. (4 units)
 
 _**CSEN (COEN) 383. Advanced Operating Systems**_\
 Advanced topics beyond the fundamentals of operating systems, including a look at different systems software concepts within different components of a modern operating system, and applications beyond the scope of an individual operating system. Prerequisite: CSEN(COEN) 283 or equivalent. (4 units)

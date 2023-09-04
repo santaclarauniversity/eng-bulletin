@@ -10,7 +10,7 @@ Classes are taught in the following time slots: 7:10-9:00 a.m., 5:10-7:00 p.m., 
 
 ## Standards of Scholarship
 
-Only courses in which the student has earned assigned grades of C- or higher may be counted for the Master’s, Engineer’s or Ph.D. degree. The student must earn a minimum 3.0 cumulative grade point average (GPA) overall and a minimum 3.0 grade point average (GPA) in their major of the approved minimum 46 units required for the completion of the M.S. degree or the approved minimum 72 units required for the Ph.D. degree. Only credits, not grade points, are transferred from other institutions.&#x20;
+Only courses in which the student has earned assigned grades of C- or higher may be counted for the Master’s, Engineer’s or Ph.D. degree. The student must earn a minimum 3.0 cumulative grade point average (GPA) overall and a minimum 3.0 grade point average (GPA) in their major of the approved minimum 46 units required for the completion of the M.S. or Engineer's degree or the approved minimum 72 units required for the Ph.D. degree. Only credits, not grade points, are transferred from other institutions.&#x20;
 
 Students who have not met the minimum cumulative 3.0 GPA overall for two consecutive active quarters are eligible for dismissal. The student’s advisor and Department Chair will be notified about their GPA status by email. The decision to be dismissed from the program will be based on a departmental vote, which will be conducted at the request of the advisor and/or Department Chair, and with approval from the Associate Dean for Graduate Programs. Students who have been dismissed from the program can appeal to the Department Chair, and subsequently to the Associate Dean for Graduate Studies.
 
@@ -116,7 +116,7 @@ NOTE: Courses that were taken more than 6 years ago are generally not accepted f
 
 ## Petition for Graduation
 
-It is a student’s responsibility to file an online petition to graduate by the deadline listed in the Academic Calendar. The petition to graduate is submitted in the student Workday Portal. All graduating students must submit a final Program of Study form and enroll in at least one unit during their final quarter.&#x20;
+It is a student’s responsibility to file an online petition to graduate by the deadline listed in the Academic Calendar. The petition to graduate is submitted in the student Workday Portal. All graduating students must submit a final Program of Study form and enroll in at least one unit during their final quarter. M.S, students are expected to graduate when they have completed the minimum 46 or maximum 51 units.&#x20;
 
 {% hint style="info" %}
 NOTE: Eligibility to participate in the June Commencement ceremony will be based on the completion of all requirements and units by the end of the spring quarter or the participation in the ceremony will be delayed until the following June.&#x20;
@@ -142,7 +142,7 @@ Concurrent Enrollment means that a student is enrolled in two places at the same
 * The student is making normal progress at Santa Clara and is not in danger of probation or disqualification&#x20;
 * Any NON-vocational coursework from the other school will be accepted for fulfilling degree requirements at SCU&#x20;
 
-For more information, please contact the International Student Services Office at 408-554-4318 or refer to website: [www.scu.edu/globalengagement/international-students](http://www.scu.edu/globalengagement/international-students)
+For more information, please refer to  the International Student Services Office website: [www.scu.edu/globalengagement/international-students](http://www.scu.edu/globalengagement/international-students)
 
 ## Non-enrollment Period
 

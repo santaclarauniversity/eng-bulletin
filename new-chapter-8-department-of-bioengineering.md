@@ -46,7 +46,7 @@ To qualify for the degree of Master of Science in Bioengineering, students must 
 
 **Course requirements**
 
-• Enrichment Experience (minimum eight units including BIOE 210 Bioethics) (See descriptions in Chapter 6, Enrichment Experience and Graduate Core Requirements)
+• Enrichment Experience (minimum eight units including BIOE 210 Bioethics) (See descriptions in [Chapter 6](new-chapter-6-enrichment-experience-and-graduate-core-requirements.md), Enrichment Experience and Graduate Core Requirements)
 
 • Applied Mathematics (4 units) Select from AMTH 200 & 201 (or 202), 210 & 211 (or 212), or AMTH 245 & 246
 
@@ -74,7 +74,7 @@ Students must take six units from one of the five primary focus areas (additiona
 
 • Bioengineering Technical Electives (13\* or 19 units)
 
-All graduate-level BIOE courses (except BIOE 210) may count as Technical Elective (TE) units. Select graduate courses from ELEN, MECH, or COEN may be credited as Technical Electives upon approval by faculty advisor. A maximum of 4 units total from ENGR and EMGT graduate courses may be credited as Technical Electives. A maximum of 3 units total of Directed Research (BIOE 297) may be credited for Technical Electives if also doing the Master’s Thesis option (BIOE 397, maximum 9 units total), otherwise a maximum of 6 units total of BIOE 297 is allowed. Submission of a Master’s Thesis is required for BIOE 397.
+All graduate-level BIOE courses (except BIOE 210) may count as Technical Elective (TE) units. Select graduate courses from CSEN (COEN), ECEN (ELEN), or MECH, may be credited as Technical Electives upon approval by faculty advisor. A maximum of 4 units total from ENGR and EMGT graduate courses may be credited as Technical Electives. A maximum of 3 units total of Directed Research (BIOE 297) may be credited for Technical Electives if also doing the Master’s Thesis option (BIOE 397, maximum 9 units total), otherwise a maximum of 6 units total of BIOE 297 is allowed. Submission of a Master’s Thesis is required for BIOE 397.
 
 For students in the five-year BS/MS program, a maximum of 20 units may be transferred. Courses used to meet the 46-unit minimum total for the Master of Science in Bioengineering degree cannot include courses that were used to satisfy a previous undergraduate degree program requirement. This includes cross-listed undergraduate courses at Santa Clara University and/or their equivalent courses at other institutions. If some required courses in the SCU graduate bioengineering program have been completed prior to graduate-level matriculation at SCU, additional elective courses will be required to satisfy the minimum unit total requirement as necessary.
 
@@ -90,34 +90,42 @@ Students currently studying at Santa Clara University for a master’s degree wh
 
 Only those students who pass the preliminary examination shall be allowed to continue in the doctoral program. The preliminary examination may be repeated only once, and then only at the discretion of the thesis advisor.
 
-[**Thesis Advisor**](https://www.scu.edu/engineering/academic-programs/department-of-bioengineering/graduate/phd-program/#accordion-panel-947426)\
+**Thesis Advisor**
+
 It is the student’s responsibility to obtain consent from a full-time faculty member in the student’s major department to serve as his/her prospective thesis advisor.
 
 It is strongly recommended that Ph.D. students find a thesis advisor before taking the preliminary examination. After passing the preliminary examination, Ph.D. students should have a thesis advisor before the beginning of the next quarter following the preliminary examination. Students currently pursuing a master’s degree at the time of their preliminary examination should have a thesis advisor as soon as possible after being accepted as a Ph.D. student.
 
 The student and the thesis advisor jointly develop a complete program of studies for research in a particular area. The complete program of studies (and any subsequent changes) must be filed with the Graduate Services Office and approved by the student’s doctoral committee. Until this approval is obtained, there is no guarantee that courses taken will be acceptable toward the Ph.D. course requirements.
 
-[**Doctoral Committee**](https://www.scu.edu/engineering/academic-programs/department-of-bioengineering/graduate/phd-program/#accordion-panel-947427)\
+**Doctoral Committee**
+
 After passing the Ph.D. preliminary exam, a student requests their thesis advisor to form a doctoral committee. The committee consists of at least five members, each of which must have earned a doctoral degree in a field of engineering or a related discipline. This includes the student’s thesis advisor, at least two other current faculty members of the student’s major department at Santa Clara University, and at least one current faculty member from another appropriate academic department at Santa Clara University. The committee reviews the student’s program of study, conducts an oral comprehensive exam, conducts the dissertation defense, and reviews the thesis. Successful completion of the doctoral program requires that the student’s program of study, performance on the oral comprehensive examination, thesis defense, and thesis itself meet with the approval of all committee members.
 
-**Residence**\
+**Residence**
+
 The doctoral degree is granted on the basis of achievement, rather than on the accumulation of units of credit. However, the candidate is expected to complete a minimum of 72 quarter units of graduate credit beyond the master’s degree. Of these, 36 quarter units may be earned through coursework and independent study, and 36 through the thesis. All Ph.D. thesis units are graded on a Pass/No Pass basis. A maximum of 18 quarter units (12 semester units) may be transferred from other accredited institutions at the discretion of the student’s advisor.
 
 Ph.D. students must undertake a minimum of four consecutive quarters of full-time study at the University; spring and fall quarters are considered consecutive. The residency time shall normally be any period between passing the preliminary examination and completion of the thesis. For this requirement, full-time study is interpreted as a minimum registration of eight units per quarter during the academic year and four units during summer session. Any variation from this requirement must be approved by the doctoral committee.
 
-[**Comprehensive Examinations and Admission to Candidacy**](https://www.scu.edu/engineering/academic-programs/department-of-bioengineering/graduate/phd-program/#accordion-panel-947429)\
+**Comprehensive Examinations and Admission to Candidacy**
+
 After completion of the formal coursework approved by the doctoral committee, the student shall present their research proposal for comprehensive oral examinations on the coursework and the subject of their research work. The student should make arrangements for the comprehensive examinations through the doctoral committee. A student who passes the comprehensive examinations is considered a degree candidate. The comprehensive examinations normally must be completed within four years from the time the student is admitted to the doctoral program. Comprehensive examinations may be repeated once, in whole or in part, at the discretion of the doctoral committee.
 
-[**Thesis Research and Defense**](https://www.scu.edu/engineering/academic-programs/department-of-bioengineering/graduate/phd-program/#accordion-panel-947430)\
+**Thesis Research and Defense**
+
 The period following the comprehensive examinations is devoted to research for the thesis, although such research may begin before the examinations are complete. After successfully completing the comprehensive examinations, the student must pass an oral examination on their research and thesis, conducted by the doctoral committee and whomever they appoint as examiners. The thesis must be made available to all examiners one month prior to the examination. The oral examination shall consist of a presentation of the results of the thesis and the defense. This examination is open to all faculty members of Santa Clara University, but only members of the doctoral committee have a vote.
 
-[**Thesis and Publication**](https://www.scu.edu/engineering/academic-programs/department-of-bioengineering/graduate/phd-program/#accordion-panel-947431)\
+**Thesis and Publication**
+
 At least one month before the degree is to be conferred, the candidate must submit to the Office of the Dean of Engineering two copies of the final version of the thesis describing the research in its entirety. The thesis will not be considered as accepted until approved by the doctoral committee and one or more refereed articles based on it are accepted for publication in a first-tier professional or scientific journal approved by the doctoral committee. All doctoral theses must also be reproduced on microfilm by University Microfilms International, which keeps on deposit the master microfilm copy and responds to requests for copies by individuals and libraries.
 
-[**Time Limit for Completing Degrees**](https://www.scu.edu/engineering/academic-programs/department-of-bioengineering/graduate/phd-program/#accordion-panel-947432)\
+**Time Limit for Completing Degrees**
+
 All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee, and approved by the dean of engineering in consultation with the Graduate Program Leadership Council.
 
-[**Additional Graduation Requirements**](https://www.scu.edu/engineering/academic-programs/department-of-bioengineering/graduate/phd-program/#accordion-panel-947433)\
+**Additional Graduation Requirements**
+
 The requirements for the doctoral degree in the School of Engineering have been made to establish the structure in which the degree may be earned. Upon written approval of the provost, the dean of the School of Engineering, the doctoral committee, and the chair of the major department, other degree requirements may be established. The University reserves the right to evaluate the undertakings and the accomplishments of the degree candidate in total, and award or withhold the degree as a result of its deliberations.
 
 ## Bioengineering Laboratory Facilities
@@ -214,7 +222,7 @@ _**BIOE 161L. Bioinstrumentation Laboratory**_\
 Laboratory for BIOE 161. Co-requisite: BIOE 161. (1 unit)
 
 _**BIOE 162. Signals and Systems for Bioengineers**_\
-Origin and characteristics of bioelectric, bio-optical, and bioacoustic signals generated from biological systems. Behavior and response of biological systems to stimulation. Acquisition and interpretation of signals. Signal processing methods include FFT spectral analysis and time-frequency analysis. Laboratory component will include modeling of signal generation and analysis of signals such as electrocardiogram (ECG), electromyogram (EMG), and vocal sound pressure waveforms. Prerequisites: BIOE 45, ELEN 50, AMTH 106. Co-requisite: BIOE 162L. (4 units)
+Origin and characteristics of bioelectric, bio-optical, and bioacoustic signals generated from biological systems. Behavior and response of biological systems to stimulation. Acquisition and interpretation of signals. Signal processing methods include FFT spectral analysis and time-frequency analysis. Laboratory component will include modeling of signal generation and analysis of signals such as electrocardiogram (ECG), electromyogram (EMG), and vocal sound pressure waveforms. Prerequisites: BIOE 45, ECEN (ELEN) 50, AMTH 106. Co-requisite: BIOE 162L. (4 units)
 
 _**BIOE 162L. Signals and Systems for Bioengineers Laboratory**_\
 Laboratory for BIOE 162. Co-requisite: BIOE 162. (1 unit)
@@ -327,7 +335,7 @@ _**BIOE 200. Graduate Research Seminar**_ \
 Seminar lectures on the progress and current challenges in fields related to bioengineering. P/NP grading. Also listed as BIOE 100. (1 unit)
 
 _**BIOE 203. Bio-Electromagnetics**_\
-Fundamentals of electromagnetics applied to bioengineering. Dielectric characteristics of biological materials. Tissue characterization. Wave propagation in layered medium. RF/Microwave interaction mechanisms in biological materials. Electromagnetic field absorption and SAR. Safety and standards. Microwave hyperthermia. Design of on-body and implant antennas. Also listed as ELEN 203. Prerequisite: ELEN 201 or BIOE 168/268. (2 units)
+Fundamentals of electromagnetics applied to bioengineering. Dielectric characteristics of biological materials. Tissue characterization. Wave propagation in layered medium. RF/Microwave interaction mechanisms in biological materials. Electromagnetic field absorption and SAR. Safety and standards. Microwave hyperthermia. Design of on-body and implant antennas. Also listed as ECEN (ELEN) 203. Prerequisite: ECEN (ELEN) 201 or BIOE 168/268. (2 units)
 
 _**BIOE 206. Design Control for Medical Devices**_\
 This course will cover the principles behind design control. All of the essential elements required in the regulated medical device environment will be covered from design planning, inputs and outputs to verification, validation, risk management and design transfer. A problem-based learning approach will be utilized so that students will develop proficiency to apply the principles. Knowledge will be acquired through lectures, class activities, industry guest lectures and field trips. Also listed as BIOE 106. (4 units)

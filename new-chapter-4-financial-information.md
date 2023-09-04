@@ -17,8 +17,11 @@ Per quarter, for each student enrolled in School of Engineering courses; include
 
 ### MANDATORY HEALTH INSURANCE
 
-**Annual graduate student health insurance fee $3523 **_**\*\*Subject to change, pending approval from California Dept of Insurance**_\
-Santa Clara University requires all degree seeking students enrolled at least half-time in their school or college to have health insurance (excluding certificate and online programs). This requirement helps to protect against unexpected high medical costs and provides access to quality health care.\
+**Annual graduate student health insurance fee $3523** \
+_\*\*Subject to change, pending approval from California Department of Insurance_
+
+Santa Clara University requires all degree seeking students enrolled at least half-time in their school or college to have health insurance (excluding certificate and online programs). This requirement helps to protect against unexpected high medical costs and provides access to quality health care.
+
 Students may purchase the university sponsored Student Health Insurance Plan but are not required to if they can provide proof of other insurance coverage comparable to the Student Health Insurance Plan as outlined in the benefit and waiver requirements on our website. Students with comparable health insurance must complete the Online Waiver Form with their own insurance information. For details and deadlines on completing the waiver or on-line insurance enrollment option go to [www.scu.edu/cowell](http://www.scu.edu/cowell) and click on Student Health Insurance.
 
 **Cowell Center**
@@ -42,9 +45,7 @@ All J-1 visa international students, regardless of number of units, will be auto
 
 **Non-refundable application fee, per application...$90**
 
-**Non-refundable Enrollment Deposit (will be credited toward students**
-
-**Account once enrollment is posted)...$300**
+**Non-refundable Enrollment Deposit (will be credited toward students account once enrollment is posted)...$300**
 
 **Late registration fee (Only applies to students who have no enrollment before the late registration deadline. Begins one week before the start of the quarter. Dates listed on academic calendar)...$100**
 
