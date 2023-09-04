@@ -1,4 +1,4 @@
-# (New) Chapter 11: Department of Electrical and Computer Engineering
+# Chapter 11: Department of Electrical and Computer Engineering
 
 _Professors Emeritus_: Timothy J. Healy, Dragoslav D. Siljak, Sarah Kate Wilson\
 _Thomas J. Bannan Professor_: Shoba Krishnan (Chair)\
@@ -22,7 +22,7 @@ The program of studies must include the following:
 
 1. Graduate Core-Enrichment Experience (minimum 8 units): Students must take a minimum of 8 units of the Graduate Core Enrichment Experience.&#x20;
    * A minimum of 4 units must be from the Graduate Core which requires at least two courses from the three areas (Emerging Topics in Engineering, Engineering and Business/Entrepreneurship, and Engineering and Society).
-   * The remaining 4 units can be accumulated by the following a) Taking one or more major technical electives, b) Taking additional classes from the Graduate Core, c) Taking Cooperative Education course and d) combining courses from a, b and c.  For additional information please see [Chapter 6](new-chapter-6-enrichment-experience-and-graduate-core-requirements.md), Enrichment Experience and Graduate Core Requirements.
+   * The remaining 4 units can be accumulated by the following a) Taking one or more major technical electives, b) Taking additional classes from the Graduate Core, c) Taking Cooperative Education course and d) combining courses from a, b and c.  For additional information please see [Chapter 6](chapter-6-enrichment-experience-and-graduate-core-requirements.md), Enrichment Experience and Graduate Core Requirements.
 
 2\. Applied Mathematics (4 units)
 

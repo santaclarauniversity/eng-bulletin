@@ -1,4 +1,4 @@
-# (New) Chapter 8: Department of Bioengineering
+# Chapter 8: Department of Bioengineering
 
 _Phil and Bobbie Sanfilippo Professor_: Yuling Yan \
 _Associate Professors_: Ismail Emre Araci, Prashanth Asuri (Department Chair), Unyoung (Ashley) Kim, Biao (Bill) Lu, Zhiwen (Jonathan) Zhang\
@@ -48,7 +48,7 @@ To qualify for the degree of Master of Science in Bioengineering, students must 
 
 **Course requirements**
 
-• Enrichment Experience (minimum eight units including BIOE 210 Bioethics) (See descriptions in [Chapter 6](new-chapter-6-enrichment-experience-and-graduate-core-requirements.md), Enrichment Experience and Graduate Core Requirements)
+• Enrichment Experience (minimum eight units including BIOE 210 Bioethics) (See descriptions in [Chapter 6](chapter-6-enrichment-experience-and-graduate-core-requirements.md), Enrichment Experience and Graduate Core Requirements)
 
 • Applied Mathematics (4 units) Select from AMTH 200 & 201 (or 202), 210 & 211 (or 212), or AMTH 245 & 246
 

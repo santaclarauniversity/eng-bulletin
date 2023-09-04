@@ -1,4 +1,4 @@
-# (New) Chapter 10: Department of Computer Science and Engineering
+# Chapter 10: Department of Computer Science and Engineering
 
 _Professor Emeritus_: Ronald L. Danielson, Daniel W. Lewis\
 _Wilmot J. Nicholson Family Professor_: Nam Ling (IEEE Fellow)\
@@ -81,7 +81,7 @@ We are currently not accepting applications for the Master of Science in Softwar
 ## **Doctor of Philosophy in Computer Science and Engineering**
 
 The Doctor of Philosophy (Ph.D.) degree is conferred by the School of Engineering\
-primarily in recognition of competence in the subject field and the ability to investigate engineering problems independently, resulting in a new contribution to knowledge in the field. The work for the degree consists of engineering research, the preparation of a thesis based on that research, and a program of advanced study in engineering, mathematics, and related physical sciences. The student’s work is directed by the department, subject to the general supervision of the School of Engineering. **See** [**Chapters 2**](new-chapter-2-academic-programs-and-requirements.md) **and** [**3**](new-chapter-3-admissions.md)**, Academic Programs and Requirements and Admissions**, for details on admission and general degree requirements. The following departmental information augments the general requirements.
+primarily in recognition of competence in the subject field and the ability to investigate engineering problems independently, resulting in a new contribution to knowledge in the field. The work for the degree consists of engineering research, the preparation of a thesis based on that research, and a program of advanced study in engineering, mathematics, and related physical sciences. The student’s work is directed by the department, subject to the general supervision of the School of Engineering. **See** [**Chapters 2**](chapter-2-academic-programs-and-requirements.md) **and** [**3**](chapter-3-admissions.md)**, Academic Programs and Requirements and Admissions**, for details on admission and general degree requirements. The following departmental information augments the general requirements.
 
 **Preliminary Exam**
 
@@ -97,7 +97,7 @@ The student and his or her advisor jointly develop a complete program of study f
 
 After passing the Ph.D. preliminary exam, a student requests his or her thesis advisor to form a doctoral committee. The committee consists of at least five members, each of which must have earned a doctoral degree in a field of engineering or a related discipline. This includes the student’s thesis advisor, at least two other current faculty members of the student’s major department at Santa Clara University, and at least one current faculty member from another appropriate academic department at Santa Clara University.
 
-The committee reviews the student’s program of study, conducts an oral comprehensive exam (presentation of research proposal for examinations on the subject of research work), conducts the dissertation defense, and reviews the thesis. Successful completion of the doctoral program requires that the student’s program of study, performance on the oral comprehensive examination, dissertation defense, and thesis itself meet with the approval of all committee members. In addition, acceptance of publications (at least one article accepted by a refereed journal with an impact factor of at least 1.0) with the student as the primary (first) author is required. More details are described in [**Chapter 2**](new-chapter-2-academic-programs-and-requirements.md)**, Academic Programs and Requirements.**
+The committee reviews the student’s program of study, conducts an oral comprehensive exam (presentation of research proposal for examinations on the subject of research work), conducts the dissertation defense, and reviews the thesis. Successful completion of the doctoral program requires that the student’s program of study, performance on the oral comprehensive examination, dissertation defense, and thesis itself meet with the approval of all committee members. In addition, acceptance of publications (at least one article accepted by a refereed journal with an impact factor of at least 1.0) with the student as the primary (first) author is required. More details are described in [**Chapter 2**](chapter-2-academic-programs-and-requirements.md)**, Academic Programs and Requirements.**
 
 The student is expected to complete a minimum of 72 units of graduate credit beyond the master’s degree with an overall GPA of 3.0 or better.  Of these, 36 quarter units may be earned through coursework, independent study and directed research, and 36 through the thesis.&#x20;
 

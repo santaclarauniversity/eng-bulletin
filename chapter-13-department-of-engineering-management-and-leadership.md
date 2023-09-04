@@ -1,4 +1,4 @@
-# (New) Chapter 13: Department of Engineering Management and Leadership
+# Chapter 13: Department of Engineering Management and Leadership
 
 _Dean’s Executive Professor_: Paul Semenza _(Department Chair)_\
 _Adjunct Faculty_: Michele Ellie Ahi, Octave Baker, Marlene Cole, Theresa Conefrey, Don Danielson, John Giddings, Pravin Jain, Mohammad Musa, Usha Parimi, Kern Peng, Dennis Segers&#x20;
@@ -34,7 +34,7 @@ Students are required to complete a minimum of 46 quarter units to complete the 
     4. Combination of the 3 options above
 
 {% hint style="info" %}
-Please see [Chapter 6](new-chapter-6-enrichment-experience-and-graduate-core-requirements.md) for additional information regarding the Enrichment Experience
+Please see [Chapter 6](chapter-6-enrichment-experience-and-graduate-core-requirements.md) for additional information regarding the Enrichment Experience
 {% endhint %}
 
 **Technical Stem Courses**

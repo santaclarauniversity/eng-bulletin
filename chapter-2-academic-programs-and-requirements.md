@@ -1,4 +1,4 @@
-# (New) Chapter 2: Academic Programs and Requirements
+# Chapter 2: Academic Programs and Requirements
 
 ## **General Information**
 
@@ -20,7 +20,7 @@ Graduate students will exhibit professionalism, consistent with the University�
 
 ## Accelerated B.S./M.S. Program
 
-The School of Engineering's B.S/M.S. program provides a way for current SCU undergraduate students to begin taking courses required for a master’s degree before completing the requirements for a bachelor’s degree. Students typically complete the requirements for their master's degree within a year of completing their bachelor’s. This is an excellent way to save time and open up more career possibilities early on. The degree is offered in Aerospace Engineering, Bioengineering, Computer Science and Engineering, Electrical and Computer Engineering, Engineering Management and Leadership\*\*, Mechanical Engineering, Robotics and Automation, and Power Systems and Sustainable Energy. This program is also open to students in the College of Arts and Sciences who are majoring in mathematics, biology, computer science, or engineering physics. Students in the College of Arts and Sciences interested in a the B.S./M.S. program in Civil, Environmental, and Sustainable Engineering should consult the [CESE department chapter](new-chapter-9-department-of-civil-environmental-and-sustainable-engineering.md) of the graduate bulletin for details.&#x20;
+The School of Engineering's B.S/M.S. program provides a way for current SCU undergraduate students to begin taking courses required for a master’s degree before completing the requirements for a bachelor’s degree. Students typically complete the requirements for their master's degree within a year of completing their bachelor’s. This is an excellent way to save time and open up more career possibilities early on. The degree is offered in Aerospace Engineering, Bioengineering, Computer Science and Engineering, Electrical and Computer Engineering, Engineering Management and Leadership\*\*, Mechanical Engineering, Robotics and Automation, and Power Systems and Sustainable Energy. This program is also open to students in the College of Arts and Sciences who are majoring in mathematics, biology, computer science, or engineering physics. Students in the College of Arts and Sciences interested in a the B.S./M.S. program in Civil, Environmental, and Sustainable Engineering should consult the [CESE department chapter](chapter-9-department-of-civil-environmental-and-sustainable-engineering.md) of the graduate bulletin for details.&#x20;
 
 For B.S./M.S. applicants, the application fee and GRE General Test requirement are waived. Admission into the B.S./M.S. program is based on a minimum GPA of 3.0 in the major. Upon notification of acceptance into the B.S./M.S. program, students may begin taking graduate-level courses in their senior year. A maximum of 20 eligible units can be transferred into the graduate program.&#x20;
 
@@ -28,7 +28,7 @@ For B.S./M.S. applicants, the application fee and GRE General Test requirement a
 _Please Note: Undergraduate students will be charged the current undergraduate tuition rate while enrolled in graduate courses as an undergraduate. Once students have been matriculated into the master’s degree program, current graduate tuition rates will be charged._&#x20;
 {% endhint %}
 
-\*\*For more information on the engineering management and leadership option, please see [Chapter 13](new-chapter-13-department-of-engineering-management-and-leadership.md).
+\*\*For more information on the engineering management and leadership option, please see [Chapter 13](chapter-13-department-of-engineering-management-and-leadership.md).
 
 ## Certificate Programs
 
@@ -36,7 +36,7 @@ Certificate programs are designed to provide intensive background in a focused a
 
 All Santa Clara University courses applied toward the completion of a certificate program earn graduate credit that may also be applied toward a graduate degree, subject to the requirements of the degree program (16-20 units can be transferred to the MS program depending on the certificate requirements). Students who wish to continue for such a degree must submit a separate application and satisfy all normal admission requirements. The general Graduate Record Examination (GRE) test requirement for graduate admission to the master’s degree program will be waived for students who have been formally admitted to and who have completed a certificate program with a GPA of 3.5 or better.
 
-Certificate programs are offered in Frugal Innovation, Renewable Energy, Digital System Design, Integrated Circuit Design and Technology, Digital Signal Processing and Machine Learning, Digital Signal Processing Theory, Fundamentals of Electrical and Computer Engineering, RF and Applied Electromagnetics, Design and Manufacturing, Dynamics and Controls, Mechanics and Materials, Mechatronics Systems Engineering, and Thermofluids and Energy, For more specific information on each certificate, please see [Chapter 18](new-chapter-18-certificate-programs.md).
+Certificate programs are offered in Frugal Innovation, Renewable Energy, Digital System Design, Integrated Circuit Design and Technology, Digital Signal Processing and Machine Learning, Digital Signal Processing Theory, Fundamentals of Electrical and Computer Engineering, RF and Applied Electromagnetics, Design and Manufacturing, Dynamics and Controls, Mechanics and Materials, Mechatronics Systems Engineering, and Thermofluids and Energy, For more specific information on each certificate, please see [Chapter 18](chapter-18-certificate-programs.md).
 
 {% hint style="info" %}
 Please Note: Santa Clara University does not issue F-1 visas to applicants who wish to enter directly into the certificate program.
@@ -62,7 +62,7 @@ Note that the number of engineering management courses accepted for other degree
 
 The graduate minor in science, technology, and society (STS) is designed to help students gain a deeper understanding of the influence that engineering has on society (and vice versa). Knowledge of this kind has become essential in an increasingly complex and interconnected world, in which purely technical expertise often needs to be supplemented by additional skills. In order to successfully operate in such an environment, engineers must (at the very least) have the ability to communicate clearly, function on interdisciplinary and diverse teams, and make ethically and socially responsible decisions. The minor consists of a Core and a set of electives and requires a minimum of 12 units of coursework. It is open to all students who are pursuing a master’s degree in engineering.
 
-For more comprehensive information, please see [Chapter 17](new-chapter-17-graduate-minor-in-science-technology-and-society-sts.md).
+For more comprehensive information, please see [Chapter 17](chapter-17-graduate-minor-in-science-technology-and-society-sts.md).
 
 ## Engineer’s Degree Program
 
