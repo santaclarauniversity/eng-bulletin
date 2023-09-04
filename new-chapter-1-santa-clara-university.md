@@ -1,6 +1,6 @@
 # (New) Chapter 1: Santa Clara University
 
-Located in the heart of California's Silicon Valley, Santa Clara University is a comprehensive Jesuit, Catholic university with more than 8,800 students. Founded in 1851 by the Society of Jesus, California's oldest operating higher education institution offers a rigorous undergraduate curriculum in arts and sciences, business, and engineering, plus nationally recognized graduate and professional programs in business, law, engineering, education, counseling psychology, pastoral ministries, and theology. The University boasts a diverse community of scholars offering a values-oriented curriculum characterized by small class sizes and a dedication to educating students for competence, conscience, and compassion. The traditions of Jesuit education--educating the whole person for a life of service--run deep in all of its curricular and co-curricular programs.
+Located in the heart of California's Silicon Valley, Santa Clara University is a comprehensive Jesuit, Catholic university with more than 8,900 students. Founded in 1851 by the Society of Jesus, California's oldest operating higher education institution offers a rigorous undergraduate curriculum in arts and sciences, business, and engineering, plus nationally recognized graduate and professional programs in business, law, engineering, education, counseling psychology, pastoral ministries, and theology. The University boasts a diverse community of scholars offering a values-oriented curriculum characterized by small class sizes and a dedication to educating students for competence, conscience, and compassion. The traditions of Jesuit education--educating the whole person for a life of service--run deep in all of its curricular and co-curricular programs.
 
 The University was established as Santa Clara College on the site of the Mission Santa Clara de Asís, the eighth of the original 21 California missions. The college originally operated as a preparatory school and did not offer collegiate courses until 1853. Following the Civil War, enrollment increased, and by 1875 the size of the student body was 275. One-third of the students were enrolled in the collegiate division; the remainder attended the college’s preparatory and high school departments.
 
@@ -20,24 +20,36 @@ Santa Clara University will educate citizens and leaders of competence, conscien
 
 The University pursues its vision by creating an academic community that educates the whole person within the Jesuit, Catholic tradition, making student learning our central focus, continuously improving our curriculum and co-curriculum, strengthening our scholarship and creative work, and serving the communities of which we are a part in Silicon Valley and around the world.
 
+Student learning takes place at the undergraduate and graduate level in an educational environment that integrates rigorous inquiry and scholarship, creative imagination, reflective engagement with society, and a commitment to fashioning a more humane and just world.
+
+As an academic community, we expand the boundaries of knowledge and insight through teaching, research, artistic expression, and other forms of scholarship. It is primarily through discovering, communicating, and applying knowledge that we exercise our institutional responsibility as a voice of reason and conscience in society.
+
+We offer challenging academic programs and demonstrate a commitment to the development of:
+
+* Undergraduate students who seek an education with a strong humanistic orientation in a primarily residential setting
+* Graduate students, many of them working professionals in Silicon Valley, who seek advanced degree programs that prepare them to make significant contributions to their fields
+
+In addition to these core programs, we also provide a variety of continuing education and professional development opportunities for non-matriculated students.
+
 ## Fundamental Values
 
 The University is committed to these core values, which guide us in carrying out our mission and realizing our vision:
 
-_**Academic Excellence.**_ We seek an uncompromising standard of excellence in teaching, learning, creativity, and scholarship within and across disciplines.
+_Academic Excellence._ We seek an uncompromising standard of excellence in teaching, learning, creativity, and scholarship within and across disciplines.
 
-_**Search for Truth, Goodness, and Beauty.**_ We prize scholarship and creative work that advance human understanding, improve teaching and learning, and add to the betterment of society by illuminating the most significant problems of the day and exploring the enduring mysteries of life. In this search, our commitment to academic freedom is unwavering.&#x20;
+_Search for Truth, Goodness, and Beauty._ We prize scholarship and creative work that advance human understanding, improve teaching and learning, and add to the betterment of society by illuminating the most significant problems of the day and exploring the enduring mysteries of life. In this search, our commitment to academic freedom is unwavering.
 
-_**Commitment to Students.**_ As teachers and scholars, mentors and facilitators, we\
-endeavor to educate the whole person. We nurture and challenge students--intellectually, spiritually, aesthetically, morally, socially, and physically–-preparing them for leadership and service to the common good in their professional, civic, and personal lives.
+_Engaged Learning_. We strive to integrate academic reflection and direct experience in the classroom and the community, especially to understand and improve the lives of those with the least education, power, and wealth.
 
-_**Service to Others.**_ We promote throughout the University a culture of service—service not only to those who study and work at Santa Clara but also to society in general and to its most disadvantaged members as we work with and for others to build a more humane, just, faith-filled, and sustainable world.
+_Commitment to Students._ As teachers and scholars, mentors and facilitators, we endeavor to educate the whole person. We nurture and challenge students—intellectually, spiritually, aesthetically, morally, socially, and physically—preparing them for leadership and service to the common good in their professional, civic, and personal lives.
 
-_**Community and Diversity.**_ We cherish our diverse and inclusive community of students, faculty, staff, administrators, and alumni, a community that is enriched by people of different backgrounds, respectful of the dignity of all its members, enlivened by open communication, and caring and just toward others.
+_Service to Others._ We promote throughout the University a culture of service—service not only to those who study and work at Santa Clara but also to society in general and to its most disadvantaged members as we work with and for others to build a more humane, just, faith-filled, and sustainable world.
 
-_**Jesuit Distinctiveness.**_ We treasure our Jesuit heritage and tradition, which incorporates all of these core values. This tradition gives expression to our [Jesuit educational mission and Catholic identity](https://www.scu.edu/aboutscu/jesuit-catholic-tradition/) while also welcoming and respecting other religious and philosophical traditions, promoting the dialogue between faith and culture, and valuing opportunities to deepen religious beliefs.
+_Community and Diversity._ We cherish our diverse and inclusive community of students, faculty, staff, administrators, and alumni, a community that is enriched by people of different backgrounds, respectful of the dignity of all its members, enlivened by open communication, and caring and just toward others.
 
-## Academic Programs
+_Jesuit Distinctiveness._ We treasure our Jesuit heritage and tradition, which incorporates all of these core values. This tradition gives expression to our Jesuit educational mission and Catholic identity while also welcoming and respecting other religious and philosophical traditions, promoting the dialogue between faith and culture, and valuing opportunities to deepen religious beliefs.
+
+## **Academic Programs**
 
 Santa Clara University offers undergraduate degrees leading to the bachelor of arts (B.A.), bachelor of science (B.S.), and bachelor of science in commerce. The [College of Arts and Sciences](https://www.scu.edu/cas/) offers the B.A. degree and the B.S. degree in 33 subject areas and includes the graduate program in pastoral ministries, through which it offers the master of arts (M.A.) degree in catechetic, pastoral liturgy, spirituality, and liturgical music. The Leavey School of Business offers the B.S. degree in commerce with majors in subject areas. The School of Engineering offers a B.S. degree with majors in seven subject areas. A variety of interdisciplinary and discipline-based minors are also offered for undergraduates.
 
@@ -67,7 +79,7 @@ The [Ignatian Center for Jesuit Education](https://www.scu.edu/ic/) promotes and
 * Arrupe Engagement, a community-based learning program, places over 1,200 students each year with community partners, frequently in connection with an academic course.
 * Thriving Neighbors extends the community-based learning experience by engaging teaching, scholarship, and sustainable development that links Santa Clara University with the predominantly Latino Greater Washington community in San Jose, CA.
 * The Immersion programs offer students, during academic breaks, the opportunity to experience local, domestic, and international communities with little access to wealth, power, and privilege.
-* The Ignatian Worldview program offers experiences grounded in the Spiritual Exercises of St. Ignatius to members of the community to encounter the spiritual sources of the Jesuit tradition.
+* The Ignatian Spirituality offers experiences grounded in the Ignatian practices that support faith development and growth to members of the community to encounter the spiritual sources of the Jesuit tradition.
 
 Through these four programs, the Ignatian Center aspires to be recognized throughout Silicon Valley and beyond as providing leadership for the integration of faith, justice, and intellectual life.
 
@@ -77,7 +89,7 @@ The [Markkula Center for Applied Ethics](https://www.scu.edu/ethics/) brings the
 
 ## Faculty
 
-Santa Clara University’s emphasis on a community of scholars and integrated education attracts faculty members who are as committed to students’ intellectual and moral development as they are pursuing their own scholarship. The University’s 694 full-time faculty members are distinguished teachers and scholars. Examples of awards received by SCU faculty include: Fulbright, National Science Foundation, National Institutes of Health, and National Endowment for the Arts. Additionally, our faculty are acclaimed authors, scientists and theorists in their fields.
+Santa Clara University’s emphasis on a community of scholars and integrated education attracts faculty members who are as committed to students’ intellectual and moral development as they are pursuing their own scholarship. The University’s 584 full-time faculty members are distinguished teachers and scholars. Examples of awards received by SCU faculty include: Fulbright, National Science Foundation, National Institutes of Health, and National Endowment for the Arts. Additionally, our faculty are acclaimed authors, scientists and theorists in their fields.
 
 ## Alumni
 
@@ -113,19 +125,21 @@ Among other green features on campus are two solar-powered homes built in 2007 a
 
 ## Sobrato Campus for Discovery and Innovation
 
-The [Sobrato Campus for Discovery and Innovation](https://www.scu.edu/stem/) comprises Heafey Hall, Bergin Hall, and the new 270,000-square-foot building, Sobrato Discovery. The Sobrato Campus for Discovery and Innovation (SCDI) is the home to the School of Engineering and many of the science departments of the College of Arts and Sciences. SCDI has classrooms, an Innovation Zone, teaching and research labs, engineering and science shops, faculty and staff offices, collaboration spaces, and a cafe. The Miller Center for Social Entrepreneurship and the Frugal Innovation Hub also find their new homes in this state-of-the-art building. The central landscaped courtyard and rooftop terraces provide excellent places for gathering, which makes this new building a great addition to the heart of the campus.
+Opened in the Fall of 2021, this 270,000 square-foot building is the home to the School of Engineering and many of the science departments of the College of Arts and Sciences. The building has classrooms, Innovation Zone, teaching and research labs, engineering and science shops, faculty and staff offices, collaboration spaces, and a cafe. The Miller Center for Social Entrepreneurship and the Frugal Innovation Hub are also located in this state-of-the art building. The central landscaped courtyard and rooftop terraces provide excellent places for gathering.
 
 ## Student Life&#x20;
 
 The [Robert F. Benson Memorial Center](https://www.scu.edu/benson/) serves as a hub for campus life. The Benson Memorial Center offers dining services and houses the campus bookstore, student and administrative offices, lounges, and meeting rooms. The University’s main dining hall, The Marketplace, resembles an upscale food court with numerous stations and options. For a more informal experience, The Bronco is the Benson Center’s late-night venue, serving beverages and pub-style food.
 
-Another hotspot for student life, the Paul L. Locatelli, S.J., Student Activity Center includes a 6,000-square-foot gathering hall with a high ceiling that can accommodate dances and concerts as well as pre- and post-game activities. Designed with environmental sensitivity, the building is energy efficient and has daytime lighting controls and motion sensors to maximize the use of natural light. For fitness-minded students, the [Pat Malley Fitness and Recreation Center](https://www.scu.edu/recreation/facilities/malley/) features a 9,500-square-foot weight training and cardiovascular exercise room, three basketball courts, a swimming pool, and other facilities to support the recreational and fitness needs of the campus community.&#x20;
+Another hotspot for student life, the Paul L. Locatelli, S.J., Student Activity Center includes a 6,000-square-foot gathering hall with a high ceiling that can accommodate dances and concerts as well as pre- and post-game activities. Designed with environmental sensitivity, the building is energy efficient and has daytime lighting controls and motion sensors to maximize the use of natural light.&#x20;
+
+For fitness-minded students, the [Pat Malley Fitness and Recreation Center](https://www.scu.edu/recreation/facilities/malley/) features a 9,500-square-foot weight training and cardiovascular exercise room, three basketball courts, a swimming pool, and other facilities to support the recreational and fitness needs of the campus community.&#x20;
 
 The campus features many locations for quiet reflection as well, such as the St. Clare Garden, which features plants and flowers arranged into five groups to portray the stages of the saint’s life. For campus members who want a more hands-on relationship with nature, the Forge Garden, SCU’s half-acre organic garden, serves as a campus space for course research, service learning, and sustainable food production.&#x20;
 
 ## Athletics and The Arts
 
-The importance of athletics to the University is evident everywhere on campus. Among the newest additions to Santa Clara's athletics facilities are the Stephen Schott Stadium, home field for the men's baseball team, and the state-of-the-art Stevens Soccer Training Center, funded by a gift from Mary and Mark Stevens. The gift also allowed Santa Clara to upgrade the stands in Stevens Stadium (formerly Buck Shaw Stadium), home to the men's and women's soccer programs, and build a plaza to celebrate Bronco sports---its past, present, and future. The plaza celebrates the history of Santa Clara University football as well as the legacy and future of men's and women's soccer at SCU. Bellomy Field, eight acres of well-lit and grassy playing fields, provides space for club and intramural sports, such as rugby and field hockey. Adjacent to Bellomy Field is the well-appointed women's softball field, which opened in 2013. The Leavey Event Center houses the University's premier basketball facility. Over the years, the Leavey Event Center has hosted nine West Coast Conference Basketball Championships.&#x20;
+The importance of athletics to the University is evident everywhere on campus. Among the newest additions to Santa Clara's athletics facilities are the Stephen Schott Stadium, home field for the men's baseball team, and the state-of-the-art Stevens Soccer Training Center, funded by a gift from Mary and Mark Stevens. The gift also allowed Santa Clara to upgrade the stands in Stevens Stadium (formerly Buck Shaw Stadium), home to the men's and women's soccer programs, and build a plaza to celebrate Bronco sports---its past, present, and future. The plaza celebrates the history of Santa Clara University football as well as the legacy and future of men's and women's soccer at SCU. Bellomy Field, 4.7 acres of well-lit and turfed outdoor playing fields, provides space for club and intramural sports, such as rugby and field hockey. Adjacent to Bellomy Field is the well-appointed women's softball field, which opened in 2013. The Leavey Event Center houses the University's premier basketball facility. Over the years, the Leavey Event Center has hosted nine West Coast Conference Basketball Championships.&#x20;
 
 The University recognizes the arts as an important part of life at Santa Clara University. The Edward M. Dowd Art and Art History Building opened in 2016, housing an integrated fine arts program that is a destination and a center for inspiration, innovation, and engagement in the arts and art history in Silicon Valley. An important arts destination in the Bay Area, the Department of Art and Art History’s gallery exhibits artwork from a diverse group of established and emerging artists and provides a dynamic teaching and learning resource for faculty, staff, students and the community. The de Saisset Museum, the University's accredited museum of art and history, presents changing art exhibitions throughout the year and serves as the caretaker of the University's California History Collection, which includes artifacts from the Native American, Mission, and early Santa Clara College periods.&#x20;
 
