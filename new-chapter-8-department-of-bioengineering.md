@@ -1,7 +1,7 @@
 # (New) Chapter 8: Department of Bioengineering
 
 _Professor_: Yuling Yan \
-_Associate Professors_: Ismail Emre Araci, Prashanth Asuri (Department Chair), Unyoung (Ashley) Kim, Biao (Bill) Lu Zhiwen (Jonathan) Zhang \
+_Associate Professors_: Ismail Emre Araci, Prashanth Asuri (Department Chair), Unyoung (Ashley) Kim, Biao (Bill) Lu, Zhiwen (Jonathan) Zhang \
 _Lecturers_: Maryam Mobed-Miremadi, Eun Ju (Emily) Park, Julia Scott\
 _Adjunct Faculty_: Erhan Yenilmez, Frankie Myers, Murat Baday, Paul Nauleau&#x20;
 
