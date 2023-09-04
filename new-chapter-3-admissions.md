@@ -7,19 +7,19 @@ Applications for admission and related deadlines are available on the graduate s
 \
 
 
-| <p><strong>Program</strong></p><p><strong>(See Program Details Below)</strong></p>                                | <p><strong>Application Requirements</strong></p><p><strong>(See Application Requirement Details Below)</strong></p>                                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <p><strong>B.S./M.S. Dual Degree Program</strong></p><p><strong>(Current SCU Undergraduate Students)</strong></p> | <ul><li>Online Application (Slate)</li><li>Application Fee Waived</li><li>GRE Scores Waived </li></ul>                                                                                                                                                       |
-| **Open University**                                                                                               | <ul><li>Online Application (EngineeringCAS)</li><li>Nonrefundable Application Fee</li><li>Official Transcripts</li><li>TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>                                                                                        |
-| **Certificate**                                                                                                   | <ul><li>Online Application (EngineeringCAS)</li><li>Nonrefundable Application Fee</li><li>Official Transcripts </li><li>TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>                                                                                       |
-| **Master’s Degree**                                                                                               | <ul><li>Online Application (EngineeringCAS)</li><li>Nonrefundable Application Fee</li><li>Official Transcripts </li><li>GRE Waived (Except for the MS in CSE)</li><li>TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>                                         |
-| <p><br><br></p><p><strong>Engineer’s Degree</strong></p><p><br><br></p>                                           | <ul><li>Online Application (EngineeringCAS)</li><li>Nonrefundable Application Fee</li><li>Official Transcripts </li><li>3 Letters of Recommendation</li><li>Statement of Purpose </li><li>GRE Scores </li><li>TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul> |
-| **Ph.D. Degree**                                                                                                  | <ul><li>Online Application (EngineeringCAS)</li><li>Nonrefundable Application Fee</li><li>Official Transcripts</li><li>3 Letters of Recommendation</li><li>Statement of Purpose </li><li>GRE Scores</li><li>TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>   |
+| <p><strong>Program</strong></p><p><strong>(See Program Details Below)</strong></p>                                       | <p><strong>Application Requirements</strong></p><p><strong>(See Application Requirement Details Below)</strong></p>                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <p><strong>Accelerated B.S./M.S. Degree Program</strong></p><p><strong>(Current SCU Undergraduate Students)</strong></p> | <ul><li>Online Application (Slate)</li><li>Application Fee Waived</li><li>GRE Scores Waived </li></ul>                                                                                                                                                       |
+| **Open University**                                                                                                      | <ul><li>Online Application (EngineeringCAS)</li><li>Nonrefundable Application Fee</li><li>Official Transcripts</li><li>TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>                                                                                        |
+| **Certificate**                                                                                                          | <ul><li>Online Application (EngineeringCAS)</li><li>Nonrefundable Application Fee</li><li>Official Transcripts </li><li>TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>                                                                                       |
+| **Master’s Degree**                                                                                                      | <ul><li>Online Application (EngineeringCAS)</li><li>Nonrefundable Application Fee</li><li>Official Transcripts </li><li>GRE Waived (Except for the MS in CSE)</li><li>TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>                                         |
+| <p><br><br></p><p><strong>Engineer’s Degree</strong></p><p><br><br></p>                                                  | <ul><li>Online Application (EngineeringCAS)</li><li>Nonrefundable Application Fee</li><li>Official Transcripts </li><li>3 Letters of Recommendation</li><li>Statement of Purpose </li><li>GRE Scores </li><li>TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul> |
+| **Ph.D. Degree**                                                                                                         | <ul><li>Online Application (EngineeringCAS)</li><li>Nonrefundable Application Fee</li><li>Official Transcripts</li><li>3 Letters of Recommendation</li><li>Statement of Purpose </li><li>GRE Scores</li><li>TOEFL/IELTS/DUOLINGO (If Applicable)</li></ul>   |
 
 Application Requirement Details
 
 * **ONLINE APPLICATION**
-  * **B.S./M.S. Dual Degree Program (Slate):** Submit your online application using the Slate application system [https://slate.scu.edu/apply/.](https://slate.scu.edu/apply/.%20)&#x20;
+  * **Accelerated B.S./M.S. Degree Program (Slate):** Submit your online application using the Slate application system [https://slate.scu.edu/apply/.](https://slate.scu.edu/apply/.%20)&#x20;
   * **All other programs (EngineeringCAS):** Submit your application using the EngineeringCAS  application system [https://engineeringcas2023.liaisoncas.com/applicant-ux/#/login](https://engineeringcas2023.liaisoncas.com/applicant-ux/#/login).&#x20;
 * **NONREFUNDABLE APPLICATION FEE:**&#x20;
   * All applicants to any School of Engineering program are required to submit a nonrefundable $90 application fee.&#x20;
@@ -39,9 +39,9 @@ Application Requirement Details
 
 ## Program Details
 
-#### B.S./M.S. Dual Degree Program (Current undergraduate SCU students)
+#### Accelerated B.S./M.S. Degree Program (Current undergraduate SCU students)
 
-The B.S./M.S. degree program allows current SCU undergraduate students to begin taking courses required for a master’s degree before completing the requirements for bachelor degree. This B.S./M.S. the program is based on a minimum GPA of 3.0 in your major. Upon notification of acceptance into the B.S./M.S. program, students may begin taking graduate-level courses in their senior year and a maximum of 20 units can be transferred into the graduate program.
+The B.S./M.S. degree program allows current SCU undergraduate students to begin taking courses required for a master’s degree before completing the requirements for bachelor degree. This B.S./M.S. program is based on a minimum GPA of 3.0 in your major. Upon notification of acceptance into the B.S./M.S. program, students may begin taking graduate-level courses in their senior year and a maximum of 20 units can be transferred into the graduate program.
 
 #### Open University&#x20;
 
