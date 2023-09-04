@@ -23,7 +23,7 @@ _**Mathematics (8 units)**_: Students must complete at least one Applied Math 4-
 
 _**Technical Core (13 units)**_: Students must complete 13 or more units of core courses covering basic mechatronic device design, mechatronic control systems, robotic kinematics/dynamics/control, and advanced sensing/perception techniques:
 
-* ECEN(ELEN) 460 / MECH 207 Advanced Mechatronics I (3)
+* ECEN (ELEN) 460 / MECH 207 Advanced Mechatronics I (3)
 * ECEN (ELEN) 461 / MECH 208 Advanced Mechatronics II (3)
 * ECEN (ELEN) 337 / MECH 337 Robotics I (2)
 * ECEN (ELEN) 338 / MECH 338 Robotics II (2)
@@ -38,7 +38,7 @@ _**Technical Electives (8 units)**_: Students must complete a minimum of 8 units
 * BIOE 252 Computational Neuroscience (2)
 * BIOE 277 Biosensors (2)
 * BIOE 281 Introduction to Pattern Recognition (2)
-* CSEN (COEN) 201 / ECEN (ELEN) 233 Digital Signal Processing I (2) & CSEN (COEN) 202 / ECEN (ELEN) 234 Digital Signal Processing II (2) \[or CSEN (COEN) 201E /ECEN (ELEN) 233E Digital Signal Processing I & II (4)]
+* CSEN (COEN) 201 / ECEN (ELEN) 233 Digital Signal Processing I (2) & CSEN (COEN) 202 / ECEN (ELEN) 234 Digital Signal Processing II (2) or CSEN (COEN) 201E /ECEN (ELEN) 233E Digital Signal Processing I & II (4)
 * CSEN (COEN) 240 Machine Learning (4)
 * CSEN (COEN) 242 Big Data (4)
 * CSEN (COEN) 243 Internet of Things (4)

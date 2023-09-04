@@ -8,7 +8,7 @@ _Assistant Professors:_ Anoosheh Heidarzadeh, Maryam Khanbaghi, Maria Kyrarini, 
 
 ## Overview
 
-The field of electrical and computer engineering covers the design, construction, testing, and operation of electrical components, circuits, and systems. Electrical and computer engineers work with information representation, processing and transmission; advancing integrated circuit design for digital, analog, and mixed signals systems; designing and characterizing antennas, RF, microwave and millimeter-wave Systems; new devices and architectures, energy systems and renewable energy; nanotechnology; and all the areas of information circuits and systems that have traditionally supported these efforts. This includes all phases of the digital or analog transmission of information, such as in mobile communications and networks, radio, television, telephone systems, fiber optics, and satellite communications, as well as control and robotics, electric power, information processing and storage.
+The field of Electrical and Computer Engineering covers the design, construction, testing, and operation of electrical components, circuits, and systems. Electrical and Computer Engineers work with information representation, processing and transmission; advancing integrated circuit design for digital, analog, and mixed signals systems; designing and characterizing antennas, RF, microwave and millimeter-wave Systems; new devices and architectures, energy systems and renewable energy; nanotechnology; and all the areas of information circuits and systems that have traditionally supported these efforts. This includes all phases of the digital or analog transmission of information, such as in mobile communications and networks, radio, television, telephone systems, fiber optics, and satellite communications, as well as control and robotics, electric power, information processing and storage.
 
 The Electrical and Computer Engineering Programs are supported by the facilities of the University’s Academic Computing Center, as well as by the Engineering Computing Center. The department supports 10 major teaching and research laboratories, five additional laboratories used only for teaching, and a laboratory dedicated to the support of design projects. The five teaching laboratories cover the fields of digital systems, electric circuits, electronics, systems, and RF and communication and signal processing and control systems, logic design and digital systems, In addition, the program has a laboratory dedicated to senior design projects.
 
@@ -45,7 +45,7 @@ An advisor may approve selected undergraduate classes that do not duplicate cour
 
 Alterations in the approved program, consistent with the above departmental requirements, may be requested at any time by a petition initiated by the student and approved by the advisor.
 
-Students with relevant technical backgrounds may be admitted to the master’s program without an undergraduate degree in electrical or electrical and computer engineering from an accredited program. In order to guarantee prerequisites for graduate courses, those students must take sufficient additional courses beyond the 46-unit minimum to ensure coverage of all areas of the undergraduate EE core requirements. A student who has earned a Fundamentals of Electrical and Computer Engineering Certificate will have satisfied these background requirements.
+Students with relevant technical backgrounds may be admitted to the master’s program without an undergraduate degree in Electrical or Electrical and Computer Engineering from an accredited program. In order to guarantee prerequisites for graduate courses, those students must take sufficient additional courses beyond the 46-unit minimum to ensure coverage of all areas of the undergraduate EE core requirements. A student who has earned a Fundamentals of Electrical and Computer Engineering Certificate will have satisfied these background requirements.
 
 **Undergraduate Core Courses**
 
@@ -94,7 +94,7 @@ After passing the Ph.D. preliminary exam, a student requests his or her thesis a
 
 _**Residence**_
 
-The doctoral degree is granted based on achievement, rather than on the accumulation of units of credit. However, the candidate is expected to complete a minimum of 72 quarter units of graduate credit beyond the master’s degree. Of these, 36 quarter units may be earned through coursework and independent study, and 36 through the thesis. All Ph.D. thesis units are graded on a Pass/No Pass basis. A maximum of 18 quarter units (12-semester units) may be transferred from other accredited institutions at the discretion of the student’s advisor.
+The doctoral degree is granted based on achievement, rather than on the accumulation of units of credit. However, the candidate is expected to complete a minimum of 72 quarter units of graduate credit beyond the master’s degree. Of these, 36 quarter units may be earned through coursework and independent study, and 36 through the thesis. All Ph.D. thesis units are graded on a Pass/No Pass basis.&#x20;
 
 Ph.D. students must undertake a minimum of four consecutive quarters of full-time study at the University; spring and fall quarters are considered consecutive. The residency time shall normally be any period between passing the preliminary examination and completion of the thesis. For this requirement, full-time study is interpreted as a minimum registration of eight units per quarter during the academic year and four units during the summer session. Any variation from this requirement must be approved by the doctoral committee.
 
@@ -112,7 +112,7 @@ At least one month before the degree is to be conferred, the candidate must subm
 
 _**Time Limit for Completing Degree**_
 
-All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. This includes any leave of absences/withdrawals. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Research Program Leadership Council.
+All requirements for the doctoral degree must be completed within eight years following initial enrollment in the Ph.D. program. This includes any leave of absences/withdrawals. Extensions will be allowed only in unusual circumstances and must be recommended in writing by the student’s doctoral committee and approved by the dean of engineering in consultation with the Graduate Program Leadership Council.
 
 _**Additional Graduation Requirements**_
 
@@ -134,7 +134,7 @@ Students must receive a minimum grade of C in each course and have an overall GP
 
 _**Continuation for a Master’s Degree**_
 
-All Santa Clara University graduate courses applied to the completion of a certificate program earn graduate credit that may also be applied toward a graduate degree. Students who wish to continue for such a degree must submit a separate application and satisfy all normal admission requirements. The general GRE test requirement for graduate admission to the master’s degree will be waived for students who complete a certificate program with a GPA of 3.5 or higher.
+Santa Clara University graduate courses applied to the completion of a certificate program earn graduate credit that may also be applied toward a graduate degree. Students who wish to continue for such a degree must submit a separate application and satisfy all normal admission requirements. The general GRE test requirement for graduate admission to the master’s degree will be waived for students who complete a certificate program with a GPA of 3.5 or higher.
 
 ## Academic Requirements
 
@@ -197,29 +197,26 @@ _Elective Courses (8 units)_&#x20;
 
 _Advisors_: Dr. Tokunbo Ogunfunmi, Dr. Sally Wood
 
-This certificate program provides a basic understanding of digital signal processing theory, machine learning and modern implementation methods as well as advanced knowledge of at least one specific application area. Digital signal processing and machine learning have become important across many areas of engineering, and this certificate prepares students for traditional or novel applications.
+This certificate program provides a basic understanding of digital signal processing theory, machine learning and modern implementation methods as well as advanced knowledge of at least one specific application area. Digital signal processing and machine learning have become important across many areas of engineering, and this certificate prepares students for traditional or novel applications. This certificate can be earned with a combination of in-person and on-line courses.
 
 _Required Courses (11 units minimum)_
 
 * ECEN (ELEN) 233 Digital Signal Processing I (2 units)&#x20;
 * ECEN (ELEN) 520 and ECEN (ELEN) 520L Introduction to Machine Learning (3 units)&#x20;
 * At least one course from: AMTH 210 Probability I or AMTH 245 Linear Algebra I or AMTH 370 Optimization Techniques (2 units)
-* At least one course from: ECEN (ELEN) 223 Digital Signal Processing System Development (4 units) or ECEN (ELEN) 226 Machine Learning and Signal Processing Using FPGAs (2 units) or ECEN (ELEN) 234 Digital Signal Processing II (2 units)
-* At least one course from: ECEN (ELEN) 421 Speech Processing I or ECEN (ELEN) 640 Digital Image Processing I (2 units)&#x20;
+* At least one course from: ECEN (ELEN) 223 Digital Signal Processing System Development (4 units) or ECEN (ELEN) 226 Machine Learning and Signal Processing Using FPGAs (2 units) or ECEN(ELEN) 234 Digital Signal Processing II (2 units)
+* At least one course from: ECEN (ELEN) 421 Speech Processing I or ECEN (ELEN) 640 Digital Image Processing I (2 units) or both ECEN (ELEN) 521 Deep Learning (2 units) and 521L Deep Learning Laboratory (1 unit) _Note: ECEN (ELEN) 233E Digital Signal Processing I, II (4 units) is equivalent to both ECEN (ELEN) 233 and ECEN (ELEN) 234._&#x20;
 
-_Note: ECEN (ELEN) 233E Digital Signal Processing I, II (4 units) is equivalent to both ECEN (ELEN) 233 and ECEN (ELEN) 234._&#x20;
-
-_Elective Courses (Additional courses to make a total of 16 units) selected from the list below:_
+_Elective Courses (Additional courses to make a total of 16 units) selected from the list below or from any courses in the list above that are not used to meet the specified certificate requirements:_
 
 * AMTH 308 Theory of Wavelets (2 units) or AMTH 358 Fourier Transforms (2 units)
-* ECEN (ELEN) 241 Introduction to Communications (2 units)&#x20;
 * ECEN (ELEN) 243 Digital Communications Systems (2 units)
 * ECEN (ELEN) 244 Information Theory (2 units)&#x20;
-* ECEN (ELEN) 247 Communication Systems Modeling Using Simulink I (2 units)
 * ECEN (ELEN) 334 Introduction to Statistical Signal Processing (2 units)&#x20;
 * ECEN (ELEN) 422 Speech Coding II (2 units)
 * ECEN (ELEN) 431 Adaptive Signal Processing I (2 units)
-* ECEN (ELEN) 521 and 521L Deep Learning (3 units)
+* ECEN (ELEN) 522 Reinforcement Learning (2 units)
+* ECEN (ELEN) 523 Natural Language Processing with Deep Learning (2 units)
 * ECEN (ELEN) 643 Digital Image Processing II (2 units)&#x20;
 * ECEN (ELEN) 644 Computer Vision I (2 units) or ECEN (ELEN) 645 Computer Vision II (2 units)
 
@@ -319,10 +316,10 @@ _**ECEN (ELEN)**_ _**20. Emerging Areas in Electrical and Computer Engineering**
 Introduction to new frontiers in electrical and computer engineering. Hands-on activities and visits to research and production facilities in Silicon Valley companies to learn how the fundamentals of electrical and computer engineering are enabling new emerging technologies. (2 units)
 
 _**ECEN (ELEN) 21. Introduction to Logic Design**_ \
-Boolean functions and their minimization. Combinational circuits: adders, multipliers, multiplexers, decoders. Sequential logic circuits: latches and flip-flops, registers, counters. Memory. Busing. Programmable logic. Use of industry quality CAD tools for schematic capture and HDL in conjunction with FPGAs. Also listed as COEN (CSEN) 21. Co-requisite: ECEN (ELEN) 21L. (4 units)
+Boolean functions and their minimization. Combinational circuits: adders, multipliers, multiplexers, decoders. Sequential logic circuits: latches and flip-flops, registers, counters. Memory. Busing. Programmable logic. Use of industry quality CAD tools for schematic capture and HDL in conjunction with FPGAs. Also listed as CSEN (COEN) 21. Co-requisite: ECEN (ELEN) 21L. (4 units)
 
 _**ECEN (ELEN) 21L. Logic Design Laboratory**_\
-Laboratory for ELEN (ECEN) 21. Also listed as COEN (CSEN) 21L. Co-requisite: ECEN (ELEN) 21. (1 unit)
+Laboratory for ELEN (ECEN) 21. Also listed as CSEN (COEN) 21L. Co-requisite: ECEN (ELEN) 21. (1 unit)
 
 _**ECEN (ELEN) 49. Fundamentals of Electricity for Civil Engineers**_\
 Transducers. Motors, generators, and efficiency. DC and AC circuits. One and three-phase power systems. Sources of electricity. Hydroelectric power, generation, and pumps. Electrical diagrams and schematics. (4 units)
@@ -394,10 +391,10 @@ _**ECEN (ELEN) 119. Current Topics in Electrical and Computer Engineering**_\
 Subjects of current interest. May be taken more than once if topics differ. (4 units)
 
 _**ECEN (ELEN) 120. Microprocessor System Design**_\
-Design and analysis of microprocessor-based systems for embedded applications. Assembly Language programming. Integration of digital and analog input/output devices with microprocessor hardware and software. Low-level programming techniques specialized for hardware interfacing and precise control of timing. Structure and operation of embedded computing platforms. Prerequisites: A grade of C- or better in ECEN (ELEN) 21 and COEN 11. Co-requisite: ECEN (ELEN) 120L. (4 units)
+Design and analysis of microprocessor-based systems for embedded applications. Assembly Language programming. Integration of digital and analog input/output devices with microprocessor hardware and software. Low-level programming techniques specialized for hardware interfacing and precise control of timing. Structure and operation of embedded computing platforms. Prerequisites: A grade of C- or better in ECEN (ELEN) 21 and CSEN (COEN) 11. Co-requisite: ECEN (ELEN) 120L. (4 units)
 
 _**ECEN (ELEN) 120L. Microprocessor System Design**_\
-Lab projects based on an embedded computer module to practical applications that reinforce class concepts and provide some opportunities for creative design. Prerequisites A grade of C- or better in ECEN (ELEN) 21 and COEN 11. Co-requisite: ECEN (ELEN) 120 (1 unit)
+Lab projects based on an embedded computer module to practical applications that reinforce class concepts and provide some opportunities for creative design. Prerequisites A grade of C- or better in ECEN (ELEN) 21 and CSEN (COEN) 11. Co-requisite: ECEN (ELEN) 120 (1 unit)
 
 _**ECEN (ELEN) 121. Real-Time Embedded Systems**_\
 Computing systems that measure, control, and interact. Real-time principles (multitasking, scheduling, synchronization), interfacing sensors, actuators and peripherals, implementation trade-offs, low-power high-performance systems (code profiling and optimization) embedded software (exception handling, loading, mode-switching, programming embedded systems). Real-time multimedia. Prerequisites: A grade of C- or better in ECEN (ELEN) 120. Co-requisite: ECEN (ELEN) 121L. (4 units)
@@ -406,22 +403,22 @@ _**ECEN (ELEN) 121L. Real-Time Embedded Systems Lab**_\
 Lab projects based on an embedded computer module to practical applications that reinforce class concepts and provide some opportunities for creative design. Prerequisites: A grade of C- or better in ECEN (ELEN) 120. Co-requisite: ECEN (ELEN) 121. (1 unit)
 
 _**ECEN (ELEN) 122. Computer Architecture**_\
-Application of logic design concepts to computer architecture. Computation state machines. Computer instruction definition and formatting, the use of opcodes and operands. Memory, and how it is used to store instructions and data. Instruction execution, control transfer. Application of critical path concepts and pipelining. Hazards. Caches. Hardware support for virtual memory. Prerequisites: A grade of C- or better in either COEN (CSEN) or ECEN (ELEN) 21. Co-requisite: ECEN (ELEN) 122L. (4 units)
+Application of logic design concepts to computer architecture. Computation state machines. Computer instruction definition and formatting, the use of opcodes and operands. Memory, and how it is used to store instructions and data. Instruction execution, control transfer. Application of critical path concepts and pipelining. Hazards. Caches. Hardware support for virtual memory. Prerequisites: A grade of C- or better in either CSEN (COEN) or ECEN (ELEN) 21. Co-requisite: ECEN (ELEN) 122L. (4 units)
 
 _**ECEN (ELEN) 122L. Computer Architecture Lab**_\
 Laboratory for ECEN (ELEN) 122. Co-requisite: ECEN (ELEN) 122. (1 unit)
 
 _**ECEN (ELEN) 123. Mechatronics**_\
-Introduction to behavior, design, and integration of electromechanical components and systems. Review of appropriate electronic components/circuitry, mechanism configurations, and programming constructs. Use and integration of transducers, microcontrollers, and actuators. Also listed as COEN(CSEN) 123 and MECH 143. Prerequisite: ECEN (ELEN) 50 with a grade of C− or better and COEN 11. Co-requisite: ECEN (ELEN) 123L. (4 units)
+Introduction to behavior, design, and integration of electromechanical components and systems. Review of appropriate electronic components/circuitry, mechanism configurations, and programming constructs. Use and integration of transducers, microcontrollers, and actuators. Also listed as CSEN (COEN) 123 and MECH 143. Prerequisite: ECEN (ELEN) 50 with a grade of C− or better and CSEN (COEN) 11. Co-requisite: ECEN (ELEN) 123L. (4 units)
 
 _**ECEN (ELEN) 123L. Mechatronics Laboratory**_\
-Laboratory for ECEN (ELEN) 123. Also listed as COEN (CSEN) 123L and MECH 143L. Co-requisite: ECEN (ELEN) 123. (1 unit)
+Laboratory for ECEN (ELEN) 123. Also listed as CSEN (COEN) 123L and MECH 143L. Co-requisite: ECEN (ELEN) 123. (1 unit)
 
 _**ECEN (ELEN) 127. Advanced Logic Design**_\
 Contemporary design of finite-state machines as system controllers using FPGA devices. Minimization techniques, performance analysis, and modular system design. HDL simulation and synthesis. Also listed as COEN (CSEN) 127. Prerequisite: ECEN (ELEN) 21 with a grade of C− or better. Co-requisite: ECEN (ELEN) 127L. (4 units)
 
 _**ECEN (ELEN) 127L. Advanced Logic Design Laboratory**_\
-Laboratory for ECEN (ELEN) 127. Design, construction, and testing of controllers from verbal specs. Use of CAD design tools. Also listed as COEN (CSEN) 127L. Co-requisite: ECEN (ELEN) 127. (1 unit)
+Laboratory for ECEN (ELEN) 127. Design, construction, and testing of controllers from verbal specs. Use of CAD design tools. Also listed as CSEN (COEN) 127L. Co-requisite: ECEN (ELEN) 127. (1 unit)
 
 _**ECEN (ELEN) 130. Control Systems**_\
 Applications of control systems in engineering. Principle of feedback. Performance specifications: transient and steady-state response. Stability. Design of control systems by frequency and root locus methods. Computer-controlled systems. State-variable feedback design. Also listed as ECEN (ELEN) 230. Prerequisite: ECEN (ELEN) 110. Co-requisite: ECEN (ELEN) 130L. (4 units)
@@ -433,7 +430,7 @@ _**ECEN (ELEN) 131. Introduction to Robotics**_\
 Overview of robotic systems and application areas. Kinematic Analysis of Robotic Manipulators. Joint-space trajectory planning. Linear PID control for manipulators. Prerequisite: AMTH 106. Co-requisite: ECEN (ELEN) 131L (4 units)
 
 _**ECEN (ELEN) 131L. Introduction to Robotics Laboratory**_\
-Laboratory for ECEN (ELEN) 131. Laboratory for Robot Programming using Python and Robot Operating System (ROS): Prerequisite: Basic Programming. Co-requisite: ECEN (ELEN) 131. (1 unit)
+Laboratory for Robot Programming using Python and Robot Operating System (ROS): Prerequisite: Basic Programming. Co-requisite: ECEN (ELEN) 131. (1 unit)
 
 _**ECEN (ELEN) 132 Design of Assistive Technologies**_\
 Accessible and Interactive Design. Design of Assistive Technologies. Prototype Development. Data Gathering. Data Analysis, Interpretation, and Representation. Project-based course. Prerequisites: AMTH 108 or equivalent. Also listed as ECEN (ELEN) 532. Corequisite: ECEN (ELEN) 132L. (4 units)
@@ -442,7 +439,7 @@ _**ECEN (ELEN) 132L. Design of Assistive Technologies Laboratory**_\
 Laboratory for ECEN (ELEN) 132. Corequisite: ECEN (ELEN) 132. (1 unit)
 
 _**ECEN (ELEN) 133. Digital Signal Processing**_\
-Discrete signals and systems. Difference equations. Convolution summation. Z-transform, transfer function, system response, stability. Model based digital filter design and implementation. Frequency domain analysis. Discrete Fourier transform and FFT. Introduction to adaptive filter design and CNN architectures. Audio, video, and communication applications. Prerequisites: ECEN (ELEN) 110 or both ECEN (ELEN) 50 with a grade of C- or better, and COEN (CSEN) 19. Co-requisite: ECEN (ELEN) 133L. (4 units)
+Discrete signals and systems. Difference equations. Convolution summation. Z-transform, transfer function, system response, stability. Model based digital filter design and implementation. Frequency domain analysis. Discrete Fourier transform and FFT. Introduction to adaptive filter design and CNN architectures. Audio, video, and communication applications. Prerequisites: ECEN (ELEN) 110 or both ECEN (ELEN) 50 with a grade of C- or better, and CSEN (COEN) 19. Co-requisite: ECEN (ELEN) 133L. (4 units)
 
 _**ECEN (ELEN) 133L. Digital Signal Processing Laboratory**_\
 Laboratory for ECEN (ELEN) 133. Laboratory for analysis, design, and simulation using MATLAB. Co-requisite: ECEN (ELEN) 133. (1 unit)
@@ -487,7 +484,7 @@ _**ECEN (ELEN) 152L. Integrated Circuit Fabrication Process Technology Laborator
 Laboratory for ECEN (ELEN)152. Also listed as ECEN (ELEN) 276L. (1 unit)         &#x20;
 
 _**ECEN (ELEN) 153. Digital Integrated Circuit Design**_\
-Introduction to VLSI design and methodology. Study of basic principles, material for CMOS transistors. Study of CMOS digital integrated circuits and technology scaling. Physical design and layout principles. Interconnect modeling. Semiconductor memories. Use of state-of-the-art CAD tools. Prerequisites: ECEN (ELEN)/COEN(CSEN) 21 and ECEN (ELEN) 50 with a grade of C− or better. Co-requisite: ECEN (ELEN) 153L. (4 units)
+Introduction to VLSI design and methodology. Study of basic principles, material for CMOS transistors. Study of CMOS digital integrated circuits and technology scaling. Physical design and layout principles. Interconnect modeling. Semiconductor memories. Use of state-of-the-art CAD tools. Prerequisites: ECEN (ELEN)/CSEN (COEN) 21 and ECEN (ELEN) 50 with a grade of C− or better. Co-requisite: ECEN (ELEN) 153L. (4 units)
 
 _**ECEN (ELEN) 153L. Digital Integrated Circuit Design Laboratory**_\
 Laboratory for ECEN (ELEN) 153. Co-requisite: ECEN (ELEN) 153. (1 unit)
@@ -526,7 +523,7 @@ _**ECEN (ELEN) 167. Medical Imaging Systems**_\
 Overview of medical imaging systems including sensors and electrical interfaces for data acquisition, mathematical models of the relationship of structural and physiological information to sensor measurements, resolution, and accuracy limits, and the conversion process from electronic signals to image synthesis. Analysis of the specification and interaction of the functional units of imaging systems and the expected performance. Focus on MRI, CT, and ultrasound, PET, and impedance imaging. Also listed as BIOE 167, BIOE 267. Prerequisite: BIOE 162 or ECEN (ELEN) 110 or MECH 142. (4 units)
 
 _**ECEN (ELEN) 180. Introduction to Information Storage**_\
-Storage hierarchy. Design of memory and storage devices, with a particular emphasis on magnetic disks and storage-class memories. Error detection, correction, and avoidance fundamentals. Disk arrays. Storage interfaces and buses. Network attached and distributed storage, interaction of economy, and technological innovation. Also listed as COEN (CSEN) 180. Prerequisites: ECEN (ELEN) 21 or COEN (CSEN) 21, and COEN (CSEN) 20; COEN (CSEN) 122 is recommended. (4 units)
+Storage hierarchy. Design of memory and storage devices, with a particular emphasis on magnetic disks and storage-class memories. Error detection, correction, and avoidance fundamentals. Disk arrays. Storage interfaces and buses. Network attached and distributed storage, interaction of economy, and technological innovation. Also listed as COEN (CSEN) 180. Prerequisites: ECEN (ELEN) 21 or CSEN (COEN) 21, and CSEN (COEN) 20; CSEN (COEN) 122 is recommended. (4 units)
 
 _**ECEN (ELEN) 182. Energy Systems Design**_\
 Introduction to alternative energy systems with emphasis on those utilizing solar technologies; system analysis including resources, extraction, conversion, efficiency, and end-use; project will design power system for a house off or on grid making best use of renewable energy; system design will include power needs, generation options, storage, back-up power. Prerequisite: ECEN (ELEN) 50. (4 units)
@@ -576,7 +573,7 @@ Time-varying electromagnetic field concepts starting with Maxwell’s equations.
 _**ECEN (ELEN) 202. Computational Electromagnetics**_\
 Numerical solution of Maxwell’s Equations for engineering problems. Foundations and mathematical development of finite difference time domain (FDTD) and method of moments (MoM) solvers. Methods for numerical validation and robust simulation-based experiment design. Prerequisite: ECEN (ELEN) 201. (2 units)
 
-_**ECEN (ELEN)203. Bio-Electromagnetics**_\
+_**ECEN (ELEN) 203. Bio-Electromagnetics**_\
 Fundamentals of bioelectromagnetics. Tissue characterization, dielectrophoresis electrodes, RF/Microwave Interaction mechanisms in biological materials. Electromagnetic field absorption, and SAR, Power transfer in biological environment, On-body and implant antennas, microwave hyperthermia. Also listed as BIOE 203. Prerequisite: ECEN (ELEN) 201 (or equivalent) or BIOE 168/268. (2 units)
 
 _**ECEN (ELEN) 204. Magnetic Circuits for Electric and Autonomous Vehicles**_\
@@ -588,7 +585,7 @@ Continuous and discrete signals. Circuit equations and time response. Laplace tr
 _**ECEN (ELEN) 211. Modern Network Analysis I**_\
 Graph theory and its applications to network matrix equations. Network component magnitude and frequency scaling. Network topology, graph theory, graph matrices, oriented and non-oriented graphs. Fundamental network laws. Topologically dependent matrix equations. Circuit simulation. N Planar and dual graphs. Nondegenerate network state equations. Prerequisites: AMTH 246 and knowledge of Laplace transforms. (2 units)
 
-_**ECEN (ELEN)216. Modern Network Synthesis and Design**_\
+_**ECEN (ELEN) 216. Modern Network Synthesis and Design**_\
 Approximation and synthesis of active networks. Filter design using positive and negative feedback biquads. Sensitivity analysis. Fundamentals of passive network synthesis. Credit not allowed for both 112 and 216. Prerequisite: ECEN (ELEN) 210 or its undergraduate equivalent of ECEN (ELEN) 110. (4 units)&#x20;
 
 _**ECEN (ELEN) 217. Chaos Theory, Metamathematics and the Limits of Knowledge: A Scientific Perspective on Religion**_\
@@ -604,7 +601,7 @@ _**ECEN (ELEN) 223. Digital Signal Processing System Development**_\
 Hands-on experience with hardware and software development for real-time DSP applications. Students design, program, and build a DSP application from start to finish. Such applications include image processing, speech/audio/video compression, multimedia, etc. The development environment includes Texas Instruments TMS320C6X development systems. Prerequisites: ECEN (ELEN) 234 or ECEN (ELEN) 233E and knowledge of “C” programming language. (4 units)
 
 _**ECEN (ELEN) 226. Machine Learning and Signal Processing using FPGAs**_\
-Implementation of machine learning inference pipelines in an FPGA; signal processing and hardware architecture to take a trained network through to a hardware realization; overview of the latest generation FPGA technology and C++ High Level Synthesis (HLS) FPGA design flows. Students will learn how to implement, in fixed-point arithmetic, in hardware, the linear-algebra operations that are at the center of virtually all ML networks such as GoogleNet, ResNet and other well-known network architectures. Implementation of the common linear algebra functions and nonlinear functions that form the core components of many common networks will be covered. FPGA implementation of a multi-layer perceptron network and a CNN (convolutional neural network) accelerator using a HLS design flow. Prerequisites: (ECEN (ELEN) 133, ECEN (ELEN) 233E or ECEN (ELEN) 234) and (ECEN (ELEN) 127 or the equivalent) and C++ programming experience. (2 units)
+Implementation of machine learning inference pipelines in an FPGA; signal processing and hardware architecture to take a trained network through to a hardware realization; overview of the latest generation FPGA technology and C++ High Level Synthesis (HLS) FPGA design flows. Students will learn how to implement, in fixed-point arithmetic, in hardware, the linear-algebra operations that are at the center of virtually all ML networks such as GoogleNet, ResNet and other well-known network architectures. Implementation of the common linear algebra functions and nonlinear functions that form the core components of many common networks will be covered. FPGA implementation of a multi-layer perceptron network and a CNN (convolutional neural network) accelerator using a HLS design flow. Prerequisites: ECEN (ELEN) 133, ECEN (ELEN) 233E or ECEN (ELEN) 234) and ECEN (ELEN) 127 or the equivalent and C++ programming experience. (2 units)
 
 _**ECEN (ELEN) 229. Topics in Network Theory**_ \
 Various topics. (2 units)
@@ -619,19 +616,19 @@ _**ECEN (ELEN) 232. Introduction to Nonlinear Systems**_\
 This course is an Introduction to nonlinear systems. Topics include introducing some nonlinear phenomena, phase-plane analysis including phase portraits, singular points, linearization, limit cycles, Poincare-Bendixson criteria, Lyapunov stability theorems, LaSalle's invariance principle, stability analysis of linear system via Lyapunov stability theorem, Lyapunov stability analysis of nonautonomous, and linear time-varying systems. Also listed as MECH 423. Prerequisite: MECH 323/ ECEN (ELEN) 236 or its equivalent. (2 units)
 
 _**ECEN (ELEN) 233. Digital Signal Processing**_ \
-Description of discrete signals and systems. Z-transform. Convolution and transfer functions. System response and stability. Fourier transform and discrete Fourier transform. Sampling theorem. Digital filtering. Also listed as COEN (CSEN)201. Prerequisite: ECEN (ELEN) 210 or its undergraduate equivalent of ECEN (ELEN) 110. (2 units)
+Description of discrete signals and systems. Z-transform. Convolution and transfer functions. System response and stability. Fourier transform and discrete Fourier transform. Sampling theorem. Digital filtering. Also listed as CSEN (COEN) 201. Prerequisite: ECEN (ELEN) 210 or its undergraduate equivalent of ECEN (ELEN) 110. (2 units)
 
 _**ECEN (ELEN) 233E. Digital Signal Processing I and II**_\
-Same description as ECEN (ELEN) 233 and ECEN (ELEN) 234. Credit not allowed for both ECEN (ELEN) 133 and 233E. Also listed as COEN (CSEN) 201E (4 units)
+Same description as ECEN (ELEN) 233 and ECEN (ELEN) 234. Credit not allowed for both ECEN (ELEN) 133 and 233E. Also listed as CSEN (COEN) 201E (4 units)
 
 _**ECEN (ELEN) 234. Digital Signal Processing II**_\
-Continuation of ECEN (ELEN) 233. Digital FIR and IIR filter design and realization techniques. Multirate signal processing. Fast Fourier transform. Quantization effects. Also listed as COEN (CSEN) 202. Prerequisite: ECEN (ELEN) 233. (2 units)
+Continuation of ECEN (ELEN) 233. Digital FIR and IIR filter design and realization techniques. Multirate signal processing. Fast Fourier transform. Quantization effects. Also listed as CSEN (COEN) 202. Prerequisite: ECEN (ELEN) 233. (2 units)
 
 _**ECEN (ELEN) 235. Estimation I**_\
 Introduction to Classical estimation. Minimum Variance Unbiased Estimator (MVUE) from Cramer-Rao theorem, sufficient statistics, and linear estimator constraint. Maximum Likelihood Estimation (MLE) method. Least Square (LS) methods. Prerequisites: AMTH 211 or AMTH 212, AMTH 246 or AMTH 247, familiarity with MATLAB. (2 units)
 
 _**ECEN (ELEN) 236. Modern Control Systems I**_  \
-Concept of state-space descriptions of dynamic systems. Relations to frequency domain descriptions. State-space realizations and canonical forms. Stability. Controllability and observability. State feedback and observer design. Also listed as MECH 323. Prerequisite: ECEN (ELEN)130 or its undergraduate equivalent. (2 units)
+Concept of state-space descriptions of dynamic systems. Relations to frequency domain descriptions. State-space realizations and canonical forms. Stability. Controllability and observability. State feedback and observer design. Also listed as MECH 323. Prerequisite: ECEN (ELEN) 130 or its undergraduate equivalent. (2 units)
 
 _**ECEN (ELEN) 237. Optimal Control I**_\
 Introduction to the principles and methods of the optimal control approach: performance measure criteria including the definition of minimum-time, terminal control, minimum-control effort, tracking and regulator problems, calculus of variation applied to optimal control problems including Euler-Lagrange equation, transversality condition constraint, Pontryagin’s minimum principle (PMP), linear quadratic regulator (LQR) and tracking control problems. Also listed as MECH 429. Prerequisite: ECEN (ELEN) 236. Students are expected to be proficient in MATLAB/Simulink. (2 units)
@@ -639,8 +636,11 @@ Introduction to the principles and methods of the optimal control approach: perf
 _**ECEN (ELEN) 238. Model Predictive Control**_\
 Review of state-space model in discrete time, stability, optimal control, prediction, Kalman filter. Measurable and unmeasurable disturbance, finite and receding horizon control, MPC formulation and design. Also listed as MECH 420. Prerequisite: ECEN (ELEN) 237 or MECH 324 or equivalent. (2 units)
 
-_**ECEN (ELEN) 239. Topics in Systems Theory**_ \
+_**ECEN (ELEN) 239A. Topics in Systems Theory**_ \
 Various topics. (2 units)
+
+_**ECEN (ELEN) 239B. Topics in Systems Theory**_ \
+Various topics. (4 units)
 
 _**ECEN (ELEN) 241. Introduction to Communication**_\
 Power spectral density and correlation; bandwidth; random processes; carrier frequency, modulation and baseband versus passband modulation. Prerequisite: ECEN (ELEN) 210 or its undergraduate equivalent of ECEN (ELEN) 110. (2 units)
@@ -652,7 +652,7 @@ _**ECEN (ELEN) 243. Digital Communication Systems**_\
 Digital modulation techniques including: QAM, PSK, FSK; matched-filter receivers; maximum-likelihood and maximum a priori detection. Signal-to-Noise ratio evaluation and its impact on error rate. Prerequisite: ECEN (ELEN) 241 or equivalent. (2 units)
 
 _**ECEN (ELEN) 244. Information Theory**_\
-Introduction to the fundamental concepts of information theory. Source models. Source coding. Discrete channel without memory. Continuous channel. Alternate years. Also listed as COEN (SCEN) 341. Prerequisite: AMTH 211. (2 units)
+Introduction to the fundamental concepts of information theory. Source models. Source coding. Discrete channel without memory. Continuous channel. Alternate years. Also listed as CSEN (COEN) 341. Prerequisite: AMTH 211. (2 units)
 
 _**ECEN (ELEN) 247. Communication Systems Modeling Using Simulink I**_\
 The objective of this course is for students to acquire and consolidate their practical skills of digital communication systems design through building simulation of some carefully selected prototype systems using MATLAB® and Simulink.® Examples include communication systems. The components and the principle of operation of each system will be presented in a lecture, together with key simulation techniques required. Topics include digital modulation and synchronization. Prerequisites: ECEN (ELEN) 233 and 243. (2 units)
@@ -752,7 +752,7 @@ _**ECEN (ELEN) 287. Energy Storage Systems**_ \
 Energy storage systems play an essential role in the utilization of renewable energy. They are used to provide reserve power under different circumstances and needs such as peak shaving, load leveling, and ancillary services. Power electronics equipment converts the battery power into usable grid power. The course will survey batteries, pumped storage, flywheels, ultracapacitors, etc., with an analysis of the advantages and disadvantages, and uses of each. Also listed as ENGR 339. (2 units)
 
 _**ECEN (ELEN) 288. Energy Management Systems**_\
-Energy Management Systems (EMS) is a class of control systems that electric utility companies utilize for three main purposes: monitoring, engagement, and reporting. Monitoring tools allow electric utility companies to manage their assets to maintain the sustainability and reliability of power generation and delivery. Engagement tools help in reducing energy production costs, transmission and distribution losses by optimizing utilization of resources and/or power network elements. Reporting tools to track operational costs and energy obligations. Also listed as COEN (CSEN) 282. (2 units)
+Energy Management Systems (EMS) is a class of control systems that electric utility companies utilize for three main purposes: monitoring, engagement, and reporting. Monitoring tools allow electric utility companies to manage their assets to maintain the sustainability and reliability of power generation and delivery. Engagement tools help in reducing energy production costs, transmission and distribution losses by optimizing utilization of resources and/or power network elements. Reporting tools to track operational costs and energy obligations. Also listed as CSEN (COEN) 282. (2 units)
 
 _**ECEN (ELEN) 289. Topics in Energy Systems**_ \
 Various topics (2 units)
@@ -776,7 +776,7 @@ _**ECEN (ELEN) 330. Introduction to Stochastic Control for Supply and Demand Net
 Managing inventories plays an important role in supply and demand network optimization. This course covers basic inventory models. The foundations needed to characterize optimal policies using deterministic and stochastic control strategies. Markov chain. Optimal control. Stochastic control. Prerequisites: Statistics, Probability, ECEN (ELEN) 238 or equivalent. (2 units)
 
 _**ECEN (ELEN) 331. Autonomous Driving Systems**_\
-This course introduces students to autonomous driving systems. Through lectures, labs, and assignments, students will gain hands-on experience on the major modules of the system including localization, sensor fusion, perception, detection, segmentation, scene understanding, tracking, prediction, path planning, control, routing, and decision making. Prerequisites: First-year graduate standing in ECEN (ELEN), CSEN or MECH and knowledge of programming. (2 units)
+This course introduces students to autonomous driving systems. Through lectures, labs, and assignments, students will gain hands-on experience on the major modules of the system including localization, sensor fusion, perception, detection, segmentation, scene understanding, tracking, prediction, path planning, control, routing, and decision making. Prerequisites: First-year graduate standing in ECEN, CSEN or MECH and knowledge of programming. (2 units)
 
 _**ECEN (ELEN) 331L. Autonomous Driving Systems Lab**_\
 Lab for Autonomous Driving Systems, ECEN (ELEN) 331. (1 unit)
@@ -842,13 +842,13 @@ _**ECEN (ELEN) 380. Economics of Energy**_\
 The focus of the course is the finances of power and energy, including applications of blockchain ledgers, and transactive energy. Roles of policy, regulation and markets that govern production and supply of electricity will be examined. Operational aspects of making and moving electricity are discussed and Levelized Cost of Energy (LOCE) models are developed. Distributed resource management, power flow optimization and integration of large-scale renewables will be considered. Prerequisite: ECEN (ELEN) 183 or ECEN (ELEN) 281A and ECEN (ELEN) 281B. (2 units)
 
 _**ECEN (ELEN) 387. VLSI Design I**_\
-Introduction to VLSI design and methodology. Analysis of CMOS integrated circuits. Circuit modeling and performance evaluation supported by simulation (SPICE). Ratioed, switch, and dynamic logic families. Design of sequential elements. Full-custom layout using CAD tools. Also listed as COEN (CSEN) 203. Prerequisite: COEN(CSEN/ECEN (ELEN) 127 or equivalent. (2 units)
+Introduction to VLSI design and methodology. Analysis of CMOS integrated circuits. Circuit modeling and performance evaluation supported by simulation (SPICE). Ratioed, switch, and dynamic logic families. Design of sequential elements. Full-custom layout using CAD tools. Also listed as CSEN (COEN) 203. Prerequisite: CSEN (COEN)/ECEN (ELEN) 127 or equivalent. (2 units)
 
 _**ECEN (ELEN) 388. VLSI Design II**_\
-Continuation of VLSI design and methodology. Design of arithmetic circuits and memory. Comparison of semi-custom versus fully custom design. General concept of floor planning, placement, and routing. Introduction of signal integrity through the interconnect wires. Also listed as COEN (CSEN) 204. Prerequisite: COEN (CSEN)203/ECEN (ELEN) 387 or equivalent, or ECEN (ELEN) 153. (2 units)
+Continuation of VLSI design and methodology. Design of arithmetic circuits and memory. Comparison of semi-custom versus fully custom design. General concept of floor planning, placement, and routing. Introduction of signal integrity through the interconnect wires. Also listed as COEN (CSEN) 204. Prerequisite: CSEN (COEN) 203/ECEN (ELEN) 387 or equivalent, or ECEN (ELEN) 153. (2 units)
 
 _**ECEN (ELEN) 389. VLSI Physical Design**_\
-Physical design is the phase that follows logic design, and it includes the following steps that precede the fabrication of the IC logic partitioning: cell layout, floor planning, placement, routing. These steps are examined in the context of very deep submicron technology. Effects of parasitic devices and packaging are also considered. Power distribution and thermal effects are essential issues in this design phase. Also listed as COEN (CSEN) 305. Prerequisite: COEN(SCEN) 204/ECEN (ELEN) 388 or equivalent. (2 units)
+Physical design is the phase that follows logic design, and it includes the following steps that precede the fabrication of the IC logic partitioning: cell layout, floor planning, placement, routing. These steps are examined in the context of very deep submicron technology. Effects of parasitic devices and packaging are also considered. Power distribution and thermal effects are essential issues in this design phase. Also listed as CSEN (COEN) 305. Prerequisite: CSEN (COEN) 204/ECEN (ELEN) 388 or equivalent. (2 units)
 
 _**ECEN (ELEN) 390. Semiconductor Device Technology Reliability**_\
 Reliability challenges in device design, fabrication technology, and test methodology. Device design issues such as design tolerances for latch-up, hot carrier injection, and electromigration. Fabrication technology challenges for sub-micron processes. Test methodology in terms of design feasibility and high-level test/fault coverage. IC yield models and yield enhancement techniques. (2 units)
@@ -857,10 +857,10 @@ _**ECEN (ELEN) 391. Process and Device Simulation with Technology Computer Aided
 Review of semiconductor technology fundamentals. TCAD tools and methods as a design aid for visualizing physical device quantities at different stages of design and influencing device process parameters and circuit performance. Introduction to numerical simulation and TCAD, 2D process and device simulation, CMOS process flow and device design, device characterization and parameter extraction, circuit simulation. Introduction to virtual IC factory concept, integration of process, device and circuit simulation tools. The concept of process variation, statistical analysis and modeling methods, such as Monte Carlo sampling, correlation analysis, response surface modeling. Prerequisite: ECEN (ELEN) 274. (2 units)
 
 _**ECEN (ELEN) 421. Speech Coding I**_\
-Review of sampling and quantization. Introduction to Digital Speech Processing. Elementary principles and applications of speech analysis, synthesis, and coding. Speech signal analysis and modeling. The LPC Model. LPC Parameter quantization using Line Spectrum Pairs (LSPs). Digital coding techniques: Quantization, Waveform coding. Predictive coding, Transform coding, Hybrid coding, and Sub-band coding. Applications of speech coding in various systems. Standards for speech and audio coding. Also listed as COEN (CSEN) 348. Prerequisite: ECEN (ELEN) 233 and/or 334 or equivalent. (2 units)
+Review of sampling and quantization. Introduction to Digital Speech Processing. Elementary principles and applications of speech analysis, synthesis, and coding. Speech signal analysis and modeling. The LPC Model. LPC Parameter quantization using Line Spectrum Pairs (LSPs). Digital coding techniques: Quantization, Waveform coding. Predictive coding, Transform coding, Hybrid coding, and Sub-band coding. Applications of speech coding in various systems. Standards for speech and audio coding. Also listed as CSEN (COEN) 348. Prerequisite: ECEN (ELEN) 233 and/or 334 or equivalent. (2 units)
 
 _**ECEN (ELEN) 422. Speech Coding II**_\
-Advanced aspects of speech analysis and coding. Analysis-by-Synthesis (AbS) coding of speech, Analysis-as-Synthesis (Aas) coding of speech. Code-Excited Linear Prediction speech coding. Error-control in speech transmission. Application of coders in various systems (such as wireless phones). International Standards for Speech (and Audio) Coding. Real-Time DSP implementation of speech coders. Speech recognition and Biometrics. Research project on speech processing. Also listed as COEN (CSEN) 349. Prerequisite: ECEN (ELEN) 421. (2 units)
+Advanced aspects of speech analysis and coding. Analysis-by-Synthesis (AbS) coding of speech, Analysis-as-Synthesis (Aas) coding of speech. Code-Excited Linear Prediction speech coding. Error-control in speech transmission. Application of coders in various systems (such as wireless phones). International Standards for Speech (and Audio) Coding. Real-Time DSP implementation of speech coders. Speech recognition and Biometrics. Research project on speech processing. Also listed as CSEN (COEN) 349. Prerequisite: ECEN (ELEN) 421. (2 units)
 
 _**ECEN (ELEN) 423. Introduction to Voice-over-IP**_\
 Overview of voice encoding standards relevant to VoIP: G.711, G.726, G.723.1, G.729, G.729AB. VoIP packetization and signaling protocols: RTP/RTCP, H.323, MGCP/MEGACO, SIP. VoIP impairments and signal processing algorithms to improve QoS. Echo cancellation, packet loss concealment, adaptive jitter buffer, Decoder clock synchronization. Network convergence: Soft-switch architecture, VoIP/PSTN, interworking (Media and Signaling Gateways), signaling translation (SS7, DTMF/MF, etc.), fax over IP. Prerequisite: ECEN (ELEN) 233 or knowledge of basic digital signal processing concepts. (2 units)
@@ -902,7 +902,7 @@ _**ECEN (ELEN) 462. Advanced Mechatronics III**_\
 Electro-mechanical modeling and system development. Introduction to mechatronic support subsystems: power, communications. Fabrication techniques. Functional implementation of hybrid systems involving dynamic control and command logic. Also listed as MECH 209. Prerequisite: MECH 208 or ECEN (ELEN) 461. (2 units)
 
 _**ECEN (ELEN) 500. Logic Analysis and Synthesis**_\
-Analysis and synthesis of combinational and sequential digital circuits with attention to static, dynamic, and essential hazards. Algorithmic techniques for logic minimization, state reductions, and state assignments. Decomposition of state machine, algorithmic state machine. Design for test concepts. Also listed as COEN (CSEN) 200. Prerequisite: ECEN (ELEN) 127C or equivalent. (2 units)
+Analysis and synthesis of combinational and sequential digital circuits with attention to static, dynamic, and essential hazards. Algorithmic techniques for logic minimization, state reductions, and state assignments. Decomposition of state machine, algorithmic state machine. Design for test concepts. Also listed as CSEN (COEN) 200. Prerequisite: ECEN (ELEN) 127C or equivalent. (2 units)
 
 _**ECEN (ELEN) 501. Embedded Systems**_\
 Embedded Systems are computing systems that measure, control, and interact. This course considers cost, speed, and power optimizations in design. The course and accompanying lab will create real systems with physical device interfaces and consider real-time behaviors. The course will design with embedded development environments, and explore bare-metal programming and debugging techniques, and embedded system validation. Co-requisite: ECEN (ELEN) 501L. (2 units)
@@ -917,10 +917,10 @@ _**ECEN (ELEN) 503. Hardware-Software Codesign**_\
 The design, analysis, and verification of mixed hardware-software systems focusing on underlying modeling concepts, the design of hardware-software interfaces, hardware/software partitioning, and the trade-offs between hardware and software components. Real-time operating systems, hardware/software project management, and documentation. Co-simulation and mixed-mode testing and verification. Prerequisite: A grade of C- or better in ECEN (ELEN) 502 or equivalent. (2 units)
 
 _**ECEN (ELEN) 510. Computer Architecture Fundamentals**_\
-Computer instruction definition and formatting, the use of opcodes and operands. Instruction execution, control transfer. Pipelining. Hazards. Caches. Prerequisites: A grade of C- or better in either COEN (CSEN) or ECEN (ELEN) 21, or equivalent. (2 units)
+Computer instruction definition and formatting, the use of opcodes and operands. Instruction execution, control transfer. Pipelining. Hazards. Caches. Prerequisites: A grade of C- or better in either CSEN (COEN) or ECEN (ELEN) 21, or equivalent. (2 units)
 
 _**ECEN (ELEN) 511. Advanced Computer Architecture**_\
-Advanced architectural concepts built upon fundamentals. Superscalar and out-of-order execution. Memory system implementation concepts. DMA and virtual memory. Multiprocessing, including multi-core and multi-threaded architectures. Shared memory and cache coherence. Prerequisite: ECEN (ELEN) 122 or COEN (CSEN) 122 or ECEN (ELEN) 510 or equivalent. (2 units)
+Advanced architectural concepts built upon fundamentals. Superscalar and out-of-order execution. Memory system implementation concepts. DMA and virtual memory. Multiprocessing, including multi-core and multi-threaded architectures. Shared memory and cache coherence. Prerequisite: ECEN (ELEN) 122 or CSEN (COEN) 122 or ECEN (ELEN) 510 or equivalent. (2 units)
 
 _**ECEN (ELEN) 512. Advanced Computer Architecture II**_\
 Continuation of advanced architectural concepts. Hardware support for virtualization. CPU microarchitecture concepts such as branch prediction and non-blocking caches. More on cache coherence protocols. Multi-level cache hierarchies. Memory consistency and synchronization. Prerequisite: ECEN (ELEN) 511 or equivalent. (2 units)
@@ -959,16 +959,16 @@ _**ECEN (ELEN) 602. Modern Time Analysis**_\
 Analysis in logic design review of background materials and introduction of concepts of false path, combinational delay, and minimum cycle time of finite state machines. Study of efficient computational algorithms. Examination of retiming for sequential circuits, speed/area trade-off. Prerequisite: ECEN (ELEN) 500. (2 units)
 
 _**ECEN (ELEN) 603. Logic Design Using HDL**_\
-Algorithmic approach to design of digital systems. Use of hardware description languages for design specification. Structural, register transfer, and behavioral views of HDL. Simulation and synthesis of systems descriptions. Also listed as COEN (CSEN) 303. Prerequisite: ECEN (ELEN) 127 or equivalent. (2 units)
+Algorithmic approach to design of digital systems. Use of hardware description languages for design specification. Structural, register transfer, and behavioral views of HDL. Simulation and synthesis of systems descriptions. Also listed as CSEN (COEN) 303. Prerequisite: ECEN (ELEN) 127 or equivalent. (2 units)
 
 _**ECEN (ELEN) 608. Design for Testability**_\
-Principles and techniques of designing circuits for testability. Concept of fault models. The need for test development. Testability measures. Ad hoc rules to facilitate testing. Easily testable structures, PLAs. Scan-path techniques, full and partial scan. Built-in self-testing (BIST) techniques. Self-checking circuits. Use of computer-aided design (CAD) tools. Also listed as COEN (CSEN) 308. Prerequisite: ECEN (ELEN) 500 or equivalent. (2 units)
+Principles and techniques of designing circuits for testability. Concept of fault models. The need for test development. Testability measures. Ad hoc rules to facilitate testing. Easily testable structures, PLAs. Scan-path techniques, full and partial scan. Built-in self-testing (BIST) techniques. Self-checking circuits. Use of computer-aided design (CAD) tools. Also listed as CSEN (COEN) 308. Prerequisite: ECEN (ELEN) 500 or equivalent. (2 units)
 
 _**ECEN (ELEN) 609. Mixed-Signal DA and Test**_\
-Mixed-Signal test techniques using PLL and behavioral testing as major examples. Overview of the IEEE 1149.4 Mixed-Signal standard. Mixed-Signal DFT and BIST techniques with emphasis on test economics. Most recent industrial mixed-signal design and test EDA tools and examples of leading state-of-the-art SoCs. Prerequisites: ECEN (ELEN) 500 or COEN (CSEN) 200 and ECEN (ELEN) 387 or COEN (CSEN) 203. (2 units)
+Mixed-Signal test techniques using PLL and behavioral testing as major examples. Overview of the IEEE 1149.4 Mixed-Signal standard. Mixed-Signal DFT and BIST techniques with emphasis on test economics. Most recent industrial mixed-signal design and test EDA tools and examples of leading state-of-the-art SoCs. Prerequisites: ECEN (ELEN) 500 or CSEN (COEN) 200 and ECEN (ELEN) 387 or CSEN (COEN) 203. (2 units)
 
 _**ECEN (ELEN) 613. SoC (System-on-Chip) Verification**_\
-This course presents various state-of-the-art verification techniques used to ensure the corrections of the SoC (System-on-Chip) design before committing it to manufacturing. Both Logical and Physical verification techniques will be covered, including Functional Verification, Static Timing, Power, and Layout Verification. Also, the use of Emulation, Assertion-based Verification, and Hardware/Software Co-Verification techniques will be presented. Also listed as COEN 207. Prerequisites: ECEN (ELEN) 500 or COEN (CSEN) 200 and ECEN (ELEN) 603 or equivalent. (2 units)
+This course presents various state-of-the-art verification techniques used to ensure the corrections of the SoC (System-on-Chip) design before committing it to manufacturing. Both Logical and Physical verification techniques will be covered, including Functional Verification, Static Timing, Power, and Layout Verification. Also, the use of Emulation, Assertion-based Verification, and Hardware/Software Co-Verification techniques will be presented. Also listed as COEN 207. Prerequisites: ECEN (ELEN) 500 or CSEN (COEN) 200 and ECEN (ELEN) 603 or equivalent. (2 units)
 
 _**ECEN (ELEN) 617. Storage Systems – Technology and Architecture**_\
 The course will address the developments in storage systems. Increase in data storage has led to an increase in storage needs. This arises from the increase of mobile devices as well as increase in internet data storage. This course will provide the students good knowledge of different storage systems as well as challenges in data integrity. A discussion of the next generation of storage devices and architectures will also be done. (2 units)
@@ -980,25 +980,25 @@ _**ECEN (ELEN) 624 Signal Integrity in IC and PCB Systems**_\
 Analysis, modeling, and characterization of interconnects in electronic circuits; Transmission line theory; losses and frequency dependent parameters. Signal Integrity issues in high-speed/high-frequency circuits; means of identifying signal integrity problems. Reflection and crosstalk; analysis of coupled-line systems. Power distribution networks in VLSI and PCB environments and power integrity. Signal/Power integrity CAD. Prerequisite: ECEN (ELEN) 201. (2 units)
 
 _**ECEN (ELEN) 639. Audio and Speech Compression**_\
-Audio and speech compression. Digital audio signal processing fundamentals. Non-perceptual coding. Perceptual coding. Psychoacoustic model. High-quality audio coding. Parametric and structured audio coding. Audio coding standards. Scalable audio coding. Speech coding. Speech coding standards. Also listed as COEN (CSEN) 339. Prerequisites: AMTH 245 and COEN (CSEN) 279 or equivalent. (2 units)
+Audio and speech compression. Digital audio signal processing fundamentals. Non-perceptual coding. Perceptual coding. Psychoacoustic model. High-quality audio coding. Parametric and structured audio coding. Audio coding standards. Scalable audio coding. Speech coding. Speech coding standards. Also listed as CSEN (COEN) 339. Prerequisites: AMTH 245 and CSEN (COEN) 279 or equivalent. (2 units)
 
 _**ECEN (ELEN) 640. Digital Image Processing I**_\
-Digital image representation and acquisition, color representation; point and neighborhood processing; image enhancement; morphological filtering; Fourier, cosine and wavelet transforms. Also listed as COEN (CSEN) 340. Prerequisite: ECEN (ELEN) 233 or equivalent. (2 units)&#x20;
+Digital image representation and acquisition, color representation; point and neighborhood processing; image enhancement; morphological filtering; Fourier, cosine and wavelet transforms. Also listed as CSEN (COEN) 340. Prerequisite: ECEN (ELEN) 233 or equivalent. (2 units)&#x20;
 
 _**ECEN (ELEN) 641. Image and Video Compression**_\
-Image and video compression. Entropy coding. Prediction. Quantization. Transform coding and 2-D discrete cosine transform. Color compression. Motion estimation and compensation. Digital video. Image coding standards such as JPEG and JPEG family. Video coding standards such as the MPEG series and the H.26x series. H.264/MPEG-4 AVC coding. HEVC/H 265/MPEG-H Part 2 coding. VVC. Future JVET standard Rate-distortion theory and optimization. Visual quality and coding efficiency. Brief introduction to 3D video coding and 3D-HEVC. Deep learning approaches. Applications. Also listed as COEN (CSEN) 338. Prerequisites: AMTH 108, AMTH 245, basic knowledge of algorithms. (4 units)
+Image and video compression. Entropy coding. Prediction. Quantization. Transform coding and 2-D discrete cosine transform. Color compression. Motion estimation and compensation. Digital video. Image coding standards such as JPEG and JPEG family. Video coding standards such as the MPEG series and the H.26x series. H.264/MPEG-4 AVC coding. HEVC/H 265/MPEG-H Part 2 coding. VVC. Future JVET standard Rate-distortion theory and optimization. Visual quality and coding efficiency. Brief introduction to 3D video coding and 3D-HEVC. Deep learning approaches. Applications. Also listed as CSEN (COEN) 338. Prerequisites: AMTH 108, AMTH 245, basic knowledge of algorithms. (4 units)
 
 _**ECEN (ELEN) 642. Computational and Medical Imaging**_\
 Algorithms for indirect image formation using both optimization and model-based methods. Application includes computed tomography, magnetic resonance imaging, microscopy, remote sensing, super-resolution. Fourier-based and sparse iterative algorithms. Analysis of accuracy and resolution of image formation based on measurement geometry and statistics. Offered in alternate years. Also listed as BIOE 642. Prerequisites: AMTH 211 and either ECEN (ELEN) 233 or AMTH 358 or equivalent. (2 units)
 
 _**ECEN (ELEN) 643. Digital Image Processing II**_\
-Image restoration using least squares methods in image and spatial frequency domains; matrix representations; blind deconvolution; super-resolution methods; reconstructions from incomplete data; image segmentation methods, three-dimensional models from multiple views. Also listed as COEN (CSEN) 343. Prerequisite: COEN (CSEN) 340. (2 units)
+Image restoration using least squares methods in image and spatial frequency domains; matrix representations; blind deconvolution; super-resolution methods; reconstructions from incomplete data; image segmentation methods, three-dimensional models from multiple views. Also listed as CSEN (COEN) 343. Prerequisite: CSEN (COEN) 340. (2 units)
 
 _**ECEN (ELEN) 644. Computer Vision I**_\
-Introduction to image understanding, feature detection, description, and matching; feature based alignment; structure from motion stereo correspondence. Also listed as COEN (CSEN) 344. Prerequisites: ECEN (ELEN) 640 and knowledge of linear algebra. (2 units)&#x20;
+Introduction to image understanding, feature detection, description, and matching; feature based alignment; structure from motion stereo correspondence. Also listed as CSEN (COEN) 344. Prerequisites: ECEN (ELEN) 640 and knowledge of linear algebra. (2 units)&#x20;
 
 _**ECEN (ELEN) 645. Computer Vision II**_\
-Learning and inference in vision; regression models; deep learning for vision; classification strategies; detection and recognition of objects in images. Also listed as COEN (CSEN) 345. Prerequisites: ECEN (ELEN) 640 and knowledge of probability. (2 units)
+Learning and inference in vision; regression models; deep learning for vision; classification strategies; detection and recognition of objects in images. Also listed as CSEN (COEN) 345. Prerequisites: ECEN (ELEN) 640 and knowledge of probability. (2 units)
 
 _**ECEN (ELEN) 649. Topics in Image Processing and Analysis**_ \
 Various topics. (2 units)
@@ -1040,6 +1040,6 @@ _**ECEN (ELEN) 809. Special Topics in Human-Machine Interaction**_\
 Selected advanced topics in Human-Machine Interaction. Prerequisite: As specified in class schedule. (4 units)
 
 _**ECEN (ELEN) 921C. Introduction to Logic Design**_\
-Boolean functions and their minimization. Designing combinational circuits, adders, multipliers, multiplexers, decoders. Noise margin, propagation delay. Bussing. Memory elements: latches and flip-flops; timing; registers; counters. Introduction to FPGAs and the need for the use of HDL. Taught in the graduate time format. Foundation course not for graduate credit. Also listed as COEN (CSEN) 921C. (2 units)
+Boolean functions and their minimization. Designing combinational circuits, adders, multipliers, multiplexers, decoders. Noise margin, propagation delay. Bussing. Memory elements: latches and flip-flops; timing; registers; counters. Introduction to FPGAs and the need for the use of HDL. Taught in the graduate time format. Foundation course not for graduate credit. Also listed as CSEN (COEN) 921C. (2 units)
 
 \

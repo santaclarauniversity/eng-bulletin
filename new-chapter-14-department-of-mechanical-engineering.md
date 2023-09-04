@@ -380,7 +380,7 @@ _**MECH 155. Astrodynamics**_\
 This course provides the foundations of basic gravitation and orbital theory. Topics include Review of particle dynamics, classical orbital elements, basic transformation matrices, ground tracks, Hohmann transfer, coplanar rendezvous, combined change maneuver, and interplanetary flight. Prerequisite: MECH 45 or equivalent, and MECH 140. (4 units)
 
 _**MECH 156. Introduction to Nanotechnology**_\
-Introduction to the field of nanoscience and nanotechnology. Properties of nanomaterials and devices. Nanoelectronics: from silicon and beyond. Measurements of nanosystems. Applications and implications. Laboratory experience is an integral part of the course.      Also listed as ELEN 156. Prerequisites: PHYS 33 and either PHYS 34 or MECH 15. Corequisite: MECH 156L. (4 units)
+Introduction to the field of nanoscience and nanotechnology. Properties of nanomaterials and devices. Nanoelectronics: from silicon and beyond. Measurements of nanosystems. Applications and implications. Laboratory experience is an integral part of the course.      Also listed as ECEN(ELEN) 156. Prerequisites: PHYS 33 and either PHYS 34 or MECH 15. Corequisite: MECH 156L. (4 units)
 
 _**MECH 156L. Introduction to Nanotechnology Laboratory**_\
 Optional laboratory for MECH 156. (1 unit)
@@ -392,7 +392,7 @@ _**MECH 158. Aerospace Propulsion Systems**_\
 Fundamentals of air breathing and rocket jet propulsion. Gas dynamics fundamentals, review of thermodynamic relation. Basic theory of aircraft gas turbine engines, propulsive efficiency, and application of Brayton cycle to gas turbine engine analysis. Rocket engine nozzle configuration and design. Thrust Equation. Chemical rocket engine fundamentals. Solid versus liquid propellant rockets. Prerequisites: MECH 121, MECH 122 and MECH 122L. (4 units)
 
 _**MECH 160. Modern Instrumentation for Engineers**_\
-Introduction to engineering instrumentation, sensors, electric circuits, computer data acquisition, hardware and software, sampling theory, statistics, and error analysis. Theory of pressure, temperature, acceleration, and strain measurement. Prerequisites: MECH 123 or      MECH 142     . Corequisite: MECH 160L. (4 units)
+Introduction to engineering instrumentation, sensors, electric circuits, computer data acquisition, hardware and software, sampling theory, statistics, and error analysis. Theory of pressure, temperature, acceleration, and strain measurement. Prerequisites: MECH 123 or      MECH 142. Corequisite: MECH 160L. (4 units)
 
 _**MECH 160L. Modern Instrumentation for Engineers Laboratory**_\
 Laboratory work spans the disciplines of mechanical engineering: dynamics, controls, fluids, heat transfer, and thermodynamics, with emphasis on report writing. Students will design their own experiment and learn how to set up instrumentation using computer data acquisition hardware and software. Corequisite: MECH 160. (1 unit)
@@ -445,10 +445,10 @@ Investigation of an engineering problem and writing an acceptable report. Weekly
 ## Graduate Courses
 
 _**MECH 200. Advanced Engineering Mathematics I**_\
-Method of solution of the first, second, and higher order differential equations (ODEs). Integral transforms including Laplace transforms, Fourier series and Fourier transforms.Cross-listed with AMTH 200. (2 units)
+Method of solution of the first, second, and higher order differential equations (ODEs). Integral transforms including Laplace transforms, Fourier series and Fourier transforms. Cross-listed with AMTH 200. (2 units)
 
 _**MECH 201. Advanced Engineering Mathematics II**_\
-Method of solution of partial differential equations (PDEs) including separation of variables, Fourier series, and Laplace transforms. Introduction to calculus of variations. Selected topics from vector analysis and linear algebra. Cross-listed with AMTH 201.Prerequisite: AMTH/MECH 200. (2 units)
+Method of solution of partial differential equations (PDEs) including separation of variables, Fourier series, and Laplace transforms. Introduction to calculus of variations. Selected topics from vector analysis and linear algebra. Cross-listed with AMTH 201. Prerequisite: AMTH/MECH 200. (2 units)
 
 _**MECH 202. Advanced Engineering Mathematics I and II**_\
 Method of solution of the first, second, and higher order ordinary differential equations, Laplace transforms, Fourier series and Fourier transforms, method of solution of partial differential equations including separation of variables, Fourier series, and Laplace transforms. Selected topics from vector analysis, linear algebra, and calculus of variations. Also listed as AMTH 202. (4 units)
@@ -463,10 +463,10 @@ _**MECH 207. Advanced Mechatronics I**_\
 Theory of operation, analysis, and implementation of fundamental physical and electrical device components: basic circuit elements, transistors, op-amps, sensors, electro-mechanical actuators. Application to the development of simple devices. Also listed as ELEN 460. Prerequisite: MECH 141 or ELEN 100. (3 units)
 
 _**MECH 208. Advanced Mechatronics II**_\
-Theory of operation, analysis, and implementation of fundamental controller implementations: analog computers, digital state machines, microcontrollers. Application to the development of closed-loop control systems. Also listed as ELEN 461. Prerequisites: MECH 207 and 217. (3 units)
+Theory of operation, analysis, and implementation of fundamental controller implementations: analog computers, digital state machines, microcontrollers. Application to the development of closed-loop control systems. Also listed as ECEN (ELEN) 461. Prerequisites: MECH 207 and 217. (3 units)
 
 _**MECH 209. Advanced Mechatronics III**_\
-Electro-mechanical modeling and system development. Introduction to mechatronic support subsystems: power, communications. Fabrication techniques. Functional implementation of hybrid systems involving dynamic control and command logic. Also listed as ELEN 462. Prerequisite: MECH 208. (2 units)
+Electro-mechanical modeling and system development. Introduction to mechatronic support subsystems: power, communications. Fabrication techniques. Functional implementation of hybrid systems involving dynamic control and command logic. Also listed as ECEN (ELEN) 462. Prerequisite: MECH 208. (2 units)
 
 _**MECH 210. Advanced Mechatronics IV**_\
 Application of mechatronics knowledge and skills to the development of an industry- or laboratory-sponsored mechatronics device/system. Systems engineering, concurrent design, and project management techniques. Performance assessment, verification, and validation. Advanced technical topics appropriate to the project may include robotic teleoperation, human-machine interfaces, multi-robot collaboration, and other advanced applications. Prerequisite: MECH 209. (2 units)
@@ -511,7 +511,7 @@ _**MECH 242. Advanced Heat Transfer**_\
 Conservation equations to derive governing relations for fundamental heat transfer phenomena. More in-depth approach for Conduction; Convection; and Radiation. Prerequisite: MECH 123 or Undergraduate Heat Transfer. (4 units)
 
 _**MECH 251. Finite Element Methods I**_\
-Introduction to finite elements; direct and variational basis for the governing equations; method of weighted residuals; elements and interpolating functions. Applications to general field problems: elasticity, fluid mechanics, and heat transfer. Extensive use of software packages. Cross-listed with MECH151. Prerequisites: MECH 45 or equivalent and AMTH 106. (4 units)
+Introduction to finite elements; direct and variational basis for the governing equations; method of weighted residuals; elements and interpolating functions. Applications to general field problems: elasticity, fluid mechanics, and heat transfer. Extensive use of software packages. Cross-listed with MECH 151. Prerequisites: MECH 45 or equivalent and AMTH 106. (4 units)
 
 _**MECH 252. Finite Element Methods II**_\
 Solution of nonlinear problems using finite element analysis. Methods for solving nonlinear matrix equations. Material, geometrical, boundary condition (contact) and other types of nonlinearities and application to solid mechanics. Transient nonlinear problems in thermal and fluid mechanics. Application of commercial FF codes to nonlinear analysis. Prerequisite: MECH 251. (4 units)
@@ -529,7 +529,7 @@ _**MECH 269. Computational Fluid Mechanics II**_\
 Continuation of MECH 268. Generalized coordinate systems. Multidimensional compressible flow problems, turbulence modeling. Prerequisite: MECH 268. (2 units)
 
 _**MECH 271. Turbulent and Convective Flow**_ \
-Similarity solutions, instability, fundamentals of turbulence, convective heat transfer. Analytical and approximate solution techniques. Prerequisite: MECH 270. (4(?) units)
+Similarity solutions, instability, fundamentals of turbulence, convective heat transfer. Analytical and approximate solution techniques. Prerequisite: MECH 270. (4 units)
 
 _**MECH 275. Design for Competitiveness**_\
 Overview of current design techniques aimed at improving global competitiveness. Design strategies and specific techniques. Group design projects in order to put these design ideas into simulated practice. (2 units)
@@ -544,10 +544,10 @@ _**MECH 285. Computer-Aided Design of Mechanisms**_\
 Kinematic synthesis of mechanisms. Graphical and analytical mechanism synthesis techniques for motion generation, function generation, and path generation problems. Overview of various computer software packages available for mechanism design. (2 units)
 
 _**MECH 286. Introduction to Wind Energy Engineering**_\
-Introduction to renewable energy, history of wind energy, types and applications of various wind turbines, wind characteristics and resources, introduction to different parts of a wind turbine including the aerodynamics of propellers, mechanical systems, electrical and electronic systems, wind energy system economics, environmental aspects and impacts of wind turbines, and the future of wind energy. Also listed as ELEN 286. (2 units)
+Introduction to renewable energy, history of wind energy, types and applications of various wind turbines, wind characteristics and resources, introduction to different parts of a wind turbine including the aerodynamics of propellers, mechanical systems, electrical and electronic systems, wind energy system economics, environmental aspects and impacts of wind turbines, and the future of wind energy. Also listed as ECEN (ELEN) 286. (2 units)
 
 _**MECH 287. Introduction to Alternative Energy Systems**_\
-Assessment of current and potential future energy systems; covering resources, extraction, conversion, and end-use. Emphasis on meeting regional and global energy needs in a sustainable manner. Different renewable and conventional energy technologies will be presented and their attributes described to evaluate and analyze energy technology systems. Also listed as ELEN 280. (2 units)
+Assessment of current and potential future energy systems; covering resources, extraction, conversion, and end-use. Emphasis on meeting regional and global energy needs in a sustainable manner. Different renewable and conventional energy technologies will be presented and their attributes described to evaluate and analyze energy technology systems. Also listed as ECEN (ELEN) 280. (2 units)
 
 _**MECH 290. Graduate Research/Project**_\
 Research into topics of mechanical engineering; topics and credit to be determined by the instructor, report required, cannot be converted into Master or Ph.D. research. By arrangement. Prerequisites: instructor and department chair approval. (1–6 units)
@@ -577,7 +577,7 @@ _**MECH 298. Independent Study**_\
 By arrangement. (1–6 units)
 
 _**MECH 299. Master’s Thesis**_ \
-By arrangement. May be repeated up to 6 units. (1–3 units)
+By arrangement. May be repeated up to 6 units. (1–4 units)
 
 _**MECH 305. Advanced Vibrations**_ \
 Response of single and two-degrees-of-freedom systems to initial, periodic, nonperiodic excitations. Reviewing the elements of analytical dynamics, including the principle of virtual work, Hamilton’s principle and Lagrange’s equations. Response of multi-degree-of-freedom systems. Modeling and dynamic response of discrete vibrating elastic bodies. Analytical techniques for solving dynamic and vibration problems. Vector-tensor-matrix formulation with practical applications to computer simulation. Dynamic response of continuous elastic systems. Strings, membranes, beams, and plates exposed to various dynamic loading. Applications to aero-elastic systems and mechanical systems. Modal analysis and finite element methods applied to vibrating systems. Prerequisite: MECH 141. (4 units)
@@ -589,7 +589,7 @@ _**MECH 313. Advanced Aerospace Structures**_\
 Advanced aircraft, spacecraft structural design and analysis. Airworthiness requirements and load factors. Stress analysis of aircraft components including wing spars and box beams, fuselage structures, and structural materials. Defection analysis of structural systems. Conventional, stiffened, sandwich, and laminated composite structures. Thermal effects. Prerequisite: MECH 153. (4 units)
 
 _**MECH 323. Modern Control Systems I**_\
-Concept of state-space descriptions of dynamic systems. Relations to frequency domain descriptions. State-space realizations and canonical forms. Stability. Controllability and observability. State feedback and observer design. Also listed as ELEN 236. Prerequisite: MECH 142 or 217. (2 units)
+Concept of state-space descriptions of dynamic systems. Relations to frequency domain descriptions. State-space realizations and canonical forms. Stability. Controllability and observability. State feedback and observer design. Also listed as ECEN (ELEN) 236. Prerequisite: MECH 142 or 217. (2 units)
 
 _**MECH 324. Modern Control Systems II**_\
 Shaping the dynamic response, pole placement, reduced-order observers, LQG/LTR, introduction to random process and Kalman filters. Prerequisite: MECH 323. (2 units)
@@ -607,19 +607,19 @@ _**MECH 333. Experiments in Materials Science**_\
 This course is an introduction into experimental methods in materials science with the focus on the evaluation of structural and physical properties, especially at the nanoscale. A review of the fundamentals of X-ray, SEM, EDS, and TEM microanalysis represents the core of the course.  The main AFM imaging modes and their applications are covered. Practical implementation concepts of Optical, Electron and Atomic Force Microscopes are given along with sample preparation techniques, calibration methods, image analysis, and AFM artifacts. (2 units)
 
 _**MECH 335. Adaptive Control I**_\
-Overview of adaptive control, Lyapunov stability theory, direct and indirect model-reference adaptive control, least-squares system identification technique, neural network approximation, and neural-network adaptive control. Prerequisites: MECH 324, ELEN 237, and knowledge of Matlab/Simulink. (2 units)
+Overview of adaptive control, Lyapunov stability theory, direct and indirect model-reference adaptive control, least-squares system identification technique, neural network approximation, and neural-network adaptive control. Prerequisites: MECH 324, ECEN (ELEN) 237, and knowledge of Matlab/Simulink. (2 units)
 
 _**MECH 336. Adaptive Control II**_\
-Stability and robustness of adaptive controller, robust modification, bounded linear stability analysis, metrics-driven adaptive control, constraint-based optimal adaptive control, and advanced topics in adaptive control. Prerequisite: MECH 335 or instructor approval, and ELEN 237. (2 units)
+Stability and robustness of adaptive controller, robust modification, bounded linear stability analysis, metrics-driven adaptive control, constraint-based optimal adaptive control, and advanced topics in adaptive control. Prerequisite: MECH 335 or instructor approval, and ECEN (ELEN) 237. (2 units)
 
 _**MECH 337. Robotics I**_\
-Overview of robotic systems and applications. Components. Homogeneous transforms. Denavit-Hartenberg representation. Forward and inverse kinematics. Manipulator Jacobian. Singular configurations. Also listed as ELEN 337. Prerequisites: AMTH 245 and MECH 217. (2 units)
+Overview of robotic systems and applications. Components. Homogeneous transforms. Denavit-Hartenberg representation. Forward and inverse kinematics. Manipulator Jacobian. Singular configurations. Also listed as ECEN (ELEN) 337. Prerequisites: AMTH 245 and MECH 217. (2 units)
 
 _**MECH 338. Robotics II**_\
-Newton-Euler Dynamics. Trajectory planning. Linear manipulator control. Nonlinear manipulator control. Joint space control. Cartesian space control. Hybrid force/position control. Obstacle avoidance. Robotic simulation. Also listed as ELEN 338. Prerequisite: MECH 337. (2 units)
+Newton-Euler Dynamics. Trajectory planning. Linear manipulator control. Nonlinear manipulator control. Joint space control. Cartesian space control. Hybrid force/position control. Obstacle avoidance. Robotic simulation. Also listed as ECEN (ELEN) 338. Prerequisite: MECH 337. (2 units)
 
 _**MECH 339. Robotics III**_\
-Advanced topics: parallel manipulators, redundant manipulators, underactuated manipulators, coupled manipulator/platform dynamics and control, hardware experimentation and control, dextrous manipulation, multi-robot manipulation, current research in robotic manipulation. Also listed as ELEN 339. Prerequisite: MECH 338. (2 units)
+Advanced topics: parallel manipulators, redundant manipulators, underactuated manipulators, coupled manipulator/platform dynamics and control, hardware experimentation and control, dextrous manipulation, multi-robot manipulation, current research in robotic manipulation. Also listed as ECEN (ELEN) 339. Prerequisite: MECH 338. (2 units)
 
 _**MECH 345. Instrumentation and Design of Experiment**_\
 Overview of sensors and experimental techniques. Fundamentals of computer-based data acquisition and control, principles of operation of components in a data acquisitions system. Design and analysis of engineering experiments with emphasis on practical applications. Characterization of experimental accuracy, error analysis, and statistical analysis. Experiments involving measurements and control of equipment. (2 units)
@@ -631,7 +631,7 @@ _**MECH 371. Space Systems Design and Engineering I**_\
 A review of the engineering principles, technical subsystems, and design processes that serve as the foundation of developing and operating spacecraft systems. This course focuses on subsystems and analyses relating to orbital mechanics, power, command and data handling, and attitude determination and control. Also listed as ENGR 371. Note: MECH 371 and MECH 372 may be taken in any order. (4 units)
 
 _**MECH 372. Space Systems Design and Engineering II**_\
-A review of the engineering principles, technical subsystems, and design processes that serve as the foundation of developing and operating spacecraft systems. This course focuses on subsystems and analyses relating to mechanical, thermal, software, and sensing elements.      Also listed as ENGR 372. Note: MECH 371 and 372 may be taken in any order. (4 units)
+A review of the engineering principles, technical subsystems, and design processes that serve as the foundation of developing and operating spacecraft systems. This course focuses on subsystems and analyses relating to mechanical, thermal, software, and sensing elements. Also listed as ENGR 372. Note: MECH 371 and 372 may be taken in any order. (4 units)
 
 _**MECH 377. Continuum Mechanics**_\
 General introduction to the mechanics of continuous media. Topics include the kinematics of deformation, the concept of stress, and the balance laws for mass, momentum, and energy. This is followed by an introduction to constitutive theory with applications to established models for viscous fluids and elastic solids. Concepts are illustrated through the solution of tractable initial-boundary-value problems. Prerequisites: MECH 122, CENG 43, AMTH 106. (4 units)
@@ -646,16 +646,16 @@ _**MECH 415. Optimization in Mechanical Design**_\
 Introduction to optimization: design and performance criteria. Application of optimization techniques in engineering design, including case studies. Functions of single and multiple variables. Optimization with constraints. Prerequisites: AMTH 106 and AMTH 245. (2 units)
 
 _**MECH 420. Model Predictive Control**_\
-Review of state-space model in discrete time, stability, optimal control, prediction, Kalman filter. Measurable and unmeasurable disturbance, finite and receding horizon control, MPC formulation and design.      Also listed as ELEN 238. Prerequisite: MECH 323 or ELEN 236. (2 units)
+Review of state-space model in discrete time, stability, optimal control, prediction, Kalman filter. Measurable and unmeasurable disturbance, finite and receding horizon control, MPC formulation and design. Also listed as ECEN (ELEN) 238. Prerequisite: MECH 323 or ECEN (ELEN) 236. (2 units)
 
-_**MECH 423. Nonlinear Control I**_\
-Introduction to nonlinear phenomena, planar or second-order systems: qualitative behavior of linear systems, linearization, Lyapunov stability theory, LaSalle’s invariance principle, small gain theorem, and input-to-state stability. Prerequisite: MECH 323 or equivalent. (2 units)
+_**MECH 423.**_** Nonlinear Systems & Control I**\
+This course is an Introduction to nonlinear systems. Topics include introducing some nonlinear phenomena, phase-plane analysis including phase portraits, singular points, linearization, limit cycles, Poincare-Bendixson criteria, Lyapunov stability theorems, LaSalle's invariance principle, stability analysis of linear system via Lyapunov stability theorem, Lyapunov stability analysis of nonautonomous, and linear time-varying systems. Also listed as ECEN (ELEN) 232. Prerequisite: MECH 323/ ECEN (ELEN) 236 or its equivalent. (2 units)
 
-_**MECH 424. Nonlinear Control II**_\
-Continuation of MECH 423. Stabilization via linearization, Integral control, integral control via linearization, feedback linearization including input-output, input-state, and full-state linearization, sliding mode control, back-stepping, controllability and observability of nonlinear systems, model reference and self-tuning adaptive control. (2 units)
+_**MECH 424.**_** Nonlinear Systems & Control II**\
+This course is an Introduction to nonlinear control system design. Topics include Introduction to nonlinear control, stabilization via linearization, Integral control, integral control via linearization, feedback linearization including input-output, input-state, and full state linearization, sliding mode control, back stepping, introduction to adaptive control. Prerequisite: MECH 423/ ECEN (ELEN) 232 or its equivalent. (2 units)
 
 _**MECH 429. Optimal Control I**_\
-Introduction to the principles and methods of the optimal control approach: performance measure criteria including the definition of minimum-time, terminal control, minimum-control effort, tracking, and regulatory problems, calculus of variations applied to optimal control problems including Euler-Lagrange equation, transversality condition constraint, Pontryagin’s minimum principle (PMP), linear quadratic regulator (LQR) and tracking control problems. Also listed as ELEN (ECEN) 237. Prerequisite: MECH 323 or an equivalent course in linear system theory. Students are expected to be proficient in MATLAB/Simulink or MECH 142 or equivalent. (2 units)
+Introduction to the principles and methods of the optimal control approach: performance measure criteria including the definition of minimum-time, terminal control, minimum-control effort, tracking, and regulatory problems, calculus of variations applied to optimal control problems including Euler-Lagrange equation, transversality condition constraint, Pontryagin’s minimum principle (PMP), linear quadratic regulator (LQR) and tracking control problems. Also listed as ECEN (ELEN) 237. Prerequisite: MECH 323 or an equivalent course in linear system theory. Students are expected to be proficient in MATLAB/Simulink or MECH 142 or equivalent. (2 units)
 
 _**MECH 430. Optimal Control II**_\
 Continuation of Optimal Control I, control with state constraints, minimum-time and minimum-fuel problems, singular arcs, Bellman’s principle of optimality, dynamic programming, the Hamilton-Jacobi-Bellman (H-J-B) equation, and introduction to differential game theory including zero-sum game and linear quadratic differential game problem. Prerequisite: MECH 429 or an equivalent course. Students are expected to be proficient in MATLAB/Simulink. (2 units)&#x20;

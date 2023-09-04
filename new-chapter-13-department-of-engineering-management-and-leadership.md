@@ -31,7 +31,7 @@ Students are required to complete a minimum of 46 quarter units to complete the 
     1. One or more technical electives
     2. Additional classes from Graduate Core List
     3. Cooperative Education courses (ENGR 288/289)&#x20;
-    4. Combination of a, b, and c.
+    4. Combination of the 3 options above
 
 {% hint style="info" %}
 Please see Chapter 6 for additional information regarding the Enrichment Experience
@@ -52,17 +52,17 @@ Engineering Management and Leadership students are required to create a focused,
 
 Interdisciplinary Technical Stem programs can be created to pursue areas of interest within engineering management. Examples include the following.
 
-* **Industrial Engineering and/or Operations Research**: AMTH 210, 211, 245, 246, 362, 364, 370, 371 (optional: ELEN 235)
+* **Industrial Engineering and/or Operations Research**: AMTH 210, 211, 245, 246, 362, 364, 370, 371 (optional: ECEN (ELEN) 235)
   * Mathematical Finance option: substitute AMTH 367 for 2 of the above
-  * Network option: substitute ELEN 211 and/or 330 for 1 or 2 of the above
-* **Machine Learning**: AMTH 245, 246, 370, 371; ELEN 520/L, 521/L, 522, 523&#x20;
+  * Network option: substitute ECEN (ELEN) 211 and/or 330 for 1 or 2 of the above
+* **Machine Learning**: AMTH 245, 246, 370, 371; ECEN (ELEN) 520/L, 521/L, 522, 523&#x20;
 
 Courses for the Technical Stem of Engineering Management and Leadership are selected from the graduate course listings in the Graduate Bulletin. **However, not all graduate classes listed in the bulletin are considered technical in terms of fulfilling the technical stem requirements.** This is especially the case of ENGR courses. In addition, there are other limitations, some of which are listed below. Therefore, it is important that students complete a program of studies in their first term, to make sure all of the courses they select will fulfill the degree requirements.
 
 * All courses applied to the Engineering Management and Leadership degree must be graded courses—no P/NP courses are allowed.
 * Undergraduate courses cross-listed with graduate course numbers do not apply unless the student registers with the graduate course number.
-* Graduate seminars and capstone courses in other departments (such as BIOE 200, 294, 295, 296; ELEN 200; COEN 400, 485; and MECH 261, 290, 297) are not applicable.
-* The following courses do not count toward the technical stem: BIOE 210; CENG 208, 292; COEN 287,288; ELEN 217; all ENGR courses.&#x20;
+* Graduate seminars and capstone courses in other departments (such as BIOE 200, 294, 295, 296; ECEN (ELEN) 200; CSEN (COEN) 400, 485; and MECH 261, 290, 297) are not applicable.
+* The following courses do not count toward the technical stem: BIOE 210; CENG 208, 292; CSEN (COEN) 287,288; ECEN (ELEN) 217; all ENGR courses.&#x20;
 * Engineering Management and Leadership students are allowed to enroll in one unit of Independent Study or Directed Research under the direction of a full-time faculty member in the respective engineering department. Any additional units will not be counted toward graduation.
 * New courses are often developed and offered during the academic year that are not listed in this bulletin. It is important that students check with their advisor prior to enrolling in those courses to make sure they will count toward their degree.
 
@@ -173,7 +173,7 @@ _**EMGT 338. Software Product Management I**_\
 Introduction to product management, agile engineering planning and execution, customer analysis and value propositions, product vision, user testing, and product requirements mapping to a business model. A project-based course. (2 units)
 
 _**EMGT 339. Software Product Management II: From Product to Company**_\
-Building on EMGT 338, this course covers product market fit, building a minimum viable product, early business model validation, hiring core team members, and fundraising strategies. Focus is on the transition from an idea to a fundable pre-seed or seed stage startup. Prerequisite: EMGT 338. (4 units)
+Introduction to product management, agile engineering planning and execution, customer analysis and value propositions, product vision, user testing and product requirements mapping to a business model. Grading is based on a hands-on-project deliverable. Lecturer and Guest speakers will also cover product market fit, building a minimum viable product, early business model validation, hiring core team members, and fundraising strategies. Focus is on the transition from an idea to a fundable pre-seed or seed stage technology startup. (4 units).
 
 _**EMGT 345. Program Management**_\
 Fundamentals of program and portfolio management and how they are applied to improve business results on programs of varying size, within all types of businesses, from small companies to large enterprises. Prerequisite: EMGT 330 (Project Management Basics) or equivalent experience. (2 units)

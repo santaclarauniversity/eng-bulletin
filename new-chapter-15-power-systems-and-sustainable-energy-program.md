@@ -14,11 +14,11 @@ Students interested in this major must satisfy the standard admissions criteria 
 
 _**Foundational Courses**_
 
-* ELEN (ECEN) 280/MECH 287 Introduction to Alternative Energy Systems (2 units)
-* ELEN (ECEN) 281A Power Systems: Generation and Transmission (2 units)
-* ELEN (ECEN) 281B Power Systems: Distribution (2 units)
-* Or ELEN (ECEN) 281E Power Systems (4 units)
-* ELEN (ECEN) 285 Introduction to the Smart Grid (2 units)
+* ECEN (ELEN) 280/MECH 287 Introduction to Alternative Energy Systems (2 units)
+* ECEN (ELEN) 281A Power Systems: Generation and Transmission (2 units)
+* ECEN (ELEN) 281B Power Systems: Distribution (2 units)
+* Or ECEN (ELEN) 281E Power Systems (4 units)
+* ECEN (ELEN) 285 Introduction to the Smart Grid (2 units)
 
 _**Graduate Core Courses**_
 
@@ -38,23 +38,23 @@ A set of specialized energy-related courses which are appropriate to the area of
 
 _**Mechanical Engineering**_&#x20;
 
-* ELEN (ECEN) 231 Power System Stability and Control (4 units)&#x20;
-* ELEN (ECEN) 287/ENGR 339 Energy Storage Systems (2 units)
+* ECEN (ELEN) 231 Power System Stability and Control (4 units)&#x20;
+* ECEN (ELEN) 287/ENGR 339 Energy Storage Systems (2 units)
 * MECH 239 Solid State Power Generation and Energy Harvesting ( 4 units)
 * MECH 228 Energy Conversion and Conservation (4 units)
 
 _**Electrical Engineering**_&#x20;
 
-* ELEN (ECEN) 231 Power System Stability and Control (4 units)
-* ELEN (ECEN) 287/ENGR 339 Energy Storage Systems (2 units)&#x20;
-* ELEN (ECEN) 288 Energy Management Systems or ELEN(ECEN) 236 Linear Control Systems (2 units)
-* ELEN (ECEN) 353 DC to DC Power Conversion (2 units)&#x20;
+* ECEN (ELEN) 231 Power System Stability and Control (4 units)
+* ECEN (ELEN) 287/ENGR 339 Energy Storage Systems (2 units)&#x20;
+* ECEN (ELEN) 288 Energy Management Systems or ECEN (ELEN) 236 Linear Control Systems (2 units)
+* ECEN (ELEN) 353 DC to DC Power Conversion (2 units)&#x20;
 
 _**Computer Engineering**_
 
-* COEN (CSEN) 242 Big Data (4 units) or COEN (CSEN)  240 Machine Learning (4 units)
-* COEN (CSEN) 243 Internet of Things (4 units)&#x20;
-* COEN (CSEN) 266 Artificial Intelligence (4 units)&#x20;
+* CSEN (COEN) 242 Big Data (4 units) or CSEN (COEN) 240 Machine Learning (4 units)
+* CSEN (COEN) 243 Internet of Things (4 units)&#x20;
+* CSEN (COEN) 266 Artificial Intelligence (4 units)&#x20;
 
 _**Civil Engineering**_
 
@@ -71,21 +71,21 @@ The main goal of this certificate is to introduce students to the field of renew
 
 ## Continuation for A Master’s Degree
 
-All Santa Clara University graduate courses applied to the completion of a certificate program earn graduate credit that may also be applied toward a graduate degree. Students who wish to continue for such a degree must submit a separate application and satisfy all standard admission requirements. The general GRE test requirement for graduate admission to the master’s degree will be waived for students who complete a certificate program with a GPA of 3.5 or better.&#x20;
+Santa Clara University graduate courses applied to the completion of a certificate program earn graduate credit that may also be applied toward a graduate degree. Students who wish to continue for such a degree must submit a separate application and satisfy all standard admission requirements. The general GRE test requirement for graduate admission to the master’s degree will be waived for students who complete a certificate program with a GPA of 3.5 or better.&#x20;
 
 ### Required Courses (16 units total)
 
 _**Power Systems**_
 
-* ELEN (ECEN) 280/MECH 287 Introduction to Alternative Energy Systems (2 units)
-* ELEN (ECEN) 281A Power Systems: Generation and Transmission (2 units)
-* ELEN (ECEN) 281B Power Systems: Distribution (2 units)
-* Or ELEN (ECEN) 281E Power Systems (4 units)
-* ELEN (ECEN) 285 Introduction to the Smart Grid (2 units)
+* ECEN (ELEN) 280/MECH 287 Introduction to Alternative Energy Systems (2 units)
+* ECEN (ELEN) 281A Power Systems: Generation and Transmission (2 units)
+* ECEN (ELEN) 281B Power Systems: Distribution (2 units)
+* Or ECEN (ELEN) 281E Power Systems (4 units)
+* ECEN (ELEN) 285 Introduction to the Smart Grid (2 units)
 
 _**Renewable Energy**_&#x20;
 
-* ELEN (ECEN) 284 Solar Cell Technologies and Simulation Tools (2 units) or ELEN (ECEN) 380 Economics of Energy (2 units)
-* ELEN (ECEN) 286/MECH 286 Introduction to Wind Energy Engineering (2 units)&#x20;
-* ELEN (ECEN)287 Storage Device Systems (2 units)
+* ECEN (ELEN) 284 Solar Cell Technologies and Simulation Tools (2 units) or ECEN (ELEN) 380 Economics of Energy (2 units)
+* ECEN (ELEN) 286/MECH 286 Introduction to Wind Energy Engineering (2 units)&#x20;
+* ECEN (ELEN) 287 Storage Device Systems (2 units)
 * ENGR 272 Energy Public Policy (2 units)
