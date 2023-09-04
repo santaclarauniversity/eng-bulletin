@@ -1,8 +1,8 @@
 # (New) Chapter 11: Department of Electrical and Computer Engineering
 
-_Professors Emeritus_: Timothy J. Healy, Dragoslav D. Siljak, \
+_Professors Emeritus_: Timothy J. Healy, Dragoslav D. Siljak, Sarah Kate Wilson\
 _Thomas J. Bannan Professor_: Shoba Krishnan (Chair)\
-_Professors_: Tokunbo Ogunfunmi, Sarah Kate Wilson, Sally L. Wood, Cary Y. Yang, Aleksandar Zecevic\
+_Professors_: Tokunbo Ogunfunmi, Sally L. Wood, Cary Y. Yang, Aleksandar Zecevic\
 _Associate Professor_: M. Mahmudur Rahman, Hoeseok Yang\
 _Assistant Professors:_ Anoosheh Heidarzadeh, Maryam Khanbaghi, Maria Kyrarini, Kurt Schab, Dat Tran, S.J.
 

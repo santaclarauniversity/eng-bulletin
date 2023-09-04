@@ -1,7 +1,7 @@
 # (New) Chapter 7: Department of Applied Mathematics
 
-_Senior Lecturer:_ Stephen A. Chiappari \
-_Renewable Term Lecturer:_ Aaron Melman (Department Chair)
+_Senior Lecturer Emeritus:_ Stephen A. Chiappari \
+_Renewable Term Lecturer:_ Francisco Villarroya Alvarez, Robert Kleinhenz, Aaron Melman (Department Chair), Magda Metwally
 
 **Master of Science Program**
 

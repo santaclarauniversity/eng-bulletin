@@ -34,7 +34,7 @@ Students are required to complete a minimum of 46 quarter units to complete the 
     4. Combination of the 3 options above
 
 {% hint style="info" %}
-Please see Chapter 6 for additional information regarding the Enrichment Experience
+Please see [Chapter 6](new-chapter-6-enrichment-experience-and-graduate-core-requirements.md) for additional information regarding the Enrichment Experience
 {% endhint %}
 
 **Technical Stem Courses**

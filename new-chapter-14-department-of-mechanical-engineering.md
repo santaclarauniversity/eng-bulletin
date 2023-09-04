@@ -1,13 +1,12 @@
-# (New) Chapter 14: Department of Mechanical  Engineering
+# (New) Chapter 14: Department of Mechanical Engineering
 
 _Professor Emeritus_: Terry E. Shoup \
 _Associate Professor Emeritus_: Timothy K. Hight\
 _Professors_: Christopher Kitts, Hohyun Lee (Department Chair), M. Godfrey Mungal\
 _Associate Professors_: Mohammad Ayoubi, Drazen Fabris, On Shun Pak, Panthea Sepehrband, Michael Taylor\
 _Assistant Professors_: Jun Wang\
-_Renewable Term Lecturers_: Robert Marks, Calvin Tszeng\
-_Academic Year Adjunct Lecturers_: Sthanu Mahadev, Nataliya Starostina, Peter Woytowitz\
-_Professor of Practice_: Michael Neumann
+_Renewable Term Lecturers_: Robert Marks\
+_Academic Year Adjunct Lecturers_: Sthanu Mahadev, Michael Neumann, Nataliya Starostina, Peter Woytowitz
 
 ## Overview
 
